@@ -1,4 +1,4 @@
-# A tripulação
+# A tripulação: conectando-se à rede de exploradores
 
 **Tempo estimado de leitura:** 4 minutos
 

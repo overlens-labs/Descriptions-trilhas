@@ -1,4 +1,4 @@
-# Exploração ativa
+# Exploração ativa: como traçar rotas até novos clientes
 
 **Tempo estimado de leitura:** 12 minutos
 

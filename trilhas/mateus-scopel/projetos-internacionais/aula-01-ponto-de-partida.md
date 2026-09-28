@@ -1,4 +1,4 @@
-# Ponto de partida
+# Ponto de partida: como faturar em moeda estrangeira superando barreiras linguísticas
 
 **Tempo estimado de leitura:** 4 minutos
 

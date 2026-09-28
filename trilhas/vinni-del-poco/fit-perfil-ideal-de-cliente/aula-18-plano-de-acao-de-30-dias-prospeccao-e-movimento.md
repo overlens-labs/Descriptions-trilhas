@@ -1,4 +1,4 @@
-# Plano de Ação de 30 Dias: Prospecção é Movimento
+# Plano de Ação de 30 Dias - Prospecção é Movimento
 
 **Tempo estimado de leitura:** 5 minutos
 

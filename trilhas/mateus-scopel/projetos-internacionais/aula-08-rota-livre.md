@@ -1,4 +1,4 @@
-# Rota livre
+# Rota livre: como romper as barreiras e iniciar sua jornada
 
 **Tempo estimado de leitura:** 9 minutos
 
@@ -77,12 +77,12 @@ A trilha introdutória fecha essa parte mostrando que a oportunidade fez grande 
 
 ## Coloque em prática
 
-Monte sua primeira rota de entrada:
+Responda ao formulário indicado na descrição da aula, registrando:
 
-- escolha os Estados Unidos como mercado inicial;
-- selecione uma plataforma freelance para explorar, começando pela Upwork;
-- escolha um serviço pequeno que você consegue entregar bem;
-- prepare uma proposta simples em inglês com apoio das ferramentas;
-- busque o primeiro projeto com foco em experiência e depoimento.
+- o que você achou do curso;
+- o que poderia melhorar;
+- o que fez sentido;
+- o que não fez sentido;
+- o que sentiu falta.
 
-Depois, defina qual será sua primeira ação prática nos próximos sete dias.
+Esse feedback ajuda a orientar futuras aulas, estratégias e aprofundamentos sobre projetos internacionais.
