@@ -17,7 +17,7 @@ let totA = 0, totT = 0;
 for (const prof of ls(T).filter(d => d.isDirectory()).map(d => d.name).sort()) {
   for (const tri of ls(path.join(T, prof)).filter(d => d.isDirectory()).map(d => d.name).sort()) {
     const dir = path.join(T, prof, tri);
-    const aulas = ls(dir).filter(f => f.isFile() && /^aula-.*\.md$/.test(f.name)).map(f => f.name.replace(/\.md$/, ''));
+    const aulas = ls(path.join(dir, 'descricoes')).filter(f => f.isFile() && /^aula-.*\.md$/.test(f.name)).map(f => f.name.replace(/\.md$/, ''));
     const trans = ls(path.join(dir, 'transcricoes')).filter(f => f.isFile()).map(f => f.name);
     const base = trans.map(f => f.replace(/\.[^.]+$/, ''));
     const formatos = [...new Set(trans.map(f => path.extname(f).slice(1)))].sort().join(', ');
