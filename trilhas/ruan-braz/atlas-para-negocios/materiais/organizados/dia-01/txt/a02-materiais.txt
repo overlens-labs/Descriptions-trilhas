@@ -1,0 +1,46 @@
+A02 — Um site publicado em 10 minutos com Claude Code e Codex
+
+Dia 01 · Materiais da aula
+
+Os dois sites da demonstração e uma cópia do prompt.
+
+Links associados à aula
+
+Site criado com Codex
+
+Abrir material — https://codex-atlas-overlens.vercel.app/ · Equipe
+
+Resultado da demonstração de criação e publicação de um site na A02.
+
+Fontes: dia 01 · 01:03:30 · Ruan Braz · linha 722 — ../../../Fontes originais/Dia 01/dia 01 chat.txt.
+
+Site criado com Claude Code
+
+Abrir material — https://claude-atlas-overlens-eight.vercel.app/ · Equipe
+
+Endereço efetivamente enviado por Ruan. O endereço sem “-eight”, presente em cópias do prompt de participantes, não é o link final enviado por ele.
+
+Fontes: dia 01 · 01:05:05 · Ruan Braz · linha 732 — ../../../Fontes originais/Dia 01/dia 01 chat.txt.
+
+Prompts e trechos separados
+
+- A02 - Prompt do site - copia de participante — Prompts/A02 - Prompt do site - copia de participante.txt — Cópia publicada por Vera Medina.
+
+Apoio geral
+
+- SOS Atlas — Dia 01 — https://sosatlasnegocios.vercel.app/#/dia-01 — Apoio geral.
+- SOS Atlas — banco de prompts — https://sosatlasnegocios.vercel.app/#/prompts — Apoio geral.
+
+Esses endereços são compartilhados entre aulas. Eles não representam um novo material exclusivo desta aula.
+
+Conferência e observações
+
+Há vários sites de participantes no chat. Os dois links principais desta aula são os enviados pelo próprio Ruan. O prompt recuperado foi colado por Vera Medina.
+
+Relação com a transcrição: 00:07:09–00:08:18: publicação na Vercel; 00:17:10: esclarecimento sobre os sites oficiais.
+
+Fonte: [B] [TRILHA] [Atlas para Negócios] [2026] A02 - Um site publicado em 10 minutos com Claude Code e Codex.txt — ../../../../Transcrições/Dia 01/[B] [TRILHA] [Atlas para Negócios] [2026] A02 - Um site publicado em 10 minutos com Claude Code e Codex.txt.
+
+Voltar ao índice — ../../00 - LEIA-ME.txt · Ver pendências — ../../Referencias/Pendencias.txt
+
+Versão em Markdown — ../MD/A02 - Materiais.md

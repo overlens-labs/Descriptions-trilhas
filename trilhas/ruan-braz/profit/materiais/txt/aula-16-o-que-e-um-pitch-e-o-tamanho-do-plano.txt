@@ -1,0 +1,118 @@
+O que é um pitch e o tamanho do plano
+
+Tempo estimado de leitura: 6 minutos
+
+Objetivos de aprendizado
+
+Ao final desta aula, você será capaz de:
+
+- Reconhecer o pitch como apresentação de uma oportunidade
+- Distinguir uma ideia atraente de uma oportunidade sustentável
+- Identificar quando bootstrapping ou crescimento acelerado faz sentido
+- Estruturar o tamanho da ambição conforme mercado e diferencial
+
+O pitch compra atenção
+
+A história do elevator pitch sugere que uma ideia deve caber no tempo de uma viagem de elevador com um investidor. A imagem é útil, mas não significa explicar o negócio inteiro em poucos segundos.
+
+O pitch serve para convencer alguém de que vale a pena continuar ouvindo. Ele organiza a ideia com clareza, respeita o tempo de quem avalia e busca conquistar uma conversa mais longa.
+
+Pessoas expostas a muitas propostas desenvolvem filtros. Mesmo boas ideias competem com prioridades, tempo e outras oportunidades. Por isso, a apresentação precisa mostrar rapidamente por que merece atenção.
+
+Atenção sem maquiagem
+
+Um pitch persuasivo não pode prometer algo que a execução não sustenta. Seduzir com números, recursos ou cenários maquiados apenas transfere a frustração para um momento posterior.
+
+Investidores escolhem onde colocar dinheiro, tempo e conhecimento. Cada escolha possui custo de oportunidade, pois apoiar uma ideia impede usar os mesmos recursos em outra.
+
+Experiências ruins tornam avaliadores mais céticos. A apresentação deve reduzir esse risco com coerência entre promessa, capacidade e evidência.
+
+Ideia e execução
+
+Uma ideia isolada possui pouco valor quando muitas pessoas conseguem chegar a conclusões semelhantes. O diferencial aparece na pessoa, na execução, no acesso ao mercado e na capacidade de transformar a hipótese em resultado.
+
+Isso não obriga o empreendedor a revelar todos os detalhes estratégicos. Ele escolhe o que compartilhar, protege aquilo que for necessário e ainda apresenta contexto suficiente para a oportunidade ser compreendida.
+
+O pitch também revela se existe alguém capaz de conduzir a proposta depois que a conversa inicial termina.
+
+Apresentar oportunidade, não empresa
+
+Um pitch não é uma apresentação institucional. Ele não precisa listar produtos, departamentos, processos nem todo o esforço empregado na construção.
+
+O centro é a oportunidade disponível para quem está ouvindo. Trabalho duro faz parte da atividade empreendedora, mas não obriga cliente ou investidor a aceitar a proposta.
+
+Uma oportunidade pode existir antes de um produto completo. Pesquisa de mercado, acesso a contatos, conhecimento do problema e um MVP executável podem demonstrar que existe um caminho valioso.
+
+Slides, funcionalidades e tecnologia
+
+Clientes e investidores não compram slides bonitos. O material visual ajuda, mas a qualidade do argumento e das provas tem mais peso.
+
+Eles também não compram uma lista de funcionalidades. Demonstrar o resultado funcionando é mais convincente do que enumerar promessas.
+
+Tecnologia sozinha não garante vantagem porque pode ser copiada. O que se compra é uma chance plausível de resolver um problema relevante e produzir retorno ou impacto.
+
+Escolher um problema grande
+
+Ruan relaciona a escolha do problema às ideias dos livros De zero a um e Blitzscaling. Quanto maior a dor resolvida, maior pode ser o valor do negócio e maior tende a ser o desafio de execução.
+
+Um problema grande não precisa ser sistêmico, como fome ou saúde pública. Pode ser uma dor real, frequente e cara, vivida por muitas pessoas e ainda sem solução suficiente.
+
+Problemas triviais ou já resolvidos criam negócios frágeis quando a única vantagem é o público ainda desconhecer uma ferramenta existente. A assimetria de informação pode desaparecer rapidamente.
+
+Escassez e escalabilidade
+
+Se um problema importante permanece aberto, provavelmente existe dificuldade real em resolvê-lo. A escassez de soluções aumenta o valor de quem consegue entregar.
+
+Para investimento, o problema também precisa abrir possibilidade de escala. O investidor procura retorno, e uma operação limitada a poucas entregas dificilmente sustenta uma grande tese de crescimento.
+
+O tamanho da oportunidade deve ser analisado junto com capacidade, mercado, timing e defesa competitiva.
+
+De zero a um e de um ao infinito
+
+Na leitura apresentada de Peter Thiel, ir de zero a um significa criar algo que ainda não existe. Depois, outras pessoas ou executivos podem levar a solução de um ao infinito por gestão, melhoria e escala.
+
+Fundadores tendem a se aproximar da criação inicial; executivos podem se destacar na expansão de uma estrutura validada. Nenhum perfil é superior ao outro.
+
+A ideia de escolher o próprio jogo também é relacionada a O jogo infinito, de Simon Sinek. O negócio precisa combinar ambição, capacidade e modo de vida de quem o constrói.
+
+Bootstrapping
+
+Bootstrapping acontece quando a própria receita financia a empresa. A Overlens é apresentada como exemplo de operação que cresceu com seus recursos.
+
+Esse caminho é exigente, mas pode funcionar bem quando o diferencial amadurece com o tempo. Marca, comunidade, visão de mundo e relacionamento acumulam valor e são difíceis de copiar rapidamente.
+
+Um negócio que envelhece como vinho consegue crescer em ritmo próprio e incorporar mudanças do mercado sem depender de uma corrida imediata por domínio.
+
+Blitzscaling e janela de oportunidade
+
+Blitzscaling prioriza velocidade, aceitando corrigir partes do negócio depois. Capital de investidores, bancos ou terceiros permite crescer antes que concorrentes ocupem a janela disponível.
+
+Tecnologia copiável aumenta a pressão. Se outra empresa consegue replicar a solução e escalar primeiro, um crescimento lento pode eliminar a oportunidade.
+
+O Airbnb é usado como exemplo de negócio que precisava alcançar rapidamente um mercado global. Viagens atravessam fronteiras, e competidores regionais poderiam fragmentar a categoria.
+
+O caso Insolence
+
+A Overlens chegou a construir um MVP chamado Insolence, voltado à criação de Brand Systems inteligentes. Havia projeção de receita e o protótipo funcionava.
+
+Ruan concluiu que a janela seria curta. Agentes de código permitiriam que pessoas construíssem sistemas semelhantes sem assinar a ferramenta. O negócio precisaria crescer e ser vendido rapidamente para justificar o investimento.
+
+Como o objetivo era construir algo duradouro, a equipe preferiu concentrar atenção na Overlens. Marca, comunidade e estilo de vida ofereciam uma defesa de longo prazo mais compatível com os fundadores.
+
+Materiais da aula
+
+- Quadro Criação de Pitch no Figma (https://www.figma.com/board/F3i1TrLdMAtJGgkUi1oQAj/Workshop%2D%2D%2DCria%C3%A7%C3%A3o-de-Pitch?node-id=0-1&t=epur8SmjycEebPM7-1): estrutura visual compartilhada por Ruan.
+- Corte do Shark Tank com a Trippie, legendado (https://drive.google.com/file/d/1MzyjzIqmwviCUyQGY6E_t3u-Zyc2HNPI/view?usp=sharing): vídeo localizado e enviado por Lucas Paixão após a referência feita durante a aula.
+- Conversa com Sam Altman e Mike Curtis (https://www.youtube.com/watch?v=d6lDZpvHAoo): referência complementar enviada por Maia Moon sobre Y Combinator, Airbnb e crescimento.
+
+Coloque em prática
+
+Escreva a oportunidade do seu negócio sem apresentar a empresa inteira.
+
+Liste as evidências que sustentam cada promessa do pitch.
+
+Defina por que o problema é relevante, escasso e escalável.
+
+Avalie se sua vantagem amadurece com o tempo ou possui uma janela curta.
+
+Escolha entre crescimento financiado pela receita ou aceleração com capital externo.

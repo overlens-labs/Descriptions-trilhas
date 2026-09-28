@@ -1,0 +1,13 @@
+Quando falamos sobre composições, um dos conceitos mais básicos é a noção de módulos. Nesse exercício você vai aprender a trabalhar com módulos para construir composições complexas. A partir de um dos módulos listados a seguir, você deverá escrever a palavra "Modularizando".
+
+Este é um famoso exercício chamado "Tipografia Modular", da Universidade de Ulster, Escola de Arte e Design de Belfast, Reino Unido, criado por Liam McComish.
+
+Este trabalho foi concebido para ajudar os alunos a criarem obras sob um viés sistemático e modular. Você ganhará um melhor controle sobre a composição e linguagem visual por meio da investigação sistemática da forma, padrão, escala, contraste, repetição e alinhamento, utilizando um leque limitado de formas gráficas.
+
+Para este trabalho, utilize um, dois ou até os três módulos apresentados acima (somente eles) para criar letrar. Você pode mudar o tamanho, repetir, sobrepor, subtrair e adicionar as formas, mas não deve distorcê-las de maneira a alterar suas proporções essenciais.
+
+1. Escreva a palavra "Modularizando" utilizando as letras que criou.
+
+2. Escreva o seu primeiro nome utilizando as letras que criou.
+
+Não publique links! Eles podem quebrar e assim perdemos a informação. Publique as imagens e textos direto na plataforma a partir do botão abaixo.

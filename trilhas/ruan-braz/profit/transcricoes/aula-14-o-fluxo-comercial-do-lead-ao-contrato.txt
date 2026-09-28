@@ -1,0 +1,419 @@
+Aula 14 · O fluxo comercial do lead ao contrato
+
+[00:00] Aí o que a gente vai fazer aqui, tá? Eu vou escolher com vocês esse funil aqui, que é o funil de two stages, beleza?
+[00:10] Funil de two stages, só pra lembrar vocês, é um funil que a gente tem uma etapa de qualificação do lead
+[00:15] E depois uma etapa de fechamento, onde tem uma call, geralmente, para apresentar a solução personalizada, baseada no que o lead foi qualificado.
+[00:25] Tem uma versão reduzida dessa, para quem às vezes fala, poxa, eu não tenho SDR, closer, quero começar mais simples,
+[00:31] que você agenda sem necessariamente qualificar, você qualifica aqui no marketing, MQL.
+[00:38] MQL significa Marketing Qualified Lead, ou seja, lead qualificado no marketing.
+[00:44] com algumas perguntas de formulário e tal.
+[00:46] Nesse modo aqui, você pode acabar perdendo mais tempo,
+[00:50] porque você vai marcar a reunião, chegar na reunião e descobre lá que a pessoa realmente não era tão qualificada assim.
+[00:56] É bom para quando você tem um marketing bem afiado aqui,
+[01:01] você consegue fazer uma qualificação, avaliar bem ali o perfil do cliente.
+[01:05] Quando você está sozinho e não quer perder tempo,
+[01:09] utilizar aqui uma qualificação anterior pode ser no WhatsApp mesmo.
+[01:13] Você pode tanto criar uma IA para ser sua SDR, então caiu o lead no WhatsApp, coloca um chatbot ali para fazer algumas perguntas para a pessoa e ir qualificando o lead.
+[01:23] Quando o lead entrou ali num nível de qualificação legal, a sua IA vai avisar para você, vai falar, olha, legal demais, agora você pode marcar uma reunião.
+[01:33] Ou ela pode até marcar a reunião por você, se quiser dar mais autonomia para ela.
+[01:36] Ruan, ensina a gente a fazer isso!
+[01:38] Vou ensinar, mas
+[01:39] trazer pra vocês.
+[01:40] Só que inicialmente você pode, você mesmo,
+[01:42] qualificar o lead, caiu no WhatsApp,
+[01:44] você vai fazer perguntas, no máximo,
+[01:45] você liga pra pessoa ali,
+[01:47] ligou pra pessoa, fez algumas perguntas,
+[01:49] ligação de 5 a 10 minutos,
+[01:50] você qualifica a pessoa ali na ligação mesmo, se não fizer sentido, acabou, fechou ali e segue em frente, se fizer sentido, aí sim você marca uma call, tá, isso aí é pra você ganhar tempo, mas a ligação é muito subestimada, tá, a galera fala, ah, não vou ligar, vai incomodar, não sei o que, não, uma boa ligação, ela acelera o processo pra você, do que ter que esperar a pessoa responder no WhatsApp, geralmente as pessoas ignoram, quando você liga, as pessoas, inclusive é ligar, se desligar, liga de novo,
+[02:19] Deixa tocar até atender, porque se a pessoa não quiser, ela não atende, entendeu? Então deixa tocar duas vezes. São algumas técnicas bobinhas, né, táticas bobas de vendas assim, que às vezes as pessoas, por crenças ou medo, acabam não fazendo. Ah, não vou incomodar. Não, cara, liga mesmo, se a pessoa não puder, ela não atende, beleza?
+[02:37] Beleza?
+[02:38] Partindo disso aqui, começa o DroneFlow agora.
+[02:41] Tudo isso aqui é fonte de... lead.
+[02:46] do topo, o topo de funil envolve isso tudo aqui, só que dentro do topo de funil, inbound, lista, marketing, eu também posso colocar aqui o e -mail, né, e -mail, lista de WhatsApp, a gente chama isso de listas, listas, vou colocar aqui simplesão assim, ó, WhatsApp, e tem também aqui e -mail, e -mail coloca o sim, beleza, então tá bom.
+[03:20] Bom, isso aqui são os nossos canais de topo de funil, dá até para colocar aqui assim, canais, topo de funil, então é daqui que as pessoas vão vir para a etapa de qualificação, aí nós vamos colocar aqui agora, qualificação, seguindo o funil aqui, lead prospect, e aí tem o discovery e o SQL aqui, que no caso é o sales qualified lead,
+[03:50] que o SDR, que é o representante de desenvolvimento de vendas, vai trabalhar, a gente pode já até criar aqui de uma vez também pra ficar mais fácil, tem a etapa de qualificação e tem a etapa de fechamento, aí essas duas aqui vão ficar maiores, né, vão ter várias etapas aqui dentro, no nosso Drone Flow, ó
+[04:10] Então, beleza. Aqui vem, olha, SDR aborda por e -mail, telefone ou LinkedIn. Nesse exemplo aqui. Mas a gente pode pensar com a nossa própria cabeça, né? Então, vamos lá. Eu posso mandar e -mail, eu posso mandar um WhatsApp, eu posso mandar mensagem no LinkedIn.
+[04:28] LinkedIn. Dá até para puxar aqui, né, os mesmos. WhatsApp, e -mail, LinkedIn. Dá para chamar também no direct do Instagram aqui. Coloca assim, ó, DM. Então, esses são alguns dos canais. Dentro de um fluxo aqui, que funciona para vocês, o
+[04:48] vem um ponto importante para vocês. Vocês têm que pensar no fluxo. O
+[04:51] tá bom, vamos pensar aqui ó, eu tenho o WhatsApp, small, large, eu tenho o WhatsApp, tenho o e -mail, que são os principais que a gente vai pegar aqui agora, tenho o LinkedIn e tenho o DM do Instagram, do TikTok, vou deixar DM por enquanto.
+[05:18] O que a gente precisa entender desses aqui? Primeiro de tudo, o que é outbound e o que é inbound? Então, outbound, eu
+[05:26] falei na semana passada, é quando você vai até o lead. Inbound é quando o lead vem até você. Entender isso aqui é importante para entender que tipo de fluxo que a gente está desenhando. Cada fluxo é de um jeito, beleza?
+[05:38] Então, no caso aqui, a gente vai desenhar o inbound, que vai ser mais simples para vocês.
+[05:42] Como é que funciona o inbound clássico?
+[05:43] A gente faz aqui um anúncio, esse anúncio leva a pessoa para um dos canais, vamos pegar aqui, por exemplo, o WhatsApp.
+[05:53] E aí, eu desenvolvo a conversa com essa pessoa no WhatsApp.
+[05:56] Tem alguns jeitos de desenvolver ela aqui e eu vou explicar para vocês.
+[06:00] Um outro caminho também que dá para fazer, aí esses são, esse aqui é outbound, esse aqui pode ser outbound também.
+[06:07] Até dá pra fazer outbound de LinkedIn, quando a pessoa te manda mensagem, com anúncio, né?
+[06:12] Mas eu vou simplificar aqui.
+[06:14] Outbound é quando você manda mensagem.
+[06:17] Então, eu vou pegar minha própria lista de e -mails e mandar um e -mail pra ela.
+[06:19] Vou pegar meus contatos do LinkedIn e vou mandar uma mensagem.
+[06:22] Vou pegar DM e mandar DM. Por aí vai, né?
+[06:25] Tem algumas estratégias.
+[06:26] Pra vocês, inclusive, o Google Maps é um dos canais mais negligenciados aqui.
+[06:34] E pra fazer outbound, o Google Maps é muito bom.
+[06:37] Então, ah, eu vou procurar empresas no Google Maps pra entrar em contato ali.
+[06:40] Muito, muito bom, tá?
+[06:41] É um canal legal de outbound mesmo.
+[06:44] Aqui
+[06:44] eu vou seguir no canal de inbound mesmo, no fluxo de inbound, que é, eu vou fazer um anúncio desse anúncio.
+[06:51] A pessoa vai cair no meu WhatsApp, eu posso tanto jogar ela direto no meu WhatsApp, quanto jogar ela aqui no meu site.
+[06:59] Então, eu vou pegar aqui, landing page.
+[07:01] LendingPage, posso jogar ela aqui também, se eu jogar ela numa LendingPage, igual a gente já viu, você pode fazer uma venda transacional aqui, que eu recomendo vendas transacionais ali, abaixo de dois mil reais, se você dividir de doze vezes, beleza? São dois caminhos diferentes, por que que eu queria usar aqui, ó? Porque aí eu consigo fazer isso, tá vendo? Mais fácil.
+[07:20] Então, um caminho é eu jogar o anúncio direto na landing page, outro caminho é eu jogar o anúncio direto no meu WhatsApp.
+[07:30] Vou fazer primeiro o fluxo de WhatsApp, bem simples. Então, estou aqui no WhatsApp, aí o que eu faço?
+[07:36] Pessoa viu o anúncio, o ideal quando a gente vai criar o Drownflow é assim, prospect, ou pessoa, vou chamar aqui de lead mesmo,
+[07:47] Lead, viu o anúncio.
+[07:51] Então, beleza, essa é a primeira etapa.
+[07:53] Ele viu o anúncio.
+[07:56] Assim que ele viu o anúncio, mandou mensagem no WhatsApp.
+[08:04] Aí aqui dá para a gente colocar assim, ó.
+[08:12] Vou até cortar essa antes.
+[08:14] A gente faz geralmente assim, ó.
+[08:16] Sim e não.
+[08:23] Diminui aqui, diminui aqui.
+[08:26] Aí.
+[08:26] então o sim vai vir pra cá e o não ele droga
+[08:33] sim
+[08:34] lead viu o anúncio?
+[08:39] lead viu o anúncio? sim
+[08:41] aí vem aqui
+[08:42] lead
+[08:45] mandou
+[08:45] a mensagem
+[08:47] inicial
+[08:48] no
+[08:49] whatsapp
+[08:51] segunda pergunta
+[08:52] aí vem aqui
+[08:55] sim
+[08:55] se ele mandou a mensagem inicial no whatsapp
+[09:01] bonitinho ele ficou verde
+[09:04] aí vem
+[09:05] Bem, dispara, chatbot. Vamos supor que a gente vai trabalhar com chatbot aqui. Vamos para o chatbot. Aí tem o não. Por que a gente faz desse jeito, tá? Tem um motivo para fazer assim. Vou deixar o verde clarinho aqui para vocês não ficarem destacando demais. Por que a gente faz esse sim e não? Porque muitas vezes o não leva a pessoa para uma outra etapa do fluxo.
+[09:34] Então vamos por aqui, ó, pessoa, lead viu o anúncio, sim, essa daqui no caso, lead viu o anúncio, não, o não aqui engloba todo mundo no planeta, né, que não viu o anúncio, então não faz sentido ter o não aqui, mas aí vem aqui, ó, lead viu o anúncio, sim, lead mandou mensagem inicial no WhatsApp, vamos colocar aqui que não, aí o que que significa isso aqui? Significa provavelmente, tá, que não, aí é uma tese, a gente pode colocar aqui embaixo, tese,
+[10:01] viu o anúncio e não clicou
+[10:05] click to hate
+[10:07] baixo
+[10:08] aí vem melhorar
+[10:12] a
+[10:13] melhorar o anúncio
+[10:16] oferta barra
+[10:18] vou até colocar aqui
+[10:19] fit de
+[10:22] promessa
+[10:23] pra simplificar
+[10:25] então se você
+[10:27] tá fazendo um anúncio e esse
+[10:29] seu anúncio a pessoa vê
+[10:31] B, mas não manda mensagem inicial no WhatsApp, não tem um fit de promessa claro, não tem um benefício claro para mandar, ninguém está mandando, você tem que melhorar o anúncio aqui, melhorar a promessa, até que a pessoa, ou melhorar o público, geralmente tem aqui, promessa, criativo, público, orçamento, enfim, você vai olhar essas variáveis de tráfego aqui, nesse caso.
+[10:57] Eu vou fazer os outros casos para vocês também, tá? Deixar grande mesmo.
+[11:02] Sim, aí sim ela respondeu, tem dois caminhos, tem o caminho de disparar o chatbot, ou tem o caminho aqui de humano, ou pode colocar equipe, no caso é o SDR, envia a primeira mensagem.
+[11:21] Aí tem um outro dado importante aqui, a gente chama de KPI, que é o indicador, que chama de Lead Response Time.
+[11:34] Então o que é o Lead Response Time? É o tempo que demora para responder um lead que entrou em contato.
+[11:39] O ideal é responder aqui, ó, ideal, menos, menos de cinco minutos.
+[11:50] Leed mandou em menos de 5 minutos, tem que ter uma resposta pra ele.
+[11:53] Provavelmente com a IA vai ser mais rápido de responder do que com um humano, né?
+[12:00] Humanos vão tender a demorar mais do que uma IA, e aí a IA acaba ganhando aqui na primeira resposta.
+[12:05] Aí aqui a gente já tem um ponto de roteiro, ou de script, que é aqui, qual mensagem que vai ser disparada aqui?
+[12:13] A gente pode até já deixar aqui um sinalizador, que a gente vai voltar nele, de scripts.
+[12:25] Então tem o script inicial aqui e tem um script inicial aqui, que precisa ser feito.
+[12:32] Então qual que é a mensagem que o robô vai disparar, qual que é a mensagem que o humano vai disparar, qual que é o objetivo que a gente quer que passe aqui.
+[12:41] E aí, para onde que esse SDR quer levar a venda aqui?
+[12:47] Ele enviou a primeira mensagem, aí vai vir a pergunta pra ele, lead, qualificado?
+[12:54] O que que a gente considera qualificado aqui?
+[12:56] Na Overlens a gente usa o BANT, e aí vou trazer o BANT aqui pra vocês, BANT, budget,
+[13:05] Budget, Authority, Need e Time.
+[13:09] Então são quatro critérios aqui que a pessoa precisa passar
+[13:12] para que ela seja qualificada, um lead qualificado para a venda.
+[13:17] Essa aqui é uma das metodologias, foi uma metodologia da IBM
+[13:21] e ela é muito usada no mundo todo.
+[13:25] Ela é um pouco diferente do SPIN, mas dá para aplicar o SPIN também,
+[13:30] Porque o SPIN, ele é a técnica que você usa pra poder formar esse BANT aqui.
+[13:36] Aqui, inclusive, então deixa aqui, a gente vai falar sim ou não, tá qualificado ou não.
+[13:41] Mas aqui, inclusive, tem dois jeitos, né? Envia a primeira mensagem.
+[13:44] No modo humano, você pode fazer assim, ó, que é um jeito legal.
+[13:49] SDR, liga duas vezes.
+[13:52] Aí vem.
+[13:55] Atendeu?
+[13:58] Tem o sim, opa, tem o sim e tem o não.
+[14:01] Então, atendeu. No não, SDR envia mensagem. Enviou mensagem. No de cá, atendeu, sim. Seguiu o script, né? Depois que ele atende, SDR segue o script e vem essa pergunta aqui, ó.
+[14:34] Lead é qualificado no BANT?
+[14:37] Fez a ligação ali e qualificou ele.
+[14:39] Se for qualificado, provavelmente vem a pergunta importante.
+[14:45] Essa daqui, na verdade, lead qualificado, ela tem que passar ali, mas isso tudo aqui é a ligação, né?
+[14:50] É como se estivesse dentro da ligação aqui, ó.
+[14:53] Opa, ligação.
+[15:06] Coloco aqui a ligação.
+[15:08] E aí vem aqui.
+[15:11] Agendou qual?
+[15:12] Call, o objetivo da ligação é agendar uma próxima call se o lead é qualificado, então vem aqui de novo, o lead é qualificado sim ou não, eu vou até inverter agora porque vai ter um processo aqui nesse não, diferente, tirar isso aqui, então lead é qualificado sim, agendou a call, aí beleza, tem aqui para agendar a call, no de cá se o lead não é qualificado, a gente pode colocar ele aqui, Luxo,
+[15:48] Loap, que aí vai qualificando ele, a gente chama isso aqui de dropar o lead também, você dropa ele pra outro fluxo ali, aí isso aqui é outra tomada que vai ligar aqui em outro fluxo diferente, beleza?
+[16:02] Lead é qualificado? É, se o lead é qualificado na ligação ali, fez as perguntas pra ele, aqui, aqui tem um script, né, o script vem pra cá, aí agenda uma call, agendou uma call, sim, vem pra cá, não, vem pra cá de novo,
+[16:18] Cliente não quis fazer call, então beleza, coloco ele no fluxo de follow -up.
+[16:23] Cliente agendou a call, aí vai vir aqui para call.
+[16:32] Cliente, cliente não, né, lead.
+[16:34] Lead apareceu? Então deixa ali.
+[16:41] Do lado de cá também, vem, SDR mandou, enviou mensagem,
+[16:46] aí vem aqui, lead qualificado.
+[16:50] Daria para fazer a mesma etapazinha aqui, script de mensagem.
+[16:58] Uma coisa que a gente faz também quando vai criar esses drown flows é script de ligação.
+[17:07] Então aí você já escreve aqui, ó, script de ligação e escreve aqui script de mensagem.
+[17:18] Aí a gente já sabe que precisa de dois scripts aqui.
+[17:23] Aí vamos lá, cliente atendeu, não, não atendeu, SDR, enviou uma mensagem, aí vem aqui também, né?
+[17:34] SDR envia
+[17:36] envia mensagem
+[17:40] lead
+[17:43] respondeu
+[17:47] aqui no caso esse lead respondeu
+[17:50] se bem que é bom
+[17:51] vai criando um fluxo que é um pouco complicado
+[17:54] mas não é, quando você está montando o seu próprio
+[17:56] e depois dá para ir colocando
+[17:58] as cores também, só mostrando o processo
+[18:00] para vocês, mas aqui por exemplo, SDR
+[18:02] enviou uma mensagem, aí vem, lead respondeu
+[18:04] por quê? Se o lead respondeu
+[18:06] vai seguir ali, se ele não respondeu
+[18:09] Se ele respondeu, segue aqui.
+[18:10] Se ele não respondeu, ele pode cair num fluxo diferente também.
+[18:15] Ou pode dropar ele, né?
+[18:17] Aí vem aqui e coloca drop.
+[18:18] Drop, geralmente a gente usa até outro desenhozinho aqui, ó.
+[18:22] A gente usa esse.
+[18:23] Esse aqui é um desenho de storage, né?
+[18:26] Como se fosse um storagezinho, que é onde a gente joga as pessoas que não responderam.
+[18:33] É uma lista de drop aqui.
+[18:35] Aí vem pra cá.
+[18:36] Lista de drop.
+[18:39] aí tem como ir desenhando desse jeito, pra montar certinho, depois a gente arruma, mas beleza, lead respondeu, sim, SDR segue o script da mensagem, aí aqui que tinha que colocar isso aqui, scriptzinho da mensagem, script de mensagem, lead é qualificado? Sim, se ele for qualificado, vai seguir ali, segue o script, lead qualificado? Sim, ele também vai pra
+[19:03] uma conversa de um dia, sei lá, alguma coisa assim, tem como você ir colocando assim também.
+[19:08] Mas o lead é qualificado? Não, ele cai no fluxo de follow -up para qualificar ele, ou ele pode ir para o fluxo MQL também, para qualificar ele, é um fluxo de marketing qualifica o lead, para não ter que ficar fazendo follow -up, follow -up na verdade é ideal quando às vezes você conversou com o cliente, ele está demonstrando interesse, então é diferente.
+[19:32] Esse aqui dá para voltar até para o fluxo MQL aqui, deixa o marketing qualificando a pessoa, quando ela mandar a mensagem de novo, ela cai no fluxo aqui de novo e aí está no momento de falar com ela.
+[19:43] Aí vem para cá, lead qualificado sim, eu posso puxar ele para o mesmo aqui, eu quero agendar a call com ele.
+[19:51] Então se o lead é qualificado, agendo a call, agendo a call sim, aí vem.
+[19:57] Então agora eu conectei tudo no mesmo lugar.
+[19:59] O lead apareceu na call? Sim ou não?
+[20:03] Se o lead não apareceu, lead remarcou? Pode acontecer, pô.
+[20:08] Lead remarcou.
+[20:11] Aí vem de novo, sim ou não?
+[20:13] Se o lead não remarcou, dropa ele.
+[20:18] Beleza.
+[20:18] Você não remarcou comigo, tá tudo bem, acontece.
+[20:22] Vou colocar na lista de drops.
+[20:24] Se no futuro ele me mandar mensagem de novo, eu respondo.
+[20:29] Por isso que eu estou desenhando aqui, para vocês pensarem no negócio de vocês, depende muito de fluxo.
+[20:34] Ah, cara, o lead não remarcou, não apareceu, vou mandar mensagem de novo para ele, tentando remarcar daqui sete dias.
+[20:42] Aí você pode colocar assim, só para dar um exemplo.
+[20:46] Lead apareceu, não apareceu.
+[20:49] Olha lá, ele não apareceu, depois que ele não apareceu, aí vem, você pode fazer assim, mensagem para remarcar.
+[21:03] Aí vem, lead respondeu? Tem como ir deixando sim ou não? Aí vem sim e não.
+[21:11] Não respondeu? Aí você pode fazer isso aqui, ó.
+[21:18] Após sete dias.
+[21:22] Nova mensagem.
+[21:24] Você pode até, porque tem um padrão na hora que você vai construir isso, que é o quê?
+[21:29] Aqui eu tô colocando tudo no mesmo quadradinho.
+[21:31] Mas você pode colocar direto na linha.
+[21:33] Vou dar um exemplo aqui pra vocês.
+[21:34] Lead respondeu ou não?
+[21:36] Aí vem aqui de novo, lead respondeu?
+[21:39] sempre pergunta, né, nesse caso
+[21:40] aí você coloca aqui assim, ó
+[21:43] não
+[21:45] nessa linha aqui
+[21:46] pode escrever aqui assim, ó
+[21:50] após sete
+[21:50] dias enviar nova
+[21:52] mensagem
+[21:54] vou colocar maiorzinho aqui
+[21:56] não, não tão maior
+[21:59] aí
+[22:00] e aí você vai montando o fluxo desse jeito aqui, entendeu
+[22:02] não precisa ser tudo
+[22:04] quadradinho também, não, é que eu que tô montando
+[22:06] desse jeito focado mais no fluxo aí funciona assim, a lead respondeu? não, aí você faz o que aqui? mesma lógica enviar mensagem de remarcação aí beleza, a lead respondeu a mensagem de remarcação? não, não respondeu após sete dias enviar nova mensagem, a lead respondeu? aí vamos supor aqui que é não
+[22:35] Não, dropa aí, aí ele vai para a mesma lista de drop, tá, você vai criando ela várias vezes aqui, momentos que esse lead não vai participar.
+[22:51] Isso aqui é legal tanto para IA, tá, estou fazendo isso aqui, vocês estão falando para que eu vou fazer isso e tal, quanto se vocês forem contratar alguém para trabalhar junto com vocês,
+[22:59] se vocês desenham o fluxo todo para a pessoa, depois de desenhar o fluxo, fala, olha, você vai seguir esse fluxo aqui, é só você ir fazendo as perguntas e seguindo o passo a passo que está aqui dentro, de como executar isso, beleza?
+[23:10] aí tem lead respondeu, sim, lead remarcou, sim, se remarcou, volta pra cá, aí que tá, tá vendo, dá vontade de organizar, puxa esse pra cá, esse pra cá, sobe ele aqui também, aí tem que arrumar tudo, aí, porque aí se ele respondeu, lead remarcou, aí se ele remarcou, ele apareceu na call, aí você cria um loop, tá vendo?
+[23:46] Você põe um loopzinho aqui, se ele está te respondendo.
+[23:51] Isso é o que eu encontrei.
+[23:53] Se ele não estiver te respondendo, aí você vai dropar ele.
+[23:56] Lead remarcou? Não.
+[23:58] Aí você pode, por exemplo, ver aqui de novo, uma informação legal.
+[24:05] Lead, vale a pena qualificar?
+[24:11] Qualificar.
+[24:13] Se for não, vai dropar.
+[24:16] se for sim, joga ele no mesmo fluxo, MQL aqui ó, vai pra esse mesmo fluxo, deixa eu ver, aí, aí, então beleza, a gente tem um final aqui que é dropar, tem aqui um final que é o MQL, e tem esse aqui que é o que a gente continuou, ó, lead apareceu na call, lead apareceu na call, sim, o não a gente já desenhou tudo, agora o sim, lead apareceu na call, aí aqui, tem dois jeitos, dá pra poder criar aqui,
+[24:50] Fluxo Closer
+[25:20] por exemplo, deixa eu ver aqui, lead apareceu já é de SDR, isso aqui já é coisa tudo de SDR, de closer, aqui para trás agendou a call, sim, aí viria aqui por exemplo, preparar SLA, esse SLA aqui é um documento que explica toda a qualificação do lead para o closer, então é um documento que fala lá, esse lead é assim, assim, assim, tem essa dor, tem esse problema, tem isso aqui, tem isso aqui, tem isso aqui, pronto, aí o closer recebe esse SLA,
+[25:50] Pra poder fazer a call, porque pensa, o closer, ele não conversou com a pessoa ainda, então ele já pega essas informações prévias pra ele não ter que ficar fazendo as mesmas perguntas de novo, tá?
+[26:03] Aqui no caso, eu tô fazendo todo o fluxo num lugar só, aí vocês já tão vendo que começa a ficar muita coisa, começa a ficar confuso às vezes, e aqui tá pequeno ainda, o que eu ia mostrar pra vocês é isso aqui, ó, processos,
+[26:13] não vou mostrar outra não.
+[26:14] Aí aqui o que que acontece?
+[26:16] Como, às vezes acontece isso aqui, ó, putz, tinha que ter isso aqui antes, eu esqueci de preparar, aí o que que faz?
+[26:24] Puxa pra cá e adiciona ali dentro, ó, então tem essas duas camadas.
+[26:28] Vamos supor que aqui eu vou dividir, né, então puxa pra cá, e aqui eu vou dividir a parte que é o closer e a parte que é o SDR.
+[26:40] Vamos colocar uma linhazinha aqui só pra dividir.
+[26:43] aqui é o fluxo closer e ali é o fluxo SDR
+[26:46] aí o que que eu faço aqui?
+[27:08] agendou a call? sim
+[27:10] no que agendou a call
+[27:11] ele tem duas etapas, preparar o SLA
+[27:13] e ele tem também aqui
+[27:17] handoff
+[27:17] fazer
+[27:24] handoff para closer
+[27:28] eventualmente
+[27:28] se vocês tiverem, ah, tô só eu sozinho
+[27:30] vocês mesmos vão
+[27:32] fazer o handoff pra vocês mesmos, é legal
+[27:40] SLA, Vendas, Service Level Agreement, que é o acordo de serviço de nível, que aí basicamente é um briefing de transição, um briefing de handoff, para sair de uma mão e ir para a outra mão, beleza?
+[27:59] Beleza? Então ele prepara, aqui ó, lead agendou, sim. Prepara esse, aqui inclusive dá pra fazer desse jeito aqui, colocando na linha, se quiser, ou dá pra colocar um, um outro desenho aqui também, deixa eu ver se, esse aqui geralmente é o de pergunta.
+[28:19] Tem toda... como se fossem regras ABNTs de construção de fluxos, tá?
+[28:24] Eu tô quebrando todas aqui, tô só montando pra vocês verem a lógica.
+[28:29] Mas cada formato desse aqui você usa pra um tipo de ação ou pergunta ou por aí vai.
+[28:36] Aqui eu tô fazendo assim só mais pra mostrar a ideia.
+[28:41] Deixa eu ver se eu consigo diminuir aqui assim.
+[28:44] E...
+[28:44] E...
+[28:46] E...
+[28:47] Azul.
+[28:48] então sim, ele vai
+[28:52] preparar a SLA
+[28:53] e fazer o handoff
+[28:56] deixar o handoff aqui assim
+[28:58] aí aqui já é o
+[29:04] o closer agora
+[29:05] o closer que vai ver, apareceu na reunião? Não
+[29:08] aí aqui tem dois
+[29:10] jeitos também, né, se ele não apareceu na call
+[29:12] ele pode ou
+[29:15] devolver pro SDR
+[29:18] ou ele mesmo
+[29:19] pode mandar uma mensagem de
+[29:21] remarcação, aí depende aí de como
+[29:23] como que vocês vão desenhar o fluxo, tá?
+[29:25] Mas eu vou deixar desse jeito aqui
+[29:27] pra avançar na próxima etapa, vamos
+[29:29] considerar então que nesse fluxo aqui
+[29:30] o próprio closer, né, o lead
+[29:33] não apareceu na call, ele manda
+[29:35] uma mensagem, oi, tudo bem? Meu nome é Ruan,
+[29:37] eu tinha uma call agendada com você
+[29:39] hoje, acabou que não deu pra você participar,
+[29:41] eu quero marcar com você aqui
+[29:44] amanhã, você tem um horário
+[29:46] em 15 horas da tarde
+[29:47] e tal, tem um script pra isso.
+[29:50] Inclusive, aqui já pode
+[29:51] colocar também.
+[29:53] Tem então a mensagem de remarcação.
+[29:56] E tem essa mensagem aqui também.
+[29:58] Após sete dias, nova mensagem.
+[30:01] Então, lead respondeu, aquele fluxo todo.
+[30:04] Beleza, vamos supor que o lead apareceu na call.
+[30:07] Estou no fluxo de closer aqui agora.
+[30:09] Aí vem a pergunta.
+[30:10] Lead, eu posso até colocar também pequenininho assim.
+[30:17] Aplicar Spiced.
+[30:19] CED, e depois fechamento, tem como tanto, igual eu falei, eu vou mergulhar dentro do processo, vou desenhar inteiro, e aí você vai colocando cada micro etapa aqui, um jeito de fazer isso muitas vezes é fazer como se fosse um blocão só, e aí você vai juntando ele, tem um formatinho aqui que dá pra usar pra isso, é esse aqui ó, então você pega aqui e coloca como se tudo fosse
+[30:48] a mesma etapa, então, Spiced, vacina, fechamento, então vamos colocar aqui, não vou conseguir fazer isso, né, vai mudar ali, vou colocar aqui três pontinhos, cadê, caiu no chão, peraí, e aí eu posso falar que isso aqui é a call, entendeu, então, call, roteiro da call, tem como também
+[31:32] Criar um arquivo de roteiro e aí fica lá dentro do arquivo ao invés de ficar aqui, enfim.
+[31:37] Então o lead apareceu, seguiu o roteiro da call.
+[31:40] Aí vem a pergunta de novo.
+[31:43] Lead fechou?
+[31:45] Se o lead fechou, sim e não.
+[31:50] Lead fechou e vem.
+[31:55] Contrato, assinou o contrato.
+[31:58] Lead assinou o contrato.
+[32:01] Aí vem de novo, sim e não.
+[32:05] Lead fechou, aqui o fluxo pode mudar também, enviar, contrato, por e -mail e aviso pelo WhatsApp, vou colocar aqui assim, prontinho, lead fechou? Não, aí aqui pode entrar no follow -up também, fluxo FUP, aqui é legal um fluxo de follow -up mesmo, porque diferente do de marketing, aqui ou o closer, ou se você quiser,
+[32:43] Se for devolver, não é mais SDR aqui, né? Aqui vira um relacionamento, mas esse aqui eu troquei o nome mesmo, né? Isso, fluxo MQL, fluxo FUP, né? Follow -up.
+[32:55] Aqui é interessante porque o closer já fez a call com a pessoa, e aí agora, ou ele pode continuar desenvolvendo ela, depende do tamanho da equipe, tá?
+[33:07] Por isso que eu tô falando muito ou, ou, ou aqui.
+[33:09] Mas ou ele pode continuar conversando, ou pode ter um outro responsável
+[33:13] que cuida desse relacionamento, entendeu?
+[33:16] Aí esse outro responsável vai entrar num outro fluxo diferente
+[33:19] que você pode desenhar depois.
+[33:21] E aí o que é importante disso aqui, beleza?
+[33:24] A gente fez esse desenho, o DAIA a gente vai ver também como que ela fez,
+[33:28] mas o importante é você ver isso aqui, ó.
+[33:30] Quais momentos você precisa de um script?
+[33:33] Tem o do chatbot que a gente não fez também,
+[33:35] Mas o do chatbot, ele vem até aqui, ou você vai fazer ele vir até ele mesmo agendar a call, ou ele vai sinalizar, lead qualificado, e aí se o lead estiver qualificado, ele pode agendar a call, se não estiver qualificado, aí ele pode continuar num fluxo MQL aqui com ele, ou num fluxo de follow -up da IA.
+[34:17] AIFU, são dois caminhos possíveis aqui para o agente de AI, lead qualificado, não,
+[34:32] o UCMQL e AIFU, que a IAI continua conversando com ele até qualificado, lead é qualificado,
+[34:42] lead, agendou, call, pode colocar aqui, agendar, call, com, lead, lead, agendou, call, sim ou não, se for sim, a IA vai preparar o SLA aqui, prepara SLA, se for não, opa, se for não, volta para os mesmos fluxos aqui também,
+[35:17] O da IA é bem mais simples, só que na verdade tem coisa escondida aqui, porque você tem que configurar a IA, as perguntas, aqui eu simplifiquei.
+[35:29] Feito isso, a gente já consegue ver, por exemplo, precisa de um script para o chatbot,
+[35:36] precisa de um script para o SDR humano aqui, se for fazer, script de ligação, script de mensagem também,
+[35:44] Além do script de mensagem, a gente também precisa, qualificou, do SLA, aqui dá pra falar que é um documento também, dá pra fazer ele de outra cor aqui.
+[35:58] Faz o handoff, aqui tem a mensagem de marcação e tem o roteiro da call aqui também, que tem que ser todo feito.
+[36:15] Também tem a mensagem depois de sete dias e pronto.
+[36:19] Pronto. Aqui eu montei um primeiro fluxo para vocês verem a ideia. No caso aqui também faltou só isso. Lead assinou o contrato? Não. Aí tem que mandar uma nova mensagem para ele. Lead respondeu. Lead assinou o contrato? Não. Aí você coloca aqui. Enviar lembrete. Lead respondeu? Se for não, ficou de fora. Vai para o follow -up aqui. Humano.
+[36:54] Se for sim, assinou o contrato?
+[37:01] Aí entra nesse loop aqui, se ele não assinou, até assinar aí.
+[37:04] E venda.
+[37:05] Vou fazer aqui nosso meme, né?
+[37:07] Vendas, vendas, vendas.
+[37:09] aqui é uma, é um draw flow.
+[37:11] e é um Drownflow específico para quando a pessoa vem de anúncio qualificar ela.
+[37:17] Posso usar esse Drownflow, por exemplo, na hora de qualificar o lead aqui.
+[37:21] O que é o lead qualificado?
+[37:23] Pode ter aqui uma triagem.
+[37:27] Essa triagem aqui, ela pode ser uma triagem tanto aqui quanto aqui, tá?
+[37:32] Aí entra uma etapa extra.
+[37:34] De qual produto certo para essa pessoa? Por quê?
+[37:38] E aí a gente tem que fazer o que aqui ó, tem que pegar tudo que tá daqui pra cá, puxar tudo aqui assim ó, puxa aqui essa pergunta de lead qualificado, ela pode vir até antes aqui do, não, ela é meio junto mesmo, eu vou arrumar aqui, mas por que que isso é importante?
+[38:05] Vou dar
+[38:06] A triagem, ela serve para eu qualificar qual desses produtos aqui é o ideal para o lead.
+[38:13] Lead.
+[38:14] que vocês têm que qualificar aqui mais importante de tudo nesse fluxo? Se é uma venda transacional ou se é uma venda complexa? A venda transacional é, eu te mando o link, você mesmo compra. A venda complexa precisa de uma call para especificar tudo certinho. No caso aqui então, ao invés de perguntar lead qualificado, eu coloco aqui,
+[38:38] Uma etapa de qual a qualificação do lead.
+[38:48] Ou então eu posso perguntar assim,
+[38:50] estou tentando formular melhor isso aqui para vocês,
+[38:57] venda transacional ou complexa?
+[39:00] Direto ao ponto, assim.
+[39:02] Então aqui, chatbot dispara, aí vem a pergunta, lead qualificado?
+[39:06] Ao invés de falar sim ou não lead qualificado aqui,
+[39:09] o que a gente vai fazer, vou tirar isso aqui,
+[39:11] vou tirar daqui também por enquanto,
+[39:13] E eu coloco aqui, venda transacional ou complexa?
+[39:18] Isso aqui é a triagem, tá?
+[39:19] Isso aqui é uma triagem.
+[39:20] Vou deixar pequenininha aqui só pra gente marcar.
+[39:23] Aí vem, venda transacional é um fluxo, vou deixar pra baixo aqui, e venda complexa é o que tinha seguido.
+[39:31] Então, venda transacional ou complexa?
+[39:33] Venda complexa.
+[39:34] Vamos colocar uma corzinha nela aqui, que cor?
+[39:36] Vou colocar assim, tá bom.
+[39:41] E se for venda transacional, o próprio chatbot, no caso aqui o meu seria Atlas e Overpass, o próprio chatbot pode acionar qual dos dois produtos que é, enviar o link.
+[40:05] toda essa complexidade, mas eu não vou tratar isso aqui agora não.
+[40:08] O ponto principal é venda transacional, enviar link de compra, lead clicou no link, sim e não, ou você pode ao invés de fazer lead clicou no link, espera 24 horas e vem lead respondeu, que é o que? Você vai colocar aqui, enviar mensagem de confirmação, aí essa mensagem de confirmação ela precisa ser escrita também, porque é aquela mensagem, deu tudo certo, conseguiu fazer sua compra,
+[40:42] Lid Respondeu, que não comprou, continua a conversa, Lid não respondeu, joga em outro fluxo e por aí vai, tá? Agora, se for o de cima, aí o de cima segue aquele fluxo que a gente tinha desenhado, né? Venda complexa, aí aqui na verdade vem, né? Venda complexa, Lid qualificado, aqui é um pouco redundante, daria pra
+[41:12] para otimizar essa parte aqui melhor, mas acho que a lógica dá para pegar.
+[41:17] A mesma coisa acontece aqui em cima, você vai fazer essa pergunta aqui primeiro,
+[41:20] vou tirar isso aqui, fazer essa pergunta aqui, se é transacional ou complexo,
+[41:27] segue o script da ligação ou da mensagem, os dois vão cair nessa mesma pergunta aqui,
+[41:33] só que vão para caminhos diferentes, aí o ideal é, de novo, desenho de cá e desenho de cá.
+[41:41] Então, SDR envia mensagem, venda transacional complexa, se for complexa, ele vai, aqui era, estava como, SDR envia mensagem, lead respondeu, segue, ah tá, esse seria mais pra frente, na verdade, aqui seria assim mesmo, seria aqui ó, que a gente ia colocar, aqui ó, nesse ponto aqui, entra a mesma pergunta,
+[42:17] Vou fazer só o de cima, porque vocês entenderam a lógica também, senão eu vou ficar refinando coisa que não precisa.
+[42:23] Mas basicamente é, se ele for venda complexa, é isso aqui.
+[42:33] Essa pergunta até nem faz sentido aqui, né? Nem aqui também.
+[42:46] Porque se você sabe que o produto certo para ele é um produto de venda complexa, é porque você já qualificou ele, entendeu?
+[42:53] Aí você segue aqui para agendar qual com ele.
+[42:55] pô,
+[42:56] assim, só pra deixar aqui de registro, mas, venda complexa, é um caminho, e esse caminho de baixo é o mesmo, da transacional aqui, só que é um humano fazendo, né?
+[43:10] terminar de fechar aqui.
+[43:11] Na venda complexa agora, a gente vai trazer ele pra cá, venda complexa, sim, aí, agendou a call, aí segue, beleza?
+[43:31] Então, faltou essa informação, era importante eu passar pra vocês, porque vocês também precisam entender, é um produto barato, que eu consigo vender ali, direto, só mandando link pra pessoa, se for, tem muita gente que perde oportunidade às vezes, dá pra incluir isso aqui em várias etapas do processo, tá?
+[43:46] Mas, por exemplo, conversei com alguém ali e tal, falei, hum, essa pessoa aqui não vai comprar meu produto ou meu serviço de 50 mil reais.
+[43:54] E aí fala, ah, não é meu perfil de cliente, e perde o cliente, mas às vezes ele compraria um serviço seu de 5 mil reais, né, 10 vezes mais barato ali,
+[44:01] ou, vamos simplificar mais ainda, você vai vender um produto, um serviço de 5 mil reais.
+[44:06] Aí fala, hum, essa pessoa não vai comprar, ela tá num outro nível, só que eu tenho um produtinho aqui de 300 reais que ela pode ela mesma fazer pra ela.
+[44:14] e aí eu mando o link e ela compra, ganhei 300 reais agora, ah Roma, esse 300 reais é pouco, o lance não é nem só esse, porque se você vai acumulando, 10 clientes que você recebeu um não, mas vendeu 300 reais, já foi 3 mil reais, só que o outro ponto é, aquela pessoa que comprou o produto barato, se você mantém esse relacionamento, ela continua comprando de você, lá na frente você vende pra ela de novo, entendeu?
+[44:34] Então tem muita gente que perde oportunidade nisso aqui, porque acha que só porque o cliente não é qualificado pra um produto, ele não é qualificado pros outros também, ah, perdi o cliente, foi tempo perdido, e não é.
+[44:43] O ponto que vocês tem que tomar cuidado só é que se tiver começando o negócio agora, construir complexidade demais, ou seja, vou criar 10 produtos, 5 produtos, vai te impedir de fazer dinheiro mais rápido também, pra ter caixa, pra contratar equipe, pra poder escalar isso do jeito certo, entendeu? Então tem que levar isso em consideração também.

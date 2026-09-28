@@ -1,0 +1,1148 @@
+1
+00:00:00,019 --> 00:00:07,200
+Dito isso, a gente já entendeu então que o negócio, o pitch, o objetivo do pitch é mostrar uma oportunidade, beleza?
+
+2
+00:00:07,319 --> 00:00:11,619
+Você precisa ser capaz de convencer a pessoa mesmo sem colocar o nome da sua empresa.
+
+3
+00:00:11,859 --> 00:00:18,240
+Até um exercício, se eu tirar o nome da minha empresa, se eu tirar toda essa camada aqui, toda essa maquiagem agora, a ideia continua poderosa?
+
+4
+00:00:18,359 --> 00:00:19,240
+É uma primeira pergunta.
+
+5
+00:00:19,440 --> 00:00:22,220
+Aí vamos para o principal erro, qual é o maior erro?
+
+6
+00:00:22,359 --> 00:00:25,359
+Qual que vocês acham que é? Comenta no chat aí, o maior erro na hora de construir um pitch.
+
+7
+00:00:25,599 --> 00:00:25,700
+O
+
+8
+00:00:25,680 --> 00:00:31,380
+explicar demais, então tá, vou pegar aqui ó, vamos dar uma olhada nesse exemplo aqui, eu quero que vocês falem se esse exemplo aqui é bom ou ruim.
+
+9
+00:00:31,560 --> 00:00:37,440
+Nós somos uma plataforma de IA que conecta usuários através de agentes inteligentes utilizando a arquitetura multiagente.
+
+10
+00:00:37,519 --> 00:00:37,600
+Bom
+
+11
+00:00:37,580 --> 00:00:43,840
+Então agora eu vou pegar uma frase aqui, que é a frase inclusive que a gente vai começar a usar na Overlens, pra apresentar seu...
+
+12
+00:00:43,840 --> 00:00:47,300
+Por exemplo aqui, eu vou fazer um exercício criando o pitch deck da Overlens, tá?
+
+13
+00:00:47,419 --> 00:00:49,560
+Mas eu quero que vocês vejam essa frase aqui, o que vocês acham dela?
+
+14
+00:00:49,699 --> 00:00:52,379
+Está todo mundo treinando robôs, mas quem está treinando as pessoas?
+
+15
+00:00:52,699 --> 00:00:53,959
+Vocês acham essa frase boa ou ruim?
+
+16
+00:00:54,119 --> 00:00:56,320
+Pode falar se achar ruim também, a gente vai destrinchar aqui.
+
+17
+00:00:56,579 --> 00:00:57,159
+que ela é boa?
+
+18
+00:00:57,539 --> 00:01:02,159
+Primeiro, ela instiga, ela já desperta uma vontade de querer saber o que as pessoas têm para falar.
+
+19
+00:01:02,299 --> 00:01:03,579
+Isso aqui é o pitch deck inteiro?
+
+20
+00:01:03,839 --> 00:01:06,799
+Não, todo mundo está treinando robôs, mas ninguém está treinando pessoas.
+
+21
+00:01:07,179 --> 00:01:08,519
+E aí, qual é o próximo passo?
+
+22
+00:01:08,519 --> 00:01:14,119
+Então, isso aqui não é o pitch deck, mas isso aqui já abre melhor o pitch deck.
+
+23
+00:01:14,219 --> 00:01:18,039
+E o maior erro na hora de construir um pitch deck é abrir o pitch deck errado, beleza?
+
+24
+00:01:18,319 --> 00:01:21,279
+O pitch deck não, né? O pitch errado. O pitch deck é os slides.
+
+25
+00:01:21,539 --> 00:01:23,539
+O maior erro de um pitch é abrir o pitch errado.
+
+26
+00:01:23,959 --> 00:01:27,200
+A primeira pergunta que a gente faz em vendas é o que a pessoa já sabe, não é?
+
+27
+00:01:27,280 --> 00:01:29,040
+O que a pessoa já sabe.
+
+28
+00:01:29,040 --> 00:01:33,999
+Então, segue a mesma lógica. Consciente do problema, consciente da solução, consciente da minha solução.
+
+29
+00:01:34,080 --> 00:01:36,300
+Essa é a lógica para construir o pitch deck. Mesma lógica.
+
+30
+00:01:36,320 --> 00:01:39,259
+Tem diferenças que eu vou mostrar para vocês, mas a lógica é essa mesma aqui.
+
+31
+00:01:39,360 --> 00:01:42,100
+Ou seja, o primeiro passo é você instigar a pessoa.
+
+32
+00:01:42,300 --> 00:01:45,620
+E o melhor jeito de instigar a pessoa é com a pergunta certa.
+
+33
+00:01:45,780 --> 00:01:51,280
+Então, o maior erro de um pitch deck é começar com respostas de mais e questões de menos.
+
+34
+00:01:51,499 --> 00:01:53,100
+Ou seja, abrir o pitch errado.
+
+35
+00:01:53,300 --> 00:01:58,640
+Tem um outro livro muito legal, que eu vou trazer aqui para vocês, que se chama Uma Pergunta Mais Bonita.
+
+36
+00:01:58,640 --> 00:02:04,200
+A capa dele é muito feia, eu não gosto não, mas pelo menos chama atenção, ela cumpre uma função prática ali.
+
+37
+00:02:04,360 --> 00:02:08,900
+Mas esse livro é bem interessante porque ele analisa negócios a partir da pergunta.
+
+38
+00:02:09,100 --> 00:02:15,479
+Então ele começa a fazer análises de, aqui ó, as perguntas dos criadores do Airbnb, Netflix e Google, e muitas outras também.
+
+39
+00:02:15,699 --> 00:02:18,900
+Tá, então o que é interessante dele? Ele traz as perguntas.
+
+40
+00:02:18,999 --> 00:02:23,100
+Eu até tô com ele aqui, quer ver? Eu acho que eu tô com ele aqui, que aí eu trago alguns exemplos pra vocês.
+
+41
+00:02:23,340 --> 00:02:23,600
+Aqui ó.
+
+42
+00:02:25,199 --> 00:02:26,040
+Continua no ar, né?
+
+43
+00:02:26,120 --> 00:02:27,300
+Ainda bem, deixa eu só pegar aqui.
+
+44
+00:02:27,300 --> 00:02:33,199
+O fone tava carregando aqui e tava no fio. Aí o fio embolou no meu pé e eu não tinha visto.
+
+45
+00:02:33,420 --> 00:02:35,340
+Tem esse livrinho aqui, ó. Olha aí. A capa dele.
+
+46
+00:02:35,499 --> 00:02:38,239
+Eu acho feio porque é difícil de ler, às vezes, quando vai mostrar assim.
+
+47
+00:02:39,060 --> 00:02:41,400
+Então, olha que interessante, né? Vou pegar aqui, ó.
+
+48
+00:02:41,519 --> 00:02:44,900
+Eu vou ler o... Cada capítulo tem várias perguntas.
+
+49
+00:02:44,939 --> 00:02:46,719
+Aí eu vou ler só pra dar alguns exemplos pra vocês.
+
+50
+00:02:46,999 --> 00:02:49,739
+Então, vamos lá. O poder de questionar. Aí vem perguntas.
+
+51
+00:02:49,840 --> 00:02:54,739
+E se é possível mandar o homem à lua, por que eles não conseguem fazer um pé decente?
+
+52
+00:02:54,739 --> 00:02:57,880
+Como assim? Mas é uma pergunta que já abre uma questão pra...
+
+53
+00:02:57,880 --> 00:03:00,439
+Esse como assim já abre a pergunta pra entender.
+
+54
+00:03:00,680 --> 00:03:03,820
+Ou então, em que tipo de negócio nós estamos agora?
+
+55
+00:03:04,080 --> 00:03:05,580
+E ainda existe trabalho pra mim?
+
+56
+00:03:05,719 --> 00:03:08,780
+Essa é uma pergunta interessante também. Muitas pessoas querem a resposta pra isso.
+
+57
+00:03:08,880 --> 00:03:09,540
+Uma boa pergunta.
+
+58
+00:03:09,840 --> 00:03:11,800
+O conhecimento se tornou obsoleto?
+
+59
+00:03:11,900 --> 00:03:12,999
+É uma outra pergunta interessante.
+
+60
+00:03:13,479 --> 00:03:15,060
+Instiga, eu quero saber, será que se tornou?
+
+61
+00:03:15,180 --> 00:03:15,860
+Vou pegar aqui, ó.
+
+62
+00:03:15,999 --> 00:03:18,580
+É possível criar uma escola com base em perguntas?
+
+63
+00:03:18,699 --> 00:03:19,880
+É uma outra pergunta aqui.
+
+64
+00:03:19,999 --> 00:03:22,699
+Aqui no caso eu tô pegando, vou pegar uma marcação minha,
+
+65
+00:03:22,699 --> 00:03:25,600
+Que aí eu mostro a pergunta já com uma solução, né?
+
+66
+00:03:25,660 --> 00:03:27,340
+Olha aqui, ó, isso aqui é uma pergunta, um exemplo.
+
+67
+00:03:27,580 --> 00:03:32,459
+Como podemos induzir as pessoas a beber mais litros de água com mais frequência?
+
+68
+00:03:32,580 --> 00:03:34,840
+Essa pergunta, ela já mostra duas coisas.
+
+69
+00:03:34,900 --> 00:03:37,340
+Primeiro, existe alguém estudando sobre isso?
+
+70
+00:03:37,439 --> 00:03:39,540
+Isso tem um impacto que talvez eu não saiba.
+
+71
+00:03:39,660 --> 00:03:44,140
+E tem uma pergunta que tá aberta aqui, que é induzir as pessoas a beber mais litros com mais frequência.
+
+72
+00:03:44,360 --> 00:03:47,219
+E olha só, isso aqui tá num quadradinho, então eu vou ler pra vocês, olha só.
+
+73
+00:03:47,360 --> 00:03:50,600
+Durante os anos em que Jeffrey era diretor executivo da Coca -Cola,
+
+74
+00:03:50,600 --> 00:04:12,120
+A feia questão acima se revelou fundamental para o marketing da empresa, fabricante de refrigerante e cheio de açúcar.
+
+75
+00:04:12,120 --> 00:04:29,999
+A Coca -Cola não estava sozinha, é claro. O escritor Mitchell revelou que as empresas da indústria de snacks faziam, igualmente focavam em questões engenhosas como essa e métodos que objetivavam o aumento de consumo de produtos lotados de açúcar só de gordura, mesmo com a epidemia da obesidade tendo piorado bastante.
+
+76
+00:04:30,699 --> 00:04:48,580
+Atualmente, Dan, que é o Jeffrey ali, segue uma linha de produto mais saudável, como diretor de uma empresa que produz cenouras, água e agricultor local, cansado de ter que jogar fora cenouras deformadas e retorcidas, pensou, e se eu tirar a pele das cenouras e cortar em formato de mini cenouras perfeitas?
+
+77
+00:04:48,580 --> 00:04:51,840
+Olha só como uma pergunta vai levando para outra pergunta, vai levando para outra pergunta.
+
+78
+00:04:51,959 --> 00:04:58,060
+Tem a questão de beber mais água, a questão de tirar o desperdício, então eu tenho peças de cenouras que não vão para lá,
+
+79
+00:04:58,100 --> 00:05:03,820
+e se eu cortar elas, transformar em cenourinhas perfeitas e cobrar até mais caro das pessoas para essas cenourinhas perfeitas,
+
+80
+00:05:03,840 --> 00:05:05,280
+as mini cenouras, e por aí vai.
+
+81
+00:05:05,459 --> 00:05:09,800
+Aí vem outra pergunta, e se vendermos as mini cenouras como se fossem junk food?
+
+82
+00:05:10,019 --> 00:05:15,640
+Então, e se eu pego uma coisa saudável e vendo como se fosse junk food, é tipo fast food, é comida boba,
+
+83
+00:05:15,640 --> 00:05:23,739
+Comida burra, aquela comida que você só compra rápido ali porque ela é conveniente, mas e se eu tornar a comida saudável, parecendo uma junk food e as pessoas começarem a comer mais assim?
+
+84
+00:05:23,920 --> 00:05:25,660
+Então olha só, foi uma pergunta que ele trouxe daqui.
+
+85
+00:05:25,860 --> 00:05:31,880
+Eu não vou ficar lendo aqui todas as perguntas agora, até porque eu não tinha planejado trazer esse livro, ele apareceu aqui no meio da aula, porque eu me lembrei dele.
+
+86
+00:05:31,999 --> 00:05:33,540
+Mas ele é excelente pra esse caso aqui, tá?
+
+87
+00:05:33,660 --> 00:05:42,100
+E aí depois vocês podem até colocar ele lá no chat GPT de vocês, ou algo do tipo, e falar, eu quero que baseado nesse livro você me ajude a fazer perguntas melhores sobre o meu negócio.
+
+88
+00:05:42,280 --> 00:05:44,239
+Vai ser um exercício excelente pra vocês, tá bom?
+
+89
+00:05:44,340 --> 00:05:45,459
+Mas fica de ponto aqui.
+
+90
+00:05:45,640 --> 00:05:53,920
+Então, o maior erro é começar errado a apresentação e o jeito de começar errado é começar com respostas de mais e perguntas de menos.
+
+91
+00:05:54,239 --> 00:05:56,519
+Beleza? Então, a pergunta certa é o primeiro ponto.
+
+92
+00:05:56,660 --> 00:06:00,959
+E por que isso é importante? Porque as pessoas, elas se lembram do quê?
+
+93
+00:06:01,040 --> 00:06:04,320
+Elas se lembram de, basicamente, o que ajuda o cérebro a sobreviver.
+
+94
+00:06:04,420 --> 00:06:07,759
+Então, o nosso cérebro já está acostumado a guardar coisas que ajudam a sobreviver.
+
+95
+00:06:07,820 --> 00:06:09,660
+E o que ajuda o cérebro a sobreviver? Guardar problema.
+
+96
+00:06:09,939 --> 00:06:13,320
+Então, é muito mais fácil para o nosso cérebro identificar problema do que identificar solução.
+
+97
+00:06:13,320 --> 00:06:20,160
+A gente guarda histórias, porque a história foi o principal mecanismo que permitiu a humanidade construir tudo que construiu.
+
+98
+00:06:20,219 --> 00:06:24,259
+E contrastes, é uma outra ferramenta que a gente pode utilizar.
+
+99
+00:06:24,560 --> 00:06:28,160
+Então, o nosso cérebro guarda contrastes com muita facilidade.
+
+100
+00:06:28,360 --> 00:06:31,439
+Isso aqui, inclusive, a gente usa muito no design, a partir da gestalt.
+
+101
+00:06:31,580 --> 00:06:35,580
+E existe também a gestalt como psicologia disso.
+
+102
+00:06:35,900 --> 00:06:39,540
+Psicologia da forma, mas também a psicologia do contraste, da ideia e por aí vai.
+
+103
+00:06:39,680 --> 00:06:42,499
+Então, vocês têm que levar isso aqui em consideração na hora de criar um pitch.
+
+104
+00:06:42,499 --> 00:06:44,219
+Problema, história e contraste, beleza?
+
+105
+00:06:44,420 --> 00:06:48,059
+O nome do livro, o Carlos perguntou ali, é uma pergunta mais bonita, pergunta mais bonita.
+
+106
+00:06:48,139 --> 00:06:49,180
+O que vocês podem reparar aqui?
+
+107
+00:06:49,300 --> 00:06:51,979
+Que as pessoas não se lembram com frequência de funcionalidade.
+
+108
+00:06:52,180 --> 00:06:55,979
+Ou seja, ficar mostrando funcionalidade é perder tempo do seu pitch, beleza?
+
+109
+00:06:56,220 --> 00:06:56,820
+Peguem isso aí.
+
+110
+00:06:56,979 --> 00:07:01,740
+Ruan, entendi, então você já me falou do principal problema, você já me explicou aqui também o que é um pitch,
+
+111
+00:07:01,900 --> 00:07:04,780
+que não é uma apresentação da empresa, é uma apresentação de uma oportunidade.
+
+112
+00:07:05,019 --> 00:07:07,519
+Então, qual que é a estrutura para construir um pitch?
+
+113
+00:07:07,519 --> 00:07:16,639
+Vamos seguir a estrutura aqui e vocês vão ver que ela tem muitos padrões parecidos até com construir um site, por exemplo, até com construir uma apresentação de vendas, né?
+
+114
+00:07:16,780 --> 00:07:23,680
+E aí o primeiro ponto é o seguinte, um pitch precisa do gancho e esse aqui que é o primeiro erro, né? O erro fundamental, que é abrir o pitch errado.
+
+115
+00:07:23,900 --> 00:07:30,880
+Isso aqui serve para produção de conteúdo também, isso aqui serve para, se a gente está falando de conseguir a atenção das pessoas, o primeiro passo é o gancho, não tem jeito.
+
+116
+00:07:30,999 --> 00:07:34,800
+Em qualquer mídia que você vai trabalhar, o primeiro passo sempre é o gancho.
+
+117
+00:07:34,800 --> 00:07:39,220
+Um bom gancho é aquele que quebra o padrão mental que já está na cabeça da pessoa
+
+118
+00:07:39,220 --> 00:07:44,959
+e depois que quebra esse padrão mental, conecta no desenvolvimento que você quer trazer aqui com o seu pitch.
+
+119
+00:07:45,200 --> 00:07:47,320
+A mesma coisa se você vai produzir um conteúdo para a rede social.
+
+120
+00:07:47,459 --> 00:07:51,160
+Você primeiro quebra um padrão e depois você desenvolve o que você está fazendo.
+
+121
+00:07:51,360 --> 00:07:54,019
+Então, quais são ideias de gancho que a gente pode trazer aqui?
+
+122
+00:07:54,220 --> 00:07:55,220
+Eu vou até colocar assim, ó.
+
+123
+00:07:55,340 --> 00:07:57,939
+Um. O primeiro passo é um bom gancho, beleza?
+
+124
+00:07:58,220 --> 00:07:59,599
+Ideias de gancho que a gente tem.
+
+125
+00:07:59,740 --> 00:08:01,220
+Pergunta. Essa é a clássica.
+
+126
+00:08:01,220 --> 00:08:17,119
+Vocês podem ver isso aqui acontecendo muito em TED Talk, apresentação de Shark Tank, por exemplo, já que vocês vão treinar para fazer pitch, já assiste mais Shark Tank, assiste mais TED Talks, porque vocês vão ver como que as pessoas em pouco tempo conseguem despertar o interesse em uma ideia, tá? São bons lugares.
+
+127
+00:08:17,280 --> 00:08:24,139
+E vocês vão ver que em ambos, muitas vezes as pessoas começam com perguntas. Então, um bom jeito de começar um gancho é com perguntas.
+
+128
+00:08:24,139 --> 00:08:27,820
+Mas é o único. Não. Um outro jeito de começar um gancho é com dados.
+
+129
+00:08:28,139 --> 00:08:32,960
+Então, se você traz um dado que é intrigante, interessante, e um dado com contraste,
+
+130
+00:08:32,960 --> 00:08:37,160
+você também pode usar isso de gancho para chamar a atenção das pessoas.
+
+131
+00:08:37,500 --> 00:08:41,200
+Então, vou colocar de outra cor aqui. Dados também é um jeito interessante.
+
+132
+00:08:41,599 --> 00:08:48,579
+Além dos dados, você pode começar também com uma... não é uma tese, fugiu o nome.
+
+133
+00:08:48,720 --> 00:08:51,559
+Quando a gente quebra os conceitos lógicos, a gente tem...
+
+134
+00:08:51,559 --> 00:08:54,800
+me ajudem aí, às vezes me falta, me fogem os nomes
+
+135
+00:08:54,800 --> 00:08:56,880
+não é paradigma não, você tem uma
+
+136
+00:08:56,880 --> 00:09:00,539
+nossa, eu vou ter que perguntar aqui pra ir lá, não é ruptura não, quebre
+
+137
+00:09:00,539 --> 00:09:03,480
+é a coisa mais boba do mundo, também não é hipótese
+
+138
+00:09:03,480 --> 00:09:05,360
+eu tô passando amnésia pra vocês
+
+139
+00:09:05,360 --> 00:09:07,380
+quebre os conceitos lógicos
+
+140
+00:09:07,940 --> 00:09:10,559
+premissa, lembrei sozinho, enquanto eu fui explicando pra ele lembrei
+
+141
+00:09:10,559 --> 00:09:12,139
+você pode começar com uma premissa, porque
+
+142
+00:09:13,579 --> 00:09:16,559
+todo argumento lógico, ele é construído em cima de premissas
+
+143
+00:09:16,559 --> 00:09:19,360
+você junta essas premissas e tem o seu argumento
+
+144
+00:09:19,360 --> 00:09:21,619
+Então, você pode começar também com premissas.
+
+145
+00:09:21,680 --> 00:09:28,420
+Então, eu posso trazer aqui uma premissa de uma ideia, e aí eu vou desenvolver essa premissa ao longo do meu pitch.
+
+146
+00:09:28,639 --> 00:09:30,599
+Mas é um jeito também de te fazer.
+
+147
+00:09:30,639 --> 00:09:35,840
+Uma premissa é uma frase, uma frase que você afirma alguma coisa ali para iniciar o que você está construindo.
+
+148
+00:09:36,000 --> 00:09:38,660
+E aí, vamos lá, vamos pegar aqui alguns exemplos.
+
+149
+00:09:38,680 --> 00:09:43,280
+Essa frase aqui, nunca houve tanto conteúdo disponível e nunca foi tão difícil aprender.
+
+150
+00:09:43,599 --> 00:09:46,660
+Isso aqui é um contraste, e é um contraste que é uma premissa.
+
+151
+00:09:46,660 --> 00:09:50,280
+Eu tô iniciando aqui um argumento lógico, e aí eu tenho essa minha premissa inicial.
+
+152
+00:09:50,559 --> 00:09:53,940
+Isso aqui é uma premissa com contraste, e ela é muito boa pra iniciar um pitch, tá?
+
+153
+00:09:54,019 --> 00:09:57,440
+Nunca houve tanto conteúdo disponível e nunca foi tão difícil aprender.
+
+154
+00:09:57,860 --> 00:09:58,800
+Por que que isso aqui funciona?
+
+155
+00:09:59,180 --> 00:10:04,880
+Porque pro nosso cérebro, quando a gente identifica o contraste, esse contraste ele é mais fácil de absorver pelo nosso cérebro,
+
+156
+00:10:04,980 --> 00:10:09,119
+isso aqui também é mais memorável e mais simples de iniciar uma construção de argumento, tá?
+
+157
+00:10:09,119 --> 00:10:10,940
+Então, esse é um jeito de fazer.
+
+158
+00:10:11,119 --> 00:10:13,780
+A gente também pode fazer isso com uma pergunta, por exemplo,
+
+159
+00:10:13,780 --> 00:10:43,059
+Vou colocar aqui, ó. Todo mundo está treinando robôs, mas quem está treinando pessoas? Essa a gente já tinha falado ali. Então, isso aqui também é um contraste, mas é um contraste com pergunta. E ela é muito, ela funciona muito para o momento atual, porque ela gera um desconforto, que é o seguinte, eu estou treinando robô também, mas será que eu estou me treinando? Eu poderia também, dependendo do público, mudar, ao invés de todo mundo estar treinando robôs, quem está treinando pessoas, eu poderia falar também, todo mundo está treinando robôs, mas quantas pessoas estão se treinando? Também poderia ser.
+
+160
+00:10:43,059 --> 00:11:06,380
+O que que muda isso aqui? O público. Mas quantas pessoas estão se treinando? Isso aqui é, isso aqui é, quanto que eu uso cada uma? Aqui eu tô falando com o investidor, aqui eu tô falando com o público mais macro, eu tô falando de negócio. Aqui eu tô falando com o meu consumidor final. Eu tô falando, olha, você tá treinando robôs, mas você está se treinando? Posso usar a mesma base aqui, mas mudando o público. São jeitos de fazer. Ok, a gente tem aqui o gancho.
+
+161
+00:11:06,380 --> 00:11:10,480
+Depois que a gente tem um gancho, a segunda coisa é falar do problema.
+
+162
+00:11:10,720 --> 00:11:19,000
+Então agora a gente vai desenvolver isso aqui, a gente despertou o interesse com o gancho, agora a gente vai lidar com o problema.
+
+163
+00:11:19,300 --> 00:11:24,320
+E aí sempre que a gente vai falar de problema, a gente tem que começar perguntando quem sofre com esse problema.
+
+164
+00:11:24,559 --> 00:11:27,519
+A Siri quase ativou ali. Quem sofre com esse problema?
+
+165
+00:11:27,800 --> 00:11:32,019
+Essa é a primeira pergunta que a gente precisa fazer, porque o problema pode não ser o mesmo para todo mundo.
+
+166
+00:11:32,019 --> 00:11:36,500
+Inclusive, falar que você resolve um problema para todo mundo é perigoso.
+
+167
+00:11:36,740 --> 00:11:43,900
+Lembrem sempre disso aqui, promessas extraordinárias requerem provas extraordinárias.
+
+168
+00:11:44,139 --> 00:11:49,160
+Uma boa apresentação é uma apresentação em que cada promessa que você faz, você tem uma prova para ela.
+
+169
+00:11:49,280 --> 00:11:54,160
+Inclusive, quando você vai analisar copy e apresentação, tem um exercício que a gente faz que é mais ou menos assim.
+
+170
+00:11:54,320 --> 00:11:56,019
+Imagina que você escreveu o seu texto ali.
+
+171
+00:11:56,139 --> 00:12:00,420
+A gente vai lendo o texto e todo momento que tem uma promessa, a gente vem e risca.
+
+172
+00:12:00,420 --> 00:12:29,660
+Prometi, promessa, risca de laranja, tem uma promessa aqui no texto, prometi outra coisa aqui no texto, prometi, aí depois você volta a ler o texto de novo, só que você vai fazendo assim, agora eu vou marcar toda vez que eu provei minha promessa, provei aqui, por exemplo, e aí você consegue medir, então o ideal é que para cada laranja tem um verde, se você tem algo assim no seu texto, muito mais promessa do que prova, sua cópia está ruim, seu texto não está bom, você precisa voltar a ler de novo e encontrar uma prova para cada coisa que você prometeu, se você não tem uma prova, você tem que verificar,
+
+173
+00:12:29,660 --> 00:12:39,420
+Mas na maioria das vezes é melhor tirar a promessa do que deixar ela sem uma prova, porque senão você começa a criar algo que a pessoa vai te perceber como alguém que fica falando demais e mostrando menos.
+
+174
+00:12:39,660 --> 00:12:46,039
+Então isso aqui é uma técnica escrita de cópia que é muito comum, muito utilizada, tá? Então fica aí pra vocês também.
+
+175
+00:12:46,200 --> 00:12:52,820
+Então, promessas extraordinárias requerem provas extraordinárias, quem sofre com o problema? Essa é a pergunta que a gente tem que resolver aqui.
+
+176
+00:12:52,960 --> 00:12:58,260
+Depois a gente também tem que responder outras perguntas, a gente tem que responder, por exemplo, quanto custa esse problema?
+
+177
+00:12:58,260 --> 00:13:01,980
+Isso aqui tem relação com o lance do maior dor, né?
+
+178
+00:13:02,019 --> 00:13:03,519
+Quanto maior a dor, maior o negócio.
+
+179
+00:13:03,760 --> 00:13:05,539
+Quanto maior a dor, maior o negócio.
+
+180
+00:13:05,780 --> 00:13:07,400
+E aí, maior a oportunidade.
+
+181
+00:13:07,400 --> 00:13:10,160
+Então, na hora que vocês vão apresentar isso aqui para investidores,
+
+182
+00:13:10,300 --> 00:13:15,360
+vocês conseguem construir aqui um senso de oportunidade muito maior,
+
+183
+00:13:15,460 --> 00:13:17,139
+mostrando quanto que custa o problema.
+
+184
+00:13:17,300 --> 00:13:20,099
+Se você só fala do problema, mas não fala quanto ele custa,
+
+185
+00:13:20,119 --> 00:13:22,700
+às vezes parece óbvio, mas não é óbvio para as pessoas.
+
+186
+00:13:22,880 --> 00:13:24,940
+E é importante entender isso aqui também, tá bom?
+
+187
+00:13:25,039 --> 00:13:26,260
+Então, leve isso em consideração.
+
+188
+00:13:26,260 --> 00:13:31,000
+Então vamos pegar um exemplo aqui para vocês, de como construir uma dor.
+
+189
+00:13:31,220 --> 00:13:34,039
+A gente já tem as perguntas, vamos pegar aqui.
+
+190
+00:13:34,180 --> 00:13:38,880
+Milhões de pessoas passam horas estudando, mas menos de 15 % concluem cursos online.
+
+191
+00:13:39,079 --> 00:13:42,980
+O problema nunca foi acesso ao conhecimento, o problema é a transformação.
+
+192
+00:13:43,059 --> 00:13:50,880
+Aqui, a gente ainda pode colocar aqui, quantas pessoas de fato saem transformadas de um programa de aprendizagem online?
+
+193
+00:13:51,119 --> 00:13:52,519
+Fiz mais uma pergunta provocativa.
+
+194
+00:13:52,519 --> 00:13:55,559
+Sempre que você termina um top, você provoca com o próximo.
+
+195
+00:13:55,720 --> 00:13:59,019
+Você continua costurando a pessoa no seu pitch inteiro.
+
+196
+00:13:59,380 --> 00:14:01,780
+Então, olha só, eu estou fazendo isso aqui pensando na Overlens, né?
+
+197
+00:14:01,880 --> 00:14:04,660
+Todo mundo está treinando robô, mas quem está treinando as pessoas?
+
+198
+00:14:05,079 --> 00:14:09,519
+Milhões de pessoas passam horas estudando, mas menos de 15 % concluem cursos online.
+
+199
+00:14:09,740 --> 00:14:12,400
+O problema nunca foi o conhecimento, a internet está cheia disso.
+
+200
+00:14:12,599 --> 00:14:14,139
+O problema é a transformação.
+
+201
+00:14:14,260 --> 00:14:18,099
+Quantas pessoas de fato saem transformadas de um programa de aprendizagem online?
+
+202
+00:14:18,380 --> 00:14:19,680
+Olha como você vai provocando.
+
+203
+00:14:19,680 --> 00:14:22,360
+E as pessoas vão construindo o raciocínio com vocês, elas vão falando a verdade.
+
+204
+00:14:22,720 --> 00:14:26,619
+Você pode até, dependendo do público, falar, fazer outras perguntas.
+
+205
+00:14:26,740 --> 00:14:30,000
+Todo mundo aqui tem uma gaveta cheia de cursos online que nunca terminou.
+
+206
+00:14:30,079 --> 00:14:34,039
+Olha só, eu estou envolvendo as pessoas dentro de uma realidade, eu estou contando uma história.
+
+207
+00:14:34,180 --> 00:14:35,980
+E eu estou fazendo você se enxergar nessa história.
+
+208
+00:14:36,139 --> 00:14:39,180
+É assim que você constrói uma oportunidade, beleza?
+
+209
+00:14:39,400 --> 00:14:40,940
+Então, mais um tópico aqui.
+
+210
+00:14:41,059 --> 00:14:44,200
+Depois que você mostrou o problema, o que a gente tem?
+
+211
+00:14:44,340 --> 00:14:45,180
+A gente tem a solução.
+
+212
+00:14:45,300 --> 00:14:48,340
+A gente está seguindo aqui a lógica do Eugene Schwartz, do mesmo jeito.
+
+213
+00:14:48,519 --> 00:14:49,300
+Então, vamos colocar aqui.
+
+214
+00:14:49,300 --> 00:14:53,039
+Trouxe o problema, agora a gente vai trazer uma solução pra esse problema.
+
+215
+00:14:53,200 --> 00:14:54,680
+Vamos colocar aqui, ó, solução.
+
+216
+00:14:54,800 --> 00:14:56,400
+Só que aqui tem uma pegadinha.
+
+217
+00:14:56,519 --> 00:14:59,500
+Ter uma solução não é falar dos benefícios.
+
+218
+00:14:59,639 --> 00:15:03,960
+Ter uma solução não é ficar falando das funcionalidades do seu sistema.
+
+219
+00:15:04,240 --> 00:15:07,079
+Ter uma solução é começar com uma frase.
+
+220
+00:15:07,260 --> 00:15:07,700
+Só uma.
+
+221
+00:15:07,860 --> 00:15:10,019
+E essa frase, ela já é um clichê.
+
+222
+00:15:10,039 --> 00:15:13,800
+Você pode ajustar ela um pouco, mas ela é quase como não.
+
+223
+00:15:13,880 --> 00:15:15,019
+Ela é um roteirinho.
+
+224
+00:15:15,160 --> 00:15:16,639
+E o roteirinho, ele é esse aqui, ó.
+
+225
+00:15:16,639 --> 00:15:21,860
+Você pode falar com outras palavras, mas você precisa responder exatamente essa frase aqui.
+
+226
+00:15:22,000 --> 00:15:27,000
+Nós ajudamos XYZ a resolver 1, 2, 3 através de ABC.
+
+227
+00:15:27,280 --> 00:15:29,639
+Você tem que conseguir em uma frase encaixar isso aqui.
+
+228
+00:15:29,760 --> 00:15:34,460
+Ah, mas eu quero trocar, eu quero trocar o nós ajudamos porque já é manjado demais, todo mundo sabe.
+
+229
+00:15:34,660 --> 00:15:36,380
+Tudo bem, pode trocar o nós ajudamos.
+
+230
+00:15:36,440 --> 00:15:40,820
+Pode falar de um outro jeito, mas você precisa em uma frase responder essas três variáveis aqui.
+
+231
+00:15:40,900 --> 00:15:44,500
+Então eu vou dar um exemplo aqui que troca as palavras, mas que resolve as variáveis.
+
+232
+00:15:44,500 --> 00:15:50,500
+Overlens transforma aprendizado em construção. Em vez de assistir aulas, você cria projetos reais com o IA.
+
+233
+00:15:50,579 --> 00:15:54,619
+Aqui eu já comecei a trazer uma solução. Eu posso ainda melhorar isso aqui? Posso.
+
+234
+00:15:54,639 --> 00:15:57,519
+Eu posso, por exemplo, falar, Overlens transforma aprendizado em construção.
+
+235
+00:15:57,539 --> 00:16:03,000
+Em vez de assistir aulas, você cria projetos reais com o IA e aprende fazendo, por exemplo.
+
+236
+00:16:03,440 --> 00:16:06,980
+Aí eu posso melhorar também. Overlens transforma aprendizado em construção.
+
+237
+00:16:07,099 --> 00:16:12,639
+Eu posso colocar aqui, por exemplo, como eu já trouxe a construção, aqui tem um ponto interessante, na verdade.
+
+238
+00:16:12,639 --> 00:16:15,840
+Dá uma vontade de começar a colocar coisas.
+
+239
+00:16:16,160 --> 00:16:21,639
+Vou aumentar a frase, desenvolver ela mais, só que quanto mais simples a frase é, melhor, pra iniciar.
+
+240
+00:16:21,840 --> 00:16:27,700
+Depois você pode desenvolver isso aqui mais, com a, aí a gente vai falar aqui já já, mas com a demonstração, beleza?
+
+241
+00:16:27,760 --> 00:16:30,920
+Então, até aqui a gente tá prometendo, eu preciso demonstrar, certo?
+
+242
+00:16:31,059 --> 00:16:33,900
+Mas vamos lá, Overlens transforma aprendizado em construção.
+
+243
+00:16:34,019 --> 00:16:39,780
+Ao invés, né, ao invés de assistir aulas, você cria projetos reais com o IA e aprende fazendo.
+
+244
+00:16:39,780 --> 00:16:44,639
+Então, eu já estou trazendo a minha solução aqui de um jeito simples e rápido, só que eu estou resolvendo isso aqui.
+
+245
+00:16:44,760 --> 00:16:51,880
+Aí vem, nós ajudamos. Quem? Aqui eu ainda posso melhorar essa frase. Eu posso falar, a Overlens ajuda, aí eu posso colocar empreendedores.
+
+246
+00:16:52,000 --> 00:16:57,840
+Isso, esse quem, pode mudar com o ambiente. Isso é uma coisa que às vezes as pessoas também não levam em conta.
+
+247
+00:16:58,019 --> 00:17:08,059
+Por exemplo, eu sei que eu estou em um ambiente falando com empreendedores, e eu sei que eu ajudo eles, então eu vou falar, a Overlens ajuda empreendedores a transformar aprendizado em construção.
+
+248
+00:17:08,059 --> 00:17:12,760
+E eu posso enquadrar isso aqui para a dor dos empreendedores.
+
+249
+00:17:12,860 --> 00:17:17,980
+Eu posso falar, por exemplo, a Overlens ajuda empreendedores a transformar aprendizado em construção.
+
+250
+00:17:18,079 --> 00:17:25,420
+Em vez de colocar os colaboradores para assistir cursos, eles criam projetos reais com o IA aprendendo e fazendo.
+
+251
+00:17:25,660 --> 00:17:29,340
+Olha só como que eu enquadrei. Isso aqui é a parte inteligente da coisa.
+
+252
+00:17:29,539 --> 00:17:34,539
+Se eu estou falando com empreendedores, eu ajusto minha promessa para eles, porque eu quero vender para eles.
+
+253
+00:17:34,539 --> 00:17:37,079
+Então, aqui eu vou falar, olha, qual que é a dor do empreendedor?
+
+254
+00:17:37,200 --> 00:17:38,260
+É desenvolver talento.
+
+255
+00:17:38,260 --> 00:17:41,780
+Então, eu posso falar pra ele, a Overlens ajuda empreendedores a transformar aprendizado em construção.
+
+256
+00:17:41,840 --> 00:17:46,340
+Em vez de colocar os colaboradores pra assistir cursos, eles criam projetos reais com IA e aprendem fazendo.
+
+257
+00:17:46,619 --> 00:17:48,180
+Tem como ir ajustando a frase? Tem.
+
+258
+00:17:48,280 --> 00:17:50,460
+Mas qual que é a lógica que vocês podem trazer aqui?
+
+259
+00:17:50,599 --> 00:17:53,220
+Eu enquadro a minha solução com quem está ouvindo.
+
+260
+00:17:53,320 --> 00:17:55,000
+Então, nós ajudamos, ele serve pra isso.
+
+261
+00:17:55,160 --> 00:18:01,139
+Se eu estivesse falando com estudantes, eu ia falar, a Overlens ajuda estudantes a transformar aprendizado em construção.
+
+262
+00:18:01,180 --> 00:18:03,840
+Em vez de assistir aulas, você cria projetos reais com IA e aprende fazendo.
+
+263
+00:18:03,840 --> 00:18:08,780
+Se eu estivesse falando não com estudantes, mas com empreendedores individuais, eu poderia colocar
+
+264
+00:18:08,780 --> 00:18:12,619
+a Overlens ajuda empreendedores individuais a transformar aprendizado em construção.
+
+265
+00:18:12,740 --> 00:18:16,780
+Ao invés de comprar milhares de cursos para se desenvolver, você cria projetos reais
+
+266
+00:18:16,780 --> 00:18:18,119
+para o seu negócio e aprende fazendo.
+
+267
+00:18:18,400 --> 00:18:21,019
+Eu adapto de acordo com o contexto, beleza?
+
+268
+00:18:21,260 --> 00:18:22,900
+Então, aí a gente já tem esse ponto.
+
+269
+00:18:23,059 --> 00:18:27,280
+Uma vez que a gente tem uma solução construída, aí a gente tem um passo aqui que, claro,
+
+270
+00:18:27,280 --> 00:18:30,840
+se você vai construir um site, é legal você levar isso em consideração também, mas
+
+271
+00:18:30,840 --> 00:18:35,079
+Mas é o momento em que a gente vai demonstrar. Se você prometeu, você tem que provar.
+
+272
+00:18:35,160 --> 00:18:39,780
+E a demonstração, ela pode ser simples, tá? Ela é um como funciona, basicamente.
+
+273
+00:18:39,980 --> 00:18:45,800
+Você vai mostrar aquilo acontecendo. Se você consegue mostrar no produto real, isso já tem um impacto gigante.
+
+274
+00:18:45,940 --> 00:18:48,920
+Mas se você não consegue mostrar no produto real, mostra no mockup.
+
+275
+00:18:48,960 --> 00:18:51,180
+Com o IA, hoje em dia, é muito rápido. Então, cria um MVP.
+
+276
+00:18:51,500 --> 00:18:57,760
+Qualquer pitch que vocês forem fazer, principalmente para empreendedores, para investidores e até para clientes,
+
+277
+00:18:57,760 --> 00:19:03,579
+Hoje em dia, você gasta um dia e já tem um MVP funcional que pelo menos serve pra você mostrar como funciona.
+
+278
+00:19:03,840 --> 00:19:05,760
+Não precisa nem ter banco de dados, nada disso.
+
+279
+00:19:05,880 --> 00:19:11,500
+Cria um como funciona ali só pra mostrar acontecendo na hora e provar o seu ponto.
+
+280
+00:19:11,660 --> 00:19:12,320
+Entendeu a lógica?
+
+281
+00:19:12,420 --> 00:19:15,220
+Esse que é o como funciona, não precisa ser o produto real.
+
+282
+00:19:15,480 --> 00:19:19,340
+E aí você vai mostrar, sem entrar em técniques, beleza?
+
+283
+00:19:19,460 --> 00:19:20,599
+Isso aqui é muito importante.
+
+284
+00:19:20,619 --> 00:19:25,820
+Sem entrar em técniques, você vai explicar, explique a experiência.
+
+285
+00:19:25,820 --> 00:19:55,460
+experiência, mostre a experiência, então como que você vai falar? Você vai falar, ó, o usuário entra, faz isso, faz isso, recebe isso, consegue esse resultado, ponto, é isso que você vai fazer, é isso que você vai mostrar, mostrou, a pessoa já vai ficar empolgada, porque você começou chamando a atenção para um gancho, falou do problema, falou qual era a solução, mostrou a solução, agora você entra na oportunidade de fato, agora você pode falar mais números, agora você pode falar, cara, gostou disso aqui, fez sentido, então deixa eu te mostrar porque
+
+286
+00:19:55,460 --> 00:19:58,260
+Agora que a coisa fica boa. Agora que a coisa vai ficar interessante.
+
+287
+00:19:58,619 --> 00:19:58,700
+Como
+

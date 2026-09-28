@@ -1,0 +1,67 @@
+Dia 02 — materiais por aula
+
+Aula — Conteúdo — Material identificado
+
+A13 — A13 - Materiais.txt — Rodando o sistema e melhorando a interface — Quadro de design system e referências para melhorar a interface.
+A14 — A14 - Materiais.txt — Infraestrutura - arquivos, banco de dados e publicação — Quadro de infraestrutura: arquivos, repositório, banco de dados e publicação.
+A15 — A15 - Materiais.txt — Loop de autoaprimoramento - o sistema se melhorando sozinho — Prompt de autoaprimoramento da interface, transcrito por Suelen.
+A16 — A16 - Materiais.txt — Validando o modelo - a conta, o excesso de plano e o produto certo — Documentação e cálculos usados para revisar a viabilidade e escolher a oferta.
+A17 — A17 - Materiais.txt — Perfil ideal de cliente e o gargalo da lista — Ficha de perfil ideal de cliente (ICP).
+A18 — A18 - Materiais.txt — Os três planos de aquisição — Quadro dos três planos de aquisição e prompt de busca de leads.
+A19 — A19 - Materiais.txt — Seiscentos leads e a lista limpa — Prompt de coleta dos leads e contexto da limpeza da lista.
+A20 — A20 - Materiais.txt — Cold mail - da lista ao disparo — Orientação de uso da lista para envio de cold mail.
+A21 — A21 - Materiais.txt — A landing page - do prompt ao primeiro lead na planilha — Prompt da landing page e resultado publicado.
+A22 — A22 - Materiais.txt — Criativos - da referência às dez imagens — Referências visuais e trecho da instrução para gerar os dez criativos.
+A23 — A23 - Materiais.txt — Publicando o anúncio e o balanço do fim de semana — Landing page usada no anúncio e quadro de metas de aquisição.
+A24 — A24 - Materiais.txt — Subindo o projeto no GitHub e encerramento — Link público da Marabilia e situação da entrega do projeto.
+
+Aula complementar
+
+A25 — Perguntas e Respostas — ../../Complementares/TXT/A25 - Materiais.txt: reúne trechos dos dois dias.
+
+Apoio do dia
+
+SOS Atlas — central de apoio
+
+Abrir material — https://sosatlasnegocios.vercel.app · Apoio geral
+
+Central de materiais, explicações e passos das aulas. Nanda descreve o conteúdo no chat do dia 01 às 02:14:42. Apoio compartilhado entre aulas, sem comprovar um arquivo específico para cada uma.
+
+Fontes: dia 01 · 01:09:50 · Nanda da Overlens · linha 824 — ../../../Fontes originais/Dia 01/dia 01 chat.txt; dia 01 · 02:14:42 · Nanda da Overlens · linha 1496 — ../../../Fontes originais/Dia 01/dia 01 chat.txt; dia 02 · 01:27:53 · Nanda da Overlens · linha 937 — ../../../Fontes originais/Dia 02/dia 02 chat.txt.
+
+SOS Atlas — Dia 02
+
+Abrir material — https://sosatlasnegocios.vercel.app/#/dia-02 · Participante / portal da equipe
+
+Endereço da seção do segundo dia, reenviado por Daniel Silva. Nanda compartilhou a página inicial do SOS nesse dia, mas não este endereço específico no chat disponível.
+
+Fontes: dia 02 · 04:49:03 · Daniel Silva · linha 1790 — ../../../Fontes originais/Dia 02/dia 02 chat.txt; dia 02 · 04:49:12 · Daniel Silva · linha 1796 — ../../../Fontes originais/Dia 02/dia 02 chat.txt.
+
+SOS Atlas — banco de prompts
+
+Abrir material — https://sosatlasnegocios.vercel.app/#/prompts · Apoio geral
+
+Área que Nanda anunciou para reunir os prompts separados das explicações. É uma referência geral; não comprova que todos os prompts específicos estejam disponíveis hoje.
+
+Fontes: dia 01 · 06:30:05 · Nanda da Overlens · linha 2909 — ../../../Fontes originais/Dia 01/dia 01 chat.txt.
+
+Quadro branco do Atlas — Figma
+
+Abrir material — https://www.figma.com/board/PbpEXh5DAKTWuT0njBQnqb/Atlas-para-Negocios?node-id=12-4&t=uyMxKRiZiB2EoOXN-1 · Equipe
+
+Quadro branco compartilhado por Ruan no dia 02. As aulas mostram seu uso nos dois dias; Gabriela Werneck aponta a aba do Dia 1 no chat do dia 02, às 07:10:08–07:10:16. O vínculo por assunto não confirma cada desenho no estado atual do quadro.
+
+Fontes: dia 02 · 07:07:38 · Ruan Braz · linha 2572 — ../../../Fontes originais/Dia 02/dia 02 chat.txt.
+
+
+Exemplo adicional compartilhado
+
+Overlens OS — exemplo de sistema
+
+Abrir material — https://overlens-os.vercel.app/login · Demonstração geral
+
+Sistema mostrado no contexto da apresentação da Overlens. É uma página de login, não o download do projeto Marabilia. Não foi possível vinculá-lo com segurança a uma das 25 aulas editadas.
+
+Fontes: dia 02 · 07:09:07 · Ruan Braz · linha 2582 — ../../../Fontes originais/Dia 02/dia 02 chat.txt.
+
+Índice geral — ../../00 - LEIA-ME.txt · Links administrativos — ../../Referencias/Links administrativos.txt

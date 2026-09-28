@@ -1,0 +1,21 @@
+Neste exercício, você irá projetar uma página dupla de uma revista, livro ou catálogo, utilizando o conceito de grid modular para organizar o conteúdo de forma harmoniosa e eficiente. O objetivo é aplicar os elementos aprendidos, como formato, margem, linha, coluna, calhas e módulos, para criar uma composição equilibrada e visualmente atraente.
+
+1. Definição do projeto: Escolha o tipo de publicação para a qual você está criando a página dupla, como uma revista, livro ou catálogo. Defina o tema ou conteúdo principal que será apresentado nas páginas.
+
+2. Estudo: Entenda o conceito de grid modular, que é um sistema de divisão da página em partes iguais ou proporcionais para organizar o conteúdo. Estude como as linhas, colunas, margens, calhas (espaço entre colunas) e módulos (unidades do grid) são utilizados para criar uma estrutura de design coesa.
+
+3. Planejamento: Defina o tamanho da página e desenhe o grid modular, decidindo quantas colunas e linhas serão necessárias. Determine as margens, o tamanho das calhas e a dimensão dos módulos.
+
+4. Distribuição do conteúdo: Com base no grid modular, planeje onde os elementos como textos, imagens, cabeçalhos, legendas e outros componentes gráficos serão posicionados nas páginas.
+
+5. Design e execução: Utilizando um software de design gráfico, como Adobe InDesign ou Illustrator, comece a montar sua página dupla. Aplique o grid modular para organizar o conteúdo, garantindo que todos os elementos estejam alinhados e distribuídos de forma equilibrada e esteticamente agradável.
+
+6. Revisão e ajustes: Analise o layout criado, verificando se todos os elementos estão bem integrados e se o grid foi efetivamente utilizado para alcançar uma composição harmoniosa. Faça ajustes conforme necessário para melhorar a legibilidade e o impacto visual.
+
+7. Finalização: Após a revisão, finalize o design da página dupla, assegurando que todos os elementos estejam corretamente alinhados e que o design geral esteja coeso e profissional.
+
+8. Apresentação e feedback: Apresente sua página dupla finalizada e explique como você utilizou o grid modular para organizar o conteúdo e quais foram os desafios e aprendizados do processo.
+
+Este exercício proporciona uma experiência prática no uso de grids modulares no design gráfico, melhorando suas habilidades de composição, planejamento e execução de layouts de publicações.
+
+Não publique links! Eles podem quebrar e assim perdemos a informação. Publique as imagens e textos direto na plataforma a partir do botão abaixo.

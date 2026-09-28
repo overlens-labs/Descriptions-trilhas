@@ -1,0 +1,788 @@
+1
+00:00:00,059 --> 00:00:04,460
+eu estivesse começando um negócio amanhã, eu não construiria MVP imediatamente.
+
+2
+00:00:04,460 --> 00:00:06,460
+Eu faria uma sequência brutalmente simples.
+
+3
+00:00:06,859 --> 00:00:12,139
+Tese, conversa, oferta, dinheiro, entrega manual, repetição, aí nasce o produto.
+
+4
+00:00:12,359 --> 00:00:13,339
+E não o contrário.
+
+5
+00:00:13,339 --> 00:00:14,559
+O que a gente já percebeu que
+
+6
+00:00:14,679 --> 00:00:23,419
+é o maior erro de quem começa a construir um produto com essa metodologia científica, porque tem as pessoas que só começam o negócio também e nem planejam o negócio, né? É outra esfera aqui.
+
+7
+00:00:23,619 --> 00:00:35,319
+Mas qual que é o maior erro? Eu cometi esse erro. Quatro anos me sacrificando nesse erro. Começa a criar um produto, se apaixona por ele, fica um tempão aqui, esquece das outras etapas e depois vai no desespero tentar resolver isso aqui.
+
+8
+00:00:35,319 --> 00:00:40,919
+E aí quando você vai no desespero tentar resolver isso aqui, o que as pessoas tentam fazer é pular pra cá, oferta.
+
+9
+00:00:41,079 --> 00:00:42,740
+Então, ah, eu já tenho um produto, vou criar uma oferta.
+
+10
+00:00:42,899 --> 00:00:44,700
+Cria uma oferta, mas não vende.
+
+11
+00:00:44,919 --> 00:00:49,560
+Aí passa um tempão dando murro e ponta de faca, batendo a cabeça na parede.
+
+12
+00:00:49,760 --> 00:00:52,099
+Minha oferta não funciona, ninguém compra, não dá certo.
+
+13
+00:00:52,280 --> 00:00:55,480
+Aí chega uma hora que você percebe, você fala, cara, minha tese tava errada.
+
+14
+00:00:55,720 --> 00:01:01,560
+Aí existe o problema em dobro, que eu já vi acontecer também, é pior ainda.
+
+15
+00:01:01,700 --> 00:01:02,700
+O que é o problema em dobro?
+
+16
+00:01:02,700 --> 00:01:06,159
+Pessoa bate a cabeça aqui, tenta, tenta, tenta, tenta, minha oferta tá ruim.
+
+17
+00:01:06,720 --> 00:01:09,700
+Descobri, o problema era minha tese, minha tese tava errada, eu tava enganado.
+
+18
+00:01:10,060 --> 00:01:13,700
+Aí o que que a pessoa faz? Cria uma tese nova e vai pro produto.
+
+19
+00:01:14,619 --> 00:01:17,819
+Pô, não percebeu então o que que tá acontecendo aqui, tá?
+
+20
+00:01:18,220 --> 00:01:21,800
+Cria a tese e já vai pular pro produto, ah, eu quero criar o sistema, eu já quero fazer acontecer.
+
+21
+00:01:21,879 --> 00:01:26,879
+Não, dá a tese, vai pra conversa, valida, tá bom? Simples assim.
+
+22
+00:01:27,200 --> 00:01:31,879
+Então, ele aqui criou um roadmap pra gente também, a gente vai ler as soluções dele,
+
+23
+00:01:33,139 --> 00:01:35,839
+Primeira etapa, 10 entrevistas para identificar.
+
+24
+00:01:36,000 --> 00:01:36,899
+O problema realmente existe?
+
+25
+00:01:37,280 --> 00:01:39,679
+2. 50 a 100 outbounds.
+
+26
+00:01:39,980 --> 00:01:42,359
+Minha proposta provoca reação?
+
+27
+00:01:42,879 --> 00:01:48,280
+Outbounds aqui são contatos que você faz com outras pessoas, tá bom?
+
+28
+00:01:48,460 --> 00:01:53,260
+Então pensa assim, uma mensagem no LinkedIn, um e -mail que você mandou, uma mensagem no Instagram, uma mensagem no WhatsApp,
+
+29
+00:01:53,639 --> 00:01:54,879
+isso são outbounds.
+
+30
+00:01:55,040 --> 00:01:59,079
+Lembrando que um outbound é quando você vai até o cliente.
+
+31
+00:01:59,099 --> 00:02:01,339
+Um inbound é quando o cliente vem até você.
+
+32
+00:02:01,339 --> 00:02:04,500
+Então, olha a proposta que o GPT tá trazendo aqui pra gente.
+
+33
+00:02:04,839 --> 00:02:09,960
+50 a 100 contatos em que você vai até as pessoas.
+
+34
+00:02:10,440 --> 00:02:12,020
+E o que você tem que descobrir com isso aqui?
+
+35
+00:02:12,260 --> 00:02:16,200
+Minha proposta provoca reação ou eu sou ignorado?
+
+36
+00:02:16,460 --> 00:02:17,000
+Beleza?
+
+37
+00:02:17,040 --> 00:02:22,020
+Ele tá propondo aqui uma média de conversão de 10 a 20%.
+
+38
+00:02:22,020 --> 00:02:26,200
+Se você falar com 50 e conseguir 10 pessoas, 20 % de conversão.
+
+39
+00:02:26,500 --> 00:02:29,460
+De entrevista, né? Conversão de entrevista, de reunião marcada.
+
+40
+00:02:29,460 --> 00:02:33,020
+Se você fala com 100 pessoas e consegue 10, 10 % de conversão.
+
+41
+00:02:33,139 --> 00:02:35,960
+Ele está trabalhando nessa margem aqui para começar.
+
+42
+00:02:36,260 --> 00:02:40,540
+Aí ele propôs aqui uma landing barra demo, para ver se a pessoa quer avançar.
+
+43
+00:02:40,579 --> 00:02:43,619
+Ele propôs a ideia de uma landing page, é uma das possibilidades, beleza.
+
+44
+00:02:44,300 --> 00:02:45,419
+Quatro, oferta real.
+
+45
+00:02:45,839 --> 00:02:49,060
+Oferta real vem nesse processo de entrevista aqui.
+
+46
+00:02:49,159 --> 00:02:50,220
+A pessoa quer pagar?
+
+47
+00:02:50,460 --> 00:02:53,280
+O mais importante para a gente absorver são as perguntas aqui.
+
+48
+00:02:53,359 --> 00:02:55,159
+A gente tem que responder cada uma dessas perguntas.
+
+49
+00:02:55,540 --> 00:02:57,700
+Cinco, três clientes com cierge.
+
+50
+00:02:57,700 --> 00:03:07,159
+O que ele está chamando de cliente de concierge aqui? É aquele cliente com acompanhamento, são os seus primeiros clientes em que você quer ver a pessoa, se for uma solução aqui de software, por exemplo, você quer ver a pessoa usando.
+
+51
+00:03:07,340 --> 00:03:13,239
+Se for uma solução de entrega de serviço, você quer ver o serviço sendo entregue, gerando resultado, resolvendo o problema daquele cliente, tá bom?
+
+52
+00:03:13,579 --> 00:03:17,920
+Então, um exemplo que eu dou, a gente fez aquela oferta no domingo, do
+
+53
+00:03:18,019 --> 00:03:19,880
+e eu precisava de duas pessoas.
+
+54
+00:03:19,880 --> 00:03:26,959
+A gente fechou, já fechamos com duas pessoas, e agora elas são duas pessoas que são clientes concierges minhas.
+
+55
+00:03:27,039 --> 00:03:32,019
+Por quê? Porque elas vão receber minha atenção mais do que qualquer outro cliente que eu vou ter depois.
+
+56
+00:03:32,280 --> 00:03:34,599
+Porque eu preciso validar minha entrega com essas pessoas.
+
+57
+00:03:34,979 --> 00:03:38,900
+Então acaba sendo uma vantagem também, e eu sempre uso isso na oferta, tá?
+
+58
+00:03:38,999 --> 00:03:39,840
+Vocês podem usar também.
+
+59
+00:03:40,059 --> 00:03:43,599
+Eu falo o seguinte, eu tenho uma tese, eu quero validar essa tese,
+
+60
+00:03:43,659 --> 00:03:46,619
+eu tô disposto aqui a cobrar menos do que eu vou cobrar no futuro,
+
+61
+00:03:46,619 --> 00:03:51,479
+e te dar mais da minha atenção do que eu daria no futuro, porque eu quero validar essa minha entrega com você.
+
+62
+00:03:51,679 --> 00:03:52,559
+Isso é excelente.
+
+63
+00:03:52,579 --> 00:03:56,179
+É uma oferta que ela vem com escassez, porque ela só acontece uma vez.
+
+64
+00:03:56,459 --> 00:03:58,939
+E usar isso a seu favor é muito bom, tá bom?
+
+65
+00:03:59,780 --> 00:04:01,659
+Segunda compra, barra continuidade.
+
+66
+00:04:01,699 --> 00:04:02,860
+Aí, isso aqui vem depois.
+
+67
+00:04:03,479 --> 00:04:08,760
+Inclusive, isso aqui pode vir na validação de entrega, enquanto você está trabalhando caixa também.
+
+68
+00:04:08,999 --> 00:04:12,619
+E sete, só então entra o produto, que merece ser automatizado.
+
+69
+00:04:12,820 --> 00:04:14,119
+Olha aí, lá no final.
+
+70
+00:04:14,280 --> 00:04:16,360
+O erro que a gente comete é o quê? Começar do final.
+
+71
+00:04:16,619 --> 00:04:21,840
+E aí, pra mim, esse é o maior erro hoje que as pessoas cometem na hora de construir negócios, tá?
+
+72
+00:04:22,039 --> 00:04:26,639
+Isso pode permitir que você chegue a uma convicção muito maior em uma ou duas semanas.
+
+73
+00:04:26,979 --> 00:04:31,879
+Olha aí, uma ou duas semanas, em vez de passar três meses construindo.
+
+74
+00:04:32,320 --> 00:04:35,179
+Pô, quem aqui passou três meses construindo? Falem aí.
+
+75
+00:04:35,320 --> 00:04:39,099
+Ou mais, né? Ou mais. Eu sei, porque eu converso com vocês.
+
+76
+00:04:39,619 --> 00:04:42,099
+O MVP não precisa ser a primeira versão do produto.
+
+77
+00:04:42,319 --> 00:04:45,039
+Então, o MVP é a primeira versão da evidência.
+
+78
+00:04:45,039 --> 00:04:48,999
+O MVP começa quando a primeira pessoa pagou por aquilo, depois você entrega.
+
+79
+00:04:49,140 --> 00:04:54,899
+Lá em 2020, eu já tinha aprendido isso, mas eu levei mais 4 anos, mais ou menos 4 ou 5 anos,
+
+80
+00:04:55,039 --> 00:05:00,379
+pra de fato mudar minha metodologia de construção de negócio pra colocar isso aqui no centro.
+
+81
+00:05:00,719 --> 00:05:06,339
+Porque lá em 2020, eu já vendia um produto incompleto e ia entregando no caminho.
+
+82
+00:05:06,640 --> 00:05:08,279
+Eu já fazia isso em 2020.
+
+83
+00:05:08,580 --> 00:05:13,759
+Só que eu caía nesse viés aqui o tempo todo, de agora eu vou pro produto, agora eu vou pro produto,
+
+84
+00:05:13,759 --> 00:05:41,680
+produto perfeito, produto perfeito, e aí o negócio começa a ficar sufocado, começa a faltar oxigênio, e isso é o mais perigoso, você não está tentando provar que consegue construir, você está tentando descobrir, se eu construir, existe força suficiente do outro lado, o que é o outro lado? Mercado, para puxá -lo de mim, quando começa a existir pool, aí você está chegando muito perto daquilo que eu chamaria de um solution market fit, e para o estágio que você descreveu, eu perseguiria uma evidência
+
+85
+00:05:41,680 --> 00:06:00,919
+E isso aqui do produzir manualmente tem relação com que às vezes você tem uma solução de um software e você quer entregar o software todo automatizado, mas no final você entrega um resultado.
+
+86
+00:06:01,279 --> 00:06:09,999
+As primeiras vezes você pode entregar esse resultado manualmente. Você já está recebendo por isso. Não precisa ser um software completamente automatizado para começar.
+
+87
+00:06:09,999 --> 00:06:27,859
+Pode ser você fazendo na primeira vez. O que importa é que você entregou o resultado. E aí, enquanto você faz a entrega, você vai automatizando para você primeiro, para facilitar a sua entrega. Mas pelo menos você já validou. Validou que tem pessoas dispostas a pagarem para ter aquilo. Beleza? Isso é o mais importante que nós queremos aqui.
+
+88
+00:06:27,859 --> 00:06:27,879
+Deixa
+
+89
+00:06:27,919 --> 00:06:45,200
+É suar mesmo, que é sair mandando mensagem ali, marcando uma cold call, tentando ligar, aí você pode usar Google Maps, pode usar LinkedIn, pode usar Instagram, pode usar e -mail, mas é direto ali, você vai ouvir muito não, você vai ser completamente ignorado, mas é o primeiro caminho, beleza?
+
+90
+00:06:45,419 --> 00:06:56,379
+Vamos chamar ele aqui de força bruta, que ele trouxe aqui, 50 a 100 outbounds, 50 a 100 contatos com outras pessoas, para avaliar se a sua abordagem provoca reação.
+
+91
+00:06:56,379 --> 00:07:01,200
+Isso já é um plano. Eu gosto desse plano porque ele é imediato.
+
+92
+00:07:01,340 --> 00:07:09,019
+Dá pra você pegar agora aqui, pedir o GPT ou o Cloud pra gerar uma lista de leads pra você e começar a mandar mensagem.
+
+93
+00:07:09,180 --> 00:07:14,100
+De agora, uma hora mandando mensagem aqui, sei lá, mandei pra 50, mandei pra 100 pessoas.
+
+94
+00:07:14,260 --> 00:07:18,840
+De 100 pessoas, quantos que me responderam? 20? 10? 5? 2?
+
+95
+00:07:19,220 --> 00:07:23,499
+Isso é dado. E é um dado que você consegue rápido, em questão de horas.
+
+96
+00:07:23,499 --> 00:07:43,459
+Não precisa ficar elaborando demais aqui, sabe? Isso aqui é a velocidade. Então isso aqui é a força bruta, eu gosto dela por isso. Porém, se você está buscando eficácia, não é o modelo que eu chamaria de maior eficácia, porque é uma conexão muito fria ali, você vai ser completamente ignorado na maioria das vezes, então tem esses detalhes.
+
+97
+00:07:43,459 --> 00:07:47,600
+Mas, por ser fácil e imediato, acho que vale a tentativa sim.
+
+98
+00:07:47,840 --> 00:07:51,479
+Pra isso, o mais importante está na abordagem que vocês vão usar.
+
+99
+00:07:51,660 --> 00:07:53,160
+E aí depende de cada canal.
+
+100
+00:07:53,499 --> 00:07:55,780
+Se vai ser no LinkedIn, mensagem curta.
+
+101
+00:07:55,800 --> 00:07:57,499
+Se é no Instagram, mensagem curta também.
+
+102
+00:07:57,580 --> 00:08:00,300
+Você tem que primeiro provocar o interesse da pessoa.
+
+103
+00:08:00,560 --> 00:08:03,320
+Você não vai mandar um textão pra ela, é horrível essa abordagem.
+
+104
+00:08:03,660 --> 00:08:04,539
+Mensagem curta.
+
+105
+00:08:04,680 --> 00:08:06,860
+WhatsApp também, mensagem curta.
+
+106
+00:08:07,019 --> 00:08:08,200
+O que é mensagem curta?
+
+107
+00:08:08,240 --> 00:08:11,560
+Às vezes, galera, mensagem curta é pegar a pessoa e falar
+
+108
+00:08:11,560 --> 00:08:21,419
+Olá, Ruan, tudo bem? Vou pegar um nome diferente, né? Olá, Bruno, tudo bem? Meu nome é Ruan e eu quero saber o seguinte, você quer saber a notícia boa ou a notícia ruim?
+
+109
+00:08:21,600 --> 00:08:27,320
+Gera aquela curiosidade, não fala mais nada. A pessoa te respondeu, já teve uma taxa de resposta. A pessoa fala, ah, notícia ruim.
+
+110
+00:08:27,539 --> 00:08:38,340
+Aí você pode falar o problema. A notícia ruim é que 80 % dos negócios igual o seu vão falir nos próximos 12 meses porque não resolveram a qualificação dos leads.
+
+111
+00:08:38,340 --> 00:08:40,780
+Vamos supor que eu tô falando disso, esse é o problema que eu vou resolver.
+
+112
+00:08:41,019 --> 00:08:41,740
+Você sabia disso?
+
+113
+00:08:42,039 --> 00:08:47,220
+Mas a boa notícia, já responde ali embaixo, é que eu consigo resolver esse problema pra você.
+
+114
+00:08:47,459 --> 00:08:50,800
+Uma abordagem criativa, chama a atenção, aumentou a taxa de resposta.
+
+115
+00:08:51,340 --> 00:08:53,479
+Tem que ter essas táticas assim, tá?
+
+116
+00:08:53,620 --> 00:08:58,140
+Quando você tá fazendo uma ligação, uma conexão fria como essa aqui de outbound.
+
+117
+00:08:58,379 --> 00:09:01,120
+Tem que ter o molho aqui pra saber fazer.
+
+118
+00:09:01,220 --> 00:09:04,379
+Mas quanto mais você treina, mais você vai aprendendo.
+
+119
+00:09:04,499 --> 00:09:07,800
+Por que as pessoas estão te ignorando, por que não estão.
+
+120
+00:09:08,340 --> 00:09:20,800
+E aí, inclusive, se você é uma pessoa que não tem experiência com esse tipo de abordagem, minha recomendação é, se eu vou falar com 100 pessoas, eu vou fazer 100 abordagens diferentes, porque aí você coleta dados, você sabe que uma abordagem específica funcionou e a outra...
+
+121
+00:09:20,800 --> 00:09:33,100
+Você pode, talvez, também fazer o seguinte, eu vou fazer 10 abordagens diferentes, então, para 10 clientes eu mando a abordagem 1, para 10 clientes eu mando a abordagem 2, para 10 clientes eu mando a abordagem 3, assim você tem uma amostragem também e pode ser interessante.
+
+122
+00:09:33,100 --> 00:09:48,780
+O erro que as pessoas cometem é mandar a mesma mensagem para 100 pessoas, aí você não tem variável ali para saber, entende? A única variável é a pessoa do outro lado que você não controla, então esse é meu conselho para vocês se forem utilizar esse método de validação.
+
+123
+00:09:48,780 --> 00:09:58,100
+Eu gosto dele, tá? Porque ele é imediato, ele é rápido. E ele depende de você. Não tem que fazer landing page, não tem que criar anúncio, ele é o imediato, ele é o...
+
+124
+00:09:58,100 --> 00:10:03,840
+O que eu já posso fazer hoje? Pega e começa a fazer, beleza? Vamos ver os outros aqui agora também.
+
+125
+00:10:04,100 --> 00:10:16,499
+Legal. Primeiro ele trouxe aqui uma entrevista de comportamento passado. Se for o que eu tô pensando, eu aprendi, a gente vai ler ali, mas eu aprendi algo parecido com essa ideia desse nome aqui, estudando mais sobre design thinking.
+
+126
+00:10:16,499 --> 00:10:28,479
+Não apresente a solução primeiro. Pergunte quando o problema aconteceu pela última vez, como a pessoa resolveu, quanto perdeu, quanto gastou, o que tentou e por que continua insatisfeita.
+
+127
+00:10:28,879 --> 00:10:40,439
+A Y Combinator recomenda exatamente evitar perguntas hipotéticas como, você usaria isso? E investigar eventos reais do passado. Evidência baixa média, velocidade altíssima.
+
+128
+00:10:40,439 --> 00:10:41,919
+Legal, é bem parecido sim.
+
+129
+00:10:42,080 --> 00:10:45,180
+Tem uma técnica do design thinking que é chamada de entrevista.
+
+130
+00:10:45,200 --> 00:10:46,919
+Tem aqui ó, entrevista de comportamento.
+
+131
+00:10:47,200 --> 00:10:52,879
+E nessa técnica de entrevista, você pode utilizar um histórico diferente.
+
+132
+00:10:53,200 --> 00:10:55,479
+Você pode começar pelo seu propósito.
+
+133
+00:10:55,560 --> 00:10:58,080
+Por exemplo, eu posso chegar aqui, vou pegar outro nome agora.
+
+134
+00:10:58,439 --> 00:11:03,200
+Olá Raquel, tudo bem? Meu nome é Ruan e eu sou especialista em qualificação de leads.
+
+135
+00:11:03,419 --> 00:11:05,160
+Mas eu não estou aqui para te vender nada agora não.
+
+136
+00:11:05,160 --> 00:11:11,379
+Na verdade, eu estou fazendo uma pesquisa para poder entender por que a maioria das empresas tem dificuldade para vender.
+
+137
+00:11:12,160 --> 00:11:18,019
+Então, quando você chega a se posicionar, eu poderia até falar, em vez de eu ser especialista em qualificação de lead, ruim, já parece vendedor,
+
+138
+00:11:18,039 --> 00:11:22,200
+você pode falar, olá Raquel, tudo bem? Me chamo Ruan e eu sou um pesquisador na área de vendas.
+
+139
+00:11:22,200 --> 00:11:23,800
+E eu estou fazendo uma pesquisa aqui para entender.
+
+140
+00:11:24,120 --> 00:11:28,499
+Se falar pesquisador na área, enquanto eu vou falando, eu estou mudando a cópia aqui, tá?
+
+141
+00:11:28,600 --> 00:11:30,499
+Porque se eu fosse escrever ela, eu faria esses ajustes.
+
+142
+00:11:30,860 --> 00:11:32,580
+Pesquisador de vendas ainda parece um vendedor.
+
+143
+00:11:32,580 --> 00:11:47,200
+Eu poderia falar, por exemplo, que eu sou um pesquisador de modelos de negócio, que eu sou um pesquisador de administração, alguma coisa do tipo, de processos, e eu estou entrevistando algumas empresas para entender dessas empresas por que a maioria das empresas tem dificuldade para vender.
+
+144
+00:11:47,580 --> 00:11:56,580
+E aí eu começo assim e eu posso falar, todas as empresas que eu entrevistar aqui, no final eu vou entregar um relatório com todas as respostas que eu tive dessas empresas.
+
+145
+00:11:56,580 --> 00:12:00,280
+Se você quer participar dessa pesquisa, é rápido, é tranquilo, não vou te vender nada no final.
+
+146
+00:12:00,320 --> 00:12:03,140
+Eu realmente quero entender o que você está passando.
+
+147
+00:12:03,260 --> 00:12:05,240
+Legal? Isso pode te ajudar a ter uma abertura.
+
+148
+00:12:05,379 --> 00:12:07,479
+Isso seria uma das minhas abordagens, tá?
+
+149
+00:12:07,580 --> 00:12:11,200
+Eu faria outros textos e faria aquela mesma lógica que eu falei para vocês.
+
+150
+00:12:11,459 --> 00:12:14,879
+Para 10 empresas eu mando assim, para outras 10 eu mando assim, para outras 10 eu mando assim.
+
+151
+00:12:14,979 --> 00:12:20,459
+E dessa forma, vocês vão tendo variáveis para ver o que está funcionando de abordagem e o que não está funcionando.
+
+152
+00:12:20,700 --> 00:12:21,100
+Beleza?
+
+153
+00:12:21,340 --> 00:12:22,580
+Então, olha que interessante.
+
+154
+00:12:23,019 --> 00:12:25,660
+Ele já falou aqui que vão ser evidências de baixa média,
+
+155
+00:12:25,660 --> 00:12:30,260
+Mas isso aqui serve para validar se as pessoas realmente têm aquele problema e se elas já tentaram resolver.
+
+156
+00:12:30,600 --> 00:12:35,300
+E tem um segredinho aqui nessa técnica que eu gosto muito, sempre que eu uso ela, que é o seguinte.
+
+157
+00:12:35,499 --> 00:12:44,140
+A resposta que as pessoas dão vão ser exatamente as palavras que você vai utilizar para construir a sua copy.
+
+158
+00:12:44,360 --> 00:12:48,919
+Se você não sabe o que é copy, copy é a sua abordagem persuasiva de venda.
+
+159
+00:12:49,140 --> 00:12:55,320
+Então você usa as próprias palavras que o seu ICP te deu para mostrar como a sua solução resolve.
+
+160
+00:12:55,660 --> 00:12:57,160
+E você usa o próprio contexto deles.
+
+161
+00:12:57,519 --> 00:12:59,879
+Por exemplo, eu já rodei muito pesquisa assim, tá?
+
+162
+00:12:59,979 --> 00:13:03,180
+Com empreendedores, principalmente empreendedores da área criativa.
+
+163
+00:13:03,379 --> 00:13:06,140
+E eu posso falar aqui, ó, eu posso começar minha oferta falando aqui.
+
+164
+00:13:06,220 --> 00:13:11,479
+Se você é uma pessoa que gosta de construir produtos encantadores, mas que tem dificuldade pra vender,
+
+165
+00:13:11,680 --> 00:13:16,600
+passa horas, madrugadas inteiras construindo porque você se diverte, você gosta de construir isso,
+
+166
+00:13:16,660 --> 00:13:21,760
+mas no final fica perdido porque não sabe como vender essa solução, então eu posso te ajudar.
+
+167
+00:13:22,219 --> 00:13:24,199
+Então aqui, o que é o reverse demo?
+
+168
+00:13:24,380 --> 00:13:27,539
+É você pedir pro seu cliente demonstrar como ele faz isso hoje.
+
+169
+00:13:28,039 --> 00:13:29,400
+Excelente também pra coletar informação.
+
+170
+00:13:29,880 --> 00:13:32,500
+Eu diria que a evidência aqui ainda é baixa média, tá?
+
+171
+00:13:32,500 --> 00:13:38,940
+Baixa, média, mas entra em velocidade altíssima porque você pode utilizar a mesma abordagem de entrevista, ok?
+
+172
+00:13:39,300 --> 00:13:44,019
+Teste de intensidade do problema. Descubra frequência, custo, consequência e urgência.
+
+173
+00:13:44,300 --> 00:13:46,759
+Quanto isso te custou nos últimos 30 dias?
+
+174
+00:13:47,019 --> 00:13:49,820
+É muito melhor que... Isso é importante pra você?
+
+175
+00:13:50,199 --> 00:13:57,679
+Se ninguém está perdendo dinheiro, tempo, reputação ou oportunidade, talvez você tenha encontrado uma inconveniência e não um mercado.
+
+176
+00:13:57,679 --> 00:14:22,279
+Isso aqui é muito bom, tá? Isso aqui é muito bom, porque o que ele tá trazendo aqui é um critério, na verdade, esse terceiro aqui não é nem uma abordagem de validação, dá pra falar que é, na verdade, mas é um critério. Qual que é o critério que ele tá fazendo aqui? Perguntar pra pessoa, isso é importante pra você? A pessoa vai falar, é importante pra mim, mas às vezes é importante porque o jeito atual é só inconveniente, mas não é algo que incomoda tanto a ponto de querer pagar por isso.
+
+177
+00:14:22,279 --> 00:14:34,719
+Então, quando você vem para um quanto isso te custou nos últimos 30 dias, você está querendo coletar um dado, você está querendo entender, deixa eu ver se isso aqui dói, ou se na verdade é só algo que incomoda ali, beleza?
+
+178
+00:14:35,159 --> 00:14:36,820
+Teste de mensagem por outbound.
+
+179
+00:14:37,019 --> 00:14:42,460
+Olha, até agora, para mim, isso tudo são abordagens que você faz após esse teste, né?
+
+180
+00:14:42,519 --> 00:14:45,559
+Então, ele trouxe aqui uma abordagem outbound, vamos ver.
+
+181
+00:14:45,779 --> 00:14:51,699
+Pegue de 50 a 100 pessoas do seu perfil de cliente e mande uma abordagem baseada exclusivamente na tese de valor.
+
+182
+00:14:52,279 --> 00:14:54,480
+Não vendo uma empresa, vendo a transformação.
+
+183
+00:14:54,679 --> 00:14:59,239
+Estamos criando X para empresas que sofrem Y e querem alcançar Z.
+
+184
+00:14:59,599 --> 00:15:00,279
+Posso te mostrar?
+
+185
+00:15:00,500 --> 00:15:04,179
+Isso aqui é um tipo de abordagem, mas eu não faria 100 abordagens assim.
+
+186
+00:15:04,480 --> 00:15:06,239
+Vocês podem até pedir para o GPT, né?
+
+187
+00:15:06,340 --> 00:15:15,380
+Eu poderia chegar nele e falar assim, vou iniciar um processo de outbound e entrar em contato com 100 ICPs.
+
+188
+00:15:15,739 --> 00:15:17,900
+Tenho essa abordagem aqui.
+
+189
+00:15:17,900 --> 00:15:25,219
+Eu coloco essa abordagem aqui pra ele, mas quero ter variáveis para conseguir mais informações.
+
+190
+00:15:25,679 --> 00:15:30,099
+Então vou mandar essa para 10 das 100 pessoas.
+
+191
+00:15:30,460 --> 00:15:39,219
+Quero mais 9 abordagens diferentes para eu validar qual tem maior taxa de resposta.
+
+192
+00:15:39,659 --> 00:15:40,179
+Pronto.
+
+193
+00:15:40,239 --> 00:15:43,779
+Com isso aqui agora, ele vai me entregar 10 outras abordagens.
+
+194
+00:15:43,960 --> 00:15:45,940
+Pronto, rapidinho a gente tem isso hoje em dia.
+
+195
+00:15:46,119 --> 00:15:47,719
+Inteligência artificial é bom demais, né?
+
+196
+00:15:48,000 --> 00:15:56,800
+Olha aí, iniciou uma conversa e aí você pode usar essas abordagens aqui no WhatsApp, no Instagram, no LinkedIn, já é diferente.
+
+197
+00:15:57,460 --> 00:16:03,119
+Curtinho pra pessoa ler e ficar com vontade de te responder, mas a gente tem um exemplo aí de como fazer isso.
+

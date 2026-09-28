@@ -1,0 +1,1170 @@
+{
+  "resources": [
+    {
+      "id": "enquadramento",
+      "title": "Enquadramento de aprendizagem",
+      "url": "https://docs.google.com/document/d/1LWSikA5mpC8WIsyEolTphGytkFbTA4nm-dFqIGmSEgI/edit?usp=sharing",
+      "kind": "Equipe",
+      "desc": "Documento apresentado na abertura. Ruan enviou a versão de edição e Nanda reenviou uma versão de visualização do mesmo documento.",
+      "refs": [
+        {
+          "day": "01",
+          "line": 397,
+          "sender": "Ruan Braz",
+          "time": "00:29:55"
+        },
+        {
+          "day": "01",
+          "line": 466,
+          "sender": "Nanda da Overlens",
+          "time": "00:38:34"
+        }
+      ]
+    },
+    {
+      "id": "codex-site",
+      "title": "Site criado com Codex",
+      "url": "https://codex-atlas-overlens.vercel.app/",
+      "kind": "Equipe",
+      "desc": "Resultado da demonstração de criação e publicação de um site na A02.",
+      "refs": [
+        {
+          "day": "01",
+          "line": 722,
+          "sender": "Ruan Braz",
+          "time": "01:03:30"
+        }
+      ]
+    },
+    {
+      "id": "claude-site",
+      "title": "Site criado com Claude Code",
+      "url": "https://claude-atlas-overlens-eight.vercel.app/",
+      "kind": "Equipe",
+      "desc": "Endereço efetivamente enviado por Ruan. O endereço sem “-eight”, presente em cópias do prompt de participantes, não é o link final enviado por ele.",
+      "refs": [
+        {
+          "day": "01",
+          "line": 732,
+          "sender": "Ruan Braz",
+          "time": "01:05:05"
+        }
+      ]
+    },
+    {
+      "id": "sos",
+      "title": "SOS Atlas — central de apoio",
+      "url": "https://sosatlasnegocios.vercel.app",
+      "kind": "Apoio geral",
+      "desc": "Central de materiais, explicações e passos das aulas. Nanda descreve o conteúdo no chat do dia 01 às 02:14:42. Apoio compartilhado entre aulas, sem comprovar um arquivo específico para cada uma.",
+      "refs": [
+        {
+          "day": "01",
+          "line": 824,
+          "sender": "Nanda da Overlens",
+          "time": "01:09:50"
+        },
+        {
+          "day": "01",
+          "line": 1496,
+          "sender": "Nanda da Overlens",
+          "time": "02:14:42"
+        },
+        {
+          "day": "02",
+          "line": 937,
+          "sender": "Nanda da Overlens",
+          "time": "01:27:53"
+        }
+      ]
+    },
+    {
+      "id": "sos1",
+      "title": "SOS Atlas — Dia 01",
+      "url": "https://sosatlasnegocios.vercel.app/#/dia-01",
+      "kind": "Apoio geral",
+      "desc": "Índice do primeiro dia enviado por Nanda após a explicação do ambiente de trabalho.",
+      "refs": [
+        {
+          "day": "01",
+          "line": 1281,
+          "sender": "Nanda da Overlens",
+          "time": "01:55:01"
+        }
+      ]
+    },
+    {
+      "id": "briefing",
+      "title": "SOS — briefing do negócio e BMC",
+      "url": "https://sosatlasnegocios.vercel.app/#/dia-01/briefing-do-negocio",
+      "kind": "Equipe",
+      "desc": "Nanda enviou esta seção ao responder especificamente sobre o prompt do BMC em HTML. A relação com a A06 é direta; o apoio à A05 também corresponde ao título da seção e ao assunto da aula.",
+      "refs": [
+        {
+          "day": "01",
+          "line": 2283,
+          "sender": "Nanda da Overlens",
+          "time": "05:09:48"
+        }
+      ]
+    },
+    {
+      "id": "juntar",
+      "title": "SOS — juntar documentos",
+      "url": "https://sosatlasnegocios.vercel.app/#/dia-01/juntar-docs",
+      "kind": "Associação provável",
+      "desc": "Link enviado por Nanda para o “último prompt”. Está associado aqui à leitura/consolidação da pesquisa, na A09, pela sequência do chat. A transcrição editada não permite confirmar o encaixe exato dessa seção.",
+      "refs": [
+        {
+          "day": "01",
+          "line": 2546,
+          "sender": "Nanda da Overlens",
+          "time": "05:42:48"
+        },
+        {
+          "day": "01",
+          "line": 2596,
+          "sender": "Nanda da Overlens",
+          "time": "05:48:20"
+        }
+      ]
+    },
+    {
+      "id": "prompts",
+      "title": "SOS Atlas — banco de prompts",
+      "url": "https://sosatlasnegocios.vercel.app/#/prompts",
+      "kind": "Apoio geral",
+      "desc": "Área que Nanda anunciou para reunir os prompts separados das explicações. É uma referência geral; não comprova que todos os prompts específicos estejam disponíveis hoje.",
+      "refs": [
+        {
+          "day": "01",
+          "line": 2909,
+          "sender": "Nanda da Overlens",
+          "time": "06:30:05"
+        }
+      ]
+    },
+    {
+      "id": "sistema",
+      "title": "SOS — briefing, PRD, spec e workflows",
+      "url": "https://sosatlasnegocios.vercel.app/#/dia-01/briefing-prd-spec-workflows",
+      "kind": "Equipe",
+      "desc": "Prompt e explicação por partes da construção do sistema. Nanda também informou ter corrigido o erro de “spec” e organizado os blocos.",
+      "refs": [
+        {
+          "day": "01",
+          "line": 3262,
+          "sender": "Nanda da Overlens",
+          "time": "07:30:55"
+        },
+        {
+          "day": "01",
+          "line": 3340,
+          "sender": "Nanda da Overlens",
+          "time": "07:38:14"
+        },
+        {
+          "day": "01",
+          "line": 3439,
+          "sender": "Nanda da Overlens",
+          "time": "07:53:06"
+        }
+      ]
+    },
+    {
+      "id": "quadro",
+      "title": "Quadro branco do Atlas — Figma",
+      "url": "https://www.figma.com/board/PbpEXh5DAKTWuT0njBQnqb/Atlas-para-Negocios?node-id=12-4&t=uyMxKRiZiB2EoOXN-1",
+      "kind": "Equipe",
+      "desc": "Quadro branco compartilhado por Ruan no dia 02. As aulas mostram seu uso nos dois dias; Gabriela Werneck aponta a aba do Dia 1 no chat do dia 02, às 07:10:08–07:10:16. O vínculo por assunto não confirma cada desenho no estado atual do quadro.",
+      "refs": [
+        {
+          "day": "02",
+          "line": 2572,
+          "sender": "Ruan Braz",
+          "time": "07:07:38"
+        }
+      ]
+    },
+    {
+      "id": "os",
+      "title": "Overlens OS — exemplo de sistema",
+      "url": "https://overlens-os.vercel.app/login",
+      "kind": "Demonstração geral",
+      "desc": "Sistema mostrado no contexto da apresentação da Overlens. É uma página de login, não o download do projeto Marabilia. Não foi possível vinculá-lo com segurança a uma das 25 aulas editadas.",
+      "refs": [
+        {
+          "day": "02",
+          "line": 2582,
+          "sender": "Ruan Braz",
+          "time": "07:09:07"
+        }
+      ]
+    },
+    {
+      "id": "marabilia",
+      "title": "Marabilia — landing page publicada",
+      "url": "https://marabilia-overlens.vercel.app/",
+      "kind": "Equipe",
+      "desc": "Resultado público do projeto de landing page. Apoia A21 e A23 e é compartilhado no contexto da abertura da A24. O endereço do site não substitui o repositório do projeto.",
+      "refs": [
+        {
+          "day": "02",
+          "line": 2862,
+          "sender": "Ruan Braz",
+          "time": "07:54:55"
+        }
+      ]
+    },
+    {
+      "id": "sos2",
+      "title": "SOS Atlas — Dia 02",
+      "url": "https://sosatlasnegocios.vercel.app/#/dia-02",
+      "kind": "Participante / portal da equipe",
+      "desc": "Endereço da seção do segundo dia, reenviado por Daniel Silva. Nanda compartilhou a página inicial do SOS nesse dia, mas não este endereço específico no chat disponível.",
+      "refs": [
+        {
+          "day": "02",
+          "line": 1790,
+          "sender": "Daniel Silva",
+          "time": "04:49:03"
+        },
+        {
+          "day": "02",
+          "line": 1796,
+          "sender": "Daniel Silva",
+          "time": "04:49:12"
+        }
+      ]
+    },
+    {
+      "id": "dribbble",
+      "title": "Dribbble — referências visuais",
+      "url": "https://dribbble.com/",
+      "kind": "Participante / citado em aula",
+      "desc": "Compartilhado por Daniel ao explicar a referência usada na melhoria da interface. A21 usa a busca por “yellow landing page”; A22 menciona Dribbble junto com Motion.",
+      "refs": [
+        {
+          "day": "02",
+          "line": 697,
+          "sender": "Daniel Silva",
+          "time": "01:09:30"
+        }
+      ]
+    },
+    {
+      "id": "dashboard",
+      "title": "Referência de dashboard enviada por Allan",
+      "url": "https://dribbble.com/shots/24659454-Customer-Journey-CRM-Dashboard",
+      "kind": "Participante",
+      "desc": "Allan sugeriu este layout para o sistema. O chat não confirma que seja a mesma imagem escolhida por Ruan.",
+      "refs": [
+        {
+          "day": "02",
+          "line": 433,
+          "sender": "Allan Rehder",
+          "time": "00:40:14"
+        }
+      ]
+    },
+    {
+      "id": "motion",
+      "title": "Motion — referências de anúncios",
+      "url": "https://projects.motionapp.com",
+      "kind": "Participante / citado em aula",
+      "desc": "Raj escreveu “projects.motionapp.com” sem protocolo. Foi acrescentado apenas https:// para tornar o endereço clicável. A22 cita Motion e mostra a busca de anúncios de referência.",
+      "refs": [
+        {
+          "day": "02",
+          "line": 1973,
+          "sender": "Raj",
+          "time": "05:10:12"
+        }
+      ]
+    },
+    {
+      "id": "storybook",
+      "title": "Storybook — endereço sugerido no chat",
+      "url": "https://storybook.js.org/",
+      "kind": "Participante",
+      "desc": "Ruan cita Storybook na A13. Luiz enviou este endereço em forma de pergunta; a confirmação do URL pela equipe não consta do chat.",
+      "refs": [
+        {
+          "day": "02",
+          "line": 454,
+          "sender": "Luiz",
+          "time": "00:43:42"
+        }
+      ]
+    },
+    {
+      "id": "glossario",
+      "title": "Glossário do Ruan Braz",
+      "url": "https://glossario-do-ruan-braz.vercel.app/",
+      "kind": "Participante",
+      "desc": "Link enviado por Daniel Silva durante a explicação de infraestrutura. Serve como complemento de termos, sem atribuir o envio a Ruan ou Nanda.",
+      "refs": [
+        {
+          "day": "02",
+          "line": 619,
+          "sender": "Daniel Silva",
+          "time": "01:02:53"
+        }
+      ]
+    },
+    {
+      "id": "livro-drive",
+      "title": "Livro compartilhado por Vera — título não identificado",
+      "url": "https://drive.google.com/file/d/1ZPCtxDqnsi0hQk4KfUEDffxt7ewGs72P/view?usp=sharing",
+      "kind": "Associação provável / participante",
+      "desc": "Vera escreveu somente “O livro”. A08 cita O mito do empreendedor, mas o texto do chat não identifica o arquivo do Drive. Não foi confirmado que seja o mesmo livro.",
+      "refs": [
+        {
+          "day": "01",
+          "line": 2475,
+          "sender": "Vera Medina",
+          "time": "05:32:57"
+        }
+      ]
+    },
+    {
+      "id": "analise",
+      "title": "Artificial Analysis — comparação de modelos",
+      "url": "https://artificialanalysis.ai/models",
+      "kind": "Participante",
+      "desc": "Complemento enviado por Paulo Borges. Tem relação temática com modelos de IA na A04, sem indicação específica de Ruan ou Nanda.",
+      "refs": [
+        {
+          "day": "01",
+          "line": 825,
+          "sender": "Paulo Borges",
+          "time": "01:09:55"
+        }
+      ]
+    },
+    {
+      "id": "wispr",
+      "title": "Wispr Flow — ditado por voz",
+      "url": "https://wisprflow.ai/",
+      "kind": "Participante",
+      "desc": "Kysa sugeriu a ferramenta para enviar áudio no terminal e em outros aplicativos. É uma alternativa compartilhada no chat, não uma exigência da A05.",
+      "refs": [
+        {
+          "day": "01",
+          "line": 1456,
+          "sender": "Kysa",
+          "time": "02:09:08"
+        }
+      ]
+    },
+    {
+      "id": "impeccable",
+      "title": "Impeccable — sugestão de participante",
+      "url": "https://impeccable.style/",
+      "kind": "Participante",
+      "desc": "Enviado por Adriano Boller. Não há comprovação de uso na aula; A13 registra o pedido de Ruan para não continuar indicando ferramentas naquele momento.",
+      "refs": [
+        {
+          "day": "02",
+          "line": 219,
+          "sender": "Adriano Boller",
+          "time": "00:27:55"
+        }
+      ]
+    },
+    {
+      "id": "skills",
+      "title": "Skills.sh — sugestão de participante",
+      "url": "https://www.skills.sh/",
+      "kind": "Participante",
+      "desc": "Preservado exatamente como enviado por Adriano Boller. Messias relata às 00:34:12 que esse endereço não abria. Não há comprovação de uso por Ruan.",
+      "refs": [
+        {
+          "day": "02",
+          "line": 219,
+          "sender": "Adriano Boller",
+          "time": "00:27:55"
+        }
+      ]
+    },
+    {
+      "id": "core",
+      "title": "Core — área do aluno",
+      "url": "https://core.overlens.com.br/",
+      "kind": "Administrativo",
+      "desc": "Acesso à plataforma e aos grupos; não é material exclusivo de uma aula.",
+      "refs": [
+        {
+          "day": "01",
+          "line": 319,
+          "sender": "Nanda da Overlens",
+          "time": "00:21:53"
+        },
+        {
+          "day": "02",
+          "line": 133,
+          "sender": "Nanda da Overlens",
+          "time": "00:18:39"
+        }
+      ]
+    },
+    {
+      "id": "overpass",
+      "title": "Overpass — informações",
+      "url": "https://swarm.overlens.com.br/",
+      "kind": "Administrativo",
+      "desc": "Página enviada para informações sobre o Overpass.",
+      "refs": [
+        {
+          "day": "01",
+          "line": 339,
+          "sender": "Nanda da Overlens",
+          "time": "00:24:16"
+        }
+      ]
+    },
+    {
+      "id": "vanguarda",
+      "title": "Vanguarda — apresentação e inscrição",
+      "url": "https://www.overlens.com.br/vanguarda",
+      "kind": "Administrativo",
+      "desc": "Divulgação comercial. Ruan e Nanda enviaram versões com e sem www nos dois dias.",
+      "refs": [
+        {
+          "day": "01",
+          "line": 2997,
+          "sender": "Ruan Braz",
+          "time": "06:37:10"
+        },
+        {
+          "day": "01",
+          "line": 3379,
+          "sender": "Nanda da Overlens",
+          "time": "07:43:23"
+        },
+        {
+          "day": "02",
+          "line": 1181,
+          "sender": "Nanda da Overlens",
+          "time": "01:58:25"
+        },
+        {
+          "day": "02",
+          "line": 1671,
+          "sender": "Ruan Braz",
+          "time": "02:56:09"
+        }
+      ]
+    },
+    {
+      "id": "comercial",
+      "title": "Comercial / dúvidas de pagamento",
+      "url": "https://wa.me/553188785421",
+      "kind": "Administrativo",
+      "desc": "Contato compartilhado por Nanda para dúvidas comerciais.",
+      "refs": [
+        {
+          "day": "01",
+          "line": 1687,
+          "sender": "Nanda da Overlens",
+          "time": "02:34:54"
+        },
+        {
+          "day": "02",
+          "line": 1680,
+          "sender": "Nanda da Overlens",
+          "time": "02:56:40"
+        }
+      ]
+    },
+    {
+      "id": "suporte",
+      "title": "Suporte a alunos Overpass",
+      "url": "https://wa.me/5531936185616",
+      "kind": "Administrativo",
+      "desc": "Contato de suporte compartilhado por Nanda.",
+      "refs": [
+        {
+          "day": "02",
+          "line": 1591,
+          "sender": "Nanda da Overlens",
+          "time": "02:43:51"
+        },
+        {
+          "day": "02",
+          "line": 1680,
+          "sender": "Nanda da Overlens",
+          "time": "02:56:40"
+        },
+        {
+          "day": "02",
+          "line": 2492,
+          "sender": "Nanda da Overlens",
+          "time": "06:56:59"
+        }
+      ]
+    },
+    {
+      "id": "network",
+      "title": "Grupo Atlas Networking",
+      "url": "https://chat.whatsapp.com/CXvCKk13K2WANuk3tBBrcc",
+      "kind": "Administrativo",
+      "desc": "Grupo indicado por Nanda para networking entre participantes.",
+      "refs": [
+        {
+          "day": "02",
+          "line": 1195,
+          "sender": "Nanda da Overlens",
+          "time": "02:00:45"
+        },
+        {
+          "day": "02",
+          "line": 1329,
+          "sender": "Nanda da Overlens",
+          "time": "02:22:54"
+        },
+        {
+          "day": "02",
+          "line": 1368,
+          "sender": "Nanda da Overlens",
+          "time": "02:25:16"
+        }
+      ]
+    },
+    {
+      "id": "consultor",
+      "title": "Contato com a equipe Overlens",
+      "url": "https://r.overlens.com.br/consultor",
+      "kind": "Administrativo",
+      "desc": "Canal de atendimento informado por Nanda.",
+      "refs": [
+        {
+          "day": "02",
+          "line": 2494,
+          "sender": "Nanda da Overlens",
+          "time": "06:57:44"
+        },
+        {
+          "day": "02",
+          "line": 3014,
+          "sender": "Nanda da Overlens",
+          "time": "08:06:56"
+        }
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "file": "Transcrições/Dia 01/[B] [TRILHA] [Atlas para Negócios] [2026] A01 - Abertura e enquadramento de aprendizagem.txt",
+      "id": "A01",
+      "title": "Abertura e enquadramento de aprendizagem",
+      "day": "01",
+      "summary": "Documento de enquadramento de aprendizagem.",
+      "primary": [
+        "enquadramento"
+      ],
+      "support": [
+        "sos1"
+      ],
+      "prompts": [],
+      "evidence": "00:03:54–00:04:03: Ruan anuncia o documento e informa seu título.",
+      "note": "Os estudos citados na abertura são referências dentro do documento. Não há links separados para esses artigos nos chats.",
+      "supplement": [],
+      "path": "Dia 01/MD/A01 - Materiais.md",
+      "txtPath": "Dia 01/TXT/A01 - Materiais.txt"
+    },
+    {
+      "file": "Transcrições/Dia 01/[B] [TRILHA] [Atlas para Negócios] [2026] A02 - Um site publicado em 10 minutos com Claude Code e Codex.txt",
+      "id": "A02",
+      "title": "Um site publicado em 10 minutos com Claude Code e Codex",
+      "day": "01",
+      "summary": "Os dois sites da demonstração e uma cópia do prompt.",
+      "primary": [
+        "codex-site",
+        "claude-site"
+      ],
+      "support": [
+        "sos1",
+        "prompts"
+      ],
+      "prompts": [
+        "P02"
+      ],
+      "evidence": "00:07:09–00:08:18: publicação na Vercel; 00:17:10: esclarecimento sobre os sites oficiais.",
+      "note": "Há vários sites de participantes no chat. Os dois links principais desta aula são os enviados pelo próprio Ruan. O prompt recuperado foi colado por Vera Medina.",
+      "supplement": [],
+      "path": "Dia 01/MD/A02 - Materiais.md",
+      "txtPath": "Dia 01/TXT/A02 - Materiais.txt"
+    },
+    {
+      "file": "Transcrições/Dia 01/[B] [TRILHA] [Atlas para Negócios] [2026] A03 - Energia no lugar certo - dos comos aos porquês.txt",
+      "id": "A03",
+      "title": "Energia no lugar certo - dos comos aos porquês",
+      "day": "01",
+      "summary": "Apoio à explicação sobre onde colocar energia e ao início da organização do projeto.",
+      "primary": [],
+      "support": [
+        "sos1"
+      ],
+      "prompts": [],
+      "evidence": "00:01:37–00:02:34: recursos e energia; 00:11:06: transição para o quadro branco.",
+      "note": "Nenhum link ou arquivo exclusivo desta aula foi identificado no chat. A referência disponível é o material geral do Dia 01.",
+      "supplement": [],
+      "path": "Dia 01/MD/A03 - Materiais.md",
+      "txtPath": "Dia 01/TXT/A03 - Materiais.txt"
+    },
+    {
+      "file": "Transcrições/Dia 01/[B] [TRILHA] [Atlas para Negócios] [2026] A04 - As camadas da IA e o ambiente de trabalho.txt",
+      "id": "A04",
+      "title": "As camadas da IA e o ambiente de trabalho",
+      "day": "01",
+      "summary": "Quadro das camadas da IA e orientação de instalação das IDEs.",
+      "primary": [
+        "quadro"
+      ],
+      "support": [
+        "sos1",
+        "sos"
+      ],
+      "prompts": [],
+      "evidence": "00:00:00: início da explicação das LLMs; 00:14:15–00:15:34: instalação de IDEs; 00:29:26: ambiente configurado.",
+      "note": "Nanda confirma os tutoriais de instalação no SOS no dia 01, às 01:39:11 (linha 1110). O quadro foi enviado no dia 02. Artificial Analysis é complemento de participante.",
+      "supplement": [
+        "analise"
+      ],
+      "path": "Dia 01/MD/A04 - Materiais.md",
+      "txtPath": "Dia 01/TXT/A04 - Materiais.txt"
+    },
+    {
+      "file": "Transcrições/Dia 01/[B] [TRILHA] [Atlas para Negócios] [2026] A05 - Hipótese de negócio - briefing por áudio e as seis hipóteses.txt",
+      "id": "A05",
+      "title": "Hipótese de negócio - briefing por áudio e as seis hipóteses",
+      "day": "01",
+      "summary": "Briefing do negócio, BMC inicial e hipóteses a validar.",
+      "primary": [
+        "briefing"
+      ],
+      "support": [
+        "prompts"
+      ],
+      "prompts": [
+        "P05"
+      ],
+      "evidence": "00:02:20–00:06:05: ditado do briefing; 00:12:37: arquivos de briefing e BMC; 00:26:37: hipóteses.",
+      "note": "Nanda aponta o áudio/prompt no SOS às 02:34:28 do dia 01 (linha 1680). O chat registra uma mensagem de Ruan truncada às 02:51:02 (linha 1799); por isso incluí também o trecho ditado da transcrição. Os arquivos .md gerados em tela não estão nesta pasta.",
+      "supplement": [
+        "wispr"
+      ],
+      "path": "Dia 01/MD/A05 - Materiais.md",
+      "txtPath": "Dia 01/TXT/A05 - Materiais.txt"
+    },
+    {
+      "file": "Transcrições/Dia 01/[B] [TRILHA] [Atlas para Negócios] [2026] A06 - Business Model Canvas - do Markdown ao painel interativo.txt",
+      "id": "A06",
+      "title": "Business Model Canvas - do Markdown ao painel interativo",
+      "day": "01",
+      "summary": "Prompt original do BMC em HTML com post-its editáveis.",
+      "primary": [
+        "briefing"
+      ],
+      "support": [
+        "prompts"
+      ],
+      "prompts": [
+        "P06"
+      ],
+      "evidence": "00:00:38: pedido para transformar o BMC; 00:10:47: quadrantes do painel.",
+      "note": "O prompt está integralmente no chat, enviado por Ruan às 02:56:31. A seção do SOS foi reenviada por Nanda depois, às 05:09:48, em resposta direta sobre esse material.",
+      "supplement": [],
+      "path": "Dia 01/MD/A06 - Materiais.md",
+      "txtPath": "Dia 01/TXT/A06 - Materiais.txt"
+    },
+    {
+      "file": "Transcrições/Dia 01/[B] [TRILHA] [Atlas para Negócios] [2026] A07 - Por que validar e o prompt de pesquisa profunda.txt",
+      "id": "A07",
+      "title": "Por que validar e o prompt de pesquisa profunda",
+      "day": "01",
+      "summary": "Prompt de pesquisa de mercado e validação de hipóteses.",
+      "primary": [],
+      "support": [
+        "prompts",
+        "sos1"
+      ],
+      "prompts": [
+        "P07",
+        "P07T"
+      ],
+      "evidence": "00:07:20–00:09:45: ditado da pesquisa; 00:09:58–00:10:15: ajuste de TAM/SAM/SOM.",
+      "note": "Nanda confirma “Já está no SOS” às 05:04:01 e “Com as explicações” às 05:04:14 (linhas 2226 e 2236). Suelen reproduz o prompt em duas mensagens; preservei os trechos sem completar silenciosamente a parte truncada.",
+      "supplement": [],
+      "path": "Dia 01/MD/A07 - Materiais.md",
+      "txtPath": "Dia 01/TXT/A07 - Materiais.txt"
+    },
+    {
+      "file": "Transcrições/Dia 01/[B] [TRILHA] [Atlas para Negócios] [2026] A08 - O mercado é um jogo, e pensamento sistêmico.txt",
+      "id": "A08",
+      "title": "O mercado é um jogo, e pensamento sistêmico",
+      "day": "01",
+      "summary": "Quadro branco para os conceitos de mercado, teoria dos jogos e pensamento sistêmico.",
+      "primary": [
+        "quadro"
+      ],
+      "support": [
+        "sos1"
+      ],
+      "prompts": [],
+      "evidence": "00:03:32: indicação de O mito do empreendedor; 00:11:04: dilema do prisioneiro; 00:24:20: pensamento sistêmico.",
+      "note": "Leitura citada: O mito do empreendedor. O arquivo do Drive enviado por Vera pode ter relação com a discussão, mas seu título não aparece no chat e não foi confirmado.",
+      "supplement": [
+        "livro-drive"
+      ],
+      "path": "Dia 01/MD/A08 - Materiais.md",
+      "txtPath": "Dia 01/TXT/A08 - Materiais.txt"
+    },
+    {
+      "file": "Transcrições/Dia 01/[B] [TRILHA] [Atlas para Negócios] [2026] A09 - Lendo a pesquisa e fazendo as contas do negócio.txt",
+      "id": "A09",
+      "title": "Lendo a pesquisa e fazendo as contas do negócio",
+      "day": "01",
+      "summary": "Referências para leitura da pesquisa e cálculo das metas do negócio.",
+      "primary": [
+        "juntar",
+        "quadro"
+      ],
+      "support": [
+        "prompts"
+      ],
+      "prompts": [],
+      "evidence": "00:00:00: leitura dos dados da pesquisa; 00:07:23: representação do funil; 00:14:02–00:15:32: pedido de análise de metas.",
+      "note": "A associação da seção “juntar-docs” a esta aula é provável pela sequência do chat, não uma correspondência textual exata na transcrição editada. O relatório e os arquivos mostrados em tela não vieram anexados à pasta.",
+      "supplement": [],
+      "path": "Dia 01/MD/A09 - Materiais.md",
+      "txtPath": "Dia 01/TXT/A09 - Materiais.txt"
+    },
+    {
+      "file": "Transcrições/Dia 01/[B] [TRILHA] [Atlas para Negócios] [2026] A10 - Funil de validação e unit economics.txt",
+      "id": "A10",
+      "title": "Funil de validação e unit economics",
+      "day": "01",
+      "summary": "Apoio visual para funil de validação, custos e viabilidade econômica.",
+      "primary": [
+        "quadro"
+      ],
+      "support": [
+        "prompts",
+        "sos1"
+      ],
+      "prompts": [],
+      "evidence": "00:02:04–00:03:57: funil de teste; 00:07:00: Ruan diz que o material ficará na documentação.",
+      "note": "Não foi identificado link exclusivo para o HTML do funil ou para uma planilha de unit economics. Os números e exemplos estão na transcrição e no contexto do quadro geral.",
+      "supplement": [],
+      "path": "Dia 01/MD/A10 - Materiais.md",
+      "txtPath": "Dia 01/TXT/A10 - Materiais.txt"
+    },
+    {
+      "file": "Transcrições/Dia 01/[B] [TRILHA] [Atlas para Negócios] [2026] A11 - Construindo e abrindo o sistema de gestão.txt",
+      "id": "A11",
+      "title": "Construindo e abrindo o sistema de gestão",
+      "day": "01",
+      "summary": "Prompt e estrutura do sistema: briefing, PRD, spec e workflows.",
+      "primary": [
+        "sistema"
+      ],
+      "support": [
+        "prompts"
+      ],
+      "prompts": [
+        "P11"
+      ],
+      "evidence": "00:02:29–00:03:34: quatro etapas; 00:04:06–00:09:35: ditado e ajustes do prompt; 00:15:35: abertura local do sistema.",
+      "note": "Nanda confirma a organização e a correção de “spec” no SOS às 07:31:34 e 07:42:41 do dia 01 (linhas 3272 e 3376). O repositório prometido só é tratado no final do dia 02 e seu URL não consta dos chats.",
+      "supplement": [],
+      "path": "Dia 01/MD/A11 - Materiais.md",
+      "txtPath": "Dia 01/TXT/A11 - Materiais.txt"
+    },
+    {
+      "file": "Transcrições/Dia 01/[B] [TRILHA] [Atlas para Negócios] [2026] A12 - Fundamentos, anatomia do prompt e o peso do início.txt",
+      "id": "A12",
+      "title": "Fundamentos, anatomia do prompt e o peso do início",
+      "day": "01",
+      "summary": "O mesmo prompt da construção do sistema, explicado por blocos.",
+      "primary": [
+        "sistema",
+        "quadro"
+      ],
+      "support": [
+        "prompts"
+      ],
+      "prompts": [],
+      "evidence": "00:02:18: estrutura de prompt; 00:04:40: tecnologias após os documentos de planejamento; 00:08:08: importância do início.",
+      "note": "Este é um aprofundamento do material da A11. Não foi encontrado um novo anexo exclusivo da A12.",
+      "supplement": [],
+      "path": "Dia 01/MD/A12 - Materiais.md",
+      "txtPath": "Dia 01/TXT/A12 - Materiais.txt"
+    },
+    {
+      "file": "Transcrições/Dia 02/[B] [TRILHA] [Atlas para Negócios] [2026] A13 - Rodando o sistema e melhorando a interface.txt",
+      "id": "A13",
+      "title": "Rodando o sistema e melhorando a interface",
+      "day": "02",
+      "summary": "Quadro de design system e referências para melhorar a interface.",
+      "primary": [
+        "quadro"
+      ],
+      "support": [
+        "sos"
+      ],
+      "prompts": [],
+      "evidence": "00:00:48–00:02:13: npm run dev na pasta app; 00:03:33–00:07:41: prints e mudanças de interface; 00:08:18–00:10:02: Figma e Storybook.",
+      "note": "Nanda responde que os prompts estão no SOS às 00:43:09 (linha 449). Os links de Dribbble e Storybook foram enviados por participantes; o dashboard sugerido por Allan não está confirmado como o escolhido por Ruan.",
+      "supplement": [
+        "dribbble",
+        "dashboard",
+        "storybook"
+      ],
+      "path": "Dia 02/MD/A13 - Materiais.md",
+      "txtPath": "Dia 02/TXT/A13 - Materiais.txt"
+    },
+    {
+      "file": "Transcrições/Dia 02/[B] [TRILHA] [Atlas para Negócios] [2026] A14 - Infraestrutura - arquivos, banco de dados e publicação.txt",
+      "id": "A14",
+      "title": "Infraestrutura - arquivos, banco de dados e publicação",
+      "day": "02",
+      "summary": "Quadro de infraestrutura: arquivos, repositório, banco de dados e publicação.",
+      "primary": [
+        "quadro"
+      ],
+      "support": [
+        "sos"
+      ],
+      "prompts": [],
+      "evidence": "00:01:39: repositório; 00:07:24–00:08:21: gestão de variáveis; 00:08:42–00:13:25: banco, storage e autenticação; 00:14:14: publicação.",
+      "note": "Ferramentas citadas: GitHub, Infisical, Supabase e Vercel. Nanda diz que colocará a explicação de Infisical no SOS às 00:59:45 (linha 595), mas não envia URL específico para essa explicação.",
+      "supplement": [
+        "glossario"
+      ],
+      "path": "Dia 02/MD/A14 - Materiais.md",
+      "txtPath": "Dia 02/TXT/A14 - Materiais.txt"
+    },
+    {
+      "file": "Transcrições/Dia 02/[B] [TRILHA] [Atlas para Negócios] [2026] A15 - Loop de autoaprimoramento - o sistema se melhorando sozinho.txt",
+      "id": "A15",
+      "title": "Loop de autoaprimoramento - o sistema se melhorando sozinho",
+      "day": "02",
+      "summary": "Prompt de autoaprimoramento da interface, transcrito por Suelen.",
+      "primary": [],
+      "support": [
+        "sos",
+        "prompts"
+      ],
+      "prompts": [
+        "P15"
+      ],
+      "evidence": "00:05:36–00:06:01: redução do prompt; 00:08:18: prompt perdido; 00:08:47–00:09:31: nova instrução; 00:12:19: ciclo de autoaprimoramento.",
+      "note": "Suelen envia o texto em duas partes e informa que foi transcrito pelo ChatGPT. É uma reprodução da fala do Ruan por participante, não uma mensagem original dele.",
+      "supplement": [],
+      "path": "Dia 02/MD/A15 - Materiais.md",
+      "txtPath": "Dia 02/TXT/A15 - Materiais.txt"
+    },
+    {
+      "file": "Transcrições/Dia 02/[B] [TRILHA] [Atlas para Negócios] [2026] A16 - Validando o modelo - a conta, o excesso de plano e o produto certo.txt",
+      "id": "A16",
+      "title": "Validando o modelo - a conta, o excesso de plano e o produto certo",
+      "day": "02",
+      "summary": "Documentação e cálculos usados para revisar a viabilidade e escolher a oferta.",
+      "primary": [],
+      "support": [
+        "sos"
+      ],
+      "prompts": [],
+      "evidence": "00:03:31–00:04:01: leitura dos documentos e revisão do serviço; 00:18:05: correção da interpretação da IA; 00:20:40: livro Receita previsível.",
+      "note": "Nenhum link exclusivo de planilha, documento de viabilidade ou livro foi enviado pela equipe. A leitura mencionada é Receita previsível; não há arquivo ou link desse livro nos chats.",
+      "supplement": [],
+      "path": "Dia 02/MD/A16 - Materiais.md",
+      "txtPath": "Dia 02/TXT/A16 - Materiais.txt"
+    },
+    {
+      "file": "Transcrições/Dia 02/[B] [TRILHA] [Atlas para Negócios] [2026] A17 - Perfil ideal de cliente e o gargalo da lista.txt",
+      "id": "A17",
+      "title": "Perfil ideal de cliente e o gargalo da lista",
+      "day": "02",
+      "summary": "Ficha de perfil ideal de cliente (ICP).",
+      "primary": [],
+      "support": [
+        "sos"
+      ],
+      "prompts": [],
+      "evidence": "00:06:15: pedido para salvar a ficha de ICP na pasta docs; 00:09:00: diagnóstico do gargalo da lista.",
+      "note": "A ficha é um arquivo criado dentro do projeto em aula. Não existe anexo nem URL individual dela no material fornecido. A indicação de Receita previsível aparece no final da A16 e dá contexto a este assunto.",
+      "supplement": [],
+      "path": "Dia 02/MD/A17 - Materiais.md",
+      "txtPath": "Dia 02/TXT/A17 - Materiais.txt"
+    },
+    {
+      "file": "Transcrições/Dia 02/[B] [TRILHA] [Atlas para Negócios] [2026] A18 - Os três planos de aquisição.txt",
+      "id": "A18",
+      "title": "Os três planos de aquisição",
+      "day": "02",
+      "summary": "Quadro dos três planos de aquisição e prompt de busca de leads.",
+      "primary": [
+        "quadro"
+      ],
+      "support": [
+        "sos"
+      ],
+      "prompts": [
+        "P18"
+      ],
+      "evidence": "00:01:52–00:03:16: plano zero; 00:03:44: desenho dos planos; 00:11:24–00:14:12: canais; 00:16:17–00:17:27: pedido de 600 leads.",
+      "note": "O prompt foi recuperado no chat do dia 02 às 04:52:05 por Kysa. A autora diz que o obteve da transcrição por IA. Sua nota sobre mudança da fonte de dados corresponde ao desdobramento da A19.",
+      "supplement": [],
+      "path": "Dia 02/MD/A18 - Materiais.md",
+      "txtPath": "Dia 02/TXT/A18 - Materiais.txt"
+    },
+    {
+      "file": "Transcrições/Dia 02/[B] [TRILHA] [Atlas para Negócios] [2026] A19 - Seiscentos leads e a lista limpa.txt",
+      "id": "A19",
+      "title": "Seiscentos leads e a lista limpa",
+      "day": "02",
+      "summary": "Prompt de coleta dos leads e contexto da limpeza da lista.",
+      "primary": [],
+      "support": [
+        "sos"
+      ],
+      "prompts": [
+        "P18"
+      ],
+      "evidence": "00:00:00: retomada da coleta; 00:06:47–00:07:39: checagem de contatos e cadastro público; 00:10:07–00:10:23: Ruan remete o prompt ao SOS.",
+      "note": "A lista de 600 leads não está anexada. Às 04:49:08 Nanda diz não encontrar o prompt naquele momento; a A19 afirma que ele está no SOS. Registrei as duas evidências sem garantir a disponibilidade atual.",
+      "supplement": [],
+      "path": "Dia 02/MD/A19 - Materiais.md",
+      "txtPath": "Dia 02/TXT/A19 - Materiais.txt"
+    },
+    {
+      "file": "Transcrições/Dia 02/[B] [TRILHA] [Atlas para Negócios] [2026] A20 - Cold mail - da lista ao disparo.txt",
+      "id": "A20",
+      "title": "Cold mail - da lista ao disparo",
+      "day": "02",
+      "summary": "Orientação de uso da lista para envio de cold mail.",
+      "primary": [],
+      "support": [
+        "sos"
+      ],
+      "prompts": [],
+      "evidence": "00:01:35–00:01:51: Brevo e Mailchimp; 00:04:44–00:05:02: importação dos contatos e criação da campanha.",
+      "note": "Brevo e Mailchimp são ferramentas citadas em aula, mas a equipe não enviou seus links no chat. Não há modelo de e-mail ou lista de contatos anexados ao material local.",
+      "supplement": [],
+      "path": "Dia 02/MD/A20 - Materiais.md",
+      "txtPath": "Dia 02/TXT/A20 - Materiais.txt"
+    },
+    {
+      "file": "Transcrições/Dia 02/[B] [TRILHA] [Atlas para Negócios] [2026] A21 - A landing page - do prompt ao primeiro lead na planilha.txt",
+      "id": "A21",
+      "title": "A landing page - do prompt ao primeiro lead na planilha",
+      "day": "02",
+      "summary": "Prompt da landing page e resultado publicado.",
+      "primary": [
+        "marabilia"
+      ],
+      "support": [
+        "sos",
+        "prompts"
+      ],
+      "prompts": [
+        "P21"
+      ],
+      "evidence": "00:00:00–00:04:40: ditado da landing page; 00:01:19–00:02:02: planilha de leads; 00:12:40–00:13:00: Apps Script; 00:26:08: teste da integração.",
+      "note": "Nanda confirma o prompt no SOS às 05:22:06 (linha 2050). O URL da planilha foi enviado à IA em tela, mas não aparece no chat. O Apps Script e a planilha não constam como anexos locais.",
+      "supplement": [
+        "dribbble"
+      ],
+      "path": "Dia 02/MD/A21 - Materiais.md",
+      "txtPath": "Dia 02/TXT/A21 - Materiais.txt"
+    },
+    {
+      "file": "Transcrições/Dia 02/[B] [TRILHA] [Atlas para Negócios] [2026] A22 - Criativos - da referência às dez imagens.txt",
+      "id": "A22",
+      "title": "Criativos - da referência às dez imagens",
+      "day": "02",
+      "summary": "Referências visuais e trecho da instrução para gerar os dez criativos.",
+      "primary": [],
+      "support": [
+        "sos",
+        "prompts"
+      ],
+      "prompts": [
+        "P22"
+      ],
+      "evidence": "00:00:00–00:01:15: pedido de copy e imagens; 00:01:32–00:03:31: Motion e geração das dez imagens; 00:04:13: Dribbble e Motion.",
+      "note": "As dez imagens foram salvas na pasta do projeto do instrutor, mas não estão nos materiais locais. O participante Leo Ventura informa às 05:34:42 (linha 2154) que encontrou o prompt da LP, mas não o dos anúncios; não marquei esse prompt como confirmado no SOS.",
+      "supplement": [
+        "motion",
+        "dribbble"
+      ],
+      "path": "Dia 02/MD/A22 - Materiais.md",
+      "txtPath": "Dia 02/TXT/A22 - Materiais.txt"
+    },
+    {
+      "file": "Transcrições/Dia 02/[B] [TRILHA] [Atlas para Negócios] [2026] A23 - Publicando o anúncio e o balanço do fim de semana.txt",
+      "id": "A23",
+      "title": "Publicando o anúncio e o balanço do fim de semana",
+      "day": "02",
+      "summary": "Landing page usada no anúncio e quadro de metas de aquisição.",
+      "primary": [
+        "marabilia",
+        "quadro"
+      ],
+      "support": [
+        "sos"
+      ],
+      "prompts": [],
+      "evidence": "00:01:29: destino do anúncio; 00:05:00: raciocínio de cliques e conversão; 00:13:36: finalização da página.",
+      "note": "Não há link direto para a publicação do anúncio nem arquivo de configuração da campanha nos chats. O site foi compartilhado ao final e serve para conferir o resultado da landing page.",
+      "supplement": [],
+      "path": "Dia 02/MD/A23 - Materiais.md",
+      "txtPath": "Dia 02/TXT/A23 - Materiais.txt"
+    },
+    {
+      "file": "Transcrições/Dia 02/[B] [TRILHA] [Atlas para Negócios] [2026] A24 - Subindo o projeto no GitHub e encerramento.txt",
+      "id": "A24",
+      "title": "Subindo o projeto no GitHub e encerramento",
+      "day": "02",
+      "summary": "Link público da Marabilia e situação da entrega do projeto.",
+      "primary": [
+        "marabilia"
+      ],
+      "support": [
+        "sos"
+      ],
+      "prompts": [],
+      "evidence": "00:00:00–00:00:13: anúncio da subida ao GitHub e compartilhamento do site; 00:03:05–00:05:08: preparação do projeto público.",
+      "note": "PENDENTE: o URL do GitHub não está nos chats. Às 08:05:09 do dia 02 (linha 2977), Nanda responde que o link ainda está subindo. Ruan diz que imagens e documentos serão incluídos e que os leads reais serão removidos; isso é uma promessa de entrega, não um arquivo disponível nesta pasta.",
+      "supplement": [],
+      "path": "Dia 02/MD/A24 - Materiais.md",
+      "txtPath": "Dia 02/TXT/A24 - Materiais.txt"
+    },
+    {
+      "file": "Transcrições/Complementares/[B] [TRILHA] [Atlas para Negócios] [2026] A25 - Perguntas e Respostas.txt",
+      "id": "A25",
+      "title": "Perguntas e Respostas",
+      "day": "Ambos",
+      "summary": "Perguntas e respostas que retomam os materiais dos dois dias.",
+      "primary": [
+        "briefing",
+        "sistema"
+      ],
+      "support": [
+        "sos",
+        "prompts"
+      ],
+      "prompts": [],
+      "evidence": "00:00:24–00:01:11: briefing e BMC; 00:14:53–00:20:20: SOS, construção, agentes e Figma; 00:21:36: pergunta de Suelen sobre prospecção; 00:27:20: pergunta de Nicolas sobre texto.",
+      "note": "A aula é uma compilação. Há perguntas do dia 01 (por exemplo, Amanda sobre GitHub às 04:40:20, linha 2034) e do dia 02 (Suelen às 01:50:47, linha 1104; Nicolas às 02:56:55, linha 1684). Por isso ela aparece como complementar dos dois dias. Nenhum material exclusivo novo foi identificado.",
+      "supplement": [],
+      "path": "Complementares/MD/A25 - Materiais.md",
+      "txtPath": "Complementares/TXT/A25 - Materiais.txt"
+    }
+  ],
+  "prompts": [
+    {
+      "id": "P02",
+      "day": "01",
+      "title": "A02 - Prompt do site - copia de participante",
+      "origin": "Cópia publicada por Vera Medina",
+      "source": "Chat do dia 01, 00:52:52, Vera Medina, linha 563.",
+      "notes": "Texto preservado como aparece no chat. O endereço de publicação dentro desta cópia é o endereço inicial; os links finais enviados por Ruan estão na ficha da A02. Adapte o nome e o endereço ao seu projeto.",
+      "path": "Dia 01/MD/Prompts/A02 - Prompt do site - copia de participante.md",
+      "txtPath": "Dia 01/TXT/Prompts/A02 - Prompt do site - copia de participante.txt"
+    },
+    {
+      "id": "P06",
+      "day": "01",
+      "title": "A06 - Prompt BMC - original do Ruan",
+      "origin": "Mensagem original de Ruan Braz",
+      "source": "Chat do dia 01, 02:56:31, Ruan Braz, linha 1923.",
+      "notes": "Este é o prompt enviado diretamente por Ruan no chat. Grafia original preservada.",
+      "path": "Dia 01/MD/Prompts/A06 - Prompt BMC - original do Ruan.md",
+      "txtPath": "Dia 01/TXT/Prompts/A06 - Prompt BMC - original do Ruan.txt"
+    },
+    {
+      "id": "P07",
+      "day": "01",
+      "title": "A07 - Pesquisa de mercado - copia do chat",
+      "origin": "Reprodução de Suelen em duas mensagens",
+      "source": "Chat do dia 01, 05:46:59, Suelen, linha 2578. Chat do dia 01, 05:47:41, Suelen, linha 2588.",
+      "notes": "A primeira mensagem termina em “TAM/SAM/”; a segunda retoma a frase completa. Preservei os dois blocos sem completar ou reescrever o original. O conteúdo corresponde ao ditado da A07; há também um recorte da transcrição para comparação.",
+      "path": "Dia 01/MD/Prompts/A07 - Pesquisa de mercado - copia do chat.md",
+      "txtPath": "Dia 01/TXT/Prompts/A07 - Pesquisa de mercado - copia do chat.txt"
+    },
+    {
+      "id": "P15",
+      "day": "02",
+      "title": "A15 - Autoaprimoramento - copia do chat",
+      "origin": "Reprodução de Suelen, transcrita pelo ChatGPT",
+      "source": "Chat do dia 02, 01:18:08, Suelen, linha 819. Chat do dia 02, 01:18:16, Suelen, linha 821.",
+      "notes": "Suelen identifica a origem como “Chat gpt transcreveu” às 01:18:27 (linha 824). A expressão “responsabilidade” foi mantida tal como aparece no chat. O trecho corresponde à A15, aproximadamente 00:08:47–00:09:31; não é uma mensagem original de Ruan.",
+      "path": "Dia 02/MD/Prompts/A15 - Autoaprimoramento - copia do chat.md",
+      "txtPath": "Dia 02/TXT/Prompts/A15 - Autoaprimoramento - copia do chat.txt"
+    },
+    {
+      "id": "P18",
+      "day": "02",
+      "title": "A18-A19 - Busca de leads - recuperacao do chat",
+      "origin": "Recuperação compartilhada por Kysa",
+      "source": "Chat do dia 02, 04:52:05, Kysa, linha 1814.",
+      "notes": "Kysa diz que pediu à IA para recuperar o prompt a partir da transcrição. Trate como reprodução/resumo, não como transcrição literal do envio de Ruan. Nanda reagiu à mensagem às 04:53:00, o que não a transforma em remetente. O pedido corresponde à A18, 00:16:17–00:17:27, e a observação sobre os dados públicos corresponde à A19.",
+      "path": "Dia 02/MD/Prompts/A18-A19 - Busca de leads - recuperacao do chat.md",
+      "txtPath": "Dia 02/TXT/Prompts/A18-A19 - Busca de leads - recuperacao do chat.txt"
+    },
+    {
+      "id": "P05",
+      "day": "01",
+      "title": "A05 - Briefing - trecho ditado",
+      "origin": "Recorte literal da transcrição da aula",
+      "source": "[B] [TRILHA] [Atlas para Negócios] [2026] A05 - Hipótese de negócio - briefing por áudio e as seis hipóteses.txt; intervalo selecionado: 00:02:20–00:06:05.",
+      "notes": "Recorte do arquivo de transcrição fornecido, com falas, pausas e erros do reconhecimento de voz preservados. Não é o texto original colado no chat nem uma versão revisada do prompt. Os nomes de arquivos citados são os do projeto demonstrado, não anexos existentes nesta pasta.",
+      "path": "Dia 01/MD/Prompts/A05 - Briefing - trecho ditado.md",
+      "txtPath": "Dia 01/TXT/Prompts/A05 - Briefing - trecho ditado.txt"
+    },
+    {
+      "id": "P07T",
+      "day": "01",
+      "title": "A07 - Pesquisa de mercado - trecho ditado",
+      "origin": "Recorte literal da transcrição da aula",
+      "source": "[B] [TRILHA] [Atlas para Negócios] [2026] A07 - Por que validar e o prompt de pesquisa profunda.txt; intervalo selecionado: 00:07:20–00:09:45.",
+      "notes": "Recorte do arquivo de transcrição fornecido, com falas, pausas e erros do reconhecimento de voz preservados. Não é o texto original colado no chat nem uma versão revisada do prompt. Os nomes de arquivos citados são os do projeto demonstrado, não anexos existentes nesta pasta.",
+      "path": "Dia 01/MD/Prompts/A07 - Pesquisa de mercado - trecho ditado.md",
+      "txtPath": "Dia 01/TXT/Prompts/A07 - Pesquisa de mercado - trecho ditado.txt"
+    },
+    {
+      "id": "P11",
+      "day": "01",
+      "title": "A11 - Sistema de gestao - trecho ditado",
+      "origin": "Recorte literal da transcrição da aula",
+      "source": "[B] [TRILHA] [Atlas para Negócios] [2026] A11 - Construindo e abrindo o sistema de gestão.txt; intervalo selecionado: 00:04:06–00:09:35.",
+      "notes": "Recorte do arquivo de transcrição fornecido, com falas, pausas e erros do reconhecimento de voz preservados. Não é o texto original colado no chat nem uma versão revisada do prompt. Os nomes de arquivos citados são os do projeto demonstrado, não anexos existentes nesta pasta.",
+      "path": "Dia 01/MD/Prompts/A11 - Sistema de gestao - trecho ditado.md",
+      "txtPath": "Dia 01/TXT/Prompts/A11 - Sistema de gestao - trecho ditado.txt"
+    },
+    {
+      "id": "P21",
+      "day": "02",
+      "title": "A21 - Landing page - trecho ditado",
+      "origin": "Recorte literal da transcrição da aula",
+      "source": "[B] [TRILHA] [Atlas para Negócios] [2026] A21 - A landing page - do prompt ao primeiro lead na planilha.txt; intervalo selecionado: 00:00:00–00:04:40.",
+      "notes": "Recorte do arquivo de transcrição fornecido, com falas, pausas e erros do reconhecimento de voz preservados. Não é o texto original colado no chat nem uma versão revisada do prompt. Os nomes de arquivos citados são os do projeto demonstrado, não anexos existentes nesta pasta.",
+      "path": "Dia 02/MD/Prompts/A21 - Landing page - trecho ditado.md",
+      "txtPath": "Dia 02/TXT/Prompts/A21 - Landing page - trecho ditado.txt"
+    },
+    {
+      "id": "P22",
+      "day": "02",
+      "title": "A22 - Dez criativos - trecho ditado",
+      "origin": "Recorte literal da transcrição da aula",
+      "source": "[B] [TRILHA] [Atlas para Negócios] [2026] A22 - Criativos - da referência às dez imagens.txt; intervalo selecionado: 00:00:00–00:03:31.",
+      "notes": "Recorte do arquivo de transcrição fornecido, com falas, pausas e erros do reconhecimento de voz preservados. Não é o texto original colado no chat nem uma versão revisada do prompt. Os nomes de arquivos citados são os do projeto demonstrado, não anexos existentes nesta pasta.",
+      "path": "Dia 02/MD/Prompts/A22 - Dez criativos - trecho ditado.md",
+      "txtPath": "Dia 02/TXT/Prompts/A22 - Dez criativos - trecho ditado.txt"
+    }
+  ]
+}

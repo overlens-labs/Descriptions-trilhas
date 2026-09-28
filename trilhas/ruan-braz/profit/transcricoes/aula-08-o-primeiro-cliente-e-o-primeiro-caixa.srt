@@ -1,0 +1,700 @@
+1
+00:00:00,019 --> 00:00:03,960
+Depois que você valida o negócio e acerta ele, a escala é mais fácil,
+
+2
+00:00:03,980 --> 00:00:06,480
+porque você já tem as informações pra oferecer.
+
+3
+00:00:06,480 --> 00:00:29,400
+Porque, só pensa assim, as pessoas prontas pra pagar já existem, não precisa criar essas pessoas, o que precisa existir é a solução pro problema delas que elas vão pagar, e a gente tem que acertar isso, é o que a gente chama de product market fit, lá fora no mundo real já tem gente e empresa com dinheiro pra colocar, e prontas pra fazer isso agora, vou dar um exemplinho aqui só bem rápido, tá?
+
+4
+00:00:29,400 --> 00:00:38,200
+Antes de ontem, eu estava trabalhando aqui no Cloud, e às vezes quando eu vou trabalhando no Cloud, eu fico rankeando conteúdos pra eu pegar de modelo pra eu começar a gravar.
+
+5
+00:00:38,260 --> 00:00:43,400
+Eu tô gravando mais agora lá no Instagram, né? E aí eu fico rodando o feed ali, pra ver conteúdos interessantes pra eu salvar.
+
+6
+00:00:43,660 --> 00:00:48,420
+E aí passou um anúncio pra mim de uma empresa que trabalha com treinamento de time de vendas.
+
+7
+00:00:48,760 --> 00:00:52,920
+Gente, era mais ou menos 17 horas. Eu vi esse anúncio e mandei mensagem.
+
+8
+00:00:53,019 --> 00:00:56,460
+Mandei mensagem na hora, me responderam, já gostei disso. Na hora.
+
+9
+00:00:56,460 --> 00:01:19,960
+ou seja, teve o anúncio, eu entrei no anúncio e mandei uma mensagem, eu caí na página, cliquei e mandei uma mensagem no WhatsApp, tem interesse, na hora fui respondido, quando eu fui respondido eu falei, deve ser um bot, vou testar, e eu comecei a falar ali para tentar pegar o bot, não era um bot, era uma pessoa, e não tinha problema se fosse um bot, mas era uma pessoa, e aí eles falaram, Ruan, vamos agendar uma conversa para a gente,
+
+10
+00:01:19,960 --> 00:01:22,080
+O que eu consigo remarcar?
+
+11
+00:01:22,400 --> 00:01:29,380
+eu falei com eles, né, eu não tenho vaga pra amanhã, eles queriam marcar uma call comigo no dia seguinte, amanhã eu não posso, vai ser corrido, mas eu posso hoje à noite.
+
+12
+00:01:29,680 --> 00:01:35,780
+Aí eles falaram, Ruan, eu tô com a minha agenda toda lotada, mas eu tenho um cliente que eu atendo nove horas, que eu posso remarcar com ele.
+
+13
+00:01:35,999 --> 00:01:37,820
+Mas eu tenho que ter certeza de que você vai aparecer.
+
+14
+00:01:38,019 --> 00:01:39,340
+Falei, beleza, pode marcar aí.
+
+15
+00:01:39,959 --> 00:01:41,979
+Nove horas da noite o cara estava lá comigo.
+
+16
+00:01:42,260 --> 00:01:43,360
+Ele fez a reunião comigo.
+
+17
+00:01:43,640 --> 00:01:47,140
+Na reunião, ele já queria tirar a venda ali na hora.
+
+18
+00:01:47,220 --> 00:01:47,999
+E ele está certo.
+
+19
+00:01:48,220 --> 00:01:49,200
+Foi muito bom, tá?
+
+20
+00:01:49,499 --> 00:01:55,220
+Ele só falou, Ruan, eu entendo isso aí, se você quiser ver o contrato, vamos ver o contrato agora, junto comigo aqui,
+
+21
+00:01:55,260 --> 00:01:56,860
+porque aí você tem a oportunidade de tirar a dúvida comigo.
+
+22
+00:01:56,919 --> 00:01:58,860
+O nosso contrato é pequeno, é simples de entender.
+
+23
+00:01:59,220 --> 00:02:01,939
+Olha aí, o cara não queria que eu saísse da call porque ele queria a venda ali na hora.
+
+24
+00:02:01,999 --> 00:02:03,200
+Falei, beleza, vamos ver o contrato aqui.
+
+25
+00:02:03,519 --> 00:02:05,579
+Depois eu falei, ah, mas meu sócio não está aqui agora.
+
+26
+00:02:06,240 --> 00:02:07,240
+Preciso dele aqui.
+
+27
+00:02:07,479 --> 00:02:10,059
+Ele falou, você não consegue ligar para o seu sócio para a gente resolver isso?
+
+28
+00:02:10,260 --> 00:02:12,140
+E aí ele me explicou porque tinha que ser no dia.
+
+29
+00:02:12,180 --> 00:02:15,959
+Ele falou, essa oferta que você viu no WhatsApp, quando a pessoa entra em contato com a gente,
+
+30
+00:02:15,979 --> 00:02:18,479
+ela cai no nosso CRM e ela é feita uma única vez.
+
+31
+00:02:18,700 --> 00:02:21,900
+A gente tem uma segunda oferta aqui, mas se você voltar a falar comigo amanhã,
+
+32
+00:02:21,919 --> 00:02:24,720
+se você não fechar aqui agora, eu vou te fazer essa segunda oferta.
+
+33
+00:02:24,760 --> 00:02:25,680
+E por que eu faço isso, Ruan?
+
+34
+00:02:25,740 --> 00:02:26,760
+É política nossa da empresa.
+
+35
+00:02:27,039 --> 00:02:28,840
+A gente tem dois perfis de públicos diferentes.
+
+36
+00:02:29,099 --> 00:02:31,820
+E a gente quer falar com um perfil de público que já está decidido,
+
+37
+00:02:31,820 --> 00:02:33,820
+já sabe o que quer, está pronto para poder investir na gente.
+
+38
+00:02:34,039 --> 00:02:35,880
+Para esse público, a gente dá um prêmio.
+
+39
+00:02:35,999 --> 00:02:37,939
+E esse prêmio é a sua oferta que eu estou te fazendo aqui.
+
+40
+00:02:38,280 --> 00:02:39,720
+E era uma oferta muito boa, tá?
+
+41
+00:02:40,099 --> 00:02:43,860
+Agora, se você não quiser, agora quiser pensar melhor, não tem problema nenhum, decide no seu tempo.
+
+42
+00:02:43,979 --> 00:02:49,380
+Mas, você não vai ter acesso a essa oferta mais porque eu marco aqui no CRM e a gente não volta, faz parte da política da empresa.
+
+43
+00:02:49,660 --> 00:02:53,200
+E aí a sua oferta passa a ser essa daqui, a partir do momento que você sai dessa reunião.
+
+44
+00:02:53,380 --> 00:02:58,300
+Tá tudo bem, é uma decisão sua, mas isso é um jeito que a gente faz para poder encontrar pessoas que já estão decididas,
+
+45
+00:02:58,340 --> 00:03:00,720
+que tem coragem de investir, que tem coragem de acreditar na gente.
+
+46
+00:03:01,160 --> 00:03:04,919
+Lembrando que você tem garantia, tem reembolso, se você não gostar é só você pedir, isso tem sete dias.
+
+47
+00:03:06,780 --> 00:03:12,539
+O que eu estou contando isso para vocês aqui agora?
+
+48
+00:03:13,059 --> 00:03:16,979
+Gente para pagar, uma abordagem certa, gente para pagar tem.
+
+49
+00:03:17,400 --> 00:03:21,340
+Diz ele que ele faz 15 vendas dessa por dia, 5 mil reais a venda, por dia.
+
+50
+00:03:21,439 --> 00:03:25,220
+Então dá ali 60 mil por dia com esse tipo de venda.
+
+51
+00:03:25,360 --> 00:03:30,240
+E eu acredito, porque eles estão gerando tráfego o tempo todo, só que isso é um modelo que foi validado.
+
+52
+00:03:30,300 --> 00:03:33,140
+Ele chegou numa oferta validada, ele entende qual é o público dele.
+
+53
+00:03:33,140 --> 00:03:36,160
+Pra chegar nisso aqui e escalar, não é a parte mais difícil.
+
+54
+00:03:36,400 --> 00:03:37,640
+A mais difícil é validar.
+
+55
+00:03:37,740 --> 00:03:41,880
+Só que se a gente demora demais na validação, além de começar a ficar inviável,
+
+56
+00:03:41,919 --> 00:03:45,439
+que a gente fala, pô, isso aqui não tá me trazendo dinheiro, tô ficando tenso, não tá dando resultado,
+
+57
+00:03:45,740 --> 00:03:50,320
+a nossa mente começa a sabotar e as pessoas não conseguem passar desse filtro, que é o mais difícil.
+
+58
+00:03:50,720 --> 00:03:56,220
+Então eu sei que eu estendi na resposta aqui, mas só pra trazer um pouco de possibilidades que vocês podem fazer também.
+
+59
+00:03:56,419 --> 00:03:59,840
+Agora é o momento que vocês têm que ter uma fome.
+
+60
+00:03:59,840 --> 00:04:21,999
+Fome e a palavra fome aqui ela é importante porque quando a gente tá com fome, nada mais importa, a gente arruma um jeito de comer. Tô com fome, cara, eu vou achar um jeito de eu comer, tá? Eu falo isso porque isso é algo humano e essa é a palavra que melhor define isso. Vocês precisam estar com fome nessa fase. Enquanto vocês não estiverem com fome, a barriga tá meio cheia, depois eu como qualquer coisa ali.
+
+61
+00:04:21,999 --> 00:04:27,539
+Agora, quando você está com fome mesmo, você fala, beleza, fiz a página, o que eu vou fazer agora? E agora? O que eu vou fazer agora?
+
+62
+00:04:27,800 --> 00:04:32,879
+Essa é a postura que precisa nessa fase, porque depois que passa dela, eu prometo para vocês, tem método.
+
+63
+00:04:33,240 --> 00:04:34,800
+É método e número, beleza?
+
+64
+00:04:35,260 --> 00:05:00,720
+ainda na verdade, tem que tomar o cuidado com sair da rota que você planejou, né, senão lá na frente você vai falar, cara, fiz isso aqui, ganhei dinheiro, mas fui na direção diferente do que eu queria, isso tem que ser bem claro na sua cabeça desde o início, mas fora isso, cara, na verdade é uma coisa boa, você está sendo pago para estruturar o negócio, tanto o nosso negócio quanto o do cliente, que é uma empresa nova também, inclusive uma recomendação
+
+65
+00:05:00,739 --> 00:05:20,279
+A recomendação que eu faço geralmente é essa, encontre uma marca para apadrinhar sua tese, então você faz com ela a primeira vez ali, cobra às vezes um valor menor, ou até faz de graça, e depois daquilo você tem um método validado, isso a gente já, várias vezes, desde 2020 a gente aplica esse método.
+
+66
+00:05:20,279 --> 00:05:21,879
+Eu tenho uma aluna minha, que
+
+67
+00:05:21,959 --> 00:05:26,079
+ela não tá aqui na Vanguarda, mas a jornada dela foi muito legal, tá?
+
+68
+00:05:26,319 --> 00:05:26,359
+Em
+
+69
+00:05:26,540 --> 00:05:27,679
+eu vou falando talvez eu lembre.
+
+70
+00:05:27,679 --> 00:05:41,439
+Mas ela entrou na Overlens, na verdade nem chamava Overlens na época, mas ela se tornou aluna minha, a gente começou esse processo de mentoria, de ajudar ela, e uma das estratégias que eu ensinei na época foi Cavalo de Troia.
+
+71
+00:05:41,500 --> 00:05:44,559
+É pra todo mundo? Não. Por exemplo, essa estratégia funciona pra Osana, em
+
+72
+00:05:44,879 --> 00:05:52,160
+tese, quando ela te dá um pouco do tempero pra você experimentar, isso é o que a gente chama aqui de estratégia do Cavalo de Troia.
+
+73
+00:05:52,160 --> 00:05:58,460
+Que é você entrar dentro do negócio da pessoa primeiro, pra depois você oferecer algo mais.
+
+74
+00:05:59,099 --> 00:06:00,739
+queria validar uma entrega dela.
+
+75
+00:06:00,939 --> 00:06:03,899
+Ela não tinha tido nenhum cliente até então, porque ela era bem nova,
+
+76
+00:06:04,059 --> 00:06:06,459
+ela tava entrando no mercado e ia começar a empreender,
+
+77
+00:06:06,599 --> 00:06:09,039
+e eu falei pra ela, você vai fazer a estratégia do cavalo de Troia.
+
+78
+00:06:09,159 --> 00:06:12,719
+Na época, o perfil de cliente dela eram empresas de energia solar.
+
+79
+00:06:12,999 --> 00:06:17,599
+Ela entrou em contato com várias e conseguiu chamar a atenção de uma.
+
+80
+00:06:18,079 --> 00:06:29,999
+Foi uma das empresas que acreditou nela, só que ela fez o seguinte, ela falou, eu vou implementar isso aqui tudo pra você de maneira gratuita, eu só preciso do seu engajamento aqui pra no final a gente coletar o resultado.
+
+81
+00:06:30,319 --> 00:06:35,619
+E o cara que contratou ela ficou sem entender, como assim, você vai fazer isso tudo de graça, você não vai me cobrar nada? Ela, é, não vou te cobrar nada.
+
+82
+00:06:35,959 --> 00:06:40,419
+E ele falou, não, mas isso não faz o menor sentido, eu quero te pagar, me fala quanto que é.
+
+83
+00:06:40,419 --> 00:06:49,879
+E aí ela falou, não, eu vou receber com a validação, fica tranquilo, vou receber com a validação e depois disso a gente pode continuar conversando.
+
+84
+00:06:50,099 --> 00:06:57,699
+Aí foi muito legal a história porque ela executou, levou mais ou menos duas semanas ali para ela executar, no final da validação deu certo,
+
+85
+00:06:57,779 --> 00:07:05,379
+ela entregou tanto uma marca nova quanto um site que trouxe clientes para essa empresa e aí essa empresa quis contratar ela,
+
+86
+00:07:05,379 --> 00:07:35,259
+E aí já contratou ela, se eu não me engano, pra um serviço de 5 mil reais, porque ela tava começando ali, e depois o que que aconteceu? Que aí vem a reviravolta nesse caso, tá? Eu não sei como que ela tá hoje, mas do que eu lembro da história, esse cliente dela gostou tanto dela como pessoa e do trabalho que ela tava fazendo ali, que eles quiseram contratar ela, fizeram uma proposta muito boa pra ela, que ela gostou mais do que o negócio que ela estava fazendo, ela entrou nesse negócio e a vida dela mudou completamente, por conta de um movimento
+
+87
+00:07:35,379 --> 00:07:53,399
+A gente precisa gerar valor pra pessoa primeiro, principalmente porque as pessoas não te conhecem, não sabem quem você é, então não adianta chegar pra alguém e falar, confia em mim, você tem que provar que o que você tá fazendo faz sentido.
+
+88
+00:07:53,399 --> 00:08:13,519
+O erro aqui só é prometer algo grande demais e aí você vai estar praticamente se escravizando, você promete uma coisa pequena que prova a sua qualidade, que não vai ter um custo muito alto para você, mas que faz você entrar dentro ali do negócio, entrar dentro da empresa da pessoa, entendeu? Então é uma estratégia muito útil de executar. Pode
+
+89
+00:08:13,640 --> 00:08:14,059
+falar, Gabriel.
+
+90
+00:08:14,059 --> 00:08:20,400
+É uma coisa muito legal isso, porque ao mesmo tempo que a gente está começando também,
+
+91
+00:08:20,580 --> 00:08:28,440
+a gente percebe, como é uma empresa nova, a gente percebe que as necessidades também vão surgindo pela outra empresa.
+
+92
+00:08:28,940 --> 00:08:36,019
+Então, eles estão começando agora, estão montando estrutura, estão montando equipe, estão começando a fazer estrutura comercial,
+
+93
+00:08:36,019 --> 00:08:57,720
+E aí surge, pô, a gente vai precisar de um sistema de CRM, a gente vai precisar de um, gerenciar as vendas de uma determinada maneira, a gente precisa de um sistema interno aqui pra gente conversar entre a gente, a gente precisa, então a gente, ao mesmo tempo que a gente tá olhando pra gente, né, a gente olha pra ele ao mesmo tempo, é uma coisa que segue meio que paralelo, assim, é uma
+
+94
+00:08:58,000 --> 00:09:04,380
+muito a gente é o framework do Atlas, do Atlas do Brand System.
+
+95
+00:09:04,380 --> 00:09:09,940
+existem porque ali tem auditoria de mercado, auditoria de negócio, benchmark, posicionamento
+
+96
+00:09:09,940 --> 00:09:16,200
+e a gente está paralelamente, como a gente não tinha nada, a gente só conversava o que a gente queria fazer e tal
+
+97
+00:09:16,200 --> 00:09:20,740
+a gente está validando as duas coisas nessas auditorias também
+
+98
+00:09:20,740 --> 00:09:26,000
+ele foi um ICP que veio para a gente antes da gente ter um ICP pronto
+
+99
+00:09:26,000 --> 00:09:30,400
+então a gente meio que percebeu que ele é um cliente ideal para a gente
+
+100
+00:09:30,400 --> 00:09:35,720
+Uma empresa que está começando agora, que não tem estrutura, não tem infraestrutura ainda,
+
+101
+00:09:35,960 --> 00:09:41,860
+e que vai precisar de ajuda para montar alguma coisa, e tem que ser alguma coisa rápida e ágil,
+
+102
+00:09:41,880 --> 00:09:46,760
+porque se ele for para o mercado e pegar um sistema de CRM com a empresa começando,
+
+103
+00:09:46,760 --> 00:09:49,800
+ele não vai conseguir pagar, porque são coisas caras e tal.
+
+104
+00:09:49,900 --> 00:09:54,320
+Então a gente está meio que percebendo quais são as necessidades dessas empresas também,
+
+105
+00:09:54,400 --> 00:09:57,880
+e validando essas necessidades também, não simplesmente o negócio.
+
+106
+00:09:58,300 --> 00:09:59,680
+Isso é a validação, cara.
+
+107
+00:10:00,400 --> 00:10:07,560
+Da forma mais crua possível, inclusive quando a gente está em movimento e está dentro de outros impérios, digamos assim,
+
+108
+00:10:08,060 --> 00:10:12,500
+é quando a gente consegue enxergar os problemas que existem ali, que é o que está acontecendo com você.
+
+109
+00:10:12,720 --> 00:10:17,180
+E aí várias coisas começam a acontecer, são princípios que a gente abraça muito aqui.
+
+110
+00:10:17,240 --> 00:10:19,900
+Por exemplo, o melhor cliente é o cliente que já é cliente.
+
+111
+00:10:20,040 --> 00:10:22,860
+Então esse é um primeiro passo, e é o que está acontecendo aí.
+
+112
+00:10:23,220 --> 00:10:28,800
+Segunda coisa, por já ter um cliente ali para vocês executarem o que vocês estão fazendo,
+
+113
+00:10:32,260 --> 00:10:57,860
+E aí sim, vem site, posicionamento, definição, vamos chamar aqui de enquadramento do ICP mais preciso também, porque agora você já validou melhor, e outra coisa que pra mim é o melhor de tudo,
+
+114
+00:10:57,860 --> 00:11:13,420
+Que quando você está em movimento e tem clientes, esses clientes estão dentro de outras redes, então está dando certo com ele, é muito fácil de você pegar para alguém que já confia em você, que você já faz reunião e falar agora hoje eu que quero te fazer um pedido, qual pedido que é esse?
+
+115
+00:11:13,520 --> 00:11:24,340
+Você é empresário, você tem outros amigos empresários, outras pessoas que você conhece que são empresários e eu gostaria que você me indicasse três, três para eu entrar em contato essa semana ainda para implementar o que a gente está fazendo aqui,
+
+116
+00:11:24,340 --> 00:11:29,640
+Pessoas que você ficaria muito feliz de ver que estão tendo, de ter o resultado que você está tendo aqui também.
+
+117
+00:11:29,900 --> 00:11:34,920
+Isso vai gerando a rede para você, a distribuição começa a acontecer de dentro para fora, entende?
+
+118
+00:11:35,080 --> 00:11:36,540
+Então é uma oportunidade muito grande.
+
+119
+00:11:36,760 --> 00:11:44,420
+Com um, tá vendo? Um cliente validado tem um tamanho muito maior do que a gente acaba dando no final, né?
+
+120
+00:11:44,560 --> 00:11:45,120
+Com certeza.
+
+121
+00:11:45,540 --> 00:11:45,600
+Muito
+
+122
+00:11:45,600 --> 00:11:48,539
+a Kiza falou sim e eu validei e me sinto travada.
+
+123
+00:11:48,659 --> 00:11:50,719
+Eu sei o que devo fazer, mas fico em dúvida.
+
+124
+00:11:50,879 --> 00:11:52,579
+Mas espera aí, você já validou.
+
+125
+00:11:52,719 --> 00:11:54,980
+Você está travada na parte de caixa, então.
+
+126
+00:11:55,159 --> 00:11:55,980
+É isso, Kiza.
+
+127
+00:11:55,980 --> 00:12:01,179
+Se for isso, e você tá na dúvida do que deve fazer, vamos resolver isso aqui agora, então.
+
+128
+00:12:01,520 --> 00:12:02,999
+Traz aqui o contexto pra eu te ajudar.
+
+129
+00:12:03,400 --> 00:12:03,980
+não necessariamente.
+
+130
+00:12:03,980 --> 00:12:27,260
+E assim, eu tenho que fazer uma landing page, eu acho, uma coisa simples, direta, pra anunciar o produto, e eu tô naquela dúvida que eu te mandei um áudio ontem, se eu faço um SaaS ou não, porque eu validei da melhor maneira, assim, da forma mais rápida, tanto é que o primeiro mesmo, MVPzão, o meu modelo de apresentação era no Google Slides, não era nem no, da forma que eu tô fazendo hoje, né?
+
+131
+00:12:27,260 --> 00:12:31,220
+Você validou a entrega, né? Quantas pessoas já compram o seu produto?
+
+132
+00:12:31,700 --> 00:12:32,140
+Três.
+
+133
+00:12:32,140 --> 00:13:02,120
+3, então já validou venda também, parabéns, disso, agora o seu próximo passo, agora entra em caixa, o que que, qual que é o objetivo da etapa de caixa tá, o objetivo da etapa de caixa é principalmente você transformar o que hoje é uma tese validada em um negócio, e aí pra transformar isso em um negócio, você precisa de um modelo de negócio, por isso que eu vou até compartilhar aqui de novo, isso aqui ó, esse é o jeito mais simples, só que é muito poderoso, de agora desenhar um modelo de negócio,
+
+134
+00:13:02,140 --> 00:13:09,319
+O que você precisa fazer aqui? Você já tem uma proposta de valor e já tem um segmento de cliente.
+
+135
+00:13:09,660 --> 00:13:16,880
+Nesses dois casos aqui, você validou, ótimo. Agora você tem que transformar o seu produto em um negócio.
+
+136
+00:13:17,480 --> 00:13:20,680
+Para transformar o seu produto em um negócio, agora é a hora que você vai fazer conta.
+
+137
+00:13:20,860 --> 00:13:23,620
+Por isso que a gente chama essa etapa de caixa. Mas o que é fazer conta?
+
+138
+00:13:23,860 --> 00:13:26,920
+Quais são suas fontes de receitas? Você tem só uma.
+
+139
+00:13:26,920 --> 00:13:33,600
+Se você tem só essa, o quanto de receita esse negócio precisa fazer para que ele seja sustentável?
+
+140
+00:13:33,680 --> 00:13:37,279
+Não é nem previsibilidade, mas é uma meta. Você precisa dessa meta.
+
+141
+00:13:37,680 --> 00:13:42,600
+Então, por exemplo, eu tenho três clientes, ok, mas agora eu vou definir uma meta.
+
+142
+00:13:42,720 --> 00:13:47,840
+Agora que eu vi que tem pessoas que pagam, eu preciso definir quantas pessoas pagantes eu preciso
+
+143
+00:13:47,840 --> 00:13:50,580
+para que o negócio seja sustentável.
+
+144
+00:13:50,720 --> 00:13:52,340
+E aí vem uma parte importante.
+
+145
+00:13:52,340 --> 00:14:21,100
+ser sustentável não significa atingir sua meta de faturamento ou de lucro desejada, significa atingir a meta de faturamento e lucro mínima para que o negócio se sustente, porque assim você vai avançar para a próxima etapa que é a previsibilidade, é em previsibilidade que você vai trabalhar mais o fundamento para que você escale o negócio, que aí você vai ter uma quantidade de lucro interessante, dentro de caixa você percebe a viabilidade dentro da sua solução,
+
+146
+00:14:21,100 --> 00:14:26,040
+e é nesse momento que você talvez vai perceber, por exemplo, que você não pode ter o negócio de um único produto
+
+147
+00:14:26,040 --> 00:14:31,260
+ou de um único perfil de cliente, mas você só vai conseguir responder isso com contas.
+
+148
+00:14:31,460 --> 00:14:34,760
+Por isso que se a gente vem aqui, o que a gente tem aqui em caixa?
+
+149
+00:14:35,140 --> 00:14:38,779
+Princípio da entidade, primeira coisa, separar o que é o negócio do que é a pessoa.
+
+150
+00:14:39,180 --> 00:14:43,779
+Depois, runway do negócio, quanto de runway seu negócio e não você como pessoa,
+
+151
+00:14:43,920 --> 00:14:46,220
+mas o seu negócio precisa ter para que ele seja sustentável.
+
+152
+00:14:46,380 --> 00:14:49,500
+Isso significa que você vai incluir ali o seu prolabore, por exemplo.
+
+153
+00:14:49,500 --> 00:15:00,860
+Então, por exemplo, meu prolabora é 4 mil, mais os custos que eu tenho aqui, meu negócio tem uma matriz de custo que tem aqui também, olha, estrutura de custo.
+
+154
+00:15:01,340 --> 00:15:07,220
+Entendendo a estrutura de custo do meu negócio, eu preciso ter pelo menos 15 mil de faturamento no mês. Ótimo.
+
+155
+00:15:07,500 --> 00:15:12,779
+Seu objetivo agora, dentro da fase de caixa, é alcançar esses 15 mil de faturamento no mês.
+
+156
+00:15:12,920 --> 00:15:18,840
+Aí você vai fazer conta. Na hora de fazer conta, que você vai começar a ver que você não tem um negócio ainda, você tem um produto.
+
+157
+00:15:19,500 --> 00:15:24,819
+Vamos supor que você vê ali, ah, eu consigo vender por 50 reais a assinatura simples do meu gerador de proposta.
+
+158
+00:15:25,260 --> 00:15:28,620
+Exemplo, tá? Você define o preço. Eu não tenho os dados para definir o preço.
+
+159
+00:15:28,760 --> 00:15:33,779
+Mas aí eu pego aqui 15 mil e divido por 50, vou ver, eu preciso de 300 pessoas assinando.
+
+160
+00:15:34,160 --> 00:15:41,420
+Beleza, esse é um caminho, mas eu preciso de definir aqui também qual que é o churn que eu tenho nesse negócio aqui
+
+161
+00:15:41,420 --> 00:15:43,779
+e se isso encaixa nessa estrutura de custo também.
+
+162
+00:15:43,900 --> 00:15:49,260
+Se encaixou e eu tenho um churn ali que eu consigo sustentar, essa pode ser uma meta que eu posso buscar.
+
+163
+00:15:49,800 --> 00:15:56,900
+Porém, na hora que a gente está definindo o modelo de negócio, é a hora que a gente desenha isso aqui de maneiras diferentes.
+
+164
+00:15:57,480 --> 00:16:02,760
+Porque você vai pensar o seguinte, beleza, eu tenho esse produto, mas a oferta em cima desse produto pode ser diferente.
+
+165
+00:16:03,060 --> 00:16:08,800
+Como que ela pode ser diferente? Ao invés de vender o SaaS, e se eu já entregasse um serviço para a pessoa disso?
+
+166
+00:16:08,900 --> 00:16:15,940
+Ela tem o SaaS ali, com as propostas, mas eu vou trabalhar com ela também uma consultoria de construção de oferta, exemplo.
+
+167
+00:16:15,940 --> 00:16:32,500
+Então, ao invés dela pegar só aqui R $50 ,00 por mês, ela vai me pagar um valor inicial de R $1 .500 ,00, e além desses R $1 .500 ,00 que ela vai me pagar, que eu vou fazer uma consultoria e estruturação de proposta para ela, ela depois tem o meu sistema ali que ela me paga R $50 ,00 por mês para utilizar.
+
+168
+00:16:32,800 --> 00:16:43,440
+Então, eu tenho um serviço inicial de estruturação, mais um software que eu entrego para ela depois. Ah, nesse caso aqui eu preciso de R $10 ,00 ao invés de R $300 ,00 por mês.
+
+169
+00:16:43,440 --> 00:16:45,520
+É isso que eu estou fazendo.
+
+170
+00:16:46,439 --> 00:16:50,000
+Então, no seu caso aqui, já tá em caixa, já validou, maravilha!
+
+171
+00:16:50,059 --> 00:16:52,679
+Você vai começar a fazer esses pontos todos que eu tô te falando aqui, ó.
+
+172
+00:16:53,000 --> 00:16:58,920
+Runway, meta de reserva, oferta de caixa, que é o que eu comecei a dar o exemplo aqui pra você,
+
+173
+00:16:59,080 --> 00:17:01,859
+plano de receita, controle financeiro e conquista.
+
+174
+00:17:02,179 --> 00:17:03,779
+Bateu isso, você entra em previsibilidade.
+
+175
+00:17:03,920 --> 00:17:06,779
+Ou seja, você falou, eu tô perdido, eu não sei o que fazer, tá tudo aqui.
+

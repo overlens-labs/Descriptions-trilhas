@@ -1,0 +1,1668 @@
+1
+00:00:00,159 --> 00:00:10,180
+Aí o que a gente vai fazer aqui, tá? Eu vou escolher com vocês esse funil aqui, que é o funil de two stages, beleza?
+
+2
+00:00:10,259 --> 00:00:15,519
+Funil de two stages, só pra lembrar vocês, é um funil que a gente tem uma etapa de qualificação do lead
+
+3
+00:00:15,519 --> 00:00:25,279
+E depois uma etapa de fechamento, onde tem uma call, geralmente, para apresentar a solução personalizada, baseada no que o lead foi qualificado.
+
+4
+00:00:25,360 --> 00:00:31,799
+Tem uma versão reduzida dessa, para quem às vezes fala, poxa, eu não tenho SDR, closer, quero começar mais simples,
+
+5
+00:00:31,919 --> 00:00:38,399
+que você agenda sem necessariamente qualificar, você qualifica aqui no marketing, MQL.
+
+6
+00:00:38,820 --> 00:00:44,340
+MQL significa Marketing Qualified Lead, ou seja, lead qualificado no marketing.
+
+7
+00:00:44,340 --> 00:00:46,580
+com algumas perguntas de formulário e tal.
+
+8
+00:00:46,899 --> 00:00:50,100
+Nesse modo aqui, você pode acabar perdendo mais tempo,
+
+9
+00:00:50,259 --> 00:00:56,139
+porque você vai marcar a reunião, chegar na reunião e descobre lá que a pessoa realmente não era tão qualificada assim.
+
+10
+00:00:56,600 --> 00:01:01,879
+É bom para quando você tem um marketing bem afiado aqui,
+
+11
+00:01:01,960 --> 00:01:05,159
+você consegue fazer uma qualificação, avaliar bem ali o perfil do cliente.
+
+12
+00:01:05,840 --> 00:01:08,519
+Quando você está sozinho e não quer perder tempo,
+
+13
+00:01:09,379 --> 00:01:13,000
+utilizar aqui uma qualificação anterior pode ser no WhatsApp mesmo.
+
+14
+00:01:13,000 --> 00:01:22,919
+Você pode tanto criar uma IA para ser sua SDR, então caiu o lead no WhatsApp, coloca um chatbot ali para fazer algumas perguntas para a pessoa e ir qualificando o lead.
+
+15
+00:01:23,000 --> 00:01:33,580
+Quando o lead entrou ali num nível de qualificação legal, a sua IA vai avisar para você, vai falar, olha, legal demais, agora você pode marcar uma reunião.
+
+16
+00:01:33,639 --> 00:01:36,860
+Ou ela pode até marcar a reunião por você, se quiser dar mais autonomia para ela.
+
+17
+00:01:36,860 --> 00:01:38,399
+Ruan, ensina a gente a fazer isso!
+
+18
+00:01:38,500 --> 00:01:39,560
+Vou ensinar, mas
+
+19
+00:01:39,560 --> 00:01:40,219
+trazer pra vocês.
+
+20
+00:01:40,459 --> 00:01:42,640
+Só que inicialmente você pode, você mesmo,
+
+21
+00:01:42,680 --> 00:01:43,819
+qualificar o lead, caiu no WhatsApp,
+
+22
+00:01:44,079 --> 00:01:45,739
+você vai fazer perguntas, no máximo,
+
+23
+00:01:45,780 --> 00:01:47,479
+você liga pra pessoa ali,
+
+24
+00:01:47,540 --> 00:01:49,280
+ligou pra pessoa, fez algumas perguntas,
+
+25
+00:01:49,280 --> 00:01:50,420
+ligação de 5 a 10 minutos,
+
+26
+00:01:50,819 --> 00:02:19,879
+você qualifica a pessoa ali na ligação mesmo, se não fizer sentido, acabou, fechou ali e segue em frente, se fizer sentido, aí sim você marca uma call, tá, isso aí é pra você ganhar tempo, mas a ligação é muito subestimada, tá, a galera fala, ah, não vou ligar, vai incomodar, não sei o que, não, uma boa ligação, ela acelera o processo pra você, do que ter que esperar a pessoa responder no WhatsApp, geralmente as pessoas ignoram, quando você liga, as pessoas, inclusive é ligar, se desligar, liga de novo,
+
+27
+00:02:19,879 --> 00:02:37,900
+Deixa tocar até atender, porque se a pessoa não quiser, ela não atende, entendeu? Então deixa tocar duas vezes. São algumas técnicas bobinhas, né, táticas bobas de vendas assim, que às vezes as pessoas, por crenças ou medo, acabam não fazendo. Ah, não vou incomodar. Não, cara, liga mesmo, se a pessoa não puder, ela não atende, beleza?
+
+28
+00:02:37,900 --> 00:02:38,099
+Beleza?
+
+29
+00:02:38,560 --> 00:02:41,040
+Partindo disso aqui, começa o DroneFlow agora.
+
+30
+00:02:41,460 --> 00:02:45,920
+Tudo isso aqui é fonte de... lead.
+
+31
+00:02:46,920 --> 00:03:20,630
+do topo, o topo de funil envolve isso tudo aqui, só que dentro do topo de funil, inbound, lista, marketing, eu também posso colocar aqui o e -mail, né, e -mail, lista de WhatsApp, a gente chama isso de listas, listas, vou colocar aqui simplesão assim, ó, WhatsApp, e tem também aqui e -mail, e -mail coloca o sim, beleza, então tá bom.
+
+32
+00:03:20,630 --> 00:03:50,400
+Bom, isso aqui são os nossos canais de topo de funil, dá até para colocar aqui assim, canais, topo de funil, então é daqui que as pessoas vão vir para a etapa de qualificação, aí nós vamos colocar aqui agora, qualificação, seguindo o funil aqui, lead prospect, e aí tem o discovery e o SQL aqui, que no caso é o sales qualified lead,
+
+33
+00:03:50,400 --> 00:04:10,520
+que o SDR, que é o representante de desenvolvimento de vendas, vai trabalhar, a gente pode já até criar aqui de uma vez também pra ficar mais fácil, tem a etapa de qualificação e tem a etapa de fechamento, aí essas duas aqui vão ficar maiores, né, vão ter várias etapas aqui dentro, no nosso Drone Flow, ó
+
+34
+00:04:10,879 --> 00:04:28,440
+Então, beleza. Aqui vem, olha, SDR aborda por e -mail, telefone ou LinkedIn. Nesse exemplo aqui. Mas a gente pode pensar com a nossa própria cabeça, né? Então, vamos lá. Eu posso mandar e -mail, eu posso mandar um WhatsApp, eu posso mandar mensagem no LinkedIn.
+
+35
+00:04:28,440 --> 00:04:47,839
+LinkedIn. Dá até para puxar aqui, né, os mesmos. WhatsApp, e -mail, LinkedIn. Dá para chamar também no direct do Instagram aqui. Coloca assim, ó, DM. Então, esses são alguns dos canais. Dentro de um fluxo aqui, que funciona para vocês, o
+
+36
+00:04:48,140 --> 00:04:51,640
+vem um ponto importante para vocês. Vocês têm que pensar no fluxo. O
+
+37
+00:04:51,759 --> 00:05:18,459
+tá bom, vamos pensar aqui ó, eu tenho o WhatsApp, small, large, eu tenho o WhatsApp, tenho o e -mail, que são os principais que a gente vai pegar aqui agora, tenho o LinkedIn e tenho o DM do Instagram, do TikTok, vou deixar DM por enquanto.
+
+38
+00:05:18,900 --> 00:05:26,160
+O que a gente precisa entender desses aqui? Primeiro de tudo, o que é outbound e o que é inbound? Então, outbound, eu
+
+39
+00:05:26,219 --> 00:05:38,459
+falei na semana passada, é quando você vai até o lead. Inbound é quando o lead vem até você. Entender isso aqui é importante para entender que tipo de fluxo que a gente está desenhando. Cada fluxo é de um jeito, beleza?
+
+40
+00:05:38,459 --> 00:05:42,199
+Então, no caso aqui, a gente vai desenhar o inbound, que vai ser mais simples para vocês.
+
+41
+00:05:42,340 --> 00:05:43,820
+Como é que funciona o inbound clássico?
+
+42
+00:05:43,959 --> 00:05:49,479
+A gente faz aqui um anúncio, esse anúncio leva a pessoa para um dos canais, vamos pegar aqui, por exemplo, o WhatsApp.
+
+43
+00:05:53,080 --> 00:05:55,880
+E aí, eu desenvolvo a conversa com essa pessoa no WhatsApp.
+
+44
+00:05:56,039 --> 00:06:00,140
+Tem alguns jeitos de desenvolver ela aqui e eu vou explicar para vocês.
+
+45
+00:06:00,400 --> 00:06:07,140
+Um outro caminho também que dá para fazer, aí esses são, esse aqui é outbound, esse aqui pode ser outbound também.
+
+46
+00:06:07,140 --> 00:06:12,400
+Até dá pra fazer outbound de LinkedIn, quando a pessoa te manda mensagem, com anúncio, né?
+
+47
+00:06:12,600 --> 00:06:13,959
+Mas eu vou simplificar aqui.
+
+48
+00:06:14,779 --> 00:06:17,039
+Outbound é quando você manda mensagem.
+
+49
+00:06:17,039 --> 00:06:19,699
+Então, eu vou pegar minha própria lista de e -mails e mandar um e -mail pra ela.
+
+50
+00:06:19,799 --> 00:06:22,640
+Vou pegar meus contatos do LinkedIn e vou mandar uma mensagem.
+
+51
+00:06:22,759 --> 00:06:25,699
+Vou pegar DM e mandar DM. Por aí vai, né?
+
+52
+00:06:25,719 --> 00:06:26,680
+Tem algumas estratégias.
+
+53
+00:06:26,920 --> 00:06:33,239
+Pra vocês, inclusive, o Google Maps é um dos canais mais negligenciados aqui.
+
+54
+00:06:34,519 --> 00:06:37,199
+E pra fazer outbound, o Google Maps é muito bom.
+
+55
+00:06:37,279 --> 00:06:40,600
+Então, ah, eu vou procurar empresas no Google Maps pra entrar em contato ali.
+
+56
+00:06:40,640 --> 00:06:41,539
+Muito, muito bom, tá?
+
+57
+00:06:41,680 --> 00:06:43,459
+É um canal legal de outbound mesmo.
+
+58
+00:06:44,180 --> 00:06:44,199
+Aqui
+
+59
+00:06:44,420 --> 00:06:51,219
+eu vou seguir no canal de inbound mesmo, no fluxo de inbound, que é, eu vou fazer um anúncio desse anúncio.
+
+60
+00:06:51,900 --> 00:06:59,019
+A pessoa vai cair no meu WhatsApp, eu posso tanto jogar ela direto no meu WhatsApp, quanto jogar ela aqui no meu site.
+
+61
+00:06:59,219 --> 00:07:01,359
+Então, eu vou pegar aqui, landing page.
+
+62
+00:07:01,359 --> 00:07:20,640
+LendingPage, posso jogar ela aqui também, se eu jogar ela numa LendingPage, igual a gente já viu, você pode fazer uma venda transacional aqui, que eu recomendo vendas transacionais ali, abaixo de dois mil reais, se você dividir de doze vezes, beleza? São dois caminhos diferentes, por que que eu queria usar aqui, ó? Porque aí eu consigo fazer isso, tá vendo? Mais fácil.
+
+63
+00:07:20,640 --> 00:07:29,640
+Então, um caminho é eu jogar o anúncio direto na landing page, outro caminho é eu jogar o anúncio direto no meu WhatsApp.
+
+64
+00:07:30,099 --> 00:07:35,539
+Vou fazer primeiro o fluxo de WhatsApp, bem simples. Então, estou aqui no WhatsApp, aí o que eu faço?
+
+65
+00:07:36,399 --> 00:07:47,479
+Pessoa viu o anúncio, o ideal quando a gente vai criar o Drownflow é assim, prospect, ou pessoa, vou chamar aqui de lead mesmo,
+
+66
+00:07:47,479 --> 00:07:50,179
+Lead, viu o anúncio.
+
+67
+00:07:51,379 --> 00:07:52,979
+Então, beleza, essa é a primeira etapa.
+
+68
+00:07:53,159 --> 00:07:54,579
+Ele viu o anúncio.
+
+69
+00:07:56,929 --> 00:08:03,249
+Assim que ele viu o anúncio, mandou mensagem no WhatsApp.
+
+70
+00:08:04,629 --> 00:08:06,649
+Aí aqui dá para a gente colocar assim, ó.
+
+71
+00:08:12,719 --> 00:08:14,299
+Vou até cortar essa antes.
+
+72
+00:08:14,659 --> 00:08:16,179
+A gente faz geralmente assim, ó.
+
+73
+00:08:16,259 --> 00:08:19,419
+Sim e não.
+
+74
+00:08:23,139 --> 00:08:25,459
+Diminui aqui, diminui aqui.
+
+75
+00:08:26,199 --> 00:08:26,719
+Aí.
+
+76
+00:08:26,719 --> 00:08:32,819
+então o sim vai vir pra cá e o não ele droga
+
+77
+00:08:33,479 --> 00:08:34,019
+sim
+
+78
+00:08:34,939 --> 00:08:36,439
+lead viu o anúncio?
+
+79
+00:08:39,559 --> 00:08:41,019
+lead viu o anúncio? sim
+
+80
+00:08:41,019 --> 00:08:42,099
+aí vem aqui
+
+81
+00:08:42,740 --> 00:08:43,280
+lead
+
+82
+00:08:45,260 --> 00:08:45,800
+mandou
+
+83
+00:08:45,800 --> 00:08:47,360
+a mensagem
+
+84
+00:08:47,979 --> 00:08:48,519
+inicial
+
+85
+00:08:48,519 --> 00:08:49,379
+no
+
+86
+00:08:49,379 --> 00:08:50,300
+whatsapp
+
+87
+00:08:51,199 --> 00:08:52,199
+segunda pergunta
+
+88
+00:08:52,199 --> 00:08:55,389
+aí vem aqui
+
+89
+00:08:55,389 --> 00:08:55,769
+sim
+
+90
+00:08:55,769 --> 00:08:59,899
+se ele mandou a mensagem inicial no whatsapp
+
+91
+00:09:01,929 --> 00:09:02,990
+bonitinho ele ficou verde
+
+92
+00:09:04,530 --> 00:09:05,229
+aí vem
+
+93
+00:09:05,229 --> 00:09:31,590
+Bem, dispara, chatbot. Vamos supor que a gente vai trabalhar com chatbot aqui. Vamos para o chatbot. Aí tem o não. Por que a gente faz desse jeito, tá? Tem um motivo para fazer assim. Vou deixar o verde clarinho aqui para vocês não ficarem destacando demais. Por que a gente faz esse sim e não? Porque muitas vezes o não leva a pessoa para uma outra etapa do fluxo.
+
+94
+00:09:34,229 --> 00:10:01,249
+Então vamos por aqui, ó, pessoa, lead viu o anúncio, sim, essa daqui no caso, lead viu o anúncio, não, o não aqui engloba todo mundo no planeta, né, que não viu o anúncio, então não faz sentido ter o não aqui, mas aí vem aqui, ó, lead viu o anúncio, sim, lead mandou mensagem inicial no WhatsApp, vamos colocar aqui que não, aí o que que significa isso aqui? Significa provavelmente, tá, que não, aí é uma tese, a gente pode colocar aqui embaixo, tese,
+
+95
+00:10:01,590 --> 00:10:05,849
+viu o anúncio e não clicou
+
+96
+00:10:05,849 --> 00:10:07,349
+click to hate
+
+97
+00:10:07,349 --> 00:10:08,689
+baixo
+
+98
+00:10:08,689 --> 00:10:11,050
+aí vem melhorar
+
+99
+00:10:12,389 --> 00:10:13,329
+a
+
+100
+00:10:13,329 --> 00:10:16,030
+melhorar o anúncio
+
+101
+00:10:16,030 --> 00:10:17,829
+oferta barra
+
+102
+00:10:18,369 --> 00:10:19,909
+vou até colocar aqui
+
+103
+00:10:19,909 --> 00:10:22,949
+fit de
+
+104
+00:10:22,949 --> 00:10:23,949
+promessa
+
+105
+00:10:23,949 --> 00:10:25,709
+pra simplificar
+
+106
+00:10:25,709 --> 00:10:27,649
+então se você
+
+107
+00:10:27,649 --> 00:10:29,789
+tá fazendo um anúncio e esse
+
+108
+00:10:29,789 --> 00:10:31,689
+seu anúncio a pessoa vê
+
+109
+00:10:31,689 --> 00:10:57,129
+B, mas não manda mensagem inicial no WhatsApp, não tem um fit de promessa claro, não tem um benefício claro para mandar, ninguém está mandando, você tem que melhorar o anúncio aqui, melhorar a promessa, até que a pessoa, ou melhorar o público, geralmente tem aqui, promessa, criativo, público, orçamento, enfim, você vai olhar essas variáveis de tráfego aqui, nesse caso.
+
+110
+00:10:57,169 --> 00:11:02,369
+Eu vou fazer os outros casos para vocês também, tá? Deixar grande mesmo.
+
+111
+00:11:02,369 --> 00:11:21,169
+Sim, aí sim ela respondeu, tem dois caminhos, tem o caminho de disparar o chatbot, ou tem o caminho aqui de humano, ou pode colocar equipe, no caso é o SDR, envia a primeira mensagem.
+
+112
+00:11:21,909 --> 00:11:33,849
+Aí tem um outro dado importante aqui, a gente chama de KPI, que é o indicador, que chama de Lead Response Time.
+
+113
+00:11:34,709 --> 00:11:39,369
+Então o que é o Lead Response Time? É o tempo que demora para responder um lead que entrou em contato.
+
+114
+00:11:39,510 --> 00:11:48,939
+O ideal é responder aqui, ó, ideal, menos, menos de cinco minutos.
+
+115
+00:11:50,179 --> 00:11:53,139
+Leed mandou em menos de 5 minutos, tem que ter uma resposta pra ele.
+
+116
+00:11:53,599 --> 00:11:58,899
+Provavelmente com a IA vai ser mais rápido de responder do que com um humano, né?
+
+117
+00:12:00,459 --> 00:12:05,159
+Humanos vão tender a demorar mais do que uma IA, e aí a IA acaba ganhando aqui na primeira resposta.
+
+118
+00:12:05,820 --> 00:12:13,979
+Aí aqui a gente já tem um ponto de roteiro, ou de script, que é aqui, qual mensagem que vai ser disparada aqui?
+
+119
+00:12:13,979 --> 00:12:25,199
+A gente pode até já deixar aqui um sinalizador, que a gente vai voltar nele, de scripts.
+
+120
+00:12:25,519 --> 00:12:31,840
+Então tem o script inicial aqui e tem um script inicial aqui, que precisa ser feito.
+
+121
+00:12:32,899 --> 00:12:41,059
+Então qual que é a mensagem que o robô vai disparar, qual que é a mensagem que o humano vai disparar, qual que é o objetivo que a gente quer que passe aqui.
+
+122
+00:12:41,720 --> 00:12:45,740
+E aí, para onde que esse SDR quer levar a venda aqui?
+
+123
+00:12:47,179 --> 00:12:53,260
+Ele enviou a primeira mensagem, aí vai vir a pergunta pra ele, lead, qualificado?
+
+124
+00:12:54,159 --> 00:12:56,220
+O que que a gente considera qualificado aqui?
+
+125
+00:12:56,539 --> 00:13:03,280
+Na Overlens a gente usa o BANT, e aí vou trazer o BANT aqui pra vocês, BANT, budget,
+
+126
+00:13:05,809 --> 00:13:08,909
+Budget, Authority, Need e Time.
+
+127
+00:13:09,170 --> 00:13:12,409
+Então são quatro critérios aqui que a pessoa precisa passar
+
+128
+00:13:12,409 --> 00:13:16,889
+para que ela seja qualificada, um lead qualificado para a venda.
+
+129
+00:13:17,309 --> 00:13:21,610
+Essa aqui é uma das metodologias, foi uma metodologia da IBM
+
+130
+00:13:21,610 --> 00:13:25,449
+e ela é muito usada no mundo todo.
+
+131
+00:13:25,829 --> 00:13:30,610
+Ela é um pouco diferente do SPIN, mas dá para aplicar o SPIN também,
+
+132
+00:13:30,610 --> 00:13:36,050
+Porque o SPIN, ele é a técnica que você usa pra poder formar esse BANT aqui.
+
+133
+00:13:36,970 --> 00:13:41,230
+Aqui, inclusive, então deixa aqui, a gente vai falar sim ou não, tá qualificado ou não.
+
+134
+00:13:41,590 --> 00:13:44,690
+Mas aqui, inclusive, tem dois jeitos, né? Envia a primeira mensagem.
+
+135
+00:13:44,789 --> 00:13:47,630
+No modo humano, você pode fazer assim, ó, que é um jeito legal.
+
+136
+00:13:49,949 --> 00:13:51,610
+SDR, liga duas vezes.
+
+137
+00:13:52,809 --> 00:13:53,449
+Aí vem.
+
+138
+00:13:55,070 --> 00:13:55,550
+Atendeu?
+
+139
+00:13:58,449 --> 00:14:01,329
+Tem o sim, opa, tem o sim e tem o não.
+
+140
+00:14:01,329 --> 00:14:33,679
+Então, atendeu. No não, SDR envia mensagem. Enviou mensagem. No de cá, atendeu, sim. Seguiu o script, né? Depois que ele atende, SDR segue o script e vem essa pergunta aqui, ó.
+
+141
+00:14:34,240 --> 00:14:37,000
+Lead é qualificado no BANT?
+
+142
+00:14:37,119 --> 00:14:39,599
+Fez a ligação ali e qualificou ele.
+
+143
+00:14:39,880 --> 00:14:45,179
+Se for qualificado, provavelmente vem a pergunta importante.
+
+144
+00:14:45,539 --> 00:14:49,800
+Essa daqui, na verdade, lead qualificado, ela tem que passar ali, mas isso tudo aqui é a ligação, né?
+
+145
+00:14:50,220 --> 00:14:52,840
+É como se estivesse dentro da ligação aqui, ó.
+
+146
+00:14:53,199 --> 00:14:59,510
+Opa, ligação.
+
+147
+00:15:06,880 --> 00:15:08,019
+Coloco aqui a ligação.
+
+148
+00:15:08,400 --> 00:15:09,400
+E aí vem aqui.
+
+149
+00:15:11,360 --> 00:15:12,240
+Agendou qual?
+
+150
+00:15:12,240 --> 00:15:46,740
+Call, o objetivo da ligação é agendar uma próxima call se o lead é qualificado, então vem aqui de novo, o lead é qualificado sim ou não, eu vou até inverter agora porque vai ter um processo aqui nesse não, diferente, tirar isso aqui, então lead é qualificado sim, agendou a call, aí beleza, tem aqui para agendar a call, no de cá se o lead não é qualificado, a gente pode colocar ele aqui, Luxo,
+
+151
+00:15:48,079 --> 00:16:01,440
+Loap, que aí vai qualificando ele, a gente chama isso aqui de dropar o lead também, você dropa ele pra outro fluxo ali, aí isso aqui é outra tomada que vai ligar aqui em outro fluxo diferente, beleza?
+
+152
+00:16:02,519 --> 00:16:18,500
+Lead é qualificado? É, se o lead é qualificado na ligação ali, fez as perguntas pra ele, aqui, aqui tem um script, né, o script vem pra cá, aí agenda uma call, agendou uma call, sim, vem pra cá, não, vem pra cá de novo,
+
+153
+00:16:18,500 --> 00:16:23,019
+Cliente não quis fazer call, então beleza, coloco ele no fluxo de follow -up.
+
+154
+00:16:23,860 --> 00:16:28,099
+Cliente agendou a call, aí vai vir aqui para call.
+
+155
+00:16:32,920 --> 00:16:34,260
+Cliente, cliente não, né, lead.
+
+156
+00:16:34,579 --> 00:16:41,500
+Lead apareceu? Então deixa ali.
+
+157
+00:16:41,619 --> 00:16:45,900
+Do lado de cá também, vem, SDR mandou, enviou mensagem,
+
+158
+00:16:46,000 --> 00:16:47,940
+aí vem aqui, lead qualificado.
+
+159
+00:16:50,349 --> 00:16:58,760
+Daria para fazer a mesma etapazinha aqui, script de mensagem.
+
+160
+00:16:58,760 --> 00:17:05,579
+Uma coisa que a gente faz também quando vai criar esses drown flows é script de ligação.
+
+161
+00:17:07,139 --> 00:17:16,260
+Então aí você já escreve aqui, ó, script de ligação e escreve aqui script de mensagem.
+
+162
+00:17:18,720 --> 00:17:21,099
+Aí a gente já sabe que precisa de dois scripts aqui.
+
+163
+00:17:23,240 --> 00:17:32,570
+Aí vamos lá, cliente atendeu, não, não atendeu, SDR, enviou uma mensagem, aí vem aqui também, né?
+
+164
+00:17:34,730 --> 00:17:35,570
+SDR envia
+
+165
+00:17:36,929 --> 00:17:37,769
+envia mensagem
+
+166
+00:17:40,340 --> 00:17:40,760
+lead
+
+167
+00:17:43,800 --> 00:17:44,220
+respondeu
+
+168
+00:17:47,740 --> 00:17:49,880
+aqui no caso esse lead respondeu
+
+169
+00:17:50,800 --> 00:17:51,840
+se bem que é bom
+
+170
+00:17:51,840 --> 00:17:54,340
+vai criando um fluxo que é um pouco complicado
+
+171
+00:17:54,340 --> 00:17:56,240
+mas não é, quando você está montando o seu próprio
+
+172
+00:17:56,240 --> 00:17:58,480
+e depois dá para ir colocando
+
+173
+00:17:58,480 --> 00:18:00,340
+as cores também, só mostrando o processo
+
+174
+00:18:00,340 --> 00:18:02,220
+para vocês, mas aqui por exemplo, SDR
+
+175
+00:18:02,220 --> 00:18:04,639
+enviou uma mensagem, aí vem, lead respondeu
+
+176
+00:18:04,639 --> 00:18:06,579
+por quê? Se o lead respondeu
+
+177
+00:18:06,579 --> 00:18:08,699
+vai seguir ali, se ele não respondeu
+
+178
+00:18:09,179 --> 00:18:10,780
+Se ele respondeu, segue aqui.
+
+179
+00:18:10,900 --> 00:18:14,559
+Se ele não respondeu, ele pode cair num fluxo diferente também.
+
+180
+00:18:15,500 --> 00:18:17,360
+Ou pode dropar ele, né?
+
+181
+00:18:17,380 --> 00:18:18,599
+Aí vem aqui e coloca drop.
+
+182
+00:18:18,980 --> 00:18:22,559
+Drop, geralmente a gente usa até outro desenhozinho aqui, ó.
+
+183
+00:18:22,579 --> 00:18:23,199
+A gente usa esse.
+
+184
+00:18:23,599 --> 00:18:26,860
+Esse aqui é um desenho de storage, né?
+
+185
+00:18:26,920 --> 00:18:33,849
+Como se fosse um storagezinho, que é onde a gente joga as pessoas que não responderam.
+
+186
+00:18:33,889 --> 00:18:35,030
+É uma lista de drop aqui.
+
+187
+00:18:35,550 --> 00:18:36,449
+Aí vem pra cá.
+
+188
+00:18:36,610 --> 00:18:37,429
+Lista de drop.
+
+189
+00:18:39,389 --> 00:19:03,720
+aí tem como ir desenhando desse jeito, pra montar certinho, depois a gente arruma, mas beleza, lead respondeu, sim, SDR segue o script da mensagem, aí aqui que tinha que colocar isso aqui, scriptzinho da mensagem, script de mensagem, lead é qualificado? Sim, se ele for qualificado, vai seguir ali, segue o script, lead qualificado? Sim, ele também vai pra
+
+190
+00:19:03,870 --> 00:19:08,009
+uma conversa de um dia, sei lá, alguma coisa assim, tem como você ir colocando assim também.
+
+191
+00:19:08,009 --> 00:19:32,850
+Mas o lead é qualificado? Não, ele cai no fluxo de follow -up para qualificar ele, ou ele pode ir para o fluxo MQL também, para qualificar ele, é um fluxo de marketing qualifica o lead, para não ter que ficar fazendo follow -up, follow -up na verdade é ideal quando às vezes você conversou com o cliente, ele está demonstrando interesse, então é diferente.
+
+192
+00:19:32,850 --> 00:19:42,950
+Esse aqui dá para voltar até para o fluxo MQL aqui, deixa o marketing qualificando a pessoa, quando ela mandar a mensagem de novo, ela cai no fluxo aqui de novo e aí está no momento de falar com ela.
+
+193
+00:19:43,550 --> 00:19:50,690
+Aí vem para cá, lead qualificado sim, eu posso puxar ele para o mesmo aqui, eu quero agendar a call com ele.
+
+194
+00:19:51,330 --> 00:19:56,470
+Então se o lead é qualificado, agendo a call, agendo a call sim, aí vem.
+
+195
+00:19:57,050 --> 00:19:59,310
+Então agora eu conectei tudo no mesmo lugar.
+
+196
+00:19:59,310 --> 00:20:03,150
+O lead apareceu na call? Sim ou não?
+
+197
+00:20:03,610 --> 00:20:07,770
+Se o lead não apareceu, lead remarcou? Pode acontecer, pô.
+
+198
+00:20:08,030 --> 00:20:10,610
+Lead remarcou.
+
+199
+00:20:11,670 --> 00:20:13,030
+Aí vem de novo, sim ou não?
+
+200
+00:20:13,110 --> 00:20:16,790
+Se o lead não remarcou, dropa ele.
+
+201
+00:20:18,230 --> 00:20:18,650
+Beleza.
+
+202
+00:20:18,710 --> 00:20:21,770
+Você não remarcou comigo, tá tudo bem, acontece.
+
+203
+00:20:22,230 --> 00:20:23,970
+Vou colocar na lista de drops.
+
+204
+00:20:24,210 --> 00:20:27,150
+Se no futuro ele me mandar mensagem de novo, eu respondo.
+
+205
+00:20:29,930 --> 00:20:34,330
+Por isso que eu estou desenhando aqui, para vocês pensarem no negócio de vocês, depende muito de fluxo.
+
+206
+00:20:34,570 --> 00:20:42,110
+Ah, cara, o lead não remarcou, não apareceu, vou mandar mensagem de novo para ele, tentando remarcar daqui sete dias.
+
+207
+00:20:42,470 --> 00:20:46,630
+Aí você pode colocar assim, só para dar um exemplo.
+
+208
+00:20:46,990 --> 00:20:48,910
+Lead apareceu, não apareceu.
+
+209
+00:20:49,090 --> 00:21:01,280
+Olha lá, ele não apareceu, depois que ele não apareceu, aí vem, você pode fazer assim, mensagem para remarcar.
+
+210
+00:21:03,180 --> 00:21:11,040
+Aí vem, lead respondeu? Tem como ir deixando sim ou não? Aí vem sim e não.
+
+211
+00:21:11,820 --> 00:21:13,740
+Não respondeu? Aí você pode fazer isso aqui, ó.
+
+212
+00:21:18,780 --> 00:21:19,640
+Após sete dias.
+
+213
+00:21:22,830 --> 00:21:23,470
+Nova mensagem.
+
+214
+00:21:24,550 --> 00:21:29,110
+Você pode até, porque tem um padrão na hora que você vai construir isso, que é o quê?
+
+215
+00:21:29,170 --> 00:21:31,050
+Aqui eu tô colocando tudo no mesmo quadradinho.
+
+216
+00:21:31,450 --> 00:21:33,270
+Mas você pode colocar direto na linha.
+
+217
+00:21:33,370 --> 00:21:34,490
+Vou dar um exemplo aqui pra vocês.
+
+218
+00:21:34,650 --> 00:21:35,930
+Lead respondeu ou não?
+
+219
+00:21:36,170 --> 00:21:37,970
+Aí vem aqui de novo, lead respondeu?
+
+220
+00:21:39,050 --> 00:21:40,670
+sempre pergunta, né, nesse caso
+
+221
+00:21:40,670 --> 00:21:42,670
+aí você coloca aqui assim, ó
+
+222
+00:21:43,650 --> 00:21:44,130
+não
+
+223
+00:21:45,430 --> 00:21:46,570
+nessa linha aqui
+
+224
+00:21:46,570 --> 00:21:47,970
+pode escrever aqui assim, ó
+
+225
+00:21:50,030 --> 00:21:50,990
+após sete
+
+226
+00:21:50,990 --> 00:21:52,390
+dias enviar nova
+
+227
+00:21:52,390 --> 00:21:53,190
+mensagem
+
+228
+00:21:54,650 --> 00:21:56,310
+vou colocar maiorzinho aqui
+
+229
+00:21:56,310 --> 00:21:57,990
+não, não tão maior
+
+230
+00:21:59,130 --> 00:21:59,610
+aí
+
+231
+00:22:00,370 --> 00:22:02,970
+e aí você vai montando o fluxo desse jeito aqui, entendeu
+
+232
+00:22:02,970 --> 00:22:04,690
+não precisa ser tudo
+
+233
+00:22:04,690 --> 00:22:06,650
+quadradinho também, não, é que eu que tô montando
+
+234
+00:22:06,650 --> 00:22:35,860
+desse jeito focado mais no fluxo aí funciona assim, a lead respondeu? não, aí você faz o que aqui? mesma lógica enviar mensagem de remarcação aí beleza, a lead respondeu a mensagem de remarcação? não, não respondeu após sete dias enviar nova mensagem, a lead respondeu? aí vamos supor aqui que é não
+
+235
+00:22:35,860 --> 00:22:51,160
+Não, dropa aí, aí ele vai para a mesma lista de drop, tá, você vai criando ela várias vezes aqui, momentos que esse lead não vai participar.
+
+236
+00:22:51,320 --> 00:22:59,180
+Isso aqui é legal tanto para IA, tá, estou fazendo isso aqui, vocês estão falando para que eu vou fazer isso e tal, quanto se vocês forem contratar alguém para trabalhar junto com vocês,
+
+237
+00:22:59,320 --> 00:23:10,960
+se vocês desenham o fluxo todo para a pessoa, depois de desenhar o fluxo, fala, olha, você vai seguir esse fluxo aqui, é só você ir fazendo as perguntas e seguindo o passo a passo que está aqui dentro, de como executar isso, beleza?
+
+238
+00:23:10,960 --> 00:23:45,940
+aí tem lead respondeu, sim, lead remarcou, sim, se remarcou, volta pra cá, aí que tá, tá vendo, dá vontade de organizar, puxa esse pra cá, esse pra cá, sobe ele aqui também, aí tem que arrumar tudo, aí, porque aí se ele respondeu, lead remarcou, aí se ele remarcou, ele apareceu na call, aí você cria um loop, tá vendo?
+
+239
+00:23:46,460 --> 00:23:51,630
+Você põe um loopzinho aqui, se ele está te respondendo.
+
+240
+00:23:51,810 --> 00:23:52,850
+Isso é o que eu encontrei.
+
+241
+00:23:53,230 --> 00:23:55,890
+Se ele não estiver te respondendo, aí você vai dropar ele.
+
+242
+00:23:56,190 --> 00:23:58,230
+Lead remarcou? Não.
+
+243
+00:23:58,410 --> 00:24:02,250
+Aí você pode, por exemplo, ver aqui de novo, uma informação legal.
+
+244
+00:24:05,770 --> 00:24:09,009
+Lead, vale a pena qualificar?
+
+245
+00:24:11,130 --> 00:24:11,590
+Qualificar.
+
+246
+00:24:13,700 --> 00:24:15,600
+Se for não, vai dropar.
+
+247
+00:24:16,520 --> 00:24:50,900
+se for sim, joga ele no mesmo fluxo, MQL aqui ó, vai pra esse mesmo fluxo, deixa eu ver, aí, aí, então beleza, a gente tem um final aqui que é dropar, tem aqui um final que é o MQL, e tem esse aqui que é o que a gente continuou, ó, lead apareceu na call, lead apareceu na call, sim, o não a gente já desenhou tudo, agora o sim, lead apareceu na call, aí aqui, tem dois jeitos, dá pra poder criar aqui,
+
+248
+00:24:50,900 --> 00:24:52,980
+Fluxo Closer
+
+249
+00:25:20,900 --> 00:25:50,640
+por exemplo, deixa eu ver aqui, lead apareceu já é de SDR, isso aqui já é coisa tudo de SDR, de closer, aqui para trás agendou a call, sim, aí viria aqui por exemplo, preparar SLA, esse SLA aqui é um documento que explica toda a qualificação do lead para o closer, então é um documento que fala lá, esse lead é assim, assim, assim, tem essa dor, tem esse problema, tem isso aqui, tem isso aqui, tem isso aqui, pronto, aí o closer recebe esse SLA,
+
+250
+00:25:50,900 --> 00:26:02,220
+Pra poder fazer a call, porque pensa, o closer, ele não conversou com a pessoa ainda, então ele já pega essas informações prévias pra ele não ter que ficar fazendo as mesmas perguntas de novo, tá?
+
+251
+00:26:03,020 --> 00:26:13,400
+Aqui no caso, eu tô fazendo todo o fluxo num lugar só, aí vocês já tão vendo que começa a ficar muita coisa, começa a ficar confuso às vezes, e aqui tá pequeno ainda, o que eu ia mostrar pra vocês é isso aqui, ó, processos,
+
+252
+00:26:13,500 --> 00:26:14,380
+não vou mostrar outra não.
+
+253
+00:26:14,380 --> 00:26:15,940
+Aí aqui o que que acontece?
+
+254
+00:26:16,320 --> 00:26:23,880
+Como, às vezes acontece isso aqui, ó, putz, tinha que ter isso aqui antes, eu esqueci de preparar, aí o que que faz?
+
+255
+00:26:24,059 --> 00:26:28,220
+Puxa pra cá e adiciona ali dentro, ó, então tem essas duas camadas.
+
+256
+00:26:28,559 --> 00:26:39,400
+Vamos supor que aqui eu vou dividir, né, então puxa pra cá, e aqui eu vou dividir a parte que é o closer e a parte que é o SDR.
+
+257
+00:26:40,500 --> 00:26:43,000
+Vamos colocar uma linhazinha aqui só pra dividir.
+
+258
+00:26:43,000 --> 00:26:46,539
+aqui é o fluxo closer e ali é o fluxo SDR
+
+259
+00:26:46,539 --> 00:27:07,559
+aí o que que eu faço aqui?
+
+260
+00:27:08,199 --> 00:27:09,619
+agendou a call? sim
+
+261
+00:27:10,199 --> 00:27:11,639
+no que agendou a call
+
+262
+00:27:11,639 --> 00:27:13,860
+ele tem duas etapas, preparar o SLA
+
+263
+00:27:13,860 --> 00:27:15,980
+e ele tem também aqui
+
+264
+00:27:17,280 --> 00:27:17,840
+handoff
+
+265
+00:27:17,840 --> 00:27:18,659
+fazer
+
+266
+00:27:24,980 --> 00:27:26,980
+handoff para closer
+
+267
+00:27:28,000 --> 00:27:28,559
+eventualmente
+
+268
+00:27:28,559 --> 00:27:30,579
+se vocês tiverem, ah, tô só eu sozinho
+
+269
+00:27:30,579 --> 00:27:32,960
+vocês mesmos vão
+
+270
+00:27:32,960 --> 00:27:34,820
+fazer o handoff pra vocês mesmos, é legal
+
+271
+00:27:40,340 --> 00:27:59,179
+SLA, Vendas, Service Level Agreement, que é o acordo de serviço de nível, que aí basicamente é um briefing de transição, um briefing de handoff, para sair de uma mão e ir para a outra mão, beleza?
+
+272
+00:27:59,179 --> 00:28:19,369
+Beleza? Então ele prepara, aqui ó, lead agendou, sim. Prepara esse, aqui inclusive dá pra fazer desse jeito aqui, colocando na linha, se quiser, ou dá pra colocar um, um outro desenho aqui também, deixa eu ver se, esse aqui geralmente é o de pergunta.
+
+273
+00:28:19,369 --> 00:28:24,750
+Tem toda... como se fossem regras ABNTs de construção de fluxos, tá?
+
+274
+00:28:24,829 --> 00:28:28,730
+Eu tô quebrando todas aqui, tô só montando pra vocês verem a lógica.
+
+275
+00:28:29,750 --> 00:28:35,970
+Mas cada formato desse aqui você usa pra um tipo de ação ou pergunta ou por aí vai.
+
+276
+00:28:36,230 --> 00:28:40,010
+Aqui eu tô fazendo assim só mais pra mostrar a ideia.
+
+277
+00:28:41,010 --> 00:28:43,010
+Deixa eu ver se eu consigo diminuir aqui assim.
+
+278
+00:28:44,250 --> 00:28:44,789
+E...
+
+279
+00:28:44,789 --> 00:28:45,590
+E...
+
+280
+00:28:46,409 --> 00:28:46,949
+E...
+
+281
+00:28:47,590 --> 00:28:48,130
+Azul.
+
+282
+00:28:48,130 --> 00:28:51,949
+então sim, ele vai
+
+283
+00:28:52,570 --> 00:28:53,590
+preparar a SLA
+
+284
+00:28:53,590 --> 00:28:55,309
+e fazer o handoff
+
+285
+00:28:56,449 --> 00:28:58,010
+deixar o handoff aqui assim
+
+286
+00:28:58,010 --> 00:29:04,039
+aí aqui já é o
+
+287
+00:29:04,039 --> 00:29:05,500
+o closer agora
+
+288
+00:29:05,500 --> 00:29:07,920
+o closer que vai ver, apareceu na reunião? Não
+
+289
+00:29:08,519 --> 00:29:10,059
+aí aqui tem dois
+
+290
+00:29:10,059 --> 00:29:12,099
+jeitos também, né, se ele não apareceu na call
+
+291
+00:29:12,099 --> 00:29:13,480
+ele pode ou
+
+292
+00:29:15,220 --> 00:29:16,199
+devolver pro SDR
+
+293
+00:29:18,179 --> 00:29:19,639
+ou ele mesmo
+
+294
+00:29:19,639 --> 00:29:21,340
+pode mandar uma mensagem de
+
+295
+00:29:21,340 --> 00:29:23,360
+remarcação, aí depende aí de como
+
+296
+00:29:23,360 --> 00:29:25,240
+como que vocês vão desenhar o fluxo, tá?
+
+297
+00:29:25,940 --> 00:29:27,380
+Mas eu vou deixar desse jeito aqui
+
+298
+00:29:27,380 --> 00:29:29,179
+pra avançar na próxima etapa, vamos
+
+299
+00:29:29,179 --> 00:29:30,940
+considerar então que nesse fluxo aqui
+
+300
+00:29:30,940 --> 00:29:33,400
+o próprio closer, né, o lead
+
+301
+00:29:33,400 --> 00:29:35,480
+não apareceu na call, ele manda
+
+302
+00:29:35,480 --> 00:29:37,019
+uma mensagem, oi, tudo bem? Meu nome é Ruan,
+
+303
+00:29:37,199 --> 00:29:39,519
+eu tinha uma call agendada com você
+
+304
+00:29:39,519 --> 00:29:40,860
+hoje, acabou que não deu pra você participar,
+
+305
+00:29:41,360 --> 00:29:43,039
+eu quero marcar com você aqui
+
+306
+00:29:44,340 --> 00:29:45,559
+amanhã, você tem um horário
+
+307
+00:29:46,139 --> 00:29:47,460
+em 15 horas da tarde
+
+308
+00:29:47,460 --> 00:29:49,599
+e tal, tem um script pra isso.
+
+309
+00:29:50,099 --> 00:29:51,240
+Inclusive, aqui já pode
+
+310
+00:29:51,240 --> 00:29:51,920
+colocar também.
+
+311
+00:29:53,420 --> 00:29:55,599
+Tem então a mensagem de remarcação.
+
+312
+00:29:56,000 --> 00:29:57,840
+E tem essa mensagem aqui também.
+
+313
+00:29:58,300 --> 00:29:59,960
+Após sete dias, nova mensagem.
+
+314
+00:30:01,179 --> 00:30:03,699
+Então, lead respondeu, aquele fluxo todo.
+
+315
+00:30:04,960 --> 00:30:07,059
+Beleza, vamos supor que o lead apareceu na call.
+
+316
+00:30:07,199 --> 00:30:08,840
+Estou no fluxo de closer aqui agora.
+
+317
+00:30:09,639 --> 00:30:10,639
+Aí vem a pergunta.
+
+318
+00:30:10,880 --> 00:30:15,720
+Lead, eu posso até colocar também pequenininho assim.
+
+319
+00:30:17,960 --> 00:30:19,000
+Aplicar Spiced.
+
+320
+00:30:19,000 --> 00:30:48,980
+CED, e depois fechamento, tem como tanto, igual eu falei, eu vou mergulhar dentro do processo, vou desenhar inteiro, e aí você vai colocando cada micro etapa aqui, um jeito de fazer isso muitas vezes é fazer como se fosse um blocão só, e aí você vai juntando ele, tem um formatinho aqui que dá pra usar pra isso, é esse aqui ó, então você pega aqui e coloca como se tudo fosse
+
+321
+00:30:48,980 --> 00:31:32,539
+a mesma etapa, então, Spiced, vacina, fechamento, então vamos colocar aqui, não vou conseguir fazer isso, né, vai mudar ali, vou colocar aqui três pontinhos, cadê, caiu no chão, peraí, e aí eu posso falar que isso aqui é a call, entendeu, então, call, roteiro da call, tem como também
+
+322
+00:31:32,539 --> 00:31:36,760
+Criar um arquivo de roteiro e aí fica lá dentro do arquivo ao invés de ficar aqui, enfim.
+
+323
+00:31:37,500 --> 00:31:40,320
+Então o lead apareceu, seguiu o roteiro da call.
+
+324
+00:31:40,760 --> 00:31:42,099
+Aí vem a pergunta de novo.
+
+325
+00:31:43,240 --> 00:31:44,119
+Lead fechou?
+
+326
+00:31:45,960 --> 00:31:50,099
+Se o lead fechou, sim e não.
+
+327
+00:31:50,780 --> 00:31:51,800
+Lead fechou e vem.
+
+328
+00:31:55,619 --> 00:31:57,039
+Contrato, assinou o contrato.
+
+329
+00:31:58,980 --> 00:32:00,920
+Lead assinou o contrato.
+
+330
+00:32:01,579 --> 00:32:04,099
+Aí vem de novo, sim e não.
+
+331
+00:32:05,920 --> 00:32:43,519
+Lead fechou, aqui o fluxo pode mudar também, enviar, contrato, por e -mail e aviso pelo WhatsApp, vou colocar aqui assim, prontinho, lead fechou? Não, aí aqui pode entrar no follow -up também, fluxo FUP, aqui é legal um fluxo de follow -up mesmo, porque diferente do de marketing, aqui ou o closer, ou se você quiser,
+
+332
+00:32:43,539 --> 00:32:54,300
+Se for devolver, não é mais SDR aqui, né? Aqui vira um relacionamento, mas esse aqui eu troquei o nome mesmo, né? Isso, fluxo MQL, fluxo FUP, né? Follow -up.
+
+333
+00:32:55,460 --> 00:33:07,240
+Aqui é interessante porque o closer já fez a call com a pessoa, e aí agora, ou ele pode continuar desenvolvendo ela, depende do tamanho da equipe, tá?
+
+334
+00:33:07,240 --> 00:33:09,019
+Por isso que eu tô falando muito ou, ou, ou aqui.
+
+335
+00:33:09,340 --> 00:33:13,820
+Mas ou ele pode continuar conversando, ou pode ter um outro responsável
+
+336
+00:33:13,820 --> 00:33:16,420
+que cuida desse relacionamento, entendeu?
+
+337
+00:33:16,880 --> 00:33:19,800
+Aí esse outro responsável vai entrar num outro fluxo diferente
+
+338
+00:33:19,800 --> 00:33:21,059
+que você pode desenhar depois.
+
+339
+00:33:21,920 --> 00:33:24,019
+E aí o que é importante disso aqui, beleza?
+
+340
+00:33:24,059 --> 00:33:27,900
+A gente fez esse desenho, o DAIA a gente vai ver também como que ela fez,
+
+341
+00:33:28,099 --> 00:33:30,159
+mas o importante é você ver isso aqui, ó.
+
+342
+00:33:30,360 --> 00:33:32,960
+Quais momentos você precisa de um script?
+
+343
+00:33:33,139 --> 00:33:35,659
+Tem o do chatbot que a gente não fez também,
+
+344
+00:33:35,659 --> 00:34:11,260
+Mas o do chatbot, ele vem até aqui, ou você vai fazer ele vir até ele mesmo agendar a call, ou ele vai sinalizar, lead qualificado, e aí se o lead estiver qualificado, ele pode agendar a call, se não estiver qualificado, aí ele pode continuar num fluxo MQL aqui com ele, ou num fluxo de follow -up da IA.
+
+345
+00:34:17,670 --> 00:34:30,690
+AIFU, são dois caminhos possíveis aqui para o agente de AI, lead qualificado, não,
+
+346
+00:34:32,470 --> 00:34:41,030
+o UCMQL e AIFU, que a IAI continua conversando com ele até qualificado, lead é qualificado,
+
+347
+00:34:42,970 --> 00:35:17,860
+lead, agendou, call, pode colocar aqui, agendar, call, com, lead, lead, agendou, call, sim ou não, se for sim, a IA vai preparar o SLA aqui, prepara SLA, se for não, opa, se for não, volta para os mesmos fluxos aqui também,
+
+348
+00:35:17,860 --> 00:35:28,460
+O da IA é bem mais simples, só que na verdade tem coisa escondida aqui, porque você tem que configurar a IA, as perguntas, aqui eu simplifiquei.
+
+349
+00:35:29,920 --> 00:35:34,539
+Feito isso, a gente já consegue ver, por exemplo, precisa de um script para o chatbot,
+
+350
+00:35:36,039 --> 00:35:43,320
+precisa de um script para o SDR humano aqui, se for fazer, script de ligação, script de mensagem também,
+
+351
+00:35:44,380 --> 00:35:55,260
+Além do script de mensagem, a gente também precisa, qualificou, do SLA, aqui dá pra falar que é um documento também, dá pra fazer ele de outra cor aqui.
+
+352
+00:35:58,630 --> 00:36:13,250
+Faz o handoff, aqui tem a mensagem de marcação e tem o roteiro da call aqui também, que tem que ser todo feito.
+
+353
+00:36:15,610 --> 00:36:19,210
+Também tem a mensagem depois de sete dias e pronto.
+
+354
+00:36:19,210 --> 00:36:54,309
+Pronto. Aqui eu montei um primeiro fluxo para vocês verem a ideia. No caso aqui também faltou só isso. Lead assinou o contrato? Não. Aí tem que mandar uma nova mensagem para ele. Lead respondeu. Lead assinou o contrato? Não. Aí você coloca aqui. Enviar lembrete. Lead respondeu? Se for não, ficou de fora. Vai para o follow -up aqui. Humano.
+
+355
+00:36:54,309 --> 00:36:59,780
+Se for sim, assinou o contrato?
+
+356
+00:37:01,220 --> 00:37:03,840
+Aí entra nesse loop aqui, se ele não assinou, até assinar aí.
+
+357
+00:37:04,699 --> 00:37:05,539
+E venda.
+
+358
+00:37:05,780 --> 00:37:07,320
+Vou fazer aqui nosso meme, né?
+
+359
+00:37:07,400 --> 00:37:08,860
+Vendas, vendas, vendas.
+
+360
+00:37:09,460 --> 00:37:11,540
+aqui é uma, é um draw flow.
+
+361
+00:37:11,540 --> 00:37:17,300
+e é um Drownflow específico para quando a pessoa vem de anúncio qualificar ela.
+
+362
+00:37:17,720 --> 00:37:21,120
+Posso usar esse Drownflow, por exemplo, na hora de qualificar o lead aqui.
+
+363
+00:37:21,260 --> 00:37:22,940
+O que é o lead qualificado?
+
+364
+00:37:23,420 --> 00:37:26,020
+Pode ter aqui uma triagem.
+
+365
+00:37:27,520 --> 00:37:31,920
+Essa triagem aqui, ela pode ser uma triagem tanto aqui quanto aqui, tá?
+
+366
+00:37:32,060 --> 00:37:33,380
+Aí entra uma etapa extra.
+
+367
+00:37:34,560 --> 00:37:38,860
+De qual produto certo para essa pessoa? Por quê?
+
+368
+00:37:38,860 --> 00:38:05,640
+E aí a gente tem que fazer o que aqui ó, tem que pegar tudo que tá daqui pra cá, puxar tudo aqui assim ó, puxa aqui essa pergunta de lead qualificado, ela pode vir até antes aqui do, não, ela é meio junto mesmo, eu vou arrumar aqui, mas por que que isso é importante?
+
+369
+00:38:05,640 --> 00:38:06,080
+Vou dar
+
+370
+00:38:06,360 --> 00:38:13,279
+A triagem, ela serve para eu qualificar qual desses produtos aqui é o ideal para o lead.
+
+371
+00:38:13,279 --> 00:38:13,440
+Lead.
+
+372
+00:38:14,079 --> 00:38:38,859
+que vocês têm que qualificar aqui mais importante de tudo nesse fluxo? Se é uma venda transacional ou se é uma venda complexa? A venda transacional é, eu te mando o link, você mesmo compra. A venda complexa precisa de uma call para especificar tudo certinho. No caso aqui então, ao invés de perguntar lead qualificado, eu coloco aqui,
+
+373
+00:38:38,859 --> 00:38:48,369
+Uma etapa de qual a qualificação do lead.
+
+374
+00:38:48,509 --> 00:38:49,889
+Ou então eu posso perguntar assim,
+
+375
+00:38:50,670 --> 00:38:53,150
+estou tentando formular melhor isso aqui para vocês,
+
+376
+00:38:57,879 --> 00:39:00,679
+venda transacional ou complexa?
+
+377
+00:39:00,679 --> 00:39:01,599
+Direto ao ponto, assim.
+
+378
+00:39:02,239 --> 00:39:06,539
+Então aqui, chatbot dispara, aí vem a pergunta, lead qualificado?
+
+379
+00:39:06,659 --> 00:39:09,139
+Ao invés de falar sim ou não lead qualificado aqui,
+
+380
+00:39:09,299 --> 00:39:11,179
+o que a gente vai fazer, vou tirar isso aqui,
+
+381
+00:39:11,779 --> 00:39:13,299
+vou tirar daqui também por enquanto,
+
+382
+00:39:13,299 --> 00:39:18,219
+E eu coloco aqui, venda transacional ou complexa?
+
+383
+00:39:18,219 --> 00:39:19,579
+Isso aqui é a triagem, tá?
+
+384
+00:39:19,699 --> 00:39:20,480
+Isso aqui é uma triagem.
+
+385
+00:39:20,659 --> 00:39:22,379
+Vou deixar pequenininha aqui só pra gente marcar.
+
+386
+00:39:23,039 --> 00:39:31,199
+Aí vem, venda transacional é um fluxo, vou deixar pra baixo aqui, e venda complexa é o que tinha seguido.
+
+387
+00:39:31,519 --> 00:39:33,639
+Então, venda transacional ou complexa?
+
+388
+00:39:33,639 --> 00:39:34,519
+Venda complexa.
+
+389
+00:39:34,519 --> 00:39:36,519
+Vamos colocar uma corzinha nela aqui, que cor?
+
+390
+00:39:36,699 --> 00:39:41,989
+Vou colocar assim, tá bom.
+
+391
+00:39:41,989 --> 00:40:04,980
+E se for venda transacional, o próprio chatbot, no caso aqui o meu seria Atlas e Overpass, o próprio chatbot pode acionar qual dos dois produtos que é, enviar o link.
+
+392
+00:40:05,839 --> 00:40:08,419
+toda essa complexidade, mas eu não vou tratar isso aqui agora não.
+
+393
+00:40:08,419 --> 00:40:39,889
+O ponto principal é venda transacional, enviar link de compra, lead clicou no link, sim e não, ou você pode ao invés de fazer lead clicou no link, espera 24 horas e vem lead respondeu, que é o que? Você vai colocar aqui, enviar mensagem de confirmação, aí essa mensagem de confirmação ela precisa ser escrita também, porque é aquela mensagem, deu tudo certo, conseguiu fazer sua compra,
+
+394
+00:40:42,769 --> 00:41:12,879
+Lid Respondeu, que não comprou, continua a conversa, Lid não respondeu, joga em outro fluxo e por aí vai, tá? Agora, se for o de cima, aí o de cima segue aquele fluxo que a gente tinha desenhado, né? Venda complexa, aí aqui na verdade vem, né? Venda complexa, Lid qualificado, aqui é um pouco redundante, daria pra
+
+395
+00:41:12,879 --> 00:41:17,160
+para otimizar essa parte aqui melhor, mas acho que a lógica dá para pegar.
+
+396
+00:41:17,299 --> 00:41:20,599
+A mesma coisa acontece aqui em cima, você vai fazer essa pergunta aqui primeiro,
+
+397
+00:41:20,919 --> 00:41:26,679
+vou tirar isso aqui, fazer essa pergunta aqui, se é transacional ou complexo,
+
+398
+00:41:27,259 --> 00:41:32,879
+segue o script da ligação ou da mensagem, os dois vão cair nessa mesma pergunta aqui,
+
+399
+00:41:33,860 --> 00:41:40,459
+só que vão para caminhos diferentes, aí o ideal é, de novo, desenho de cá e desenho de cá.
+
+400
+00:41:41,200 --> 00:42:17,039
+Então, SDR envia mensagem, venda transacional complexa, se for complexa, ele vai, aqui era, estava como, SDR envia mensagem, lead respondeu, segue, ah tá, esse seria mais pra frente, na verdade, aqui seria assim mesmo, seria aqui ó, que a gente ia colocar, aqui ó, nesse ponto aqui, entra a mesma pergunta,
+
+401
+00:42:17,059 --> 00:42:23,519
+Vou fazer só o de cima, porque vocês entenderam a lógica também, senão eu vou ficar refinando coisa que não precisa.
+
+402
+00:42:23,980 --> 00:42:30,999
+Mas basicamente é, se ele for venda complexa, é isso aqui.
+
+403
+00:42:33,360 --> 00:42:36,719
+Essa pergunta até nem faz sentido aqui, né? Nem aqui também.
+
+404
+00:42:46,919 --> 00:42:52,719
+Porque se você sabe que o produto certo para ele é um produto de venda complexa, é porque você já qualificou ele, entendeu?
+
+405
+00:42:53,019 --> 00:42:55,219
+Aí você segue aqui para agendar qual com ele.
+
+406
+00:42:55,219 --> 00:42:55,519
+pô,
+
+407
+00:42:56,159 --> 00:43:10,139
+assim, só pra deixar aqui de registro, mas, venda complexa, é um caminho, e esse caminho de baixo é o mesmo, da transacional aqui, só que é um humano fazendo, né?
+
+408
+00:43:10,539 --> 00:43:11,919
+terminar de fechar aqui.
+
+409
+00:43:11,919 --> 00:43:30,400
+Na venda complexa agora, a gente vai trazer ele pra cá, venda complexa, sim, aí, agendou a call, aí segue, beleza?
+
+410
+00:43:31,039 --> 00:43:46,560
+Então, faltou essa informação, era importante eu passar pra vocês, porque vocês também precisam entender, é um produto barato, que eu consigo vender ali, direto, só mandando link pra pessoa, se for, tem muita gente que perde oportunidade às vezes, dá pra incluir isso aqui em várias etapas do processo, tá?
+
+411
+00:43:46,560 --> 00:43:53,539
+Mas, por exemplo, conversei com alguém ali e tal, falei, hum, essa pessoa aqui não vai comprar meu produto ou meu serviço de 50 mil reais.
+
+412
+00:43:54,200 --> 00:44:01,400
+E aí fala, ah, não é meu perfil de cliente, e perde o cliente, mas às vezes ele compraria um serviço seu de 5 mil reais, né, 10 vezes mais barato ali,
+
+413
+00:44:01,500 --> 00:44:05,980
+ou, vamos simplificar mais ainda, você vai vender um produto, um serviço de 5 mil reais.
+
+414
+00:44:06,360 --> 00:44:13,920
+Aí fala, hum, essa pessoa não vai comprar, ela tá num outro nível, só que eu tenho um produtinho aqui de 300 reais que ela pode ela mesma fazer pra ela.
+
+415
+00:44:14,320 --> 00:44:33,860
+e aí eu mando o link e ela compra, ganhei 300 reais agora, ah Roma, esse 300 reais é pouco, o lance não é nem só esse, porque se você vai acumulando, 10 clientes que você recebeu um não, mas vendeu 300 reais, já foi 3 mil reais, só que o outro ponto é, aquela pessoa que comprou o produto barato, se você mantém esse relacionamento, ela continua comprando de você, lá na frente você vende pra ela de novo, entendeu?
+
+416
+00:44:34,380 --> 00:44:43,460
+Então tem muita gente que perde oportunidade nisso aqui, porque acha que só porque o cliente não é qualificado pra um produto, ele não é qualificado pros outros também, ah, perdi o cliente, foi tempo perdido, e não é.
+
+417
+00:44:43,920 --> 00:45:00,500
+O ponto que vocês tem que tomar cuidado só é que se tiver começando o negócio agora, construir complexidade demais, ou seja, vou criar 10 produtos, 5 produtos, vai te impedir de fazer dinheiro mais rápido também, pra ter caixa, pra contratar equipe, pra poder escalar isso do jeito certo, entendeu? Então tem que levar isso em consideração também.
+

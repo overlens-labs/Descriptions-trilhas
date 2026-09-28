@@ -1,0 +1,138 @@
+# Opinião não é prova
+
+**Tempo estimado de leitura:** 9 minutos
+
+## Objetivos de aprendizado
+
+Ao final desta aula, você será capaz de:
+
+- Reconhecer o viés de sobrevivência em decisões empresariais
+- Distinguir intenção declarada de evidência comportamental
+- Estruturar testes de hipóteses antes de construir a solução completa
+- Aplicar uma escala de evidências para acompanhar a validação
+
+## Abraham Wald e o viés de sobrevivência
+
+Durante a Segunda Guerra Mundial, aviões norte-americanos retornavam danificados e cheios de marcas de munição. O matemático Abraham Wald, que trabalhava em um grupo de pesquisa estatística da Columbia University, foi chamado para analisar onde seria necessário reforçar a blindagem.
+
+A resposta intuitiva seria proteger as regiões com mais tiros. Wald percebeu o contrário: aqueles aviões haviam sido atingidos nessas áreas e ainda conseguiram voltar. Os pontos sem marcas poderiam ser justamente aqueles em que um disparo impedia o retorno.
+
+Esse erro de observar apenas os casos disponíveis recebeu o nome de viés de sobrevivência. Quando alguém copia um empresário bem-sucedido, uma pessoa que abandonou a faculdade ou um criador que viralizou, olha apenas para os aviões que voltaram e ignora todos os que fizeram algo semelhante sem obter o mesmo resultado.
+
+## Encontrar o próprio modelo
+
+Em 2019, Ruan produzia conteúdo imitando formatos usados por outras pessoas. Ele assumia que, se alguém tinha resultado daquele modo, aquele comportamento deveria estar correto. A tentativa de copiar não funcionou.
+
+A mudança ocorreu quando começou a observar o que não estava visível nos casos de sucesso. Na produção de conteúdo, identificou a necessidade de se expor, praticar até encontrar um modelo próprio e repetir aquilo que demonstrasse resultado.
+
+O primeiro formato da Overlens filmava o papel enquanto ele escrevia e ensinava. Mais tarde, ao retomar a mesma lógica em outro formato, começou a observar resultados em duas semanas. O princípio é testar, aprender e replicar o que funciona no próprio contexto.
+
+## A direção errada precisa ser descoberta rápido
+
+No começo, não existe certeza absoluta de que uma tese está correta. Seguir uma direção equivocada por pouco tempo pode ser parte do aprendizado. O prejuízo cresce quando se demora a reconhecer o erro.
+
+Por isso, uma tese de valor precisa ser validada rapidamente. Se não resistir ao teste, é descartada e substituída. Velocidade reduz o custo de aprender.
+
+Visibilidade e distribuição não resolvem um negócio que ainda não foi validado. Visibilidade diante do público errado pode ampliar um problema. Distribuição em excesso também pode quebrar uma operação sem capacidade de entrega.
+
+## Quando ter clientes demais causa a falência
+
+A aula apresenta uma loja de açaí da região que faliu depois de atrair clientes demais. A distribuição funcionou, mas a empresa não estava preparada para atender. As reclamações cresceram e o negócio encerrou as atividades.
+
+O caso mostra que a pergunta não é apenas como alcançar pessoas. É preciso verificar direção, demanda, capacidade e entrega dentro do contexto escolhido.
+
+Depois de definir direção, validar, construir caixa e criar previsibilidade, a urgência diminui. Surgem outros riscos, como acomodação e mudanças de mercado capazes de eclipsar uma operação que parecia segura.
+
+## Os diferentes tipos de validação
+
+Existem validações de produto, tese de valor, mercado, oferta, preço e entrega. O problema é pular etapas ou validar a coisa errada no momento errado.
+
+Validar a entrega completa antes de testar mercado, tese e oferta consome tempo e recursos. No início, basta um escopo que permita ao cliente saber quais são os entregáveis.
+
+O escopo funciona como roadmap. Ele indica o ponto de partida, o destino e as grandes etapas, sem antecipar todos os obstáculos. Tentar prever cada detalhe gera overengineering.
+
+Ruan relata ter passado quatro anos preso nesse comportamento. O aprendizado foi útil, mas o custo foi alto. Um roteiro simples teria permitido avançar, testar e corrigir mais cedo.
+
+## Tese de valor e Solution Market Fit
+
+A tese de valor tem dois lados: problema e solução. Primeiro se identifica um problema e se formula uma hipótese de como resolvê-lo. Em seguida, essa hipótese é confrontada com o mercado.
+
+Ruan usa o termo Solution Market Fit para evitar a impressão de que um produto completo precisa existir antes do teste. Fit significa ajuste. O objetivo é conectar uma solução a um mercado que reconhece valor nela.
+
+A validação busca maneiras rápidas de ganhar convicção antes de investir pesadamente na construção. Isso se aproxima dos conceitos de Problem Solution Fit e Product Discovery.
+
+No Product Discovery, procura-se evidência de que a solução é valiosa, utilizável, tecnicamente possível e viável para o negócio antes de gastar energia construindo tudo.
+
+## Direção antes de tração
+
+Validar uma tese é diferente de conquistar tração. Tração amplia movimento e crescimento. Antes dela, o negócio precisa de direção.
+
+A analogia é a de um carro: não se pisa fundo no acelerador antes de apontá-lo para o caminho correto. Velocidade aplicada à direção errada aumenta o dano.
+
+Depois da formulação intelectual, é necessário forçar o mercado a reagir. A ideia deixa o documento e entra em movimento.
+
+## Testar as crenças mais arriscadas
+
+Uma ideia não deve ser validada inteira de uma só vez. Ela precisa ser quebrada em crenças que devem ser verdadeiras para que o negócio funcione.
+
+O princípio de assumption testing orienta a testar primeiro as suposições mais arriscadas. Isso custa menos e produz aprendizado mais rápido do que construir a solução inteira.
+
+Antes de executar, o teste deve declarar hipótese, experimento, métrica e critério de sucesso. Teresa Torres, Strategyzer e Silicon Valley Product Group, citado pela sigla SVPG, convergem na recomendação de explicitar hipóteses críticas e testar primeiro aquilo que apresenta maior risco.
+
+A lógica também se aproxima do test card da Strategyzer e do ciclo Lean de construir, mensurar e aprender. O site da Strategyzer reúne ferramentas como Business Model Canvas e Value Proposition Canvas para estruturar esse tipo de raciocínio.
+
+## Opinião gera informação, comportamento gera evidência
+
+Alguém dizer "eu compraria" ou "achei legal" fornece informação, mas não comprova demanda. A força aumenta quando a pessoa assume algum custo.
+
+Clicar, fornecer o WhatsApp, entrar em uma lista, pedir uma demonstração, marcar uma reunião, enviar dados, mudar um processo, dedicar uma equipe, colocar o cartão, pagar um depósito ou assinar um piloto exigem esforços diferentes.
+
+Convicção deve vir do custo do comportamento, e não da quantidade de elogios. Quanto mais relevante for o compromisso assumido, mais forte é a evidência.
+
+## A escala de evidências
+
+A escala começa no nível zero, opinião. Depois aparecem reconhecimento do problema, histórico de tentativa, atenção, intenção, compromisso, sacrifício, dinheiro, uso, retenção e propagação espontânea.
+
+Uma pessoa que reconhece o problema fornece mais informação do que alguém que apenas achou a ideia interessante. Quem marca uma reunião ou envia dados demonstra compromisso. Quem paga oferece evidência financeira. Quem usa, obtém resultado, continua e indica mostra níveis mais fortes de validação.
+
+Uma semana de testes sem venda não representa automaticamente fracasso. É possível registrar quantas pessoas reconheceram o problema, tentaram resolvê-lo, clicaram, pediram uma demonstração ou avançaram para outro nível. A escala mostra onde o processo parou e qual comportamento deve ser buscado em seguida.
+
+## A validação da Overlens por níveis
+
+Ruan aplica a escala à história da Overlens. Primeiro realizou entrevistas, identificou problemas, observou tentativas anteriores, reuniu interessados, marcou uma transmissão e fez uma oferta. As primeiras pessoas pagaram, produzindo evidência financeira.
+
+Depois, passou quase dois anos no nível de uso, ajustando e mudando a entrega até encontrar uma solução adequada. Em seguida, acompanhou retenção, renovação e indicação espontânea. Somente com essa progressão considerou a solução validada e pronta para buscar escala.
+
+Escalar reinicia parte do processo, pois é necessário verificar se a solução mantém sua qualidade e seus resultados em um volume maior.
+
+## Critério de sucesso e ritmo de teste
+
+O critério apresentado para sair da etapa inicial é conseguir três pilotos pagos. O pagamento prova mais do que a intenção declarada e permite observar uso e continuidade.
+
+O exemplo numérico apresenta 37 empresas do ICP abordadas, onze reuniões aceitas, seis interessadas no piloto e três pagamentos de R$ 2 mil antes da existência do produto. Essa descrição é mais precisa do que afirmar apenas que a hipótese foi validada após conversar com algumas pessoas.
+
+Antes do teste, também devem ser escritos o critério de aprovação e o critério de morte. Se o limite de morte for alcançado, a hipótese volta para revisão em vez de permanecer ativa por apego à ideia.
+
+A aula também reforça um ciclo rápido. Se o teste demora mais de sete dias para começar a gerar aprendizado, o processo já está lento para essa fase.
+
+Hipótese, teste, métrica e critério precisam ser definidos antes do experimento. Assim, o resultado não é reinterpretado apenas para proteger a ideia original.
+
+No exemplo das clínicas, a hipótese afirma que clínicas pequenas têm dificuldade para recuperar leads perdidos e ainda não conhecem uma solução. A crença crítica é que a dor seja forte o suficiente para justificar pagamento.
+
+O experimento oferece um piloto manual para trinta clínicas. O sucesso exige três pilotos pagos. Muito interesse sem pagamento acende um alerta. Trinta ICPs abordados sem nenhuma reunião matam a hipótese. O prazo da rodada é de sete dias.
+
+## Materiais da aula
+
+- [Conversa Validar Solution Market Fit](https://chatgpt.com/share/6a9ad7ec-7664-83e9-b1a8-d8484b9a0464): conversa compartilhada por Ruan e usada para organizar a escada de evidências apresentada nesta sequência.
+
+## Coloque em prática
+
+Divida sua tese de valor em crenças que precisam ser verdadeiras.
+
+Escolha a crença mais arriscada e crie um teste de até sete dias.
+
+Defina a métrica e o critério de sucesso antes de começar.
+
+Registre comportamentos observáveis em vez de contar elogios.
+
+Busque três pilotos pagos antes de investir na construção completa.

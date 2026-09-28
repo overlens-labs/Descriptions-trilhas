@@ -1,0 +1,100 @@
+# Introdução às vendas
+
+**Tempo estimado de leitura:** 7 minutos
+
+## Objetivos de aprendizado
+
+Ao final desta aula, você será capaz de:
+
+- Reconhecer o movimento como condição básica para gerar vendas
+- Aplicar a revisão dos próprios erros como método de melhoria
+- Distinguir persuasão de manipulação no contexto comercial
+- Identificar referências para desenvolver comunicação, negociação e negócios
+
+## Vendas começam com movimento
+
+O primeiro princípio da aula é direto: a venda é movimento. Enquanto ninguém sabe que você existe, é impossível vender. Muitas pessoas deixam de gerar resultados porque o mercado não conhece o trabalho delas nem sabe que elas conseguem resolver determinado problema.
+
+Ser visto não garante uma venda, mas cria a condição para que ela aconteça. Quando uma pessoa se depara com um problema, precisa se lembrar de quem pode ajudá-la. Por isso, mostrar o que você faz e tornar sua capacidade conhecida é o primeiro passo do processo comercial.
+
+## A rejeição que iniciou uma mudança
+
+Ruan relata que a infância e a adolescência foram marcadas por rejeições. Ele não era escolhido para o time de futebol e não recebia a atenção das meninas por quem se interessava. Aos quinze anos, depois de perder o momento de declarar seu interesse por uma garota, viveu uma frustração que o levou a examinar as próprias atitudes.
+
+Em vez de culpar a outra pessoa, ele listou o que poderia ter feito de maneira diferente. Naquela noite, decidiu que aprenderia a se tornar mais interessante e deixaria de depender da aprovação dos outros.
+
+Na biblioteca de sua mãe, encontrou *Como Fazer Amigos e Influenciar Pessoas* e *O Corpo Fala*. Esses livros revelaram o valor prático do aprendizado. Pela primeira vez, ele percebeu que estudar algo capaz de alterar sua vida podia ser prazeroso.
+
+## Aprender, aplicar e mudar a própria percepção
+
+Ruan leu *Como Fazer Amigos e Influenciar Pessoas* diversas vezes por ser um livro simples e aplicável. Alguns meses depois, ao conhecer Larissa e formar novos vínculos, percebeu que a rejeição não era uma regra universal sobre quem ele era.
+
+Essa experiência abriu espaço para aplicar o mesmo princípio em outros campos. Ele passou a estudar negócios, branding e design com intensidade. Aos dezoito anos, entrou na Escola de Design de Belo Horizonte, trabalhou em uma agência de publicidade e, aos vinte, decidiu buscar os próprios clientes.
+
+O aprendizado central não foi descobrir uma técnica mágica. Foi perceber que habilidades sociais, comunicação e vendas podiam ser desenvolvidas com estudo, prática e correção contínua.
+
+## A primeira prospecção e a primeira rejeição comercial
+
+Para enfrentar o medo, Ruan adotava ações pequenas que o obrigavam a continuar. Na primeira tentativa de prospecção, ligou para uma loja de roupas e desligou quando alguém atendeu. Depois tentou falar com uma pizzaria chamada Pizzaria Pernalonga, que usava o personagem como símbolo.
+
+Durante três ou quatro dias, ligou repetidamente em busca do proprietário. Quando finalmente conseguiu contato, ouviu que deveria parar de ligar porque a insistência já havia se tornado incômoda. A rejeição foi forte e o fez interromper as ligações por um período.
+
+O caso mostra que movimento não elimina erro. A ação produz experiência, e a experiência precisa ser analisada para que a abordagem seguinte seja melhor.
+
+## Falar sobre o trabalho gerou os primeiros clientes
+
+Em 2016, Ruan estudava HTML, CSS e JavaScript para montar seu portfólio. Como estava empolgado, mostrava os sites a familiares, amigos e colegas. Sem planejar uma estratégia de vendas, começou a receber pedidos e indicações.
+
+Os primeiros trabalhos vieram de pessoas próximas, muitas vezes com preço de amizade. Depois, dois colegas da faculdade o indicaram para uma empresa de perícias e uma empresa de seguros. A experiência confirmou que as pessoas só conseguem lembrar e indicar você quando sabem o que você faz.
+
+A partir de 2017 e do início de 2018, o bom trabalho passou a gerar novas indicações. Esse resultado trouxe confiança para retomar a prospecção e aprofundar o estudo de vendas e negociação.
+
+## Da prestação de serviço à participação nos resultados
+
+Em 2018, Timóteo, amigo de faculdade, apresentou uma oportunidade envolvendo Igor Raboni, que crescia no YouTube e trabalhava com estética automotiva. A proposta era criar uma formação com participação nos ganhos, em vez de cobrar um preço fixo.
+
+O acordo previa o lançamento de três turmas antes da formalização de uma sociedade. Como o teste deu certo, a parceria continuou. Ruan vendeu sua participação em 2022, quando a empresa faturava cerca de R$ 1,8 milhão por ano, e decidiu fundar a Overlens.
+
+No mesmo período, criou um estúdio para prestar serviços, testar abordagens comerciais e fechar projetos maiores. Realizou projetos de R$ 15 mil, R$ 20 mil e até R$ 30 mil, antes de concentrar sua energia na Overlens e em parcerias sinérgicas.
+
+## Errar rápido e transformar o erro em relatório
+
+Vergonha da aparência, da voz, da câmera, da postura ou do medo de falar algo errado são obstáculos comuns. A forma de avançar é agir mesmo sem perfeição e aprender com a falha. As habilidades pelas quais Ruan é elogiado hoje são justamente aquelas em que tinha mais dificuldade.
+
+O modelo mental usado por ele é retroceder. Depois de uma live, aula ou negociação, ele reconstituía mentalmente o que havia feito e anotava os pontos que poderia melhorar. Em alguns períodos, reassistia imediatamente a uma transmissão de duas horas enquanto a experiência ainda estava fresca.
+
+Retroceder é diferente de ruminar. Ruminação repete julgamentos como "foi horrível" ou "eu sou ruim". Retroceder identifica ações concretas que podem ser alteradas na próxima tentativa. A pergunta útil é: o que vou fazer diferente na próxima vez?
+
+## Aparência, personalidade e relacionamento
+
+*O Corpo Fala* ajudou Ruan a reconhecer que roupa, postura, tom de voz e aparência influenciam a percepção das pessoas. A conclusão não é julgar alguém pela aparência. É saber que outras pessoas farão esse julgamento e considerar essa realidade ao se comunicar.
+
+*Como Fazer Amigos e Influenciar Pessoas* sustenta a ideia de ser uma boa notícia no dia das pessoas. Isso envolve escolha de palavras, modo de tratar os outros e o hábito de chamá-los pelo nome. Uma personalidade atraente pode vender mais do que uma técnica isolada.
+
+## Persuasão, negociação e ética
+
+Entre as referências de negociação, Ruan destaca *Negocie Como Se Sua Vida Dependesse Disso*, de Chris Voss. O livro mostra que justiça é interpretada de maneiras diferentes e que negociar é buscar uma vitória possível para as partes, mesmo quando os resultados financeiros não são iguais.
+
+*Retórica* apresenta ethos, pathos e logos como bases para a comunicação persuasiva. *O Príncipe* introduz estruturas de poder. *Manual de Persuasão do FBI* e *As Armas da Persuasão* ajudam a observar técnicas de influência e os limites éticos de seu uso.
+
+Persuasão e manipulação não devem ser tratadas como sinônimos. A persuasão pode ser usada para o bem ou para o mal. A manipulação representa o uso prejudicial dessa capacidade. O limite depende da intenção e da maneira como a influência é aplicada.
+
+## Leituras para vendas e construção de negócios
+
+Para um resultado comercial mais imediato, *SPIN Selling* é a segunda recomendação de Ruan, depois de *Como Fazer Amigos e Influenciar Pessoas*. Já *Inteligência Emocional* ajuda a perceber como a dificuldade de administrar emoções prejudica decisões e relacionamentos.
+
+Na camada de negócios, a primeira indicação é *The Lean Startup*. *Tração* apresenta dezenove canais de distribuição que podem ampliar as vendas de uma startup. Esses livros técnicos podem ser estudados por partes e usados como referência para pedir à IA a criação de estratégias e frameworks.
+
+*Zero to One*, de Peter Thiel, discute a criação de monopólios próprios. *Blitzscaling* destaca o valor da velocidade. Outras referências apresentadas são úteis para quem pretende trabalhar com efeitos de rede ou criar um SaaS.
+
+Os livros da primeira camada servem para ler, formar repertório e mudar a forma de enxergar o mundo. Os livros técnicos servem para estudar, consultar e transformar conceitos em ações.
+
+## Coloque em prática
+
+Escreva em uma frase o problema que você resolve e conte isso a três pessoas.
+
+Escolha uma ação comercial pequena que você vem adiando e execute hoje.
+
+Depois da ação, registre o que funcionou e o que fará diferente na próxima tentativa.
+
+Comece por *Como Fazer Amigos e Influenciar Pessoas* se sua maior trava estiver na comunicação.

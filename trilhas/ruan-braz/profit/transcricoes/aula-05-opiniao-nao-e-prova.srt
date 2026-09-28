@@ -1,0 +1,1172 @@
+1
+00:00:00,019 --> 00:00:09,099
+Em 1943, durante a Segunda Guerra Mundial, os aviões americanos chegavam desse jeito aqui, danificados, cheios de furos da munição.
+
+2
+00:00:09,280 --> 00:00:13,599
+Então eles chamaram um matemático chamado Abraham Wald para responder uma pergunta.
+
+3
+00:00:14,099 --> 00:00:17,779
+Quais áreas desse avião deveriam receber mais blindagem?
+
+4
+00:00:17,980 --> 00:00:22,239
+A resposta pode parecer um pouco óbvia no começo, mas não para Abraham Wald.
+
+5
+00:00:22,459 --> 00:00:29,519
+Ele trabalhava no grupo de pesquisa estatística da Columbia University e ele percebeu uma coisa muito interessante.
+
+6
+00:00:30,019 --> 00:00:35,659
+Talvez a maioria das pessoas diria que as áreas que levaram mais tiros deveriam ser as áreas mais blindadas.
+
+7
+00:00:35,900 --> 00:00:43,340
+Mas o que o Alde percebeu? Ele percebeu que os aviões que voltavam da guerra eram os aviões que haviam tomado tiros naquelas regiões.
+
+8
+00:00:43,439 --> 00:00:47,260
+Ou seja, os tiros ali não impediram os aviões de voltar.
+
+9
+00:00:47,560 --> 00:00:55,979
+O verdadeiro problema estava onde não haviam tiros, porque os aviões que eram acertados naquelas regiões não estavam voltando.
+
+10
+00:00:55,979 --> 00:01:00,799
+o nome disso é viés de sobrevivência e nós cometemos esse erro o tempo inteiro
+
+11
+00:01:00,799 --> 00:01:05,899
+você já deve ter pensado sobre um empresário que apostou em uma ideia e ficou bilionário
+
+12
+00:01:05,899 --> 00:01:09,060
+ou uma pessoa que abandonou a faculdade e construiu uma empresa gigante
+
+13
+00:01:09,060 --> 00:01:13,439
+um criador que produz conteúdo de um jeito completamente diferente e viralizou na internet
+
+14
+00:01:13,439 --> 00:01:17,119
+nós olhamos pra isso e pensamos, tem que fazer a mesma coisa
+
+15
+00:01:17,119 --> 00:01:20,079
+mas você está olhando pros aviões que voltaram
+
+16
+00:01:20,079 --> 00:01:24,479
+quantas pessoas fizeram exatamente a mesma coisa e ficaram pelo caminho
+
+17
+00:01:24,479 --> 00:01:28,819
+Manda esse vídeo pra alguém que você conhece e que talvez esteja olhando pra direção errada.
+
+18
+00:01:29,239 --> 00:01:37,919
+A gente olha para o resultado de alguém e o mais intuitivo de se pensar é de focar naquilo que parece que foi o que deu certo.
+
+19
+00:01:38,119 --> 00:01:43,899
+Mas esse modelo mental, viés de sobrevivência, ele faz a gente cometer muitos erros.
+
+20
+00:01:44,419 --> 00:01:46,059
+Não o modelo mental, mas o viés.
+
+21
+00:01:46,059 --> 00:01:52,339
+E se a gente não tem esse modelo mental de perceber e se interpretar isso, nós acabamos tomando muitas decisões ruins.
+
+22
+00:01:52,619 --> 00:01:55,099
+E isso aconteceu comigo, na verdade.
+
+23
+00:01:56,159 --> 00:02:05,140
+Porque lá em 2019, quando eu comecei a produzir conteúdo, eu via como que as pessoas produziam conteúdo e tentavam fazer igual.
+
+24
+00:02:05,399 --> 00:02:13,439
+E eu fiquei um tempão assim, tentando copiar outras pessoas, tentando olhar ali, fulano tá fazendo isso, então isso deve estar certo.
+
+25
+00:02:13,519 --> 00:02:18,939
+Fulano tá fazendo isso, então isso deve estar certo. E sempre tentando copiar as outras pessoas. E não dava certo.
+
+26
+00:02:18,939 --> 00:02:35,659
+Foi aí que eu parei pra pensar algo parecido com isso, que é, o que que as pessoas, o que que eu não tô vendo ali, o que que as pessoas que conseguiram, fizeram, que muitas outras que tentaram também não fizeram, quais são as áreas do avião ali que não levaram tiros, né?
+
+27
+00:02:35,659 --> 00:02:50,560
+E foi quando eu percebi duas coisas. A primeira delas é, no caso da produção de conteúdo, se expor e treinar até você encontrar o seu próprio modelo, e depois que você encontrar seu modelo, focar nele e mandar ver.
+
+28
+00:02:50,759 --> 00:02:58,159
+E aí foi assim que eu construí o Overlens primeiro, naquele modelo de vídeo de cima, assim, eu gravava o papel e ia escrevendo e ensinando.
+
+29
+00:02:58,159 --> 00:03:02,019
+e agora eu estou repetindo essa mesma coisa na minha produção de conteúdo
+
+30
+00:03:02,019 --> 00:03:07,419
+e deu duas semanas, duas semanas, e já começaram a vir resultados bem interessantes
+
+31
+00:03:07,419 --> 00:03:11,000
+e aí tem que manter fazendo e fazendo e fazendo e fazendo
+
+32
+00:03:11,000 --> 00:03:17,599
+até entender ali o que está funcionando, o que é interessante e replicar aquele processo
+
+33
+00:03:17,599 --> 00:03:23,079
+e isso funciona também com negócios, às vezes a gente vê alguém tem um modelo específico
+
+34
+00:03:23,079 --> 00:03:26,339
+testou esse modelo, deu certo, a gente fala vou copiar
+
+35
+00:03:26,339 --> 00:03:26,959
+Mas,
+
+36
+00:03:27,139 --> 00:03:35,179
+sabe que o jeito mais inteligente é testar rápido e descobrir o que dá certo pra você, o seu negócio, o seu contexto.
+
+37
+00:03:35,580 --> 00:03:37,440
+direção se torna um problema
+
+38
+00:03:37,440 --> 00:03:39,219
+quando você demora pra perceber
+
+39
+00:03:39,219 --> 00:03:40,520
+que você tá na direção errada
+
+40
+00:03:40,520 --> 00:03:43,039
+mas se você percebe rápido, tá tudo bem
+
+41
+00:03:43,039 --> 00:03:45,500
+o problema é ficar muito tempo na direção errada
+
+42
+00:03:45,500 --> 00:03:47,820
+porque quando a gente tá começando
+
+43
+00:03:47,820 --> 00:03:49,640
+não tem como ter certeza absoluta
+
+44
+00:03:49,640 --> 00:03:50,800
+de que você tá na direção certa
+
+45
+00:03:50,800 --> 00:03:52,599
+e aí pra isso você precisa
+
+46
+00:03:53,780 --> 00:03:54,780
+validar rápido
+
+47
+00:03:54,780 --> 00:03:57,300
+sua tese, e se não validar
+
+48
+00:03:57,300 --> 00:03:58,460
+joga ela fora
+
+49
+00:03:58,460 --> 00:04:00,060
+e vai pra próxima tese
+
+50
+00:04:00,060 --> 00:04:07,880
+Então, validar a tese de valor é onde eu vejo que a maioria das pessoas trava.
+
+51
+00:04:08,120 --> 00:04:17,800
+O pessoal falou de distribuição, falou ali de visibilidade, mas tem uma coisa interessante, visibilidade no lugar errado também é um problema, talvez um problema muito maior.
+
+52
+00:04:17,960 --> 00:04:22,300
+E distribuição também, do jeito errado, também é um problema grande.
+
+53
+00:04:22,300 --> 00:04:24,460
+Eu já contei a história do açaí pra vocês, né?
+
+54
+00:04:24,580 --> 00:04:29,220
+Uma empresa que vende açaí, que era aqui da região, cliente da minha mãe, minha mãe é contadora,
+
+55
+00:04:29,480 --> 00:04:36,060
+e ela me contou essa história, que foi uma lojinha de açaí que faliu porque teve cliente demais.
+
+56
+00:04:36,460 --> 00:04:39,860
+A distribuição funcionou, mas eles não estavam prontos pra atender.
+
+57
+00:04:39,980 --> 00:04:42,259
+Começou a ter muita reclamação, deu errado, faliu.
+
+58
+00:04:42,399 --> 00:04:47,139
+Então, o problema não é necessariamente distribuição, o problema não é necessariamente visibilidade,
+
+59
+00:04:47,139 --> 00:04:53,560
+Porque se você tem distribuição no momento errado, ou se você tem visibilidade onde não era para ter visibilidade, isso também é um problema.
+
+60
+00:04:54,019 --> 00:04:56,379
+Logo, o problema é o problema de validação.
+
+61
+00:04:56,560 --> 00:05:00,820
+Você precisa validar -se dentro do seu contexto, com a direção que você escolheu.
+
+62
+00:05:01,159 --> 00:05:02,560
+Essa é uma boa ideia para investir.
+
+63
+00:05:02,840 --> 00:05:04,320
+E aí, depois disso, o que vem?
+
+64
+00:05:05,980 --> 00:05:08,539
+Distribuição, visibilidade e todos os outros passos.
+
+65
+00:05:09,460 --> 00:05:12,960
+Então, o dia que a Anitta fez um dono de marca, de boa para falir.
+
+66
+00:05:13,000 --> 00:05:14,460
+A mesma história acontecendo de novo, né?
+
+67
+00:05:14,680 --> 00:05:16,220
+Então, validação é um grande problema.
+
+68
+00:05:16,220 --> 00:05:16,240
+E
+
+69
+00:05:16,280 --> 00:05:19,960
+Importante, tá? Validação precisa de velocidade.
+
+70
+00:05:20,360 --> 00:05:25,060
+Quando a gente fala nos mundos dos negócios, velocidade importa muito na fase de validação.
+
+71
+00:05:25,439 --> 00:05:28,379
+Depois, as coisas ficam um pouco leves.
+
+72
+00:05:28,740 --> 00:05:31,180
+Depois, vamos colocar em ordem aqui, né?
+
+73
+00:05:31,600 --> 00:05:37,700
+Entendeu a direção do negócio, validou ela, construiu caixa e construiu previsibilidade,
+
+74
+00:05:37,780 --> 00:05:39,980
+essas quatro fases aqui, depois que você conseguiu isso,
+
+75
+00:05:40,120 --> 00:05:42,760
+meio que as coisas se encaixam e ficam um pouco mais tranquilos.
+
+76
+00:05:42,760 --> 00:05:48,340
+E aí o problema passa a ser outro, que é a zona de conforto e o risco de você ser eclipsado por mudanças do mercado.
+
+77
+00:05:48,600 --> 00:05:53,240
+Você acha que está tudo bem, que nada vai mudar, estou bem, está tudo funcionando, estou com o cliente.
+
+78
+00:05:53,280 --> 00:05:56,000
+Aí o mercado muda e você se desespera de novo.
+
+79
+00:05:56,260 --> 00:05:59,240
+Então são outros problemas, não é que acabou os problemas.
+
+80
+00:05:59,680 --> 00:06:05,980
+Mas esse problema de corrida dos ratos, sabe, esse problema de, meu Deus, preciso ser rápido,
+
+81
+00:06:06,519 --> 00:06:11,019
+ele depende principalmente do tipo de negócio que você decidiu construir, isso conta muito,
+
+82
+00:06:11,019 --> 00:06:13,659
+E também da fase que você está no negócio, tá bom?
+
+83
+00:06:13,920 --> 00:06:14,240
+Então
+
+84
+00:06:14,480 --> 00:06:16,639
+o que a gente tem que entender aqui então? É muito importante.
+
+85
+00:06:17,059 --> 00:06:23,079
+Existem vários tipos de validação, tem validação de produto, por exemplo, e tem muita gente que fica preso aqui.
+
+86
+00:06:23,259 --> 00:06:27,079
+Não é o melhor lugar para começar validando, tem validação de produto.
+
+87
+00:06:27,279 --> 00:06:34,259
+Tem validação de tese de valor, tem validação de mercado, tem validação de oferta, tem validação de preço.
+
+88
+00:06:34,259 --> 00:06:37,159
+O que é isso? Aqui é uma validação de entrega, né?
+
+89
+00:06:37,600 --> 00:06:40,419
+Entrega. Tem vários tipos de validações, certo?
+
+90
+00:06:40,679 --> 00:06:45,559
+O problema é pular etapas, ou ir para uma validação que não era para você ir agora.
+
+91
+00:06:45,659 --> 00:06:47,879
+Por exemplo, validação de entrega.
+
+92
+00:06:47,939 --> 00:06:51,959
+Isso aqui você tem que fazer depois que você já resolveu o teste de valor,
+
+93
+00:06:52,159 --> 00:06:54,879
+resolveu o mercado, resolveu a oferta, né?
+
+94
+00:06:54,879 --> 00:06:56,299
+Que aqui é para trabalhar juntos.
+
+95
+00:06:56,620 --> 00:06:58,679
+Aí você vai para a validação da entrega.
+
+96
+00:06:58,699 --> 00:07:00,500
+Assim você ganha tempo, beleza?
+
+97
+00:07:00,500 --> 00:07:12,319
+Beleza? Você tem que ter o escopo no início, só o escopo. E o escopo é o que faz muita gente travar, porque você acha que o escopo tem que ser detalhadamente tudo que você vai entregar, preciso, e não tem que ser assim.
+
+98
+00:07:12,399 --> 00:07:19,980
+Na verdade, se for assim, é um problema, porque tem até uma frase que fala, né? Se você lançou um produto perfeito, então você demorou muito para lançar ele.
+
+99
+00:07:19,980 --> 00:07:23,120
+Está lançando ele fora do timing. Não existe isso.
+
+100
+00:07:23,480 --> 00:07:25,480
+Então, o que é escopo?
+
+101
+00:07:25,519 --> 00:07:31,000
+O escopo é um roadmap, ou seja, a rota de por onde você vai passar.
+
+102
+00:07:31,199 --> 00:07:35,179
+Mas não é o caminho exato que você vai passar, não são todos os desafios que você vai viver lá.
+
+103
+00:07:35,259 --> 00:07:38,279
+É a rota. Eu sei que eu vou passar por esse caminho.
+
+104
+00:07:38,480 --> 00:07:40,120
+Eu quero chegar aqui, beleza?
+
+105
+00:07:40,340 --> 00:07:42,919
+Quero chegar aqui e eu estou aqui.
+
+106
+00:07:43,319 --> 00:07:46,899
+Ok, eu faço uma rota, planejo onde eu vou parar.
+
+107
+00:07:47,240 --> 00:07:49,480
+São todas essas etapas aqui, beleza?
+
+108
+00:07:49,980 --> 00:08:16,779
+Mas eu não sei dos desafios que tem pelo caminho, eu não vou tentar antecipar tudo, isso tem até um nome, overengineering, e esse nome aqui eu já vivi muito, vocês estão vendo de uma pessoa que passou 4 anos nisso, e o ganho que eu tive com isso foi o aprendizado, mas o preço que eu paguei para esse aprendizado foi muito caro, vocês não precisam pagar esse preço, então um roadmap é suficiente, eu vou fazer isso, isso, isso, isso,
+
+109
+00:08:16,999 --> 00:08:42,939
+Pronto. Porque a pessoa que vai validar sua oferta aqui precisa saber quais são os entregáveis. Mas é isso. É basicamente isso. Nada mais do que isso. Então, o que a gente quer validar? Primeiro, nós queremos validar uma tese de valor. E uma tese de valor é uma moeda de dois lados. Problema, solução. Temos aulas disso aqui, vocês podem assistir depois. Uma tese de valor é uma moeda de dois lados. Problema, solução. Então, você precisa identificar um problema,
+
+110
+00:08:50,179 --> 00:09:03,079
+A partir dessa hipótese, você vai dar os seus próximos passos, porém, é uma hipótese que precisa ser validada.
+
+111
+00:09:03,180 --> 00:09:07,139
+Você precisa entender que existe um...
+
+112
+00:09:07,139 --> 00:09:12,060
+Aqui eu estou colocando product, tá? Mas talvez dá para a gente mudar o nome.
+
+113
+00:09:12,580 --> 00:09:15,700
+Solution Market Fit.
+
+114
+00:09:16,340 --> 00:09:18,220
+Por que solution e não product?
+
+115
+00:09:18,220 --> 00:09:23,420
+Product, porque product faz você entender que você tem que, às vezes, ter o produto pronto para fazer isso.
+
+116
+00:09:23,540 --> 00:09:26,360
+E não é ideia, você tem que ter uma solução para poder fazer isso.
+
+117
+00:09:26,600 --> 00:09:32,399
+Então, o Solution Market Fit, eu vou até, às vezes, meu inglês me deixando na dúvida, cara.
+
+118
+00:09:32,519 --> 00:09:35,899
+Uma coisa boba, né? Será que é solution? Acho que é, isso aí.
+
+119
+00:09:37,259 --> 00:09:39,940
+Então, criamos o conceito aqui agora, Solution Market Fit.
+
+120
+00:09:40,220 --> 00:09:41,660
+Não sei se alguém já criou antes, enfim.
+
+121
+00:09:41,960 --> 00:09:46,379
+Se criou, eu nunca vi com esse nome, estou usando ele aqui para a gente entender o conceito.
+
+122
+00:09:46,379 --> 00:10:15,779
+A gente precisa, o que é o Fit? Fit é o ajuste, Fit é você conseguir conectar duas coisas, conectar um mercado existente com uma solução existente, é isso que a gente precisa fazer, então nós vamos trabalhar em cima desse Solution Market Fit, beleza? Então tudo que a gente vai ver aqui agora, que a gente vai construir junto aqui com a IA, é baseado em encontrar maneiras rápidas de ter convicção de que você encontrou uma Solution Market Fit.
+
+123
+00:10:16,379 --> 00:10:19,600
+Um ajuste de mercado com uma solução específica, beleza?
+
+124
+00:10:19,680 --> 00:10:24,340
+detalhe, validar uma tese é diferente de encontrar tração pro negócio, tá?
+
+125
+00:10:24,460 --> 00:10:27,460
+Então o que a gente vai fazer aqui não é necessariamente encontrar tração, não é necess...
+
+126
+00:10:27,460 --> 00:10:34,860
+Olha, foi na Y Combinator aqui, que é uma aceleradora maior do mundo, mas tração você coloca depois que você tem direção,
+
+127
+00:10:34,860 --> 00:10:41,080
+Pensa igual um carro. Você não vai pisar fundo no acelerador se você não colocou o carro na direção certa, né?
+
+128
+00:10:41,120 --> 00:10:45,520
+Senão você vai bater num muro, vazar a curva, direção primeiro, velocidade depois.
+
+129
+00:10:45,820 --> 00:10:49,720
+Então as pessoas se enganam aqui. Ah, já tenho uma ideia. Onde que eu começo? Começa na tração.
+
+130
+00:10:50,080 --> 00:10:52,940
+Não, você não começa na tração, você começa na direção, ok?
+
+131
+00:10:53,340 --> 00:10:57,920
+Então vamos lá. Você já fez a parte intelectual da tese. Olha, filho da mãe.
+
+132
+00:10:58,160 --> 00:10:59,660
+Quero ver o raciocínio dele.
+
+133
+00:10:59,660 --> 00:11:05,320
+Agora o jogo muda, em vez de refinar mais a hipótese, você precisa forçar o mercado a reagir a ela.
+
+134
+00:11:05,840 --> 00:11:11,860
+Interessante ele colocar dessa forma, eu gosto da palavra movimento, você precisa colocar sua tese em movimento,
+
+135
+00:11:12,220 --> 00:11:14,980
+você precisa ver como ela vai se comportar no mercado.
+
+136
+00:11:15,400 --> 00:11:20,180
+Vou organizar isso como um sistema de validação rápida, do sinal mais fraco ao mais forte,
+
+137
+00:11:20,360 --> 00:11:24,120
+para você conseguir ganhar convicção sem precisar construir o negócio inteiro.
+
+138
+00:11:24,299 --> 00:11:26,340
+É o que a gente quer exatamente, beleza?
+
+139
+00:11:27,039 --> 00:11:30,740
+construiu o negócio inteiro, vem depois, é onde as pessoas perdem tempo
+
+140
+00:11:30,740 --> 00:11:35,400
+a distinção que eu faria é importante, não tente validar a ideia inteira
+
+141
+00:11:35,400 --> 00:11:39,480
+interessante, quebre ela em crenças que precisam ser verdadeiras
+
+142
+00:11:39,480 --> 00:11:41,180
+e mate primeiro as mais arriscadas
+
+143
+00:11:41,180 --> 00:11:43,600
+é exatamente a lógica de assumption testing
+
+144
+00:11:43,600 --> 00:11:48,759
+testar pressupostos específicos é mais rápido e barato do que construir o produto inteiro
+
+145
+00:11:49,320 --> 00:11:51,340
+lembra que eu estava falando exatamente disso aqui também?
+
+146
+00:11:51,460 --> 00:11:53,799
+por isso que às vezes a gente fala, ah, product market fit
+
+147
+00:11:53,799 --> 00:11:57,160
+E aí você acha que tem que ter o produto inteiro construído para fazer o fit dele com o mercado.
+
+148
+00:11:57,380 --> 00:11:58,880
+E não, não necessariamente.
+
+149
+00:11:59,279 --> 00:12:01,460
+E eu colocaria uma regra acima de todas as outras.
+
+150
+00:12:02,220 --> 00:12:06,279
+Opinião gera informação, comportamento gera evidência.
+
+151
+00:12:06,960 --> 00:12:07,320
+Excelente.
+
+152
+00:12:07,620 --> 00:12:11,200
+Então, alguém falar, eu compraria, isso gera informação.
+
+153
+00:12:11,519 --> 00:12:14,299
+Não quer dizer que é inútil, é uma informação, pode ser interessante.
+
+154
+00:12:15,880 --> 00:12:18,519
+Agora, comportamento, aí sim você tem evidência.
+
+155
+00:12:18,860 --> 00:12:19,759
+São coisas diferentes.
+
+156
+00:12:20,240 --> 00:12:23,580
+Ele mesmo, olha, nem tinha lido ainda, mas é o mesmo exemplo que ele está dando aqui.
+
+157
+00:12:23,799 --> 00:12:36,640
+eu usaria, vale pouco, clicar, marcar uma reunião, abandonar a solução atual, colocar o cartão, pagar um depósito, assinar um piloto, vale muito mais, é isso que nós estamos querendo aqui
+
+158
+00:12:36,820 --> 00:12:57,480
+Solution Market Fit, exatamente nesse sentido, você escolheu um mercado, escolheu um perfil ideal de cliente, um problema e formulou uma tese de valor, agora precisa produzir evidência suficiente de que aquela solução específica é uma boa direção para aquele mercado, antes de investir pesado na construção.
+
+159
+00:12:57,480 --> 00:12:57,520
+Quem
+
+160
+00:12:57,579 --> 00:13:03,579
+Na literatura de produto, isso fica muito próximo do Problem Solution Fit, ou Product Discovery.
+
+161
+00:13:04,279 --> 00:13:08,659
+O objetivo do Discovery é justamente conseguir evidência de que uma solução é valiosa,
+
+162
+00:13:08,779 --> 00:13:12,000
+utilizável, tecnicamente possível e viável para o negócio
+
+163
+00:13:12,000 --> 00:13:15,759
+Antes de gastar energia construindo a solução, no caso.
+
+164
+00:13:15,919 --> 00:13:18,539
+E tem uma ideia que eu transformaria quase em uma lei.
+
+165
+00:13:19,200 --> 00:13:23,439
+Convicção não deve vir da quantidade de pessoas que disseram que gostaram.
+
+166
+00:13:23,779 --> 00:13:25,559
+Deve vir do custo de comportamento.
+
+167
+00:13:25,700 --> 00:13:26,519
+A gente já falou disso.
+
+168
+00:13:26,720 --> 00:13:29,220
+Beleza, vamos assumir então que essa é a nossa lei aqui, ok?
+
+169
+00:13:29,539 --> 00:13:35,099
+Você não tem um negócio validado se algumas pessoas falaram que comprariam, usariam.
+
+170
+00:13:35,279 --> 00:13:37,819
+Se não teve comportamento, não é evidência.
+
+171
+00:13:37,819 --> 00:13:47,859
+Alguém dizer legal custa zero, dar WhatsApp custa pouco, marcar uma reunião custa um pouco mais, trocar ferramenta atual custa mais ainda, colocar 500 reais custa muito.
+
+172
+00:13:48,740 --> 00:13:52,619
+Inclusive, a nossa validação aqui são três pessoas que pagam pela solução, tá?
+
+173
+00:13:52,859 --> 00:13:56,759
+Usar durante quatro semanas e continuar usando custa mais ainda.
+
+174
+00:13:57,619 --> 00:14:01,480
+É por isso que a evidência comportamental é muito mais forte que a intenção declarada.
+
+175
+00:14:01,539 --> 00:14:01,539
+ó.
+
+176
+00:14:01,660 --> 00:14:04,079
+A ideia de não testar tudo de uma vez é importante.
+
+177
+00:14:04,420 --> 00:14:09,720
+Tereza Torres, esse site aqui é bem legal, tá? Depois acesse esse site aqui, ó, Strategizer.
+
+178
+00:14:09,940 --> 00:14:14,940
+Ele tem um conjunto de ferramentas de design thinking que você pode utilizar.
+
+179
+00:14:15,180 --> 00:14:19,079
+Então, eu gosto muito dele, já acessei várias vezes, tem aqui, deixa eu ver, aqui ó, Tools.
+
+180
+00:14:19,079 --> 00:14:24,880
+Aí tem o Business Model Canvas, que eles são os detentores dos direitos do Business Model Canvas.
+
+181
+00:14:25,259 --> 00:14:30,140
+Aí tem aqui o Value Proposition Canvas, também muito bom, e muitos outros.
+
+182
+00:14:30,279 --> 00:14:36,440
+Tem Charter, Soft, Great Value Proposition, e muitos outros diferentes aí, várias ferramentinhas.
+
+183
+00:14:36,799 --> 00:14:42,200
+É um site bem antigo também, com muitos canvas interessantes aí para vocês explorarem, beleza?
+
+184
+00:14:42,200 --> 00:14:48,880
+Beleza? Então, beleza. Tereza Torres, Strategizer e SVPG convergem numa lógica parecida.
+
+185
+00:14:49,400 --> 00:14:55,240
+Explicite as hipóteses críticas e teste primeiro aquilo que apresenta o maior risco.
+
+186
+00:14:55,400 --> 00:14:56,960
+Eu criaria uma escala de evidência.
+
+187
+00:14:57,240 --> 00:14:59,860
+Para você, isso poderia virar um framework bem simples.
+
+188
+00:14:59,980 --> 00:15:03,339
+Então, existe aqui um nível de pontuação e aí vamos ver então.
+
+189
+00:15:03,539 --> 00:15:06,720
+Nível 0, evidência, opinião, achei legal.
+
+190
+00:15:07,059 --> 00:15:11,220
+Nível 1, reconhecimento, eu tenho esse problema, essa informação.
+
+191
+00:15:11,220 --> 00:15:16,299
+A pessoa falou, eu vivo esse problema? É uma informação que já é um nível 1, já subiu aqui, já é algo interessante.
+
+192
+00:15:16,680 --> 00:15:22,460
+Isso é interessante também, galera, porque muitas vezes vocês vêm até mim ou na nossa equipe e falam assim,
+
+193
+00:15:23,039 --> 00:15:27,839
+ah, eu rodei essa semana vários testes de validação, marquei reuniões, mas não fechei com ninguém,
+
+194
+00:15:28,140 --> 00:15:30,940
+e fica com aquela sensação de derrota, mas não é derrota.
+
+195
+00:15:31,299 --> 00:15:35,480
+Se você pontuar aqui, você fala, ah, eu entrevistei 10 pessoas e nenhuma comprou,
+
+196
+00:15:35,480 --> 00:15:45,319
+Mas uma falou que achou legal, outra falou, quatro falaram que tem esse problema, duas falaram que tentaram resolver já e não conseguiram, duas clicaram, entende?
+
+197
+00:15:45,360 --> 00:15:58,400
+Você vai subindo os níveis aqui, aí você tem que entender, se eu parei aqui, por exemplo, entrou na lista, pediu uma demo, parei aqui, beleza, eu sei que eu tenho que correr atrás agora do próximo nível, os de baixo eu já cumpri, faz sentido?
+
+198
+00:15:58,400 --> 00:16:12,299
+Então, é isso aqui que está sendo proposto aqui. Então, exemplo, tem um problema histórico, já tentei resolver, atenção, clicou, respondeu, visitou, intenção, entrou na lista, pediu uma demonstração, compromisso, marcou uma reunião, enviou dados.
+
+199
+00:16:12,299 --> 00:16:13,079
+Eu tava
+
+200
+00:16:13,199 --> 00:16:16,280
+ver se a pessoa, depois que pagou, utilizou o que ela pagou ali também.
+
+201
+00:16:16,580 --> 00:16:16,959
+Ok?
+
+202
+00:16:17,219 --> 00:16:18,399
+Então, compromisso.
+
+203
+00:16:18,479 --> 00:16:19,899
+Marcou reunião, enviou dados.
+
+204
+00:16:20,580 --> 00:16:21,020
+Sacrifício.
+
+205
+00:16:21,020 --> 00:16:21,800
+Mudou o processo.
+
+206
+00:16:22,379 --> 00:16:23,739
+Dedicou uma parte da equipe.
+
+207
+00:16:24,040 --> 00:16:24,479
+Dinheiro.
+
+208
+00:16:24,620 --> 00:16:25,060
+Pagou.
+
+209
+00:16:25,060 --> 00:16:25,939
+Fez depósito.
+
+210
+00:16:26,219 --> 00:16:26,659
+Uso.
+
+211
+00:16:26,919 --> 00:16:27,879
+Utilizou e teve resultado.
+
+212
+00:16:28,639 --> 00:16:29,080
+Retenção.
+
+213
+00:16:29,100 --> 00:16:30,120
+Voltou e continuou usando.
+
+214
+00:16:30,340 --> 00:16:30,919
+E nível 10.
+
+215
+00:16:30,919 --> 00:16:44,399
+Propagação. Indicou espontaneamente. Se você passou nesses níveis todos, você tem algo validado. E agora você entra num momento de escala e previsibilidade.
+
+216
+00:16:44,639 --> 00:16:48,239
+Vamos entender então isso dentro do que está acontecendo aqui na Overlens. A
+
+217
+00:16:48,240 --> 00:16:50,720
+Lá atrás eu precisei validar tudo isso aqui na
+
+218
+00:16:50,720 --> 00:17:09,940
+Fui validando um passo de cada vez, fiz entrevistas, identifiquei o problema, vi pessoas o que elas já tinham tentado fazer, vi se elas estavam interessadas, gerou lista, marquei uma live, falei que eles iam precisar se comprometer e as primeiras pessoas pagaram, fiz uma oferta ali, validei até aqui.
+
+219
+00:17:09,940 --> 00:17:39,580
+Depois que eu validei até aqui, eu entrei num processo aqui no nível 8, eu fiquei um ano e meio, quase dois, eu fiquei quase dois anos no nível 8, pivotando, mudando a entrega, até ajustar uma entrega que fazia sentido pra gente, vamos colocar aí uns dois anos pra ficar azeitado mesmo, e aí entrou nisso aqui, retenção, aí a gente começou a olhar pra retenção, quantas pessoas continuam, quantas pessoas renovam, e o mais importante, as pessoas indicam que quando a gente chegou nesse nível aqui, perfeito, tá validado, é uma excelente solução,
+
+220
+00:17:39,580 --> 00:17:44,039
+As pessoas estão indicando pra outras, as pessoas estão trazendo outras pessoas que elas se importam pra
+
+221
+00:17:44,059 --> 00:17:45,420
+pronto, validei.
+
+222
+00:17:45,519 --> 00:17:50,740
+Agora que eu validei, eu posso começar a escalar. E aí quando você começa a escalar, você volta, tá?
+
+223
+00:17:50,859 --> 00:17:55,900
+Você volta o processo todo pra ver agora se dentro de uma escala você consegue manter aquilo também.
+
+224
+00:17:56,079 --> 00:18:00,240
+Aí entra numa fase de processo mais orbital, assim, beleza?
+
+225
+00:18:00,519 --> 00:18:08,039
+Então isso aqui já dá muita clareza pra vocês, esses níveis aqui em relação a sentir que o sucesso começa desde cedo,
+
+226
+00:18:08,039 --> 00:18:10,879
+Não quer dizer que você não vendeu, então fracassou.
+
+227
+00:18:11,000 --> 00:18:12,579
+Você só tem que saber ler os sinais.
+
+228
+00:18:12,980 --> 00:18:16,539
+Então, você não diria mais, validei minha hipótese porque conversei com 20 pessoas.
+
+229
+00:18:16,980 --> 00:18:17,420
+Errado.
+
+230
+00:18:17,519 --> 00:18:23,599
+Você diria, tenho evidência nível 7, falei com 37 empresas do ICP, 11 aceitaram uma reunião,
+
+231
+00:18:23,759 --> 00:18:27,579
+6 quiseram o piloto e 3 pagaram R $2 .000 antes do produto existir.
+
+232
+00:18:27,900 --> 00:18:28,740
+Excelente, validou.
+
+233
+00:18:28,859 --> 00:18:32,099
+Bora agora transformar isso em um negócio real.
+
+234
+00:18:32,200 --> 00:18:34,619
+Ou em um produto real, uma solução real para o mercado.
+
+235
+00:18:34,940 --> 00:18:35,920
+Isso é convicção.
+
+236
+00:18:35,980 --> 00:18:37,619
+E eu faria uma coisa ainda mais importante.
+
+237
+00:18:38,039 --> 00:18:42,640
+Antes do experimento, escreva o critério de aprovação e de morte da hipótese.
+
+238
+00:18:42,879 --> 00:18:49,079
+Então, antes de ir validar, escreva quando eu vou considerar que isso está validado
+
+239
+00:18:49,079 --> 00:18:51,400
+e quando eu vou considerar que essa hipótese morreu.
+
+240
+00:18:51,500 --> 00:18:55,500
+Isso é importante porque se você passou da linha ali onde o negócio morreu,
+
+241
+00:18:55,579 --> 00:19:01,559
+volta, revisa a hipótese rápido e entra na validação de novo, nesse ciclo.
+
+242
+00:19:01,619 --> 00:19:04,579
+Só que tem que ser rápido, porque se você demora demais aqui,
+
+243
+00:19:04,579 --> 00:19:10,940
+Quando você olhar para trás, você vai falar, cara, eu não precisava ter gastado tanto tempo ali, porque eu ainda estava validando, gastando energia onde eu não devia.
+
+244
+00:19:11,200 --> 00:19:12,500
+Então, lembre -se disso.
+
+245
+00:19:12,900 --> 00:19:17,980
+Depois que você se apaixona pela ideia, seu cérebro começa a reinterpretar qualquer resultado de sucesso.
+
+246
+00:19:18,259 --> 00:19:22,339
+Esse viés aqui é um dos mais perigosos.
+
+247
+00:19:22,440 --> 00:19:23,980
+eu falo isso porque as pessoas se apaixonam
+
+248
+00:19:23,980 --> 00:19:26,660
+e cuidado não só de vocês se apaixonarem
+
+249
+00:19:26,660 --> 00:19:29,140
+mas dos clientes de vocês se apaixonarem também
+
+250
+00:19:29,140 --> 00:19:30,180
+porque eles vão falar
+
+251
+00:19:30,180 --> 00:19:32,940
+não muda isso, eu gostei disso, vai ser muito ruim se tirar
+
+252
+00:19:32,940 --> 00:19:34,160
+mas às vezes é necessário
+
+253
+00:19:34,160 --> 00:19:35,580
+tirar uma coisa, colocar outra
+
+254
+00:19:35,580 --> 00:19:37,880
+porque você está num processo de validação, beleza?
+
+255
+00:19:38,160 --> 00:19:40,260
+então ter dados é sempre muito importante
+
+256
+00:19:40,260 --> 00:19:42,820
+e aí a estrutura que ele está propondo aqui
+
+257
+00:19:42,820 --> 00:19:47,600
+O que seria então? Campo, hipótese. Ele criou um exemplo aqui de como estruturar isso rápido.
+
+258
+00:19:48,060 --> 00:19:51,900
+Hipótese, clínicas pequenas têm dificuldade em recuperar leads perdidos.
+
+259
+00:19:52,160 --> 00:19:56,060
+Identificou um problema aqui. A nossa hipótese é um pouco melhor do que essa, né?
+
+260
+00:19:56,340 --> 00:20:00,660
+Nossa hipótese é, clínicas pequenas têm dificuldade em recuperar leads perdidos
+
+261
+00:20:00,660 --> 00:20:03,700
+e ainda não sabem que existe uma solução para isso.
+
+262
+00:20:03,740 --> 00:20:05,400
+Aí a gente escreve a solução em uma linha também.
+
+263
+00:20:05,560 --> 00:20:09,340
+Eu gosto de pensar na hipótese como uma moeda de dois lados, problema e solução.
+
+264
+00:20:09,340 --> 00:20:14,240
+Crença crítica, o problema é suficientemente doloroso para pagar por uma solução.
+
+265
+00:20:14,360 --> 00:20:19,760
+Isso aqui é uma crença crítica no sentido de, eu acredito que esse é um problema que as pessoas pagariam por ele.
+
+266
+00:20:19,840 --> 00:20:20,760
+É isso que eu quero validar.
+
+267
+00:20:21,120 --> 00:20:23,960
+Experimento, oferecer piloto manual para 30 clínicas.
+
+268
+00:20:24,600 --> 00:20:26,400
+Evidência necessária, pagamento.
+
+269
+00:20:26,700 --> 00:20:29,140
+Critério de sucesso, 3 pilotos pagos.
+
+270
+00:20:29,420 --> 00:20:32,860
+Critério de alerta, muito interesse, mas nenhum pagamento.
+
+271
+00:20:33,100 --> 00:20:37,880
+Critério de morte, 30 ICPs abordados, nenhuma reunião.
+
+272
+00:20:37,880 --> 00:20:41,000
+Não é nenhuma venda, é nenhuma reunião que ele tá propondo aqui.
+
+273
+00:20:41,140 --> 00:20:42,800
+Prazo, sete dias, beleza?
+
+274
+00:20:42,999 --> 00:20:47,799
+eu tô reforçando isso porque nós chegamos nesse número com dados da própria Vanguarda.
+
+275
+00:20:47,839 --> 00:20:47,919
+A
+
+276
+00:20:47,960 --> 00:20:52,519
+A gente identificou que sete dias é suficiente pra fazer uma rodada de validação.
+
+277
+00:20:52,579 --> 00:20:53,960
+A gente identificou isso aqui.
+
+278
+00:20:54,200 --> 00:21:01,240
+E identificou que quando passa de sete dias, sem dados, né, demorando pra executar a rodada de validação, o experimento,
+
+279
+00:21:01,240 --> 00:21:05,500
+Se você não tem dados depois de sete dias, você já está lento, já está demorando.
+
+280
+00:21:05,639 --> 00:21:11,000
+E aqui, feio também, né? Ele colocou sete dias aqui também de prazo, bem conectado.
+
+281
+00:21:11,099 --> 00:21:15,059
+Outra coisa, critério de sucesso, três ou mais pilotos pagos.
+
+282
+00:21:15,399 --> 00:21:18,460
+Esse é exatamente o critério de sucesso para sair da etapa de validação.
+
+283
+00:21:18,619 --> 00:21:22,839
+Então, olha que interessante, muita coisa alinhada e a IA é mais estatística no mundo, né?
+
+284
+00:21:22,940 --> 00:21:25,119
+A gente tem dados da própria Vanguarda, a
+
+285
+00:21:25,179 --> 00:21:25,999
+IA tem dados do mundo,
+
+286
+00:21:26,099 --> 00:21:26,719
+mas os dados
+
+287
+00:21:26,740 --> 00:21:28,740
+estão bem alinhados com os dados do mundo.
+
+288
+00:21:28,759 --> 00:21:30,139
+A gente pode trazer nessa direção.
+
+289
+00:21:30,139 --> 00:21:34,440
+Isso é muito próximo da lógica de test card do strategizer.
+
+290
+00:21:34,559 --> 00:21:39,259
+Declarar hipótese, teste, métrica e critério antes de rodar experimento.
+
+291
+00:21:39,400 --> 00:21:40,379
+Isso é o clássico, né?
+
+292
+00:21:40,440 --> 00:21:42,599
+Método Lean, construir, mensurar, aprender.
+
+293
+00:21:42,859 --> 00:21:43,639
+Método Lean.
+

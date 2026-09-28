@@ -1,0 +1,199 @@
+Aula 6 · Vender antes de construir: contato direto
+
+[00:00] eu estivesse começando um negócio amanhã, eu não construiria MVP imediatamente.
+[00:04] Eu faria uma sequência brutalmente simples.
+[00:06] Tese, conversa, oferta, dinheiro, entrega manual, repetição, aí nasce o produto.
+[00:12] E não o contrário.
+[00:13] O que a gente já percebeu que
+[00:14] é o maior erro de quem começa a construir um produto com essa metodologia científica, porque tem as pessoas que só começam o negócio também e nem planejam o negócio, né? É outra esfera aqui.
+[00:23] Mas qual que é o maior erro? Eu cometi esse erro. Quatro anos me sacrificando nesse erro. Começa a criar um produto, se apaixona por ele, fica um tempão aqui, esquece das outras etapas e depois vai no desespero tentar resolver isso aqui.
+[00:35] E aí quando você vai no desespero tentar resolver isso aqui, o que as pessoas tentam fazer é pular pra cá, oferta.
+[00:41] Então, ah, eu já tenho um produto, vou criar uma oferta.
+[00:42] Cria uma oferta, mas não vende.
+[00:44] Aí passa um tempão dando murro e ponta de faca, batendo a cabeça na parede.
+[00:49] Minha oferta não funciona, ninguém compra, não dá certo.
+[00:52] Aí chega uma hora que você percebe, você fala, cara, minha tese tava errada.
+[00:55] Aí existe o problema em dobro, que eu já vi acontecer também, é pior ainda.
+[01:01] O que é o problema em dobro?
+[01:02] Pessoa bate a cabeça aqui, tenta, tenta, tenta, tenta, minha oferta tá ruim.
+[01:06] Descobri, o problema era minha tese, minha tese tava errada, eu tava enganado.
+[01:10] Aí o que que a pessoa faz? Cria uma tese nova e vai pro produto.
+[01:14] Pô, não percebeu então o que que tá acontecendo aqui, tá?
+[01:18] Cria a tese e já vai pular pro produto, ah, eu quero criar o sistema, eu já quero fazer acontecer.
+[01:21] Não, dá a tese, vai pra conversa, valida, tá bom? Simples assim.
+[01:27] Então, ele aqui criou um roadmap pra gente também, a gente vai ler as soluções dele,
+[01:33] Primeira etapa, 10 entrevistas para identificar.
+[01:36] O problema realmente existe?
+[01:37] 2. 50 a 100 outbounds.
+[01:39] Minha proposta provoca reação?
+[01:42] Outbounds aqui são contatos que você faz com outras pessoas, tá bom?
+[01:48] Então pensa assim, uma mensagem no LinkedIn, um e -mail que você mandou, uma mensagem no Instagram, uma mensagem no WhatsApp,
+[01:53] isso são outbounds.
+[01:55] Lembrando que um outbound é quando você vai até o cliente.
+[01:59] Um inbound é quando o cliente vem até você.
+[02:01] Então, olha a proposta que o GPT tá trazendo aqui pra gente.
+[02:04] 50 a 100 contatos em que você vai até as pessoas.
+[02:10] E o que você tem que descobrir com isso aqui?
+[02:12] Minha proposta provoca reação ou eu sou ignorado?
+[02:16] Beleza?
+[02:17] Ele tá propondo aqui uma média de conversão de 10 a 20%.
+[02:22] Se você falar com 50 e conseguir 10 pessoas, 20 % de conversão.
+[02:26] De entrevista, né? Conversão de entrevista, de reunião marcada.
+[02:29] Se você fala com 100 pessoas e consegue 10, 10 % de conversão.
+[02:33] Ele está trabalhando nessa margem aqui para começar.
+[02:36] Aí ele propôs aqui uma landing barra demo, para ver se a pessoa quer avançar.
+[02:40] Ele propôs a ideia de uma landing page, é uma das possibilidades, beleza.
+[02:44] Quatro, oferta real.
+[02:45] Oferta real vem nesse processo de entrevista aqui.
+[02:49] A pessoa quer pagar?
+[02:50] O mais importante para a gente absorver são as perguntas aqui.
+[02:53] A gente tem que responder cada uma dessas perguntas.
+[02:55] Cinco, três clientes com cierge.
+[02:57] O que ele está chamando de cliente de concierge aqui? É aquele cliente com acompanhamento, são os seus primeiros clientes em que você quer ver a pessoa, se for uma solução aqui de software, por exemplo, você quer ver a pessoa usando.
+[03:07] Se for uma solução de entrega de serviço, você quer ver o serviço sendo entregue, gerando resultado, resolvendo o problema daquele cliente, tá bom?
+[03:13] Então, um exemplo que eu dou, a gente fez aquela oferta no domingo, do
+[03:18] e eu precisava de duas pessoas.
+[03:19] A gente fechou, já fechamos com duas pessoas, e agora elas são duas pessoas que são clientes concierges minhas.
+[03:27] Por quê? Porque elas vão receber minha atenção mais do que qualquer outro cliente que eu vou ter depois.
+[03:32] Porque eu preciso validar minha entrega com essas pessoas.
+[03:34] Então acaba sendo uma vantagem também, e eu sempre uso isso na oferta, tá?
+[03:38] Vocês podem usar também.
+[03:40] Eu falo o seguinte, eu tenho uma tese, eu quero validar essa tese,
+[03:43] eu tô disposto aqui a cobrar menos do que eu vou cobrar no futuro,
+[03:46] e te dar mais da minha atenção do que eu daria no futuro, porque eu quero validar essa minha entrega com você.
+[03:51] Isso é excelente.
+[03:52] É uma oferta que ela vem com escassez, porque ela só acontece uma vez.
+[03:56] E usar isso a seu favor é muito bom, tá bom?
+[03:59] Segunda compra, barra continuidade.
+[04:01] Aí, isso aqui vem depois.
+[04:03] Inclusive, isso aqui pode vir na validação de entrega, enquanto você está trabalhando caixa também.
+[04:08] E sete, só então entra o produto, que merece ser automatizado.
+[04:12] Olha aí, lá no final.
+[04:14] O erro que a gente comete é o quê? Começar do final.
+[04:16] E aí, pra mim, esse é o maior erro hoje que as pessoas cometem na hora de construir negócios, tá?
+[04:22] Isso pode permitir que você chegue a uma convicção muito maior em uma ou duas semanas.
+[04:26] Olha aí, uma ou duas semanas, em vez de passar três meses construindo.
+[04:32] Pô, quem aqui passou três meses construindo? Falem aí.
+[04:35] Ou mais, né? Ou mais. Eu sei, porque eu converso com vocês.
+[04:39] O MVP não precisa ser a primeira versão do produto.
+[04:42] Então, o MVP é a primeira versão da evidência.
+[04:45] O MVP começa quando a primeira pessoa pagou por aquilo, depois você entrega.
+[04:49] Lá em 2020, eu já tinha aprendido isso, mas eu levei mais 4 anos, mais ou menos 4 ou 5 anos,
+[04:55] pra de fato mudar minha metodologia de construção de negócio pra colocar isso aqui no centro.
+[05:00] Porque lá em 2020, eu já vendia um produto incompleto e ia entregando no caminho.
+[05:06] Eu já fazia isso em 2020.
+[05:08] Só que eu caía nesse viés aqui o tempo todo, de agora eu vou pro produto, agora eu vou pro produto,
+[05:13] produto perfeito, produto perfeito, e aí o negócio começa a ficar sufocado, começa a faltar oxigênio, e isso é o mais perigoso, você não está tentando provar que consegue construir, você está tentando descobrir, se eu construir, existe força suficiente do outro lado, o que é o outro lado? Mercado, para puxá -lo de mim, quando começa a existir pool, aí você está chegando muito perto daquilo que eu chamaria de um solution market fit, e para o estágio que você descreveu, eu perseguiria uma evidência
+[05:41] E isso aqui do produzir manualmente tem relação com que às vezes você tem uma solução de um software e você quer entregar o software todo automatizado, mas no final você entrega um resultado.
+[06:01] As primeiras vezes você pode entregar esse resultado manualmente. Você já está recebendo por isso. Não precisa ser um software completamente automatizado para começar.
+[06:09] Pode ser você fazendo na primeira vez. O que importa é que você entregou o resultado. E aí, enquanto você faz a entrega, você vai automatizando para você primeiro, para facilitar a sua entrega. Mas pelo menos você já validou. Validou que tem pessoas dispostas a pagarem para ter aquilo. Beleza? Isso é o mais importante que nós queremos aqui.
+[06:27] Deixa
+[06:27] É suar mesmo, que é sair mandando mensagem ali, marcando uma cold call, tentando ligar, aí você pode usar Google Maps, pode usar LinkedIn, pode usar Instagram, pode usar e -mail, mas é direto ali, você vai ouvir muito não, você vai ser completamente ignorado, mas é o primeiro caminho, beleza?
+[06:45] Vamos chamar ele aqui de força bruta, que ele trouxe aqui, 50 a 100 outbounds, 50 a 100 contatos com outras pessoas, para avaliar se a sua abordagem provoca reação.
+[06:56] Isso já é um plano. Eu gosto desse plano porque ele é imediato.
+[07:01] Dá pra você pegar agora aqui, pedir o GPT ou o Cloud pra gerar uma lista de leads pra você e começar a mandar mensagem.
+[07:09] De agora, uma hora mandando mensagem aqui, sei lá, mandei pra 50, mandei pra 100 pessoas.
+[07:14] De 100 pessoas, quantos que me responderam? 20? 10? 5? 2?
+[07:19] Isso é dado. E é um dado que você consegue rápido, em questão de horas.
+[07:23] Não precisa ficar elaborando demais aqui, sabe? Isso aqui é a velocidade. Então isso aqui é a força bruta, eu gosto dela por isso. Porém, se você está buscando eficácia, não é o modelo que eu chamaria de maior eficácia, porque é uma conexão muito fria ali, você vai ser completamente ignorado na maioria das vezes, então tem esses detalhes.
+[07:43] Mas, por ser fácil e imediato, acho que vale a tentativa sim.
+[07:47] Pra isso, o mais importante está na abordagem que vocês vão usar.
+[07:51] E aí depende de cada canal.
+[07:53] Se vai ser no LinkedIn, mensagem curta.
+[07:55] Se é no Instagram, mensagem curta também.
+[07:57] Você tem que primeiro provocar o interesse da pessoa.
+[08:00] Você não vai mandar um textão pra ela, é horrível essa abordagem.
+[08:03] Mensagem curta.
+[08:04] WhatsApp também, mensagem curta.
+[08:07] O que é mensagem curta?
+[08:08] Às vezes, galera, mensagem curta é pegar a pessoa e falar
+[08:11] Olá, Ruan, tudo bem? Vou pegar um nome diferente, né? Olá, Bruno, tudo bem? Meu nome é Ruan e eu quero saber o seguinte, você quer saber a notícia boa ou a notícia ruim?
+[08:21] Gera aquela curiosidade, não fala mais nada. A pessoa te respondeu, já teve uma taxa de resposta. A pessoa fala, ah, notícia ruim.
+[08:27] Aí você pode falar o problema. A notícia ruim é que 80 % dos negócios igual o seu vão falir nos próximos 12 meses porque não resolveram a qualificação dos leads.
+[08:38] Vamos supor que eu tô falando disso, esse é o problema que eu vou resolver.
+[08:41] Você sabia disso?
+[08:42] Mas a boa notícia, já responde ali embaixo, é que eu consigo resolver esse problema pra você.
+[08:47] Uma abordagem criativa, chama a atenção, aumentou a taxa de resposta.
+[08:51] Tem que ter essas táticas assim, tá?
+[08:53] Quando você tá fazendo uma ligação, uma conexão fria como essa aqui de outbound.
+[08:58] Tem que ter o molho aqui pra saber fazer.
+[09:01] Mas quanto mais você treina, mais você vai aprendendo.
+[09:04] Por que as pessoas estão te ignorando, por que não estão.
+[09:08] E aí, inclusive, se você é uma pessoa que não tem experiência com esse tipo de abordagem, minha recomendação é, se eu vou falar com 100 pessoas, eu vou fazer 100 abordagens diferentes, porque aí você coleta dados, você sabe que uma abordagem específica funcionou e a outra...
+[09:20] Você pode, talvez, também fazer o seguinte, eu vou fazer 10 abordagens diferentes, então, para 10 clientes eu mando a abordagem 1, para 10 clientes eu mando a abordagem 2, para 10 clientes eu mando a abordagem 3, assim você tem uma amostragem também e pode ser interessante.
+[09:33] O erro que as pessoas cometem é mandar a mesma mensagem para 100 pessoas, aí você não tem variável ali para saber, entende? A única variável é a pessoa do outro lado que você não controla, então esse é meu conselho para vocês se forem utilizar esse método de validação.
+[09:48] Eu gosto dele, tá? Porque ele é imediato, ele é rápido. E ele depende de você. Não tem que fazer landing page, não tem que criar anúncio, ele é o imediato, ele é o...
+[09:58] O que eu já posso fazer hoje? Pega e começa a fazer, beleza? Vamos ver os outros aqui agora também.
+[10:04] Legal. Primeiro ele trouxe aqui uma entrevista de comportamento passado. Se for o que eu tô pensando, eu aprendi, a gente vai ler ali, mas eu aprendi algo parecido com essa ideia desse nome aqui, estudando mais sobre design thinking.
+[10:16] Não apresente a solução primeiro. Pergunte quando o problema aconteceu pela última vez, como a pessoa resolveu, quanto perdeu, quanto gastou, o que tentou e por que continua insatisfeita.
+[10:28] A Y Combinator recomenda exatamente evitar perguntas hipotéticas como, você usaria isso? E investigar eventos reais do passado. Evidência baixa média, velocidade altíssima.
+[10:40] Legal, é bem parecido sim.
+[10:42] Tem uma técnica do design thinking que é chamada de entrevista.
+[10:45] Tem aqui ó, entrevista de comportamento.
+[10:47] E nessa técnica de entrevista, você pode utilizar um histórico diferente.
+[10:53] Você pode começar pelo seu propósito.
+[10:55] Por exemplo, eu posso chegar aqui, vou pegar outro nome agora.
+[10:58] Olá Raquel, tudo bem? Meu nome é Ruan e eu sou especialista em qualificação de leads.
+[11:03] Mas eu não estou aqui para te vender nada agora não.
+[11:05] Na verdade, eu estou fazendo uma pesquisa para poder entender por que a maioria das empresas tem dificuldade para vender.
+[11:12] Então, quando você chega a se posicionar, eu poderia até falar, em vez de eu ser especialista em qualificação de lead, ruim, já parece vendedor,
+[11:18] você pode falar, olá Raquel, tudo bem? Me chamo Ruan e eu sou um pesquisador na área de vendas.
+[11:22] E eu estou fazendo uma pesquisa aqui para entender.
+[11:24] Se falar pesquisador na área, enquanto eu vou falando, eu estou mudando a cópia aqui, tá?
+[11:28] Porque se eu fosse escrever ela, eu faria esses ajustes.
+[11:30] Pesquisador de vendas ainda parece um vendedor.
+[11:32] Eu poderia falar, por exemplo, que eu sou um pesquisador de modelos de negócio, que eu sou um pesquisador de administração, alguma coisa do tipo, de processos, e eu estou entrevistando algumas empresas para entender dessas empresas por que a maioria das empresas tem dificuldade para vender.
+[11:47] E aí eu começo assim e eu posso falar, todas as empresas que eu entrevistar aqui, no final eu vou entregar um relatório com todas as respostas que eu tive dessas empresas.
+[11:56] Se você quer participar dessa pesquisa, é rápido, é tranquilo, não vou te vender nada no final.
+[12:00] Eu realmente quero entender o que você está passando.
+[12:03] Legal? Isso pode te ajudar a ter uma abertura.
+[12:05] Isso seria uma das minhas abordagens, tá?
+[12:07] Eu faria outros textos e faria aquela mesma lógica que eu falei para vocês.
+[12:11] Para 10 empresas eu mando assim, para outras 10 eu mando assim, para outras 10 eu mando assim.
+[12:14] E dessa forma, vocês vão tendo variáveis para ver o que está funcionando de abordagem e o que não está funcionando.
+[12:20] Beleza?
+[12:21] Então, olha que interessante.
+[12:23] Ele já falou aqui que vão ser evidências de baixa média,
+[12:25] Mas isso aqui serve para validar se as pessoas realmente têm aquele problema e se elas já tentaram resolver.
+[12:30] E tem um segredinho aqui nessa técnica que eu gosto muito, sempre que eu uso ela, que é o seguinte.
+[12:35] A resposta que as pessoas dão vão ser exatamente as palavras que você vai utilizar para construir a sua copy.
+[12:44] Se você não sabe o que é copy, copy é a sua abordagem persuasiva de venda.
+[12:49] Então você usa as próprias palavras que o seu ICP te deu para mostrar como a sua solução resolve.
+[12:55] E você usa o próprio contexto deles.
+[12:57] Por exemplo, eu já rodei muito pesquisa assim, tá?
+[12:59] Com empreendedores, principalmente empreendedores da área criativa.
+[13:03] E eu posso falar aqui, ó, eu posso começar minha oferta falando aqui.
+[13:06] Se você é uma pessoa que gosta de construir produtos encantadores, mas que tem dificuldade pra vender,
+[13:11] passa horas, madrugadas inteiras construindo porque você se diverte, você gosta de construir isso,
+[13:16] mas no final fica perdido porque não sabe como vender essa solução, então eu posso te ajudar.
+[13:22] Então aqui, o que é o reverse demo?
+[13:24] É você pedir pro seu cliente demonstrar como ele faz isso hoje.
+[13:28] Excelente também pra coletar informação.
+[13:29] Eu diria que a evidência aqui ainda é baixa média, tá?
+[13:32] Baixa, média, mas entra em velocidade altíssima porque você pode utilizar a mesma abordagem de entrevista, ok?
+[13:39] Teste de intensidade do problema. Descubra frequência, custo, consequência e urgência.
+[13:44] Quanto isso te custou nos últimos 30 dias?
+[13:47] É muito melhor que... Isso é importante pra você?
+[13:50] Se ninguém está perdendo dinheiro, tempo, reputação ou oportunidade, talvez você tenha encontrado uma inconveniência e não um mercado.
+[13:57] Isso aqui é muito bom, tá? Isso aqui é muito bom, porque o que ele tá trazendo aqui é um critério, na verdade, esse terceiro aqui não é nem uma abordagem de validação, dá pra falar que é, na verdade, mas é um critério. Qual que é o critério que ele tá fazendo aqui? Perguntar pra pessoa, isso é importante pra você? A pessoa vai falar, é importante pra mim, mas às vezes é importante porque o jeito atual é só inconveniente, mas não é algo que incomoda tanto a ponto de querer pagar por isso.
+[14:22] Então, quando você vem para um quanto isso te custou nos últimos 30 dias, você está querendo coletar um dado, você está querendo entender, deixa eu ver se isso aqui dói, ou se na verdade é só algo que incomoda ali, beleza?
+[14:35] Teste de mensagem por outbound.
+[14:37] Olha, até agora, para mim, isso tudo são abordagens que você faz após esse teste, né?
+[14:42] Então, ele trouxe aqui uma abordagem outbound, vamos ver.
+[14:45] Pegue de 50 a 100 pessoas do seu perfil de cliente e mande uma abordagem baseada exclusivamente na tese de valor.
+[14:52] Não vendo uma empresa, vendo a transformação.
+[14:54] Estamos criando X para empresas que sofrem Y e querem alcançar Z.
+[14:59] Posso te mostrar?
+[15:00] Isso aqui é um tipo de abordagem, mas eu não faria 100 abordagens assim.
+[15:04] Vocês podem até pedir para o GPT, né?
+[15:06] Eu poderia chegar nele e falar assim, vou iniciar um processo de outbound e entrar em contato com 100 ICPs.
+[15:15] Tenho essa abordagem aqui.
+[15:17] Eu coloco essa abordagem aqui pra ele, mas quero ter variáveis para conseguir mais informações.
+[15:25] Então vou mandar essa para 10 das 100 pessoas.
+[15:30] Quero mais 9 abordagens diferentes para eu validar qual tem maior taxa de resposta.
+[15:39] Pronto.
+[15:40] Com isso aqui agora, ele vai me entregar 10 outras abordagens.
+[15:43] Pronto, rapidinho a gente tem isso hoje em dia.
+[15:46] Inteligência artificial é bom demais, né?
+[15:48] Olha aí, iniciou uma conversa e aí você pode usar essas abordagens aqui no WhatsApp, no Instagram, no LinkedIn, já é diferente.
+[15:57] Curtinho pra pessoa ler e ficar com vontade de te responder, mas a gente tem um exemplo aí de como fazer isso.

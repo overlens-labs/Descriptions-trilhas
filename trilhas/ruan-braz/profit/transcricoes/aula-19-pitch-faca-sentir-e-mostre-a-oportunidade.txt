@@ -1,0 +1,419 @@
+Aula 19 · Pitch: faça sentir e mostre a oportunidade
+
+[00:00] quero ajudar vocês a melhorar a maneira como vocês apresentam a oportunidade que vocês têm na mão.
+[00:05] Lembrando que apresentar um pitch não é apresentar o negócio.
+[00:09] Apresentar um pitch é apresentar uma oportunidade.
+[00:12] Beleza?
+[00:13] vou começar com o número de diagnósticos de autismo, né?
+[00:17] Hoje a gente tem um em casa, 31 crianças são diagnosticadas com autismo no mundo, né?
+[00:23] É dado do CDC.
+[00:24] E no Brasil, no ano passado, a gente chegou a 1 ,2 milhão de pessoas, estudantes autistas, na educação básica.
+[00:32] Então, nos últimos cinco anos, cresceu 4 ,4 vezes o número de pessoas autistas.
+[00:39] Em 2021, era 200 mil, ou seja, nos últimos cinco anos, cresceu um milhão.
+[00:45] Então, nunca se diagnosticou tanto o autismo no Brasil e, ao mesmo tempo, nunca foi tão difícil trabalhar para clínicas e famílias e escolas
+[00:53] trabalharem com relação aos desafios que o autismo traz para o ambiente escolar e para a sociedade como um todo.
+[01:00] Então, essa é uma entrada só para a gente ter ideia do tamanho do que a gente está falando
+[01:05] e da dificuldade que essas pessoas têm em vários ambientes.
+[01:09] Hoje, a terapia para o autismo, em média, fica aí no custo de 30 mil reais por mês.
+[01:15] Quando os planos de saúde filtram o principal custo, que já supera o tratamento de câncer,
+[01:21] embora o autismo não possa ser comparado com câncer porque não é uma doença, é uma condição,
+[01:26] Então, é o principal custo hoje com relação aos planos de saúde.
+[01:30] Quando eles filtram lá de Z para A na planilha de custo, autismo é o primeiro.
+[01:34] E o problema é que, ainda assim, essas terapias, embora se invista muito dinheiro,
+[01:40] ainda boa parte delas são ineficazes.
+[01:42] Então, acaba que a pessoa não generaliza os conhecimentos para a escola,
+[01:47] ou mesmo para o contexto do trabalho, que é onde a gente quer chegar.
+[01:50] E essa é uma situação que é insustentável, tanto para as escolas conviver com a dificuldade,
+[01:58] quanto mesmo para os planos de saúde.
+[02:00] A gente precisa ofertar condições sustentáveis no longo prazo
+[02:05] e oferecer para essas pessoas uma condição cada vez mais digna.
+[02:08] Então, a ideia minha é fazer o Cada Caso,
+[02:10] é uma fruta baixa do Blick, que é um serviço que eu quero ofertar.
+[02:15] Cada caso ele faz a conexão de clínica, família e escola,
+[02:20] algo que a gente já vem fazendo aqui de maneira artesanal na ADAPT,
+[02:26] com a presença de clínico, mas a gente vem fazendo no último mês
+[02:32] um teste com a IA, que é fazer a medição do caso e ofertar,
+[02:39] com base num histórico que a gente fez, um estudo longitudinal,
+[02:42] Longitudinal, que a gente, nos últimos cinco anos, nós ofertamos, nós tratamos 2 mil casos aqui, e aí a gente fez um estudo longitudinal do que que funciona e o que que foi legal em cada caso, e fizemos isso em um grafo, e depois nós cruzamos esse grafo com a abordagem multilente, e aí o caso entra no sistema, né, então tem a entrada dele, aí monta o plano, né, a gente no último mês a gente fez cerca de 200 casos, e aí a gente elaborou 285 programas,
+[03:12] E aí cada caso é diferente um do outro, ele recebe um desses programas com uma orientação,
+[03:18] tanto para a família, tanto para a escola e também para a clínica,
+[03:22] com abordagem terapêutica em ABBA, em DBT, em TCC, em CAA, que é comunicação aumentativa e alternativa.
+[03:30] No Brasil, a gente tem hoje, pelo censo do IBGE, 2 ,4 milhões de pessoas.
+[03:37] O nosso número aqui, nossa expectativa é que esse número seja pelo menos de 6 milhões, né?
+[03:42] As escolas particulares são o nosso SAM, né, trabalhar com as pessoas que já ocupam, que já é o serviço que a gente oferta aqui na ADAPT.
+[03:53] Então, e a ideia é que nos próximos dois anos, né, a gente consiga 45 mil usuários aqui no nosso ecossistema.
+[04:02] E um ponto aqui que a gente quer trabalhar na ADAPT é basicamente mostrar um pouco aí do nosso repertório, né,
+[04:12] É uma dor que a gente vem sentindo aqui, a gente já tem 25 mil professores que fizeram os nossos cursos gratuitos, a gente atua muito com cara de ONG, e esse seria o nosso produto com fins lucrativos, ou cada caso.
+[04:29] Então, esses são os números que a gente já trabalha, a gente tem uma parceria com a PoliUSP, no qual a gente faz o treinamento lá de pessoas autistas para o mercado de trabalho, hoje eu lidero uma turma com 50 alunos autistas na Poli, e fiz o lançamento da comunicação ambientativa alternativa essa semana, na quarta -feira, então o post já está com 442 mil visualizações, 32 mil compartilhamentos,
+[04:57] O post do Conectea, que é o projeto que a gente faz na USP, está com 192, isso é para mostrar um pouco da carência aí, né, lancei na quarta -feira a comunicação aumentativa alternativa, ontem tinha 5 mil pessoas quando eu entrei no sistema logados, utilizando aquela prancha que vocês viram.
+[05:15] Então, quem constrói isso sou eu, com minha esposa, eu tenho 20 anos aí na área de atuação no mercado educacional, eu construí um aplicativo chamado Saber, na Croton, que tinha 1 ,5 milhão de alunos no ensino superior, hoje eu sou pesquisador da Poli, sou fundador aqui da Adapt, desde 2019, e é um caso que eu não pesquisei essa dor, eu assisto essa dor não somente há 7 anos, mas também como pai.
+[05:41] Meu filho mais velho tem 21 anos, está na faculdade, é autista, nível 1 de suporte, e minha filha mais nova tem 15, e também é autista, e eu tenho meu filho do meio, que é meu autista de nível 3 de suporte.
+[05:53] Então, a minha ideia é, olhando para frente, pegar essa fruta baixa agora, do cada caso, utilizar esse repertório que a gente construiu nos últimos sete anos,
+[06:04] Com essas duas mil reuniões, com esse estudo longitudinal, e que é uma fruta baixa para um projeto maior, que é o Blic, que aí sim é um projeto mega, só que a gente não consegue colocar de pé ele hoje, mas a gente já consegue pegar grana agora direto com cada caso.
+[06:20] E minha proposta aqui para o Ruan, para a Overlens, é ganhar a Vanguarda, a mentoria dele desse produto cada caso, e em troca ele ficaria aí com 1 % do faturamento líquido do produto.
+[06:30] Então, você entra com o método aqui, me mentorando, me guiando, e eu entro com esse contexto, com esse histórico, pra gente seguir junto.
+[06:38] Que massa, cara! Deu seis minutos aqui e entra dentro do prazo de sete minutos que a gente tá planejando, né? Parabéns! Você praticamente gabaritou a estrutura, né, que a gente montou juntos na última aula, gostei muito.
+[06:52] e alguns pontos aqui muito fortes a seu favor, né?
+[06:56] Que faz a sua apresentação ficar muito boa.
+[06:58] Você tem histórico, você tem número, você tem o que a gente chama de track record, né?
+[07:04] E geralmente, quando as pessoas vão apresentar uma ideia, a primeira coisa que é analisada é a pessoa.
+[07:09] E tem muita gente com ideia.
+[07:11] É o que eu tinha um professor que falava assim, tem muita gente cheia de iniciativa e pouca gente com acabativa, né?
+[07:17] Então, as pessoas gostam de ter ideias, mas quantas pessoas vão lá e faz a ideia acontecer?
+[07:22] E é exatamente a sua posição, né?
+[07:25] Então, eu achei isso demais, assim.
+[07:28] Você já tinha me apresentado algumas coisas, eu achei fantástico.
+[07:31] Não só pelo lado social do seu propósito, mas também pelo lado de impacto que você já causa.
+[07:37] Então, cara, é só um monte de coisa boa aqui, né?
+[07:40] Se eu puder ajudar em relação à apresentação, que eu acho que dá pra gente ajustar e ficar ainda melhor, é em relação ao sentir.
+[07:48] Você tem um tema muito bom pra fazer as pessoas sentirem.
+[07:52] E na sua apresentação, eu, olhando como oportunidade, tá excelente, é isso que eu tô falando.
+[07:58] Tem número, você tem provas, você tem um mercado interessante também.
+[08:03] Falando só friamente de oportunidade, é isso mesmo.
+[08:05] Mas falando de ser humano e do seu propósito e de tudo que você faz, eu acho que naquele início ali, e aí eu vou te recomendar assistir mais TED Talks, vai ser bem interessante para isso, você trazer um pouco mais desse sentir para que as pessoas entendam mais o que é o autismo e entendam mais como que isso impacta todo mundo, porque eu acho que a primeira coisa que as pessoas pensam nisso muitas vezes é, ah, eu não sou autista, não conheço ninguém autista, então esse problema não é meu.
+[08:32] E não é isso, impacta todo mundo, né?
+[08:34] Então eu acho muito massa.
+[08:35] Se eu puder fazer um comentário em relação a isso, é esse.
+[08:38] Bom, primeiro para manter o padrão do Emanuel vai ser pesado, mas vou fazer o meu melhor aqui para a gente poder equilibrar todo mundo e ficar na mesma linha.
+[08:48] Cara, eu estou revalidando o meu negócio já tem um bom tempo e eu entrei na Vanguarda por isso.
+[08:54] E aí seguindo todas as coisas que, todas não, mas vamos falar aí uns 80 % das coisas que eu consegui botar em prática nesse período,
+[09:01] Inclusive o MVP, que foi quando eu entrei, de fato, eu consegui validar meu negócio sem gastar dinheiro com um projeto que era mais do que o dobro do que eu cobrava, normalmente.
+[09:11] Então eu montei uma estrutura de pitch, pra ser avaliada também, pra antecipar um pouquinho, porque isso talvez ajude a entender um pouco mais de onde eu saí e pra onde eu quero chegar.
+[09:23] Onde, na verdade, eu não tenho investidor, e sim alguém que tracione a parte comercial da minha empresa, que é o meu maior gargalo hoje.
+[09:30] Eu consigo fazer isso bem, só que eu não consigo estar em vários lugares ao mesmo tempo.
+[09:34] E a maneira como eu venho trabalhando, comecei a perceber que quando eu estou no one -on -one ali com os empresários ou com acionista,
+[09:42] funciona muito melhor do que eu simplesmente ter uma abordagem mais morna ou que eu tenha que ter muitas quebras ali.
+[09:50] Esse que eu vou comentar aqui na reunião, por exemplo, é um cara que tem negócios fora do Brasil,
+[09:56] Brasil, em pelo menos oito estados aqui, trabalha com direito e outras coisas, e foi quem validou o meu negócio, e eu mandei uma, fiz uma divulgação sem custo, dentro de grupo de família, dentro de outros WhatsApps de empresário que eu tenho, disparei via e -mail, sem compromisso, pra todo mundo, apenas pra conhecer o que eu tava fazendo, eu não troquei nem os textos do meu site, tem alguns que tão com o lado em Y, e mesmo assim, o negócio veio.
+[10:30] Olha aí!
+[10:51] Eu tô com... deixa eu ver se eu consigo, que eu tô com o HTML que eu girei no cloud, mas ele não tá, não tá indo, só um pouquinho, peraí que eu vou aqui, vou montar isso aqui, agora o Zon quer gravar minha tela, será que agora vai? Só um minutinho, gente, prometo que eu vou ser rápido aqui.
+[11:09] Não, tá tranquilo, tá tranquilo, Nico. Hoje é o dia pra isso. É até bom que todo mundo veio assim. Eu tô torcendo pra dar tudo errado hoje com todo mundo, porque hoje é o dia de dar errado, entendeu?
+[11:19] Porque no dia do pitch, dependendo da quantidade de pessoas que cadastraram o pitch, né, eu vou ser mais... eu vou seguir a linha, né, o que a gente combinar.
+[11:29] Então, quando eu falar, bora começar, a gente vai ter um tempo ali, a gente vai seguir com ele.
+[11:33] Então, eu tô torcendo pra tudo dar errado hoje, que fica como um grande aprendizado.
+[11:37] Mas deu certo, a gente tá vendo sua tela.
+[11:39] Ah, maravilha.
+[11:40] Bom, eu tô partindo da premissa onde eu tô juntando design e negócios
+[11:45] pra eu não necessariamente ficar me preocupando com estética.
+[11:48] E eu não quero que o meu cliente ache que uma logo bonita, uma cor, ou alguma coisa que seja banal
+[11:54] caia no mesmo discurso de a marca feita de maneira, como eu posso dizer assim,
+[11:59] Sem ser de maneira coerente, no sentido de pegar uma pessoa que apenas sabe operar o software e ter um resultado e misturar toda a pessoa do começo com a nossa bagagem.
+[12:08] Então, o que eu estou mudando? Eu estou transformando a minha empresa, onde a parte...
+[12:13] Nossa, eu tenho bastante coisa para pensar, só um pouquinho.
+[12:16] Eu vou lendo aqui, vai ficar mais fácil para eu me organizar.
+[12:18] Bom, o design move os negócios e quem entende esse movimento decide na frente.
+[12:23] Então, a gente trabalha dessa maneira onde o brand é uma decisão de negócio e não um enfeite estético.
+[12:28] E aqui, eu quero apresentar um gancho onde muitas marcas bonitas, ou esteticamente muito agradáveis, ou com uma identidade bonita, elas morrem, porque elas não têm receita, elas não vendem, elas não convertem.
+[12:41] Então eu fiz uma pesquisa aqui, dentro de sites como o WGSN e a McKinsey, segundo aqui os dados que eu encontrei, a maioria das empresas, no caso assim, no ticket que eu estou buscando,
+[12:52] 300 empresas de capital aberto com mais de 100 mil ações envolvem design.
+[12:56] Então a gente tem um mercado que comprova o que a gente está falando.
+[12:59] Não necessariamente eu ou onde a gente vive da Overlens, mas o Brasil inteiro e a América Latina toda, segundo esses dados que a gente tem aqui.
+[13:07] Aí a gente vai partir para um design que é baseado em estratégia e não boutique.
+[13:11] A partir do momento que você entende isso, você deixa de parecer uma pessoa empolgada, entusiasmada, com um símbolo legal
+[13:18] E aí a marca também consegue transcender essa parte estética que não é um talento, é método.
+[13:28] E a IA, dentro do negócio, ela vem pra acelerar essa coleta de informação, organizar os dados, planear de uma maneira mais...
+[13:36] que gere evidências, não por achismo.
+[13:38] Então a gente vai trabalhar com esses dados todos que a IA vai organizar, amassar e produzir pra gente essa massa, pra gente prototipar aí mais pra frente.
+[13:46] Então, antes de falar de... Desculpa que eu tô arrastando o negócio aqui do zoom.
+[13:50] Antes de eu falar, a marca já falou por você. O que ela transmite é raramente o que de fato ela é, se não tiver toda essa bagagem que a gente colocou aqui.
+[13:59] A pesquisa de credibilidade da Stanford mostra que a maioria, que metade dessas pessoas avalia e confia se a marca tem um grau de relevância para ela se transmitir valor com base na sua aparência, com alguns poucos segundos de interação.
+[14:13] E isso aumenta a possibilidade de conversão em 46%.
+[14:18] Então, a gente também está falando que receita, além disso daí, segundo essa pesquisa, ela pode subir até 23%.
+[14:25] Peraí que eu... Nossa, cara, tem... Aí, pronto.
+[14:28] Desculpa, gente, que eu estou com várias telas aqui abertas, não estão me mandando os recados que eu não quero mexer agora.
+[14:32] E quando você não tem uma marca adequada, não tem uma pesquisa de mercado que indique para você o motivo real de você colocar cor na sua fachada,
+[14:42] de você colocar determinada linguagem na sua empresa, você pode perder dinheiro.
+[14:48] E fazendo uma analogia muito simples com uma fachada de um empreendimento pequeno,
+[14:53] ela pode custar uns 40, 50 mil reais mais ou menos.
+[14:56] Só que se você não tiver fluxo de porta, não tiver cliente, não tiver percepção de valor,
+[15:02] sua marca não chegar onde ela precisa, possivelmente o seu declínio financeiro vai ser muito maior do que isso.
+[15:09] E quando você tem uma marca já posicionada, naquela primeira etapa de adaptação, é possível você começar a tracionar o seu mercado com só a mudança de marca e posicionamento com até 30%.
+[15:21] Mais do que isso vai envolver um esforço de estratégia, de negócios que não está mensurado aqui dentro.
+[15:28] Mas esses são dados importantes para a gente poder analisar de onde está para onde vai.
+[15:33] E a solução para poder jogar como um grande player é abraçar um novo momento dos...
+[15:38] Ai, desculpa gente.
+[15:39] Tá de boa, fica tranquilo. Hoje aqui eu não tô avaliando, eu tô aqui pra te ajudar. Então manda ver, depois a gente analisa.
+[15:46] Então a solução é jogar como um grande player. Como é que a gente faz isso?
+[15:51] Você realiza isso através de não entregar algo apenas bonito, mas algo que faça sentido comercialmente
+[15:59] e que possa traduzir o seu mercado, para o seu mercado, tudo que você pode fazer
+[16:04] sem você necessariamente ter que ficar o tempo inteiro vendendo e microgerenciando essas coisas.
+[16:10] Então a gente vai sair de uma conversa para algo prático.
+[16:14] Na minha empresa, o cliente chega, normalmente ele chega perdido,
+[16:18] normalmente com uma indicação que alguém fez por um projeto que trabalhou comigo
+[16:22] ou viu alguma coisa e aí obteve a informação que foi feita comigo.
+[16:26] E aí a gente senta e faz um diagnóstico. Hoje em dia, depois de ter reestruturado e validado, o diagnóstico é feito com IA. E eu faço um debriefing no final para entender as inconsistências, aonde que eu posso ajudar esse cliente a resolver um problema que ele mesmo não sabe, e aí eu exponho isso para ele, depois eu vou com a intenção do que ele está fazendo.
+[16:49] Vou dar um exemplo. Eu tenho um cliente que ele é da área de contabilidade médica e ele só trabalha com médicos.
+[16:56] Só que ele não tinha se atentado que também existem médicos que são proprietários de empreendimentos, como clínicas e hospitais particulares.
+[17:04] Quando eu... é algo banal, muito simples, mas como ele está focado numa operação estreita, ele não estava olhando para esse lado.
+[17:12] Depois que a gente fez essa entrada, o diagnóstico, e mostramos a intenção de crescimento da empresa, ele conseguiu tangibilizar um pouco mais até onde ele pode chegar, que não tem muito uma questão de limite, sim uma questão de onde a oportunidade está e como é que eu faço para chegar lá.
+[17:28] Então, mudando isso de uma maneira global, a gente vai ter um caminho que ele vira uma decisão de negócio apresentada no MACOL, igual a gente está fazendo aqui, de uma maneira leve, sem pressa, para o cliente decidir com clareza e não por impulso.
+[17:42] depois a gente entrega toda a estrutura e ele sai com um sistema de marca inteligente
+[17:48] que ajuda a converter de uma maneira bem didática todas essas coisas que a gente viu aí
+[17:54] bom, esse aqui é o Sérgio, que é o cara que eu estava falando
+[17:57] ele chegou pra mim com uma dor que era muito difícil de diagnosticar no momento
+[18:02] ele me pediu uma landing page, só que eu fui bem criterioso, ouvi tudo que ele falou
+[18:07] e eu fui bem claro, falei, olha Sérgio, você não precisa de uma landing page
+[18:10] E aí, você precisa resolver o seu problema. Se você continuar dessa maneira, não vai funcionar. Ele não entendeu. Eu peguei, abri o documento e li pra ele todo o landing page atual dele. Ela parece um balcão de serviço de posto de saúde. Você tem ali uma estrutura que é pra todo mundo, de uma maneira muito fácil, muito acessível, e é justamente o que ele não quer.
+[18:32] e uma estética que está datada, que não vende o que ele faz e não converte com o público que ele está buscando hoje.
+[18:38] E não converte também com os negócios que ele tem em outros estados, que eu não sei como ele fez,
+[18:42] mas a identidade da empresa dele não transparece o que ele faz.
+[18:47] Então, depois que eu consegui que ele entendesse tudo, a gente passou por essa parte de diagnóstico,
+[18:53] mostramos o problema, mostrei a questão do balcão de serviço ali dentro do site,
+[18:58] E também dei um passo a passo muito simples, que foi aí que a gente fechou o negócio, que eu não estava nem preocupado em fechar o negócio com ele, sim, e ajudar, para onde, o que ele precisaria fazer para sair de onde ele está, de onde ele deseja, com uma estimativa de etapa e não de tempo, e aí foi onde a gente conseguiu validar o negócio.
+[19:17] Bom, levando em conta esse perfil de cliente aqui no meu estado, partindo do Mato Grosso do Sul e depois para o Centro -Oeste, visando que eu estou migrando para o mercado de tecnologia, a gente tem aqui localmente quase 2 mil startups na região.
+[19:33] O mercado TAM, SAM, SOM aqui, ele mostra de maneira maior que é onde eu quero chegar no mercado lusófono, de trás pra frente, né?
+[19:41] Aí aqui em nível Brasil e aqui no nível Centro -Oeste.
+[19:44] Esse aqui seriam as possibilidades de renda em cima dos projetos.
+[19:48] Não tem uma quantidade específica, porque cada projeto vai ter o seu valor de objetivo de alcance e também financeiro.
+[19:57] Então aqui a gente tem apenas esse panorama do tamanho do mercado para entender essa possibilidade de uma maneira mais prática.
+[20:03] Bom, e como que é que funciona? Por que foi validado e assim por diante?
+[20:08] Que eu disse ali, cada projeto, hoje eu estou trabalhando nessa faixa de 10 mil e eu consegui operar de uma maneira onde eu tenho 74 % de margem.
+[20:17] Eu tenho mais ou menos menos de mil reais fixo por mês para poder ter esse retorno.
+[20:22] Então essa é a parte mais interessante da maneira como eu consegui otimizar todas as coisas.
+[20:27] Eu tenho um custo fixo de R $925 ,00 e tenho um projeto de R $10 ,00.
+[20:32] Então isso me sobra aí 74 % de dinheiro no bolso.
+[20:35] Eu diria que o maior ponto de travamento do meu negócio hoje é o tempo e também não conseguir prospectar de maneira eficiente a não ser por eu mesmo.
+[20:47] Aí eu tenho aqui mais duas empresas que também comprovam o resultado que a gente tem.
+[20:54] Micheles é uma hamburgueria daqui, ela nasceu na pandemia.
+[20:58] O Micheles, que é o proprietário, ele vendia kit burger às 40 reais e hoje ele tem três empresas.
+[21:06] Uma fábrica de pães, hamburgueria que também serve almoço, não fecha nenhum dia da semana e tem uma milkshakeria.
+[21:14] todas as coisas que eu conversei com ele e propus, ele fez
+[21:18] e ele também está abrindo agora uma distribuidora de cosméticos
+[21:21] tudo com capital próprio, trabalhando com hambúrguer
+[21:23] então essa maneira de trazer o que é que a minha empresa sabe fazer melhor
+[21:28] tem aqui no Sérgio que validou o negócio
+[21:30] tem nessa bagagem do Micheles
+[21:32] e tem nessa outra que eu vou comentar aqui
+[21:34] que é da JMW Group
+[21:36] o pai tinha 60 e poucos anos
+[21:38] tinha uma empresa que fazia manutenção
+[21:41] para grandes obras
+[21:43] Como se fosse uma empresa especializada, não é isso, mas ela faz um serviço mais operacional para empresas de engenharia e indústrias de ferro.
+[21:52] Esse cara estava passando o bastão para a filha, a filha assumiu, mudou o nome, mudou o posicionamento, mudou várias coisas,
+[21:59] e ela precisava, por uma questão pessoal dela, que a marca refletisse ela e o pai.
+[22:04] E aí entrou a estratégia que a gente buscou, pesquisou e construiu juntos,
+[22:09] Aonde, pra ela poder ter a bagagem do pai, a gente conseguiu resolver numa cor.
+[22:13] E pra mostrar que ela tava assumindo, a gente conseguiu resolver com uma cor de apoio e mais o símbolo.
+[22:20] Então temos aí, além do negócio do Sérgio, mais outros dois negócios que comprovam o que a gente consegue fazer.
+[22:26] E aqui eu quero terminar com uma provocação muito simples, que é a mesma lá do começo,
+[22:31] que o design move negócios e quem entende o movimento decide ir na frente.
+[22:34] Eu tô buscando um parceiro comercial pra escalar esse modelo que já funciona,
+[22:38] Tem uma boa margem de lucro e alguém que gosta de dinheiro, que gosta de crescer.
+[22:42] Então, se quem entende movimentos decide na frente, o que você vai decidir na frente que você está hoje? E é isso.
+[22:49] Boa! Vamos conversar porque você trouxe um prato cheio e recheado para mim e eu adorei, cara.
+[22:54] Eu tenho alguns pontos bem legais aqui para comentar.
+[22:57] Primeiro, parabéns. Parabéns por ter construído todo o seu estudo de caso para apresentar aqui hoje.
+[23:04] Parabéns também pelos seus resultados, que deu pra trazer vários resultados legais, tem muitas pessoas que sonham em um dia chegar nesse ponto, então parabéns, primeiro de tudo.
+[23:13] Agora, vamos fazer algumas análises aqui, tá? Eu fui anotando tudo, eu já pausei aqui, tá bem?
+[23:18] Você levou 12, não, 13 minutos, aí legal, hoje não tem problema nenhum, por isso que eu tô deixando, tem só mais duas pessoas com a mão levantada, então a gente tem tempo,
+[23:27] Mas eu gosto de trazer o dado pra você treinar, porque no dia do pitch day, por exemplo, quando a pitá aqui, e é muito ruim fazer isso, eu já estive nas duas posições, errando o tempo e alguém me parando, e sendo forçado alguém para, eu tendo que ser a pessoa que para alguém, os dois lados é ruim, tá nas duas posições, mas eu vou ter que fazer isso no dia, então, acabou o tempo, acabou o cara, não, mas deixa, não, acabou, acabou, acabou, porque aqui vocês estão numa escola, né, uma mentoria, então eu criar esse ambiente pra fazer isso com vocês,
+[23:57] O que eu vi aqui, tá, Nicolas? Primeiro de tudo, vou fazer uma análise geral.
+[24:10] O seu pitch tá trazendo um problema e não uma oportunidade.
+[24:14] E o problema não é algo ruim, porque é o problema que gera a oportunidade.
+[24:19] Mas faltam alguns pontos que eu vou comentar aqui pra que isso se pareça uma oportunidade.
+[24:23] Você falou bastante sobre o seu cenário, sobre o seu contexto.
+[24:26] Inclusive, eu acerto aqui e eu tô com dificuldade aqui.
+[24:29] E aí você termina com isso, ou seja, você termina com um problema.
+[24:33] E pitches que terminam com um problema, as pessoas geralmente se esquecem dele,
+[24:38] porque as pessoas não querem problemas, elas querem oportunidades.
+[24:40] E por mais que uma coisa tá ligada com a outra, muitas vezes as pessoas não fazem a conexão.
+[24:45] Até porque quando você tem muita oferta, é melhor já conectar o que parece mais pronto ali dentro, entende?
+[24:50] Então esse é o primeiro ponto, eu senti aqui que o seu pitch fala de um problema, mas não traz a oportunidade.
+[24:56] Aí talvez você vai falar, mas Ruan, eu trouxe números, eu mostrei um pouco da minha visão e eu achei que isso era oportunidade.
+[25:02] Mas na verdade não, a oportunidade é o fechamento que você faz com todas as teses que você vem construindo.
+[25:08] Então ali no final você até falou, estou buscando um parceiro comercial, eu já tenho um negócio que funciona,
+[25:14] ele tem boa margem de lucro e eu quero alguém que goste de crescer.
+[25:17] Isso tudo é você mostrando, você tá olhando na sua ótica, você não tá olhando nem na ótica do seu parceiro comercial que você quer atrair, e isso é uma das melhores coisas na hora de negociar.
+[25:26] Você não fecha falando o que você tá buscando, você fecha abrindo o que outra pessoa quer, e é uma questão pura de enquadramento.
+[25:33] Então o que eu faria no seu fechamento, eu vou começar dele e depois eu vou trazendo tudo.
+[25:37] No seu fechamento você tem que mostrar, olha, eu tenho tudo isso aqui, e se você entrar dentro desse cenário, isso aqui é o que você pode ganhar.
+[25:44] E aí você tem que mostrar o que a pessoa pode ganhar com isso, entende?
+[25:47] É assim que você mostra uma oportunidade.
+[25:49] E agora eu vou vir reconstruindo isso aqui pra gente entender.
+[25:52] Primeiro conselho, você tava um pouco nervoso ali, é normal isso acontecer, só que às vezes a gente mesmo cava a própria cova, cara.
+[25:58] E aí qual que é o meu conselho pra você? Evita ao máximo o texto, usa bullet points e imagens.
+[26:04] Isso vai te deixar mais calmo, porque quando a gente imprime um parágrafo na tela, nós queremos ler o que tá ali,
+[26:10] e aí você já começa a ficar, eu vou ler, mas eu não tenho o que ler, mas aí acabou, aí já era.
+[26:15] Então, se você coloca ali bullet points, pode ter, o pessoal chama de, quando a gente vai fazer pitch, a partir do pitch deck mesmo, tem alguns termos para isso, por exemplo, bullet points, que são esses termos, os big numbers, que é quando você cria uma composição com os números mais importantes ali também, e imagem, inclusive esse conselho serve até para o Emanuel, eu falei para ele que eu acho que dá para melhorar ainda mais o sentir na apresentação dele,
+[26:42] E talvez um ponto que melhore o sentir na apresentação dele também, na sua, são imagens.
+[26:47] Às vezes não é nem o que a gente fala, mas é o que presta suporte.
+[26:50] E o pitch deck, ele é isso. Ele pode te ajudar a relembrar um tópico, a te manter ali na estrutura, sim, ele é bom pra isso.
+[26:56] Mas o principal de um bom pitch deck é ele ser o suporte do que você tá falando.
+[27:00] Então, enquanto você fala, o seu pitch deck mostra.
+[27:03] E aí não tinham imagens ali, eu vou voltar nesse tópico de imagem várias vezes aqui na minha anotação, eu vou falando com você.
+[27:08] Mas já fica o primeiro conselho, bullet point e imagem, e big number.
+[27:12] É isso. Às vezes você precisa de uma frase, precisa de uma headline, é isso. Seu pitch tem que ter isso.
+[27:18] Parágrafo, não. Parágrafo é muito bom quando você vai enviar uma proposta para o cliente,
+[27:22] mas o conselho que eu sempre dou é nunca envia uma proposta para o cliente antes de apresentar ela para ele.
+[27:27] E aí eu gosto de fazer duas propostas, a de apresentar e a de enviar.
+[27:31] Isso já vai te deixar muito mais tranquilo.
+[27:33] A de apresentar é imagem, bullet point, pig numbers e headlines. Só isso.
+[28:00] Design move negócios
+[28:02] Quem entende o movimento decide na frente
+[28:04] Um estúdio de branding que trata a marca
+[28:06] Como decisão de negócio, não como enfeite.
+[28:08] Primeiro, você está falando de você e não da oportunidade, está falando do estúdio.
+[28:12] Então, isso aqui, no momento de fazer um pitch, de apresentar uma oportunidade, isso joga contra você.
+[28:17] Isso num site, beleza, mas no pitch não.
+[28:20] Segunda coisa, você trouxe frases de efeito, frases que são muito conceituais.
+[28:25] Design move negócios. Quem entende o movimento decide na frente.
+[28:28] Uma frase conceitual, ela vai fazer sentido para quem já passou por um raciocínio mental e chegou em uma conclusão.
+[28:36] Então, quem vai concordar com você são pessoas que pensam parecido com você.
+[28:41] E você não está falando com essas pessoas.
+[28:43] Aí entra um outro ponto que eu coloquei aqui como pergunta, é, com quem você está falando nesse pitch?
+[28:48] Você está querendo falar com pessoas que concordam com você já?
+[28:51] E aí você quer provar uma tese, falar, olha, eu acredito nisso e tal?
+[28:55] Ou não, você quer falar com o seu cliente ou você quer falar com o vendedor?
+[29:00] Lá no final, eu entendi que o público desse seu pitch aqui é o vendedor que você está procurando, é o comercial que você está procurando.
+[29:06] Mas quando eu tento conectar isso lá no início, eu vejo que no início você não está falando com o mesmo cara.
+[29:11] E aí esse é um ponto legal para a gente levar em conta aqui, tá?
+[29:13] Eu vi você no início tentando defender uma tese e trazer um conceito.
+[29:18] No pitch, não é bom fazer isso.
+[29:20] No pitch, você tem que focar na oportunidade.
+[29:22] E aí você vai notar que, na verdade, é mais simples do que parece.
+[29:25] Eu, só pra trazer um exemplo, tá?
+[29:27] Na faculdade, eu tinha muito um pensamento conceitual das coisas.
+[29:31] E aí eu trazia muito conceito e eu não entendia porque que às vezes as pessoas não entendiam.
+[29:35] Ficava bonito, mas as pessoas não entendiam.
+[29:37] Depois de muito tempo eu percebi que não tem como eu comparar eu, que estou há dias pensando em um problema,
+[29:44] construindo, sofisticando esse problema na minha cabeça, chegando numa conclusão.
+[29:47] Eu queria pegar alguém que às vezes foi exposto a esse problema hoje e querer fazer ela dar esse salto e chegar na conclusão abstrata junto comigo.
+[29:54] Eu preciso de algo mais simples para poder pegar aquela pessoa que caiu aqui nessa oportunidade que eu quero trazer.
+[30:00] Esse é um outro ponto que eu coloquei aqui.
+[30:02] Então, apresentar uma oportunidade é melhor do que apresentar uma tese conceitual quando a gente está falando de um pitch, tá bom?
+[30:09] Tese conceitual é bom para manifesto.
+[30:11] E esse é um outro detalhe importante que designer, às vezes a nossa força é o que mais nos atrapalha, muitas vezes.
+[30:18] E quando eu falo com designers e artistas, eu vejo que a maior força de um designer e de um artista é o pensamento conceitual.
+[30:25] Nós somos bons em fazer isso porque nós aprendemos a fazer isso.
+[30:28] E é justamente isso que atrapalha a gente, porque aí a gente confunde momentos.
+[30:32] Então, por exemplo, qual que é um momento para ser conceitual?
+[30:34] Quando você vai construir marca e aí quando que você vai construir marca também tem várias micro etapas ali.
+[30:39] uma das etapas de construção de marca é consciência da marca
+[30:43] outra etapa de construção de marca é relacionamento com a marca
+[30:46] cada uma fala com um público bem diferente
+[30:48] se você está falando de relacionamento com a marca
+[30:50] é alguém que já conhece a marca e se relaciona com ela
+[30:52] essa pessoa eu posso ser conceitual
+[30:54] e isso é uma coisa que aqui no Brasil a gente aprendeu errado por exposição
+[30:59] nós fomos muito expostos à publicidade
+[31:01] e aí a gente entende que existe um jeito de fazer publicidade
+[31:05] que é o jeito da TV que costuma ser muito simbólico e conceitual
+[31:09] E a gente acha que é assim que tem que fazer o comercial, mas a gente esquece que as marcas que anunciam na TV são marcas já conhecidas que estão construindo relacionamento e símbolo, é capital simbólico, então elas não precisam te explicar porque elas já estão no seu dia a dia e elas querem construir essa visão simbólica.
+[31:24] Isso atrapalha, é muito ruim pra um negócio que não é conhecido, porque aí você tenta ser simbólico e conceitual, e é ali que você vai perder os clientes, e depois a gente às vezes não entende, porque que alguém que chegou com uma linguagem mais simples, só simplesmente falou o que queria, outra pessoa comprou, e fica sem entender, nossa, eu tô aqui, olha que legal que eu tô construindo, eu tenho uma narrativa inteira em cima disso, mas ninguém entende, é aí que tá o ponto.
+[31:48] Então lembra sempre o meio e com quem você está falando.
+[31:52] Aqui você está falando, você está em busca de alguém para ser o seu comercial.
+[31:55] Então você tem que ficar o tempo todo com isso na sua cabeça.
+[31:57] Eu estou falando é com esse cara.
+[31:58] Como que é a vida desse cara?
+[31:59] O que que esse cara ou essa mulher, né?
+[32:01] O que que ele, qual é o desafio que ele tem no dia a dia?
+[32:04] O que que ele está buscando para a vida dele?
+[32:06] E aí eu tenho que apresentar uma oportunidade para ele, beleza?
+[32:10] Anotei aqui, explicação técnica antes de ancorar a oportunidade faz você perder a atenção das pessoas.
+[32:15] E mais uma coisa que eu anotei, número sem motivação vira apenas ruído.
+[32:19] Como você não começou apresentando a oportunidade, depois que você traz os números, a gente já está desconectado e os números viram só algo frio e um ruído ali no meio.
+[32:29] Então você passa para os números para a gente aí, vamos lá, pode passar mais um pouquinho antes, depois desse, mais um pouquinho, aí beleza, você parou nessa tela aí.
+[32:37] Como a gente não teve uma boa construção de oportunidade antes, e não estava muito claro com quem você estava falando,
+[32:44] então, será que ele está falando com investidores? Será que ele está falando com o cliente dele?
+[32:48] Será que ele está falando com alguém que queira ser o comercial dele?
+[32:51] Eu só fui entender isso lá no final.
+[32:53] E aí isso inverte toda a retórica, que a ideia é logo no início a gente entender com quem você está falando,
+[32:58] qual é a oportunidade que tem na mesa.
+[33:00] Isso faz o cérebro de todo mundo gastar menos energia, porque as pessoas vão poder falar,
+[33:04] Ah, isso é pra mim ou não é pra mim, e se é pra mim eu vou prestar atenção, entendeu a lógica?
+[33:08] Aí a gente entra aqui, você começou a mostrar esses números, 46 % de credibilidade, mais 23 % de receita, 40 mil de prejuízo, isso não significa nada fora de contexto, nada.
+[33:19] E eu sei que na sua cabeça tinha contexto, e como o seu professor aqui, eu escavei pra encontrar o contexto, mas na hora de fazer um pitch, você não pode contar com a pessoa gastando energia pra escavar e encontrar o contexto sozinho, você que tem que entregar isso pra ela.
+[33:32] E aí o que que acontece quando a gente não faz isso? As pessoas desconectam. E aí fica um ruidinho de fundo, vocês ficam escutando, isso é muito comum, tá? Muito, muito mais comum do que vocês imaginam, né? Quando vocês, se vocês tiverem a oportunidade de participar de mais eventos em que as pessoas ficam apresentando suas ideias, vocês vão ver isso e talvez vocês já tenham se pegado falando, ai nossa, tá falando um monte de número lá, que hora que vai acabar isso? Porque você já nem tá conectado mais naqueles números. E é um erro que as pessoas cometem.
+[33:59] Aí o número às vezes é relevante, mas eu tô fora do contexto dele, eu nem sei se é pra mim, eu não entendi a oportunidade, então eu não vou ver o número.
+[34:06] Então tem que tomar muito cuidado com isso, tá?
+[34:08] Número sem motivação vira apenas ruído, anotei aqui.
+[34:10] Aí reforcei a pergunta pra você, que é com quem você está falando, e aí eu vou te dar uma técnica que eu gosto de usar muito aqui,
+[34:18] que é a técnica da persona, que a gente já usa muito dentro do design, mas você puxar isso pra você mesmo, pra qualquer tipo de comunicação que você for fazer.
+[34:28] A pergunta que você tem que responder primeiro é, com quem que eu tô falando?
+[34:31] Só depois dessa que você entende qual que é o problema.
+[34:34] Então, isso tem que estar muito claro pra todo mundo aqui.
+[34:36] A primeira pergunta, com quem que eu tô falando?
+[34:38] Pode ser o mesmo problema.
+[34:40] Pra cada pessoa, você vai enquadrar ele de um jeito diferente.
+[34:44] Se é com o investidor, você enquadra de um jeito.
+[34:46] Se é com o seu próprio cliente, você enquadra de outro jeito.
+[34:48] Se é com o vendedor, o comercial que você quer contratar ou ter uma parceria, você vai enquadrar de outro jeito.
+[34:54] A mesma tese é reenquadrada ali.
+[34:56] E aí, eu já mostrei pra vocês algumas vezes aqui que nós temos algumas personas da Overlens.
+[35:00] Qual que é a técnica que eu uso?
+[35:02] Eu vou escrever alguma coisa e eu me pergunto, eu tô falando com o Brunin, com a Tela, com o Ander ou com a Lili?
+[35:07] Eu sempre me pergunto isso.
+[35:08] E depois que eu entendo com qual das quatro personas eu tô falando aqui dentro, eu imagino.
+[35:13] Então vamos lá, eu imagino a Lili aqui, por exemplo.
+[35:15] Falando com a Lili, então.
+[35:16] A Lili já tem um perfil executivo, já teve resultado, as coisas já funcionam pra ela,
+[35:21] ela já tem as certezas dela e tem os desafios dela.
+[35:24] Então, eu posso ir mais direto ao ponto, posso conversar com ela já mostrando que eu entendo o cenário dela.
+[35:28] Olha só como que eu consigo adaptar a minha linguagem para poder conversar com ela e fazer o que a gente chama de rapport, né?
+[35:35] Que é essa conexão com a pessoa que está te ouvindo.
+[35:36] Então, o conselho aqui é esse. Vai preparar qualquer coisa, imagina com quem que eu estou falando ali.
+[35:41] Aí, vem alguns pontos aqui também que eu comentei.
+[35:44] Isso aqui é outra técnica que ajuda vocês a construir pitch.
+[35:47] Um bom pitch guia o pensamento das pessoas e antecipa o que elas vão pensar.
+[35:52] Então, quando você vai construir um bom pitch, você tem que pensar assim, mostrei uma tela e comecei a falar.
+[35:57] Se coloca na posição de quem está te ouvindo. O que é que provavelmente essa pessoa está pensando nesse momento?
+[36:01] E aí que a gente começa a voltar lá atrás. Qual que é o momento mais importante do pitch? O início.
+[36:05] Se você acerta o início, as coisas dão certo. Se você erra no início, não importa mais nada do pitch, porque a pessoa vai se desconectar de você.
+[36:12] Então, ali no início, o que as pessoas estão pensando? Geralmente elas estão pensando, o que será que esse cara vai falar?
+[36:17] Quem que é esse cara? Será que ele tem uma oportunidade? Será que ele já teve resultado?
+[36:21] Quem que ele é? O que que ele já fez? O que que ele vai mostrar pra mim?
+[36:24] Então as pessoas estão curiosas. Essa é a sensação do início do pitch.
+[36:27] E se as pessoas estão curiosas, o que que você faz no início do pitch?
+[36:31] Ó, tem alguém vazando aí. Não sei se é, acho que é o Marcelo.
+[36:34] Não sei se é. Ah tá, então tá de boa.
+[36:36] É porque o Marcelo tá com o microfone aberto também, aí eu tava vendo quem era.
+[36:39] Mas tranquilo, eu vou mutar só pra eu não, porque senão eu não consigo construir o raciocínio.
+[36:44] Então, quem que é a pessoa que tá ali do outro lado e o que que ela tá sentindo?
+[36:49] Então, o início, ela tá se sentindo curiosa.
+[36:52] Então, o que que eu vou fazer? Saciar essa curiosidade.
+[36:54] Como? Aí a gente teve, na semana passada, a construção do início do pitch, né?
+[36:58] Você vai trazer um contraste, você vai trazer uma tese que abre uma possibilidade pra pessoa,
+[37:05] uma tese de oportunidade ali mesmo pra ela.
+[37:07] Você vai ir contra o senso comum.
+[37:10] Isso tudo vai alimentar a curiosidade.
+[37:12] Ir contra o senso comum é uma ótima.
+[37:13] E isso é um exercício, tá? Hoje eu consigo fazer isso com naturalidade, mas sabe como que eu desenvolvi isso? No dia a dia. Eu pegava ideias que eram muito fortes das pessoas e eu defendia o contrário. Então, por exemplo, eu chegava, minha mãe é uma pessoa muito certa no sentido de que pra ela existe o jeito certo de fazer as coisas. E aí eu lembro que eu chegava pra ela assim e falava assim, mãe, eu cheguei na conclusão de que eu gosto de errar. Como assim você gosta de errar? Ninguém gosta de errar.
+[37:38] Aí eu observava, olha só, agora ela tá prestando atenção em mim.
+[37:42] Eu consegui saciar essa curiosidade, agora ela quer que eu fale mais sobre isso.
+[37:45] Legal, isso é uma técnica. Usei o... fui contra o senso comum.
+[37:49] Então, no dia a dia, vocês podem começar a pegar ideias muito fortes e tentar defender o oposto delas só pra ver o que vai acontecer, entendeu?
+[37:56] E vocês vão começar desenvolvendo essa habilidade, assim.
+[37:58] A contrapartida disso é que vocês vão começar a perceber que existem muito menos verdades absolutas do que a gente imagina.
+[38:04] E às vezes vocês vão começar a ver que há verdades que às vezes até vocês mesmos acreditavam, dá para defender o oposto dela e acreditar também.
+[38:11] Esse é um exercício muito massa, mas fica aqui como técnica para vocês.
+[38:15] Ou seja, no início você tem que saciar uma curiosidade, é um momento bom para isso.
+[38:20] Aí você falou aqui, o problema não é achar o cliente, é dar conta.
+[38:23] Eu só fui entender isso lá no meio do pitch.
+[38:25] Lá no meio do pitch você soltou isso aqui.
+[38:27] Aí eu falei, eu pensei, você começou a construir uma tese, começou a trazer números,
+[38:32] Números, esses números eu entendo que seu objetivo era tentar mostrar uma oportunidade, né?
+[38:36] E só, eu só fui entender sua intenção lá no meio, porque no início eu tava, o que ficava na minha cabeça era assim, as perguntas.
+[38:43] O que que, qual tipo de oportunidade que o Nicolas tá querendo construir aqui pra mim?
+[38:49] Ele tá querendo me mostrar que ele tem um negócio e tá procurando investidor?
+[38:52] Ele, ele, esse negócio dele, inclusive, é um negócio que já tá funcionando ou não tá?
+[38:57] Lá no meio você falou, o problema não é achar o cliente.
+[38:59] Opa, eu achei que era isso que você estava querendo mostrar, que você precisa de alguém para expandir mais, que você estava soando isso.
+[39:05] Aí você falou, é dar conta.
+[39:06] Ah não, então peraí, o problema dele é operacional, talvez.
+[39:09] Aí, mais gasto de energia para entender onde você quer chegar.
+[39:12] Aí você trouxe números, são números interessantes.
+[39:14] Eu tenho um negócio com 74 % de margem, eu tenho em média 10 mil por projeto, e isso aqui mostra oportunidade.
+[39:21] Talvez se você está procurando aqui por um comercial, eu ia trazer isso bem mais na frente.
+[39:26] Eu não iria falar tanto só de mercado, porque o mercado parece muito fictício quando você não construiu o contexto.
+[39:32] Vou pegar de exemplo um caso real, que é o do Emanuel.
+[39:35] O do Emanuel não pareceu fictício porque, no caso dele, ele já tinha o lastro, ele já tinha o histórico.
+[39:40] Então ele falou de muitos números dele e aí com isso ele falou do mercado também.
+[39:44] Isso torna mais fácil de acreditar nos dados de mercado porque ele trouxe os dados dele.
+[39:48] É algo que você pode fazer aqui também.
+[39:50] Beleza, aí você falou que é problema de tempo, prospecção eficiente,
+[39:53] E aí, eu fecho essa análise toda pra você hoje, principalmente falando sobre a oportunidade, com quem você tá falando, aqui focando no pitch, né, então, com quem você tá falando, deixa isso claro, deixa clara a oportunidade desde o começo, use mais bullet points, imagens do que texto, pra não se embolar ali e ficar mais tenso na hora.
+[40:21] E eu acho que com isso aqui você já vai conseguir estruturar seu pitch, vai ficar mais tranquilo pra você apresentar também, vai te ajudar a gastar menos tempo, né, do que os 13 minutos pra poder apresentar e a gente consegue fechar um pitch interessante.
+[40:33] Você tem uma oportunidade aí, ela é boa. Além de ter uma oportunidade boa, você já tem resultado. Então não é nenhum desses problemas, tá bom? É só uma questão de organizar a maneira como você apresenta eles, beleza?
+[40:43] Beleza? Agora eu estou, inclusive, ansioso para ver como que vai ser quando você apresentar ele de novo, porque eu acredito que vai ficar bem legal agora você aplicando essas melhorias nele.
+[40:53] Muito obrigado.
+[40:54] Boa.

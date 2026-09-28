@@ -1,0 +1,848 @@
+00:01:13	Ana Carol:	Boooommmm dia, galerinha!
+00:01:39	Renan Ramires:	Bom dia, bom dia
+00:02:53	Will Fernandes:	bom dia!
+00:03:26	Juciley Costa:	Bom diaaaaaa!
+00:04:19	Marli Pegoraro:	Bom dia pessoal
+00:04:58	Ed Goularth:	Goood Moooorning Vietnaaaamm!
+00:04:59	ozana:	Bom dia, moçada!
+00:05:06	Vítor Tempone:	bom dia!
+00:05:08	Emanuel Santana:	Bom dia!!!
+00:05:15	Alisson Duarte:	Bom dia
+00:05:16	Mara Aguiar:	bom diaaaaaaa!!!
+00:05:25	Mônica Lourenço:	bom diaaaaaaaaaaaaa
+00:05:26	Marli Pegoraro:	Estouva após Bootcamp
+00:05:54	Bianca Ramos:	bom diaaaaaa
+00:05:58	Ana Carol:	Olá, estou transcrevendo esta chamada com minha extensão Tactiq AI. https://tactiq.io/r/transcribing
+00:05:58	Mônica Lourenço:	Olá, estou transcrevendo esta chamada com minha extensão Tactiq AI. https://tactiq.io/r/transcribing
+00:06:00	Marli Pegoraro:	Estamos vivos após Bootcamp kakaka
+00:06:07	Caio R Alves:	Buenas
+00:06:16	Michele:	Bom dia a todos.
+00:06:28	Mara Aguiar:	Bom diaaaa....estou na Juréia, no meio da Mata Atlântica ligadona no Bootcamp ❤️
+00:06:41	Bianca Ramos:	Reacted to "Bom diaaaa....esto..." with 😮
+00:06:43	ozana:	... se escapar algo ... sempre temos o SOS da Nanda
+00:06:47	Mônica Lourenço:	Reacted to "Bom diaaaa....esto..." with 😮
+00:06:52	Mara Aguiar:	Reacted to "... se escapar algo ... sempre temos o SOS da Nanda" with ❤️
+00:07:02	Vítor Tempone:	Reacted to "Bom diaaaa....esto..." with ❤️
+00:07:03	Leliane:	bom-dia!!
+00:08:31	ozana:	Reacted to "Bom diaaaa....estou na Juréia, no meio da Mata Atlântica ligadona no Bootcamp ❤️" with ❤️
+00:09:22	Bianca Ramos:	trvou?
+00:09:23	Mariana Cunha:	Travou?
+00:09:26	Mariana Cunha:	Voltou
+00:09:40	Vítor Tempone:	travou levemente... mas já voltou
+00:09:42	Gustavo Henrique Yanetzky:	Sim, travou mas voltou
+00:09:56	Bianca Ramos:	travou bastante, pra mim perdeu um pouco de conteúdo
+00:10:37	Bianca Ramos:	Euuuuuu
+00:10:38	Ana Carol:	eu
+00:10:38	Marli Pegoraro:	eu fiz
+00:10:41	Emanuel Santana:	Eu fiz um vídeo
+00:10:42	Alessandro Paris:	Eu fiz
+00:10:42	Cristian Cunha:	Aqui!!
+00:10:43	MARCUS VINICIUS GOMES:	EU
+00:10:47	Michele:	Fiz.
+00:10:48	Ana Carol:	Claudinho me ajuda tdo dia no trabalho
+00:10:49	MARCUS VINICIUS GOMES:	É DEMAIS!!!
+00:10:50	Fernando Ostlund:	sim,
+00:10:51	Nahila:	eu
+00:10:53	Arthur Jatene:	Eu
+00:10:54	Mariana Cunha:	Eu!
+00:10:55	Claudia Dumont:	Eu… aprendendo sempre mais!
+00:10:55	Carolina:	Sim!
+00:10:55	Alessandro Paris:	REfeomulei os comunicados da minha empresa
+00:10:56	Jaaairo:	Hapaz, fiz um joguinho bem legal!
+00:10:59	Evelyn Abreu:	Sim, construo documentos, propostas comerciais, etc
+00:11:01	Bianca Ramos:	Valeu super a pena, automatizei minha agenda, meu notion para estudar e também automatizei para meu chefe hahahahahah
+00:11:05	Mara Aguiar:	eu fiz, ele me ajudou muitoooo e me deu várias possibilidades
+00:11:06	Ed Goularth:	nao consegui fazer nada
+00:11:10	ozana:	... transformei o OS de 1 projeto para múltiplos
+00:11:12	Emanuel Santana:	Ele editou direto no Premiere
+00:11:13	Vítor Tempone:	meu app tá em tests com colegas advogados
+00:11:24	Mara Aguiar:	organizou minha pasta de trabalho...rs
+00:11:34	Ed Goularth:	yeees
+00:11:41	Phael Marchetti:	Eu já tinha feito umas coisas, só estou melhorando….
+00:11:46	Patrick Paraguassú:	Iniciei um sistema para uma corretora de plano de saúde
+00:11:46	Ana Paula Castro:	Otimizei o Figma para criação de componentes
+00:11:52	Ana Carol:	eu to organizando uma apresentação pro MEC q meu chefe pediu... uma loucura pra organizar as infos
+00:11:58	Phael Marchetti:	Essa semana ficou corrida, mas estamos aí….
+00:12:03	Renan Ramires:	Sim sim… e me esta abrindo um mundo novo
+00:12:06	Marli Pegoraro:	fiz carrocel, instalei programas, tudo via terminal Antigraviry
+00:12:15	Fernando Ostlund:	Ruan, depois seria legal você dar dicas pra quem está meio perdido, o que automatizar...
+00:12:15	ozana:	nos múltiplos inclui ... delete e storage
+00:12:41	Brenda Araujo:	Melhorei meu dash da meta e google das
+00:18:15	Ed Goularth:	Eu utilizei o claude a semana inteira, mas nao consegui usar como vc ensinou
+00:18:53	ozana:	eu corrigi muita coisa de regulatórios e claims rapidamente com os agentes
+00:19:06	Marli Pegoraro:	preciso me organizar, pq estou focada no Bootcamp e deixei as trilhas de lado
+00:20:12	ozana:	surreal ... para uma pessoa q qdo começou tinha que programar funções como Desvio Padrão em Fortran pq não existia
+00:20:55	Guilherme Castro:	Eu não recebia comunicação
+00:21:14	Ed Goularth:	eu tbm no, acho que fui o numero 51, rs
+00:25:13	João Marcos:	Tem previsão da nova plataforma?
+00:25:48	João Marcos:	Eu comecei pelo BS
+00:25:49	Will Fernandes:	to com a radio atlas extreme aberta aqui acompanhando de fundo
+00:25:57	Arthur Jatene:	protocolo 3-2-1 é otimo também, ja assisti 3 vezes!
+00:26:06	João Marcos:	Protocolo é muito bom
+00:26:18	Mara Aguiar:	a trilha Atlas é sensacional...abre os horizontes
+00:27:15	Phael Marchetti:	Top
+00:27:43	Marli Pegoraro:	pra quem já é mais idosinho tem que voltar varias veses p gravar kkkk, Trilhas muito top
+00:27:45	Ruan Braz:	https://www.figma.com/board/pWajXLautZ6pMWOUcQ7t3O/Bootcamp---Swarm?node-id=0-1&t=FuFcgjYkuBsE8KKR-1
+00:28:09	Gustavo Henrique:	Galera, perdi a primeira hora do bootcamp de sábado passado.. estou um pouco perdido. Podem dar um pouco de contexto do q rolou?
+00:28:36	Marli Pegoraro:	Gustavo esta gravado la no wats
+00:28:43	Brenda Araujo:	Ele ta explicando agora
+00:28:48	Gustavo Henrique Yanetzky:	Replying to "Galera, perdi a prim..."
+
+Xará, o começo do sábado passado foi mais de contexto, então é tranquilo.
+00:28:57	Ana Carol:	Replying to "Galera, perdi a pr..."
+
+não consigo te dar o contexto, mas a gravação foi enviada no whats
+00:29:06	Gustavo Henrique:	Reacted to "Gustavo esta gravado la no wats" with ❤️
+00:29:09	Gustavo Henrique:	Reacted to "Ele ta explicando agora" with ❤️
+00:30:48	ozana:	@Marli Pegoraro eu fiz a aula de sábado passado e me perdi um pouco ... peguei o SOS e refiz ... abriu a cabeça e consegui fazer melhor do q o proposto ... é como puxar um fio da meada ... flui
+00:30:56	Nelly Miranda:	Eu comecei a ler o livro, é muito bom mesmo.
+00:31:19	Bruno Tortelli:	eu tinha o livro lacrado, comecei a ler e ele no começo já começa a dar uma clareza absurda
+00:33:19	ozana:	aconteceu comigo ... meu portal intelectual foi quebrado em 5 projetos ...
+00:34:11	Marli Pegoraro:	Reacted to "@Marli Pegoraro eu fiz a aula de sábado passado e me perdi um pouco ... peguei o SOS e refiz ... abriu a cabeça e consegui fazer melhor do q o proposto ... é como puxar um fio da meada ... flui" with 👍
+00:37:22	Tais Malheiro:	eu travo na pesquisa… estendo demais, as respostas vão mudando… me perco
+00:37:33	Gustavo Henrique Yanetzky:	Meu problema é querer automatizar tudo e não saber bem por onde começar. Esse conteúdo tem sido crucial pra eu me organizar.
+00:38:32	Gisa Ferreira:	Excelente essa trilha! Ajuda muito!
+00:39:20	João Marcos:	Conciliação bancária
+00:39:58	Vítor Tempone:	Estou na área, pra quem precisar :)
+00:40:03	Juciley Costa:	Human in the loop!
+00:40:19	Vítor Tempone:	Além do mais, com relação a contratos, de acordo com a justiça é obrigatório revisão humana!
+00:40:27	Vítor Tempone:	Se houver qualquer erro da IA, n
+00:40:47	Vítor Tempone:	Não tem como culpar a IA. o ser humano responsável pelo documento será responsabilizado
+00:44:34	João Marcos:	Nao ta aparecendo sua tela
+00:44:36	Márcio Modonezi:	@Ruan Braz está na tela do figma
+00:44:37	Nelly Miranda:	Alguém tá vendo a tela ?
+00:44:42	Brenda Araujo:	Acho que a tela está travada
+00:44:52	Brenda Araujo:	Ainda está no figma aqui
+00:44:55	Ana Carol:	a tela tá com um pouco de delay
+00:44:58	Nelly Miranda:	a tela tá com um delay danado.
+00:45:25	Bruno Tortelli:	eu sai e entrei novamente a tela atualizou
+00:46:19	Ana Carol:	Olá, estou transcrevendo esta chamada com minha extensão Tactiq AI. https://tactiq.io/r/transcribing
+00:47:21	Ed Goularth:	bem que eu queria ficar 3 horas gerando nota, imagina a receita, rs
+00:47:33	Fernando Ostlund:	Reacted to "bem que eu queria ..." with 😂
+00:47:36	Ana Carol:	Reacted to "bem que eu queria ..." with 😂
+00:48:11	Bianca Ramos:	O quanto isso que o Ruan tá fazendo é necessário não ta escrito na bíblia kkkk
+00:49:15	ozana:	Replying to "bem que eu queria ficar 3 horas gerando nota, imagina a receita, rs"
+
+depende do vr do produto ... e do profit
+00:49:28	Carolina:	Compra fexofenadina
+00:50:02	Ana Carol:	Reacted to "Compra fexofenadina" with ❤️
+00:50:19	Mariana Lussari:	Ruan, fathom é completo? Uso o TL;dv, mas é pago..
+00:51:03	Mariana Lussari:	Legal!
+00:51:19	Fernando Ostlund:	só conhecia o Read
+00:51:58	Nahila:	eu to fazendo isso agora, transcrevendo reuni, msa no meu caso nao consigo incluir o fathom, mas conectei a api do whisper e ele pega meu video, transcreve e gera o relatorio da reuni <#
+00:52:14	Ed Goularth:	eu nao instalei o Hermes, precisava pra aula de hoje?
+00:52:52	Bruno Flores:	o que o Fathom faz de diferente?
+00:53:14	Brenda Araujo:	Replying to "Ruan, fathom é compl..."
+
+Eu uso o gratuito com uma gambiarra pra tirar a transcrição completa 😅
+00:54:39	Gustavo Henrique Yanetzky:	Se der, teria como dar um dos exemplos dentro do paperclip?
+00:55:06	Phael Marchetti:	Essa aula fica gravada ?
+00:55:14	Gustavo Henrique Yanetzky:	Fica sim
+00:55:37	Marli Pegoraro:	Reacted to "Essa aula fica gravada ?" with 👍
+00:56:01	Phael Marchetti:	Onde fica? Poderia me mandar o link da primeira…
+00:56:42	Iran Junior:	Acho que não tá compartilhando a tela do Claude
+00:56:44	Bianca Ramos:	Eu já fiz! Pedi para o Claude fazer uma atuação de rotina para ele verificar as principais noticias sobre IA, sobre a minha região e sobre o mundo.
+00:56:44	Bruno Lujan:	Nao ta aparecendo
+00:56:45	Emanuel Santana:	A tela não está aparecendo
+00:56:50	Iran Junior:	ou tá falando só por cima?
+00:57:02	Iran Junior:	Simmm
+00:57:03	Patrick Paraguassú:	Está com delay
+00:57:07	Iran Junior:	agora apareceu
+00:57:08	Emanuel Santana:	Agora está
+00:57:08	Vítor Tempone:	F5 costuma resolver
+00:57:15	Tais Malheiro:	tá com um super delay na troca de tela…?
+00:57:17	Márcio Modonezi:	tá com delay
+00:57:17	Evelyn Abreu:	Eu sai e voltei. Funcionou
+00:57:18	Brenda Araujo:	Agora apareceu
+00:57:32	Renato Stegun:	Está com delay sim Ruan... ele vai aparecendo atrasado
+00:57:35	Fernando Ostlund:	Ruan, em quais casos você prefer usar o claude no desktop  invés de no terminal?
+00:57:47	Patrick Paraguassú:	Travou
+00:58:09	Renato Stegun:	Agora volto ao normal
+00:58:14	Ed Goularth:	como passo do app para o antigravity depois que conversei com o Claude?
+01:00:15	Brenda Araujo:	Pede pro claude um Handoff  (acho q é assim) ele organiza a informação para passar
+01:00:25	Márcio Modonezi:	eu
+01:00:27	Leliane:	euuu
+01:00:28	Mônica Lourenço:	eu
+01:00:29	Mariana Lussari:	eu
+01:00:29	Ed Goularth:	yo
+01:00:30	Renato Stegun:	Eu
+01:00:30	Eduardo Zanini:	Eu
+01:00:31	Renan Ramires:	euu
+01:00:32	Vítor Tempone:	eu uso Geminiiii
+01:00:32	Nahila:	não mais
+01:00:35	Vítor Tempone:	comando de voz
+01:00:45	Renan Ramires:	Gemini me diz quento pode rrsrs
+01:00:51	Tais Malheiro:	o meu vai direto do e-mail…pro calendar
+01:00:54	Vítor Tempone:	Gemini > Siri
+01:01:23	Bianca Ramos:	Eu fiz isso essa semana, automatizei minha agenda
+01:02:34	Carolina:	Replying to "Pede pro claude um Handoff  (acho q é assim) ele organiza a informação para passar"
+
+Isso mesmo!
+01:04:35	Emanuel Santana:	Swarm regado com a alegria do ajudante do Gustavo.
+01:05:08	Gustavo Henrique Yanetzky:	Reacted to "Swarm regado com a alegria do ajudante do Gustavo." with ❤️
+01:05:19	Cristian Cunha:	Ruan, as rotinas acessam Drive e .env?
+01:05:26	Gustavo Henrique Yanetzky:	Replying to "Swarm regado com a a..."
+
+Ela ta faceira com a aula kkk
+01:05:41	Emanuel Santana:	Reacted to "Ela ta faceira com..." with 😄
+01:07:14	Ed Goularth:	o botao criar nao permite acesso, nao consigo criar a rotina, fiz algo errado
+01:07:17	Bruno Lujan:	Reacted to "Swarm regado com a a..." with ❤️
+01:07:50	Mônica Lourenço:	Replying to "o botao criar nao ..."
+
+o meu também não tá deixando clicar em criar rotina
+01:08:06	Ed Goularth:	cumé que faz gente
+01:09:36	Emanuel Santana:	Sumiu
+01:09:39	Ana Carol:	a tela
+01:09:39	Camila Mendes:	travou
+01:09:41	Evelyn Abreu:	Aqui tbm
+01:09:47	Nelly Miranda:	Tela travando muito.
+01:09:47	Ed Goularth:	aqui tbm
+01:09:47	Brenda Araujo:	Travou de novo
+01:10:02	Camila Mendes:	@Ruan Braz nao estamos vendo
+01:10:05	Gisa Ferreira:	travou a tela
+01:10:16	Ana Carol:	tá com delay
+01:10:17	Evelyn Abreu:	Só vemos o figma
+01:10:20	Gisa Ferreira:	voltou
+01:10:24	Nelly Miranda:	Ruan, sua tela tá travando demais
+01:10:25	Patrick Paraguassú:	é um delay de troca de tela
+01:10:28	Bianca Ramos:	essa reunião está bastante travada, para mim não ta no do claude não
+01:10:28	Bruno Tortelli:	delay na tela
+01:10:29	Brenda Araujo:	Agora que está preenchendo salvar
+01:10:29	Gisa Ferreira:	é delay mesmo
+01:10:33	Tais Malheiro:	eu estou vendo o figma...
+01:10:34	Alisson Duarte:	é delay mesmo
+01:10:42	Evelyn Abreu:	sim
+01:10:42	Camila Mendes:	sim
+01:10:42	Bianca Ramos:	ta travando a reunião, mas o delay da troca de tela ta funcionando para mim.
+01:10:42	Patrick Paraguassú:	sim
+01:10:43	Renato Stegun:	sim
+01:10:43	Vítor Tempone:	o F5 é a melhor saída
+01:10:44	Will Fernandes:	ta no figma
+01:10:44	Brenda Araujo:	Isim
+01:10:45	Mônica Lourenço:	estamos
+01:10:53	Renato Stegun:	acho que voltou ao normal agora
+01:10:57	Cristian Cunha:	Deve ser o video ocm o zoom
+01:11:00	Bianca Ramos:	Eu estava vendo a tela do figma antes, ruan.
+01:11:03	Vítor Tempone:	quando acontece essa lentidão, basta dar um F5 e volta para a tela normal
+01:11:04	Bruno Flores:	Estavamos vendo só o Figma
+01:11:10	Bianca Ramos:	tava normal, só travava a reunião
+01:11:11	Woney Malian:	Ele trava uma parte do Figma depois de uns 3 minutos entra tudo de uma vez
+01:11:14	João Marcos:	Nao deve ser sua placa de captura?
+01:11:15	Alisson Duarte:	deve ser o zoom
+01:11:27	Vítor Tempone:	Isso eu percebi no ATLAS EXTREME Ruan
+01:11:28	Mariana Cunha:	Mercúrio ja não ta mais retrogrado, nem adianta botar a culpa nele
+01:11:42	Ana Carol:	Reacted to "Mercúrio ja não ..." with 😂
+01:11:43	Babi Grijp:	Hahahaha
+01:11:43	Renato Stegun:	Reacted to "Mercúrio ja não ..." with 😂
+01:11:47	Will Fernandes:	sim
+01:11:50	Márcio Modonezi:	sim
+01:12:07	Gisa Ferreira:	delay no seu desenho, demora mas atualiza
+01:12:15	Phael Marchetti:	Depois disponibiliza gravado ?
+01:12:20	Emanuel Santana:	Rua no Figma também não está aparecendo.
+01:12:23	Tais Malheiro:	não
+01:12:24	Woney Malian:	nao
+01:12:26	Brenda Araujo:	Agora não
+01:12:26	Babi Grijp:	Replying to "Mercúrio ja não ta mais retrogrado, nem adianta botar a culpa nele"
+
+Assumam seus BO né Mari?
+01:12:28	Phael Marchetti:	Meu tá travando tudo
+01:12:28	Gisa Ferreira:	agora está normal
+01:12:38	Nelly Miranda:	ele decide quando travar
+01:12:42	Márcio Modonezi:	é de tempos em tempos que dá esse delay
+01:12:42	Nelly Miranda:	Vida própria
+01:12:44	Marli Pegoraro:	normal
+01:12:46	Ana Carol:	Replying to "Depois disponibili..."
+
+eles mandam o link da gravação no whats
+01:13:55	Fernando Ostlund:	nao seria bom se o output já subisse em .md no Obsidian?
+01:14:32	Gustavo Henrique Yanetzky:	Abram o figma do Ruan em outra tela e ai podem acompanhar lá “mais ao vivo”
+01:14:38	Fernando Ostlund:	to complicando mesmo kkk
+01:14:46	Gustavo Henrique Yanetzky:	https://www.figma.com/board/pWajXLautZ6pMWOUcQ7t3O/Bootcamp---Swarm?node-id=9-25&p=f&t=JQ3bNmBWqzVWMJP2-0
+01:14:47	Nelly Miranda:	VAmos falar sobre o obsidian ?
+01:15:02	Fernando Ostlund:	foi mal rs
+01:15:12	Brenda Araujo:	Será que não ta travando pela quantidade de pessoas no sigma?
+01:15:17	Tais Malheiro:	bora!
+01:15:37	Bruno Lujan:	Replying to "nao seria bom se o o..."
+
+Não complica, Fernando kkkkk
+01:15:39	Bruno Flores:	Não tá travando mais
+01:15:41	Fernando Ostlund:	Mas onde fica esse memory.md?
+01:15:43	Bianca Ramos:	Gente eu acho que no de vocês. Por que no meu ta certo, não ta travando. Aparece as telas certinhas.
+01:15:54	Gustavo Henrique Yanetzky:	Acho que é o Zoom mesmo, o meu simplesmente reiniciou sozinho a pouco.
+01:16:00	Bruno Lujan:	Replying to "Gente eu acho que no..."
+
+Aqui também
+01:16:03	Fernando Ostlund:	Replying to "nao seria bom se o..."
+
+Foco bruno
+01:16:17	Gustavo Henrique Yanetzky:	Reacted to "Não complica, Fernando kkkkk" with 😂
+01:16:57	Fernando Ostlund:	Ruan fala mais sobre esse MEMORY.md, onde isso fica?
+01:16:59	Gustavo Henrique Yanetzky:	Replying to "nao seria bom se o o..."
+
+Fernando, pode pedir para salvar o aruiqvo em markdown em uma pasta, depois o obsidian vai conseguir ler ele. Não que precisa montar um obsidian já.
+01:17:10	Mônica Lourenço:	gente, alguém consegue enviar esse link do figma que ruan ta fazendo agora?
+01:17:16	Bruno Lujan:	Reacted to "Foco bruno" with 😂
+01:17:25	Brenda Araujo:	https://www.figma.com/board/pWajXLautZ6pMWOUcQ7t3O/Bootcamp---Swarm?node-id=0-1&p=f&t=gncYBvPunErsGTty-0
+01:17:33	Mônica Lourenço:	obrigadaaaa
+01:18:39	Camila Mendes:	apareceu
+01:18:39	Fernando Ostlund:	sim
+01:18:40	Gustavo Henrique Yanetzky:	Replying to "Ruan fala mais sobre..."
+
+Todo novo projeto tem alguns arquivos bases, o Memory.md e o Claude.md. Basicamente são arquivos que em todo prompt ele irá ler tudo de novo. Se tiver algum ponto muito importante da conversa, tu pode pedir para salvar na memória, e se tiver alguma regra pra usar recorrente, pode pedir para salvar no claude.md
+01:18:40	Brenda Araujo:	sim
+01:18:40	Renato Stegun:	sim
+01:18:40	Emanuel Santana:	Sim
+01:18:55	Bruno Flores:	posso colocar base de dados? como a Web of sciences por exemplo?
+01:19:47	Renato Stegun:	Replying to "posso colocar base..."
+
+Pode sim Bruno. O que achar relevante.
+01:20:04	Bruno Flores:	Reacted to "Pode sim Bruno. O que achar relevante." with 😍
+01:20:47	Elenice Veiga:	Bom dia, Ruan, quando a conversa esta ocupando muita janela de contexto, o que você usa de boa prática?
+01:21:09	Renato Stegun:	sim
+01:21:09	Brenda Araujo:	sim
+01:21:10	Márcio Modonezi:	sim
+01:21:11	Tais Malheiro:	trocou
+01:22:43	Elenice Veiga:	Bom dia, Ruan, quando a conversa esta ocupando muita janela de contexto, o que você usa de boa prática,  nesta conversa no chat que esta vinculado a pasta do projeto
+01:24:01	Fernando Ostlund:	cade o SOS da Nanda kkk
+01:24:08	Márcio Modonezi:	Reacted to "cade o SOS da Nada kkk" with 🤣
+01:24:09	Juciley Costa:	Reacted to "cade o SOS da Nada kkk" with 😂
+01:24:12	Gustavo Henrique Yanetzky:	Reacted to "cade o SOS da Nada kkk" with 😂
+01:24:15	Emanuel Santana:	Reacted to "cade o SOS da Nada..." with 😄
+01:24:15	Ed Goularth:	kk to need
+01:25:07	Elenice Veiga:	E quando fica muita coisa na janela de contexto?
+01:25:21	Daniel Almeida:	Ruan, com base nesse princípio do menor esforço, estou trabalhando num sistema de pesquisa, monitoramento e curadoria de soluções já existentes antes de desenvolver algo do zero. No seu trabalho, como você decide entre usar uma solução pronta, adaptá-la ou pedir para a IA construir uma própria?
+01:25:27	Fernando Ostlund:	Replying to "E quando fica muit..."
+
+/compact
+01:25:38	Elenice Veiga:	obrigada
+01:26:33	Fernando Ostlund:	Replying to "E quando fica muit..."
+
+ou, eu costumo pedir pra ele gerar um arquivo de HANDOFF sobre o que foi falado, fecho a conversa, abro uma nova e jogo o arquivo de HANDOFF aí já começa uma janela nova com contexto do outro chat e janela de contexto zerada
+01:26:33	Ed Goularth:	esse prompt ai e o print alguem pegou?
+01:27:05	Brenda Araujo:	O print você consegue no figma
+01:27:08	Brenda Araujo:	sim
+01:27:11	Patrick Paraguassú:	sim
+01:27:18	Tais Malheiro:	trocou
+01:27:20	Marina Ficcio:	Replying to "esse prompt ai e o print alguem pegou?"
+
+Quero criar uma automacao que realize todos os dias uma pesquisa pra mim nas principais fontes que sao relevantes pra mim (Me interesso por negocios, tecnologia (principalmente IA) e economia criativa, tambem podemos incluir nexialismo e product engineer). Ja tenho algumas fontes que costumo acompanhar (HBS, Stanford, MIT, Wired), preciso de outras fontes tao boas ou ate melhores do que essas para me manter atualizado sobre o mundo.
+01:27:23	Marina Ficcio:	Replying to "esse prompt ai e o print alguem pegou?"
+
+Sobre a automacao, eu ja fiz um esboco. As etapas com estrelas sao as que eu preciso de orientar, como estou fazendo agora, as outras, acredito que voce consiga configurar por mim. Quero que voce escreva o system prompt com as intrucoes, e tambem as instrucoes de tratamento dos dados. O que eu quero e, alem das principais noticiais, ter acesso aos insights que voce vai gerar pra mim, como oportunidades, ameacas, pontos fortes, pontos fracos e pontos cegos. ou seja, uma lista das principais noticias do dias (10 por dia), junto com os insights. voce vai notar tambem que no final quero que voce publique em uma dashboard, essa dashboard vai ser importante para eu guardar o historico e tbm , caso eu queira, editar o memory e os system prompts. pode usar sidebar. design simples, minimalista, preto e branco, buttons redondos ok.
+01:27:30	Marina Ficcio:	Replying to "esse prompt ai e o print alguem pegou?"
+
+Tambem quero uma pagina de gestao das fontes, onde eu possa ativar e desativas fontes, bem como adicionar novas fontes ou excluir fontes.
+01:27:51	Ed Goularth:	Reacted to "Sobre a automacao,..." with ❤️
+01:28:03	Fernando Ostlund:	quem te falou que as aulas de desenho do primeiro semestre de design eram inuteis mentiu kkkk
+01:28:09	Ed Goularth:	Reacted to "sim" with ❤️
+01:28:20	Nahila:	Reacted to "quem te falou que ..." with 😂
+01:28:21	Daniel Almeida:	Replying to "E quando fica muita coisa na janela de contexto?"
+
+Você pode usar um skill de Handoff para migrar o contexto para uma nova thread handoff — mattpocock/skills
+01:28:36	Gustavo Henrique Yanetzky:	Eu penso isso também, queria criar um saas, mas ai penso qe nos próximos anos todo mundo vai poder copiar e criar seu próprio sistema
+01:28:49	Fernando Ostlund:	RUAN fala sobre esse memory.md
+01:29:03	Fernando Ostlund:	onde isso fica? como vc usa na prática?
+01:29:19	Carolina:	Replying to "E quando fica muita coisa na janela de contexto?"
+
+Nem precisa de skill, só pedir pra ele criar o handoff
+01:29:22	Fernando Ostlund:	Reacted to "Você pode usar um..." with ❤️
+01:29:29	Ana Carol:	Reacted to "Sobre a automacao,..." with ❤️
+01:29:31	Ana Carol:	Reacted to "Tambem quero uma p..." with ❤️
+01:30:17	Gustavo Henrique Yanetzky:	Ruan, como já quero estruturar visualmente meus agentes, o Paperclip vale a pena? Vi seu vídeo no yt e curti muito.
+01:30:42	Elenice Veiga:	Replying to "E quando fica muita ..."
+
+Que top Daniel, estava usando o Handoff e abrindo um nova conversa, vou testar a kill, muito obrigada 🚀
+01:30:56	Fernando Ostlund:	Replying to "E quando fica muit..."
+
+eu criei um slash command que uso /snap, ele tira um print da conversa, gera o handoff, ai em uma nova janela eu uso /continuar + nome do projeto, ele já começa a nova conversa com o contexto
+01:31:21	João Marcos:	Ruan vale a pena instalar plugins dentro do Claude?
+01:31:42	Gustavo Henrique Yanetzky:	Legal, então criar algo bem direcionado, com um fluxo claro pra eles
+01:31:46	Fernando Ostlund:	Replying to "E quando fica muit..."
+
+só pedir pra ele gerar (fiz isso porque toda hora ficava tendo que escrever: gere o handoff bla bla bla...)
+01:31:48	Marli Pegoraro:	o simples ainda funciona melhor p mim
+01:32:12	Brenda Araujo:	sim
+01:32:14	Patrick Paraguassú:	sim
+01:32:14	Tais Malheiro:	trocou
+01:32:15	Renato Stegun:	sim
+01:32:16	Vítor Tempone:	trocou!
+01:32:22	Tais Malheiro:	achoque resolveu o problema…
+01:32:25	Ed Goularth:	onde vai rodar? a automacao?
+01:32:26	Fernando Ostlund:	nossa todo projeto tem que ter um MEMORY...
+01:32:32	Gustavo Henrique Yanetzky:	Reacted to "ou, eu costumo pedir pra ele gerar um arquivo de HANDOFF sobre o que foi falado, fecho a conversa, abro uma nova e jogo o arquivo de HANDOFF aí já começa uma janela nova com contexto do outro chat e janela de contexto zerada" with ❤️
+01:32:32	Bianca Ramos:	Copia o texto para criar a rotina aqui ruan :D
+01:32:54	Vítor Tempone:	no ATLAS eu fiz uma anotação no meu caderno aqui com a palavra PARALELIZAÇÃO em caixa alta. hahaha
+01:33:00	Bruno Lujan:	Vc criou no globals ou em uma pasta especifica?
+01:33:04	Will Fernandes:	Replying to "E quando fica muita coisa na janela de contexto?"
+
+Eu tenho um memory.md e coloquei o comando /memorias. Ele salva também alguns aprendizados que não precisam ir pro arquivo principal. Eu movi essas memórias menores pra pasta do projeto porque fica sincronizada com um drive (não uso GitHub pra isso). Daí quando a janela já fica maior, peço /memorias e abro outra sessão.
+01:33:07	Fernando Ostlund:	se vc fizer pelo Routines no Cloud, ele nao precisa de VPS nem PC ligado
+01:33:09	Elenice Veiga:	Alguém já fez um agente com todas as skills do Ruan?🤩
+01:33:12	Fernando Ostlund:	fica na nuvem da Anthropic
+01:33:28	Fernando Ostlund:	Reacted to "Alguém já fez um..." with 😂
+01:33:43	Fernando Ostlund:	Reacted to "Eu tenho um memory..." with ⚡
+01:33:54	Nelly Miranda:	Já já precisaremos de um datacenter doméstico.
+01:34:00	Gustavo Henrique Yanetzky:	Replying to "Alguém já fez um age..."
+
+Ruan 007
+01:34:06	Ana Carol:	Reacted to "Alguém já fez um..." with 😂
+01:34:23	Gustavo Henrique Yanetzky:	My name is Braz, Ruan Braz!
+01:34:29	Fernando Ostlund:	Replying to "E quando fica muit..."
+
+top hein Will
+01:34:35	Elenice Veiga:	Replying to "E quando fica muita ..."
+
+Que maravilha, pessoal, obrigada.
+01:34:51	Daniel Almeida:	Replying to "E quando fica muita coisa na janela de contexto?"
+
+Pedir no chat funciona, mas a skill padroniza o processo,  economiza tokens e também não polui a conversa..., ela cria um arquivo de handoff direto na pasta, referencia caminhos, indica quais skills o novo chat precisa carregar, etc...
+01:35:17	Vera Medina:	dá para fazer um n8n também, não?
+01:35:30	Vera Medina:	Hi, I'm transcribing this call with my Tactiq AI Extension. https://tactiq.io/r/transcribing
+01:35:36	Tais Malheiro:	o que é RSS ?
+01:35:44	Fernando Ostlund:	Replying to "E quando fica muit..."
+
+então daniel, mas vc pode pedir um /slash que carregue a skill e faça isso tudo (sem ter que digitar toda hora a mesma coisa)
+01:35:56	Vítor Tempone:	n8n da também, mas tem que montar toda a automação, bloquinho a bloquinho... acho que aqui vai mais direto! monta rapidinho.
+01:36:14	Fernando Ostlund:	N8N já é passado
+01:36:15	Brenda Araujo:	RSS É o que fazia esse trabalho antes da ia
+01:36:25	Vera Medina:	pensei só no script final em n8n
+01:36:45	João Marcos:	Falando em N8N, você acredita que não precisaremos mais de N8N?
+01:36:45	Vítor Tempone:	VPS KVM 2 sai uns 39,9/mês por 2 anos. na Hostinger
+01:37:08	Vítor Tempone:	sim!
+01:37:08	Fernando Ostlund:	mas Ruan, com o routines, voce nao precisa de PC ligado nem VPS (ele usa a nuvem da Antrhopic)
+01:37:08	Tais Malheiro:	sim
+01:37:10	Fernando Ostlund:	sim
+01:37:10	Mônica Lourenço:	sim
+01:37:11	Patrick Paraguassú:	sim
+01:37:17	Gustavo Henrique Yanetzky:	Replying to "VPS KVM 2 sai uns 39..."
+
+Usa o hostgator com o link do Ruan, pra eles ganharem a comissão ;)
+01:37:22	Elenice Veiga:	Reacted to "Ruan 007" with 😃
+01:37:29	Elenice Veiga:	Reacted to "My name is Braz, Ruan Braz!" with 😃
+01:37:37	Gustavo Henrique Yanetzky:	Reacted to "mas Ruan, com o routines, voce nao precisa de PC ligado nem VPS (ele usa a nuvem da Antrhopic)" with ❤️
+01:37:47	Babi Grijp:	Replying to "Alguém já fez um agente com todas as skills do Ruan?🤩"
+
+Se fizerem eu quero. kkkk
+01:38:05	Fernando Ostlund:	Chat GPT - Be very rich, no hard work. deep research
+01:38:18	Gustavo Henrique Yanetzky:	Reacted to "Se fizerem eu quero. kkkk" with 😂
+01:38:37	Gustavo Henrique Yanetzky:	Reacted to "Chat GPT - Be very rich, no hard work. deep research" with 😂
+01:38:40	Elenice Veiga:	Reacted to "Se fizerem eu quero. kkkk" with 😂
+01:38:45	Daniel Almeida:	Replying to "E quando fica muita coisa na janela de contexto?"
+
+sim 👍
+01:38:46	Tais Malheiro:	muito legal
+01:38:50	Gustavo Henrique Yanetzky:	Replying to "Chat GPT - Be very r..."
+
+Ativar o Megabrain
+01:38:59	Fernando Ostlund:	Reacted to "Ativar o Megabrain" with 😂
+01:39:12	Renato Stegun:	Reacted to "Chat GPT - Be very..." with 😂
+01:39:13	Renato Stegun:	Reacted to "Ativar o Megabrain" with 😂
+01:40:03	Elenice Veiga:	Reacted to "Ativar o Megabrain" with 😂
+01:40:41	Nelly Miranda:	Ruan, hoje você tá usando direto no ClaudeCode, mas poderia fazer isso dentro do Antigravity IDE ?
+01:40:56	Vera Medina:	acabei de colocar um gerardor de texto de linkedin kkkk
+01:41:11	Nelly Miranda:	Ou no seu dia a dia, usa o Antigravity para coisas mais complexas, e o Code para algo mais simples ?
+01:41:25	Fernando Ostlund:	Ruan, como vc calibra a IA pra escrever copy com seu tom de voz (caso vc não tenha 2345 horas de lives gravadas) kkk
+01:41:35	Alessandro Paris:	Replying to "Ruan, hoje você tá u..."
+
+Tb tenho essa duvida
+01:41:38	Tais Malheiro:	sim
+01:41:40	Gustavo Henrique Yanetzky:	Replying to "Ruan, hoje você tá u..."
+
+Dá pra fazer sim, mas ao meu ver, o legal de fazer ai no claude, é que o Routines roda direto ali.
+01:41:41	Renan Ramires:	Si si
+01:42:52	Elenice Veiga:	Replying to "acabei de colocar um..."
+
+Oi Vera, bom dia. Você automatizou algo,  post ou comentários no Linkedin?
+01:43:52	Iran Junior:	Reacted to "Chat GPT - Be very rich, no hard work. deep research" with 😂
+01:43:53	Iran Junior:	Reacted to "Ativar o Megabrain" with 😂
+01:44:02	Gustavo Henrique Yanetzky:	Replying to "Ruan, como vc calibr..."
+
+Baita questão. Ai acho que podemos pedir para ele criar um questionário pra entender nosso tom de voz, acho que seria o mais simples de fazer né?
+01:44:16	Fernando Ostlund:	Reacted to "Baita questão. Ai..." with ⚡
+01:44:21	Gustavo Henrique Yanetzky:	Replying to "Ruan, como vc calibr..."
+
+Ou tom de voz da marca
+01:44:37	Renan Ramires:	Reacted to "Ruan, como vc calibra a IA pra escrever copy com seu tom de voz (caso vc não tenha 2345 horas de lives gravadas) kkk" with 🤭
+01:45:18	Arthur Jatene:	e uma automação de planejamento de automação? Imagino que esse é tipo de coisa que requer um grau aprofundado de conhecimentos gerais mas como tu liderarias com isso caso quisesse fazer esse tipo de sistema?
+01:45:18	Fernando Ostlund:	Replying to "Ruan, como vc cali..."
+
+isso ou você ir alimentando com textos que já fez, ou até mesmo ir corrigindo a copy dele (e salvando os aprendizados no Memory.md) ai teoricamente ele vai se calibrando pro seu tom de voz -- demorado mas acho que funciona
+01:45:19	Bruno Lujan:	Replying to "Ruan, como vc calibr..."
+
+Eu criei um voice.md e pedi pro claude gerar varias frases em varios contextos e eu fui reescrevendo do meu jeito.. coloquei algumas regras também pra tirar travessão, etc
+01:45:33	Fernando Ostlund:	Reacted to "Eu criei um voice...." with ❤️
+01:45:37	Tais Malheiro:	fico mais fácil
+01:45:38	Mônica Lourenço:	ficou bem mais fácil
+01:45:41	Ed Goularth:	nao
+01:45:42	Brenda Araujo:	Ficou mais fácil de entender
+01:45:48	Nahila:	fica muito mais fácil
+01:45:50	Fernando Ostlund:	Replying to "Ruan, como vc cali..."
+
+boa ideia
+01:45:51	Patrick Paraguassú:	Bem didático
+01:45:54	Will Fernandes:	Reacted to "Eu criei um voice.md e pedi pro claude gerar varias frases em varios contextos e eu fui reescrevendo do meu jeito.. coloquei algumas regras também pra tirar travessão, etc" with ❤️
+01:46:03	Gustavo Henrique Yanetzky:	Reacted to "isso ou você ir alimentando com textos que já fez, ou até mesmo ir corrigindo a copy dele (e salvando os aprendizados no Memory.md) ai teoricamente ele vai se calibrando pro seu tom de voz -- demorado mas acho que funciona" with 🫡
+01:46:04	Iran Junior:	não, essa questão de pensamento modular, é muito interessante e facilita bastante o entendimento e construção
+01:46:45	Fernando Ostlund:	Reacted to "não, essa questã..." with ⚡
+01:46:49	Will Fernandes:	Replying to "Ruan, hoje você tá usando direto no ClaudeCode, mas poderia fazer isso dentro do Antigravity IDE ?"
+
+se não me engano, o comando /schedule faz isso no terminal/IDE (deve funcionar no Claude Code do app tbm)
+01:46:52	Nahila:	aaaah essa era minha dúvida como editar as infos pra fazer isso com cada projeto
+01:47:02	Renato Stegun:	Lindo isso!
+01:47:02	Renan Ramires:	wowww
+01:47:04	Gustavo Henrique Yanetzky:	Replying to "Ruan, como vc calibr..."
+
+@Fernando Ostlund acho que vale criar uma doc específica e colocar no claude.md ou nas instruções do app Claude pra sempre que ele identificar pontos sobre o nosso tom de voz, anotar nesse arquivo. É uma ideia também, não sei se faz sentido.
+01:47:16	Renan Ramires:	Isso é uma obra maestra rsrs
+01:47:17	Gustavo Henrique Yanetzky:	Reacted to "Eu criei um voice.md e pedi pro claude gerar varias frases em varios contextos e eu fui reescrevendo do meu jeito.. coloquei algumas regras também pra tirar travessão, etc" with 🫡
+01:47:41	Marina Ficcio:	o meu não apareceu essas ligações entre os cards, como que chama isso para eu pedir para arrumar? alguém sabe? rsrs
+01:47:45	Fernando Ostlund:	TKS BRO
+01:47:46	Will Fernandes:	transformar processos em algo visual ❤️
+01:48:04	Bianca Ramos:	#OVERlens s2
+01:48:14	Fernando Ostlund:	OVERPASS tem tudo kkkk
+01:48:20	Bruno Lujan:	Replying to "Ruan, como vc calibr..."
+
+@Gustavo Henrique Yanetzky foi tipo isso que eu fiz. Coloquei pro claude.md ler o voice.md pra nao deixar o claude.md grande, ai deixo no globals pq em qualquer projeto que eu precisar ele ja sabe o jeito que eu gosto e o jeito que eu escrevo/falo
+01:48:29	Gustavo Henrique Yanetzky:	Reacted to "@Gustavo Henrique Yanetzky foi tipo isso que eu fiz. Coloquei pro claude.md ler o voice.md pra nao deixar o claude.md grande, ai deixo no globals pq em qualquer projeto que eu precisar ele ja sabe o jeito que eu gosto e o jeito que eu escrevo/falo" with 🫡
+01:48:32	Fernando Ostlund:	Reacted to "@Fernando Ostlund ..." with ⚡
+01:48:41	Gustavo Henrique Yanetzky:	Replying to "Ruan, como vc calibr..."
+
+@Bruno Lujan tooop
+01:48:43	Mônica Lourenço:	gente, o livro que ruan fez indicação ontem, é o sufiente pra ter repertório pra pensar uma automação com esses quadrinhos? diagamos que eu vou projetar uma automação do zero... eu ainda não sei o que pedir
+01:49:00	Bruno Tortelli:	chique demais, essa visualização em canvas, impressiona demais em apresentações e pra aprovar ideias
+01:49:06	Will Fernandes:	Replying to "Ruan, como vc calibra a IA pra escrever copy com seu tom de voz (caso vc não tenha 2345 horas de lives gravadas) kkk"
+
+já viram/usaram a skill humanizer pra isso? supostamente tira os vícios de IA na escrita
+01:49:31	Fernando Ostlund:	Replying to "Ruan, como vc cali..."
+
+sim, já usei
+01:49:35	Fernando Ostlund:	Reacted to "já viram/usaram a..." with ⚡
+01:49:51	Fernando Ostlund:	Reacted to "@Gustavo Henrique ..." with ⚡
+01:50:05	Bruno Lujan:	Replying to "Ruan, como vc calibr..."
+
+@Will Fernandes sim, já usei também mas preferi desse outro jeito ai.. pq ainda assim achava que parecia muito IA a skill
+01:50:21	Raquel | Valiante Produções:	É possível compartilhar essa automação por zip? A pessoa que vai receber precisaria usar uma I.A paga ou conseguiria fazer essas automações com i.a gratuita?
+01:50:26	Fernando Ostlund:	Reacted to "@Will Fernandes si..." with ⚡
+01:50:39	Will Fernandes:	Reacted to "@Will Fernandes sim, já usei também mas preferi desse outro jeito ai.. pq ainda assim achava que parecia muito IA a skill" with ⚡
+01:50:54	Will Fernandes:	Replying to "Ruan, como vc calibra a IA pra escrever copy com seu tom de voz (caso vc não tenha 2345 horas de lives gravadas) kkk"
+
+boa, valeu!
+01:51:44	Fernando Ostlund:	Replying to "É possível compa..."
+
+muitas partes das automações podem ser feitas com scripts (que não usam IA, e por tanto, não gastam tokens), mas sim, se estiver bem explicada, qualquer IA consegue seguir (é tipo uma receita de bolo)
+01:51:47	Elenice Veiga:	Replying to "gente, o livro que r..."
+
+Oi Monica, você ja fez ou apreendeu sobre mapeamento de processo? Ajuda muito.
+01:52:03	Ed Goularth:	nao peguei a criacao da pasta. vc colcou o reseach dentro do copy?
+01:52:22	Raquel | Valiante Produções:	Reacted to "muitas partes das automações podem ser feitas com scripts (que não usam IA, e por tanto, não gastam tokens), mas sim, se estiver bem explicada, qualquer IA consegue seguir (é tipo uma receita de bolo)" with ❤️
+01:52:54	Brenda Araujo:	Precisa avisar sobra a pasta?
+01:52:57	João Marcos:	Ele criou a pasta Copy dentro do research
+01:53:02	Raquel | Valiante Produções:	Replying to "É possível compartilhar essa automação por zip? A pessoa que vai receber precisaria usar uma I.A paga ou conseguiria fazer essas automações com i.a gratuita?"
+
+obrigada!!
+01:53:12	Fernando Ostlund:	Replying to "nao peguei a criac..."
+
+o research virou o gatilho/tirrger que inicia a automação de copy
+01:53:13	Bianca Ramos:	#over
+01:53:34	Bianca Ramos:	Que livro?
+01:53:46	Jaaairo:	Acabei de levar uma bronca porque eu mudei a pasta de lugar enquanto ele estava trabalhando! :P
+01:53:49	Bruno Lujan:	Acho que ela deve ta falando dos livros que voce mostrou ontem no workshop
+01:53:56	Ed Goularth:	Reacted to "Ele criou a pasta ..." with 👍
+01:54:08	Mônica Lourenço:	obrigada <3
+01:54:35	Ed Goularth:	nao tem nada dentro da minha research
+01:55:24	Ed Goularth:	algeum tem o print da tela publicada com a marcacao em vermelho plis?
+01:55:28	ozana:	não da para criar um exec.bat?
+01:56:20	Bruno Lujan:	Replying to "algeum tem o print d..."
+
+N consegui pegar tb, mas os prompts consegui
+01:56:57	Ed Goularth:	Reacted to "N consegui pegar t..." with 👍
+01:57:12	Carolina:	Replying to "Acho que ela deve ta falando dos livros que voce mostrou ontem no workshop"
+
+Ontem?
+01:57:25	João Marcos:	Você criou tudo em html?
+01:57:29	Brenda Araujo:	Pra fazer a troca do copy pra pesquisa
+01:57:36	Daniel Almeida:	Ruan, você chegou a testar o novo recurso 'Record a Skill' do Claude?
+01:57:44	Alisson Duarte:	🤣
+01:57:46	Bianca Ramos:	Só pra gente sentir ciúmes, sacanagem
+01:57:49	Ed Goularth:	é que o meu ainda nao publicou nada, esse primt que vc fez uma um circulo em vermelho ali no sidebar
+01:57:51	Carolina:	Ah, tá kkkkk Tem que dar o contexto, gente
+01:57:52	Fernando Ostlund:	Replying to "Acho que ela deve ..."
+
+foco bruno
+01:58:11	Carolina:	Replying to "Acho que ela deve ta falando dos livros que voce mostrou ontem no workshop"
+
+Tem que contextualizar kkkkkk
+01:58:12	Alisson Duarte:	Reacted to "foco bruno" with 😂
+01:58:14	Will Fernandes:	Reacted to "foco bruno" with 😂
+01:58:15	Evelyn Abreu:	Reacted to "foco bruno" with 😂
+01:58:15	Renato Stegun:	Acho que é sobre o print do sistema que vc circulou o cabeçalho para mandar junto como prompt
+01:58:23	Ed Goularth:	esse mesmo
+01:58:28	ozana:	Ruan não dá para pedir para o Claude fazer um executável desse sisteminha?
+01:58:41	Bruno Lujan:	Replying to "Acho que ela deve ta..."
+
+@Fernando Ostlund foca na aula e nao no chat e no que eu escrevo, Fernando. Foco! kkkkk
+01:59:01	Ed Goularth:	mas meu sistema nao nao aparece no browse ainda
+01:59:02	ozana:	exatamente essa ideia
+01:59:12	Ana Carol:	meu claude tá chamando a automação de Overlens... de onde ele tirou isso, não faço ideia hahaha
+01:59:26	Juciley Costa:	Reacted to "meu claude tá chamando a automação de Overlens... de onde ele tirou isso, não faço ideia hahaha" with 😂
+01:59:27	Renato Stegun:	Reacted to "meu claude tá cha..." with 😂
+01:59:37	Emanuel Santana:	Reacted to "meu claude tá cha..." with 😂
+01:59:42	Ed Goularth:	kkkk
+01:59:43	Bruno Lujan:	Reacted to "foco bruno" with 😂
+01:59:59	Fernando Ostlund:	Reacted to "@Fernando Ostlund ..." with 😂
+01:59:59	Bianca Ramos:	não quero
+02:00:07	Bianca Ramos:	quero usar o seu kkk
+02:00:08	Renato Stegun:	Replying to "meu claude tá cha..."
+
+Deve ter sido o print do Figma que estava com a tag do user "Overlens" aparecendo
+02:00:14	Ana Carol:	Replying to "meu claude tá cha..."
+
+já mandei ele arrumar... com educação, pq eu não quero morrer na revolução das ias
+02:00:16	Juciley Costa:	Reacted to "quero usar o seu kkk" with 😂
+02:00:29	Renan Ramires:	Reacted to "já mandei ele arrumar... com educação, pq eu não quero morrer na revolução das ias" with 😂
+02:00:30	Bruno Lujan:	Eu coloquei o mesmo prompt que voce colocou (o primeiro) e ta rodando até agora no opus 5 kkkkkkkk overthinking total
+02:00:39	Renan Ramires:	Replying to "meu claude tá chaman..."
+
+Ja me falaram para tratar bem as Ias rsrs
+02:00:49	Ana Carol:	Replying to "Eu coloquei o mesm..."
+
+aqui tb
+02:00:51	Renan Ramires:	Reacted to "meu claude tá chamando a automação de Overlens... de onde ele tirou isso, não faço ideia hahaha" with 😂
+02:00:52	Ed Goularth:	eu to no sonnet
+02:00:59	Carolina:	Replying to "meu claude tá chamando a automação de Overlens... de onde ele tirou isso, não faço ideia hahaha"
+
+Pois ontem ele me fez raiva e eu já xinguei kkkkk Já tem meu nome da lista de morte
+02:01:26	Ana Carol:	Replying to "Eu coloquei o mesm..."
+
+mas o proprio claude avisou q ia levar de 5 a 15min... e eu nem cheguei na de copy
+02:01:32	Bianca Ramos:	Sistemas funcionam a partir de outros sistemas - Meadows
+02:02:42	João Marcos:	Ruan essa automação é melhor fazer html ou app? As vezes me falta conhecimento para tomar essas decisões, tem conteúdo disso na Overlens?
+02:02:45	Daniel Almeida:	Ruan, tem como você compartilhar esse chat com o Claude para a gente pegar os prompts?
+02:03:01	Bruno Lujan:	Replying to "Eu coloquei o mesmo ..."
+
+É, entao.. criei uma pasta pra colar os prompts e as imagens pra ir fazendo depois que ele terminar
+02:03:07	Renan Ramires:	Replying to "Ruan, tem como você ..."
+
+Ou colocar la no Figma , tambem, assim nao perdemos
+02:03:44	ozana:	Ruan, estou tendo ideias estranhas ... vc diz q todo mundo faz essas automações ... eu acho q não ... dá para empacotar e vender ... essa onda está começando agora... ainda tem espaço
+02:03:45	Bruno Lujan:	Replying to "Eu coloquei o mesmo ..."
+
+@Ana Carol
+[A mensagem completa não pode ser exibida nesta versão]
+02:03:52	Alisson Duarte:	Replying to "Ruan essa automação é melhor fazer html ou app? As vezes me falta conhecimento para tomar essas decisões, tem conteúdo disso na Overlens?"
+
+webapp
+02:04:02	Daniel Almeida:	Replying to "Ruan, tem como você compartilhar esse chat com o Claude para a gente pegar os prompts?"
+
+Sim... compartilhando o chat fica ainda mais prático para ele para todo mundo
+02:04:25	João Marcos:	Replying to "Ruan essa automação ..."
+
+Esse que ele criou foi em webapp?
+02:04:32	Ana Carol:	eu já to querendo criar umas coisas e tentar vender no meu trabalho, em troca deles pagarem a vanguarda pra mim
+02:05:00	João Paganardi:	Reacted to "eu já to querendo..." with ⚡
+02:05:02	João Marcos:	Replying to "Ruan essa automação ..."
+
+@Alisson Duarte
+02:05:02	Evelyn Abreu:	Reacted to "eu já to querendo criar umas coisas e tentar vender no meu trabalho, em troca deles pagarem a vanguarda pra mim" with ⚡
+02:05:09	Juciley Costa:	Reacted to "eu já to querendo criar umas coisas e tentar vender no meu trabalho, em troca deles pagarem a vanguarda pra mim" with ⚡
+02:05:15	Juciley Costa:	Reacted to "Ruan, estou tendo ideias estranhas ... vc diz q todo mundo faz essas automações ... eu acho q não ... dá para empacotar e vender ... essa onda está começando agora... ainda tem espaço" with 👏
+02:05:17	Cristian Cunha:	Ruan, nao esta aparecendo sua tela
+02:05:18	Will Fernandes:	Reacted to "eu já to querendo criar umas coisas e tentar vender no meu trabalho, em troca deles pagarem a vanguarda pra mim" with ⚡
+02:05:35	Cristian Cunha:	encontrei
+02:05:39	Alisson Duarte:	Replying to "Ruan essa automação é melhor fazer html ou app? As vezes me falta conhecimento para tomar essas decisões, tem conteúdo disso na Overlens?"
+
+isso mesmo
+02:07:13	Fernando Ostlund:	Replying to "Ruan, estou tendo ..."
+
+com certeza Ozana
+02:07:42	João Marcos:	Replying to "Ruan essa automação ..."
+
+@Alisson Duarte vlw
+02:09:00	Tais Malheiro:	tá sim
+02:09:13	Cristian Cunha:	Esta sim.. eu que nao tinha ido para a area de Screen do Zoom
+02:10:21	Alisson Duarte:	Reacted to "@Alisson Duarte vlw" with 🤝🏼
+02:10:24	Will Fernandes:	Replying to "Ruan, estou tendo ideias estranhas ... vc diz q todo mundo faz essas automações ... eu acho q não ... dá para empacotar e vender ... essa onda está começando agora... ainda tem espaço"
+
+@Ana Carol antecipando aprendizado da vanguarda e que tô apanhando na prática: não vender a automação/IA e sim o ganho real pra empresa (pode ser economia de tempo e/ou mais dinheiro no caixa)
+02:11:39	Tais Malheiro:	o Geminai, fica pedindo pra entrar nas minhas reuniões…
+02:11:49	Bruno Lujan:	Foi o que eu fiz, criei a minha própria ReadAI
+02:12:01	Renan Ramires:	Reacted to "Foi o que eu fiz, criei a minha própria ReadAI" with 🙌🏼
+02:12:01	Nahila:	o whisper via groq é o que estyou usando
+02:13:24	Fernando Ostlund:	Mas essa transcrição vai pro seu email? isso é o trigger?
+02:14:27	Ed Goularth:	da pra usar esse roteiro pra qq tipo de projeto?
+02:14:43	Bruno Flores:	O que é o Spiced?
+02:16:11	Will Fernandes:	dubalacobaco
+02:16:44	Renan Ramires:	Ja me vejo novamente madrugando para fazer tudo isso rsrs
+02:17:06	Ed Goularth:	Replying to "Ja me vejo novamen..."
+
+Early Bird
+02:17:59	Mônica Lourenço:	ruan, da pra inlcuir a linha editorial que eu já tenho, dentro dessa automação né?
+02:18:31	Bianca Ramos:	E os redatores de agencia? Perdem o trabalho, coitados...
+02:19:40	Mônica Lourenço:	essa gravação libera hoje? já me perdi tantas vezes, preciso assistir de novo e de novo :'(
+02:19:47	Bruno Lujan:	Replying to "E os redatores de ag..."
+
+Nao necessariamente, eles aperfeiçoam isso e conseguem trabalhar pra mais pessoas e ganhar mais.. É utilizar a IA a seu favor e não ficar com medo de ser substituído por ela.
+02:19:59	Márcio Modonezi:	Reacted to "Nao necessariamente, eles aperfeiçoam isso e conseguem trabalhar pra mais pessoas e ganhar mais.. É utilizar a IA a seu favor e não ficar com medo de ser substituído por ela." with 👏
+02:20:07	ozana:	Eu vivo brigando com o Claude por causa dos travessões e da palavra solitária ... mesmo com o /humanizer ... não consigo tirar o vicio dele
+02:20:08	Daniel Almeida:	Ruan, dá pra compartilhar o chat do Claude com todos esses prompts?
+02:20:10	Renato Stegun:	Replying to "E os redatores de ..."
+
+Mas aí, o redator ou redatora entra na lapidação da copy com todo o conhecimento e expertise. :)
+02:20:11	Renan Ramires:	Reacted to "Nao necessariamente, eles aperfeiçoam isso e conseguem trabalhar pra mais pessoas e ganhar mais.. É utilizar a IA a seu favor e não ficar com medo de ser substituído por ela." with 🙌🏼
+02:20:13	Marli Pegoraro:	@Mônica Lourenço eu tb kkk
+02:20:19	Bruno Lujan:	Reacted to "Mas aí, o redator ou..." with ❤️
+02:20:59	Bruno Lujan:	Replying to "Eu vivo brigando com..."
+
+Poe no globals igual eu falei um voice.md e pede pro claude.md ler o voice. Resolveu aqui pra mim.
+02:21:03	Renato Stegun:	Replying to "E os redatores de ..."
+
+Não seria perder o trabalho, mas mudar/ajustar a forma de trabalhar.
+02:21:04	Fernando Ostlund:	God damn
+02:21:09	Renan Ramires:	fantasticoo
+02:21:09	João Marcos:	Maravilhoso
+02:21:12	Bruno Lujan:	Reacted to "Não seria perder o t..." with ❤️
+02:21:12	Mônica Lourenço:	kkkkkkkkkkkkkkk
+02:21:14	Fernando Ostlund:	2027 ta ai
+02:21:31	ozana:	Replying to "Eu vivo brigando com o Claude por causa dos travessões e da palavra solitária ... mesmo com o /humanizer ... não consigo tirar o vicio dele"
+
+❤️
+02:22:08	Will Fernandes:	é o #over não tem como
+02:22:28	Fernando Ostlund:	Reacted to "é o #over não te..." with ⚡
+02:22:31	Ed Goularth:	quando pensei que o atlas era o limite, rs
+02:22:49	Renan Ramires:	🎉
+02:22:51	Renato Stegun:	Muito bom Ruan. ⚡🚀
+02:22:53	Fernando Ostlund:	Replying to "quando pensei que ..."
+
+Atlas é a pontinha do iceberg
+02:23:00	Renan Ramires:	Opa maravilha
+02:23:11	Bianca Ramos:	Ruan, manda o prompt tbm por favooor, para a gente estudar ele.
+02:23:12	Will Fernandes:	npm ruan install
+02:23:16	Ana Carol:	Replying to "quando pensei que ..."
+
+quem tem limite é município hahahaha
+02:23:16	Patrick Paraguassú:	Replying to "quando pensei que o atlas era o limite, rs"
+
+O céu é o limite hehehe
+02:23:20	Juciley Costa:	Reacted to "npm ruan install" with 😂
+02:23:22	Bianca Ramos:	cadê meu emote de gato desesperado, caspita
+02:23:25	Leliane:	pra quem esta usando o codex, tem como adaptar?
+02:23:48	Leliane:	show!
+02:23:49	Pedro Hirakawa (VSPR):	Cheguei depois, nao sei se mandou antes, mas tem o link do que desenhou no FigJam?
+02:24:17	Ruan Braz:	https://www.figma.com/board/pWajXLautZ6pMWOUcQ7t3O/Bootcamp---Swarm?node-id=9-25&t=FuFcgjYkuBsE8KKR-1
+02:52:06	Ruan Braz:	Liberei o chat de novo
+02:52:23	Nelly Miranda:	Acho que n vai dar tempo pra responder todas as perguntas.
+02:52:34	Marina Ficcio:	Ruan, me tira uma dúvida, por favor.Estou desenhando uma automação de atendimento via IA para o WhatsApp do restaurante e cheguei neste fluxo: 01 - Gatilho: Nova mensagem do cliente. 02 - Entrada: Mensagem e histórico recente. 03 - Contexto: OPOS (base institucional do restaurante), cardápio e políticas. 04 - Processa: Entende a intenção e consulta a fonte. 05 - Decisão: Normal ou situação sensível. 06 - Ação: Produz somente o rascunho. 07 - Humano: Revisa, ajusta e envia. 08 - Memória: Registra veredito e aprendizado.Onde minha mente tá bugando: hoje usamos o Zamper conectado com nosso app/site (que só gera umas 10 respostas engessadas). Quero deixar o Zamper de lado e conectar isso no número de WhatsApp real do restaurante. Como funciona na prática essa conexão para a IA gerar a resposta em tempo real e deixar ali como "rascunho" para o atendente humano apenas aprovar/editar e enviar?
+02:52:49	Nelly Miranda:	Mas esse momento de perguntar , e ter essa interação direta, é muito legal.
+02:52:50	Bianca Ramos:	fui de base kkkkkkk
+02:53:32	Emanuel Santana:	A diferença entre você e quem não é design, leigo, é que você sabe pedir o que precisa ser feito.
+02:53:44	Nelly Miranda:	uai, travou tudo.,
+02:54:16	ozana:	Somos os Ruanets ... fã club desse menino
+02:54:21	Bianca Ramos:	os sobrinhos estão vindo, se preparem
+02:54:22	Bianca Ramos:	kkkk
+02:54:54	Mônica Lourenço:	sou declaradamente assumida #Ruanets <3
+02:55:06	Bruno Tortelli:	se um jovem, de 16 anos abrir o photoshop ele sai correndo daquela interface haha
+02:55:19	Tais Malheiro:	Reacted to "se um jovem, de 16 anos abrir o photoshop ele sai correndo daquela interface haha" with 😂
+02:55:25	Ed Goularth:	Reacted to "se um jovem, de 16..." with 😂
+02:55:39	Ed Goularth:	Replying to "se um jovem, de 16..."
+
+imagina se ele abrir um freehand
+02:55:46	ozana:	... dizem q a moçada sabe tecnologia ... mas não sabem escrever o q querem ... como alguém mais velho
+02:55:49	Bianca Ramos:	os devs tão putos kkkk
+02:55:56	Will Fernandes:	Replying to "se um jovem, de 16 anos abrir o photoshop ele sai correndo daquela interface haha"
+
+e photoshop pra um jovem de 16 anos é mais de 300 reais
+02:56:07	ozana:	a china já mudou muitos currículos ...
+02:56:11	Bruno Tortelli:	Replying to "se um jovem, de 16 anos abrir o photoshop ele sai correndo daquela interface haha"
+
+parece um cockpit de avião
+02:56:18	Carolina:	Replying to "se um jovem, de 16 anos abrir o photoshop ele sai correndo daquela interface haha"
+
+Photoshop faz meses que não abro, graças a deus kkkkk Agora o Illustrator ainda sou dependente
+02:56:25	Brenda Araujo:	Nossa geração teve que se adaptar 500 vezes nos últimos 20 anos
+02:56:36	Renato Stegun:	Reacted to "Nossa geração te..." with 👍
+02:57:26	Bruno Tortelli:	Replying to "se um jovem, de 16 anos abrir o photoshop ele sai correndo daquela interface haha"
+
+se for pra digital e não impresso, da uma olhada no figma
+02:57:41	Bianca Ramos:	Replying to "Nossa geração teve que se adaptar 500 vezes nos últimos 20 anos"
+
+nossa nem fala mano, acho que a maldição da nossa geração é ser da nossa geração. Lembro de quando criança minha mae trabalhava e ia assistir novela, eu chego do trabalho e vou trabalhar, e quando termino vou estudar.... que tristez
+02:57:43	Bruno Tortelli:	Replying to "se um jovem, de 16 anos abrir o photoshop ele sai correndo daquela interface haha"
+
+agora se for pra impresso ai acho que o buraco e mais embaixo
+03:00:54	ozana:	A China mudou seus currículos para focar em inteligência artificial e cortar cursos tradicionais. O governo eliminou milhares de graduações em áreas humanas e administrativas, lançou planos nacionais de tecnologia e proibiu aulas particulares comerciais para reduzir desigualdades ... e nós aqui ainda esculpimos código na pedra ... muito pouco se inclui IA em universidades de maneira mais profunda ... quem está aqui é uma minoria ... posso estar enganada, mas é isso q observo.
+03:01:48	Brenda Araujo:	O sistema entrega o trabalho e vc o resultado como serviço
+03:01:55	Ed Goularth:	Replying to "Nossa geração te..."
+
+mas pensa fazer um folder desse que o ruan criou com caneta nanquim e a tipografia em pmt. Montar tudo na prancheta, gastava uns 2 dias
+03:02:21	Will Fernandes:	Replying to "A China mudou seus currículos para focar em inteligência artificial e cortar cursos tradicionais. O governo eliminou milhares de graduações em áreas humanas e administrativas, lançou planos nacionais de tecnologia e proibiu aulas particulares comerciais para reduzir desigualdades ... e nós aqui ainda esculpimos código na pedra ... muito pouco se inclui IA em universidades de maneira mais profunda ... quem está aqui é uma minoria ... posso estar enganada, mas é isso q observo."
+
+e dá pra pensar: pq entrar em uma faculdade hoje? 4 anos de formação que já era defasada antes da IA, imagina agora
+03:02:40	Gustavo Henrique:	Como vivem sem Photoshop galera, hahaha :O
+03:03:56	ozana:	Eliminaram 12000 cursos desatualizados para era digital ... não vejo esse movimento aqui para preparar o futuro das novas gerações
+03:04:23	Ed Goularth:	Replying to "Como vivem sem Pho..."
+
+nao tem como. Mesmo com tantos editores de imagem novos, pra mim ninguem supera o faltouchopp
+03:05:27	Brenda Araujo:	Ai.gência
+03:09:04	ozana:	para quem não me conhece ... tenho 70 anos e vivi todas as eras, da computação dos anos 70 ... até hj ... o q tenho aprendido aqui na Overlens me deu um impulso quântico ... já tentei contratar agências, freelas ... ninguém conseguia entender o q eu precisava ... me entregavam 0,1% da necessidade ... cansei ... resolvi fazer tudo sozinha ... em poucos meses o q avancei, usando o pouco tempo q me sobra para estudar/construir, é inestimável.
+03:09:37	Ana Carol:	Reacted to "para quem não me ..." with 👏
+03:09:43	Nahila:	Reacted to "para quem não me ..." with ❤️
+03:10:19	Pedro Hirakawa (VSPR):	Reacted to "para quem não me conhece ... tenho 70 anos e vivi todas as eras, da computação dos anos 70 ... até hj ... o q tenho aprendido aqui na Overlens me deu um impulso quântico ... já tentei contratar agências, freelas ... ninguém conseguia entender o q eu precisava ... me entregavam 0,1% da necessidade ... cansei ... resolvi fazer tudo sozinha ... em poucos meses o q avancei, usando o pouco tempo q me sobra para estudar/construir, é inestimável." with 👏
+03:10:24	Bianca Ramos:	Reacted to "para quem não me conhece ... tenho 70 anos e vivi todas as eras, da computação dos anos 70 ... até hj ... o q tenho aprendido aqui na Overlens me deu um impulso quântico ... já tentei contratar agências, freelas ... ninguém conseguia entender o q eu precisava ... me entregavam 0,1% da necessidade ... cansei ... resolvi fazer tudo sozinha ... em poucos meses o q avancei, usando o pouco tempo q me sobra para estudar/construir, é inestimável." with 👏
+03:10:34	Woney Malian:	Reacted to "para quem não me conhece ... tenho 70 anos e vivi todas as eras, da computação dos anos 70 ... até hj ... o q tenho aprendido aqui na Overlens me deu um impulso quântico ... já tentei contratar agências, freelas ... ninguém conseguia entender o q eu precisava ... me entregavam 0,1% da necessidade ... cansei ... resolvi fazer tudo sozinha ... em poucos meses o q avancei, usando o pouco tempo q me sobra para estudar/construir, é inestimável." with 💙
+03:10:44	Fernando Ostlund:	Reacted to "para quem não me ..." with ⚡
+03:11:02	Kysa:	Reacted to "para quem não me ..." with 👏
+03:11:17	Gustavo Henrique:	Jornada de Segurança na plataforma? Ja temos? Vai rolar?
+03:11:21	Daniel Almeida:	Reacted to "para quem não me conhece ... tenho 70 anos e vivi todas as eras, da computação dos anos 70 ... até hj ... o q tenho aprendido aqui na Overlens me deu um impulso quântico ... já tentei contratar agências, freelas ... ninguém conseguia entender o q eu precisava ... me entregavam 0,1% da necessidade ... cansei ... resolvi fazer tudo sozinha ... em poucos meses o q avancei, usando o pouco tempo q me sobra para estudar/construir, é inestimável." with 👏
+03:11:21	Ed Goularth:	Replying to "para quem não me ..."
+
+Que massa, que disposiçao. Parabens Ozana
+03:11:30	Juciley Costa:	Reacted to "para quem não me conhece ... tenho 70 anos e vivi todas as eras, da computação dos anos 70 ... até hj ... o q tenho aprendido aqui na Overlens me deu um impulso quântico ... já tentei contratar agências, freelas ... ninguém conseguia entender o q eu precisava ... me entregavam 0,1% da necessidade ... cansei ... resolvi fazer tudo sozinha ... em poucos meses o q avancei, usando o pouco tempo q me sobra para estudar/construir, é inestimável." with ❤️
+03:11:52	Gustavo Henrique:	Reacted to "para quem não me conhece ... tenho 70 anos e vivi todas as eras, da computação dos anos 70 ... até hj ... o q tenho aprendido aqui na Overlens me deu um impulso quântico ... já tentei contratar agências, freelas ... ninguém conseguia entender o q eu precisava ... me entregavam 0,1% da necessidade ... cansei ... resolvi fazer tudo sozinha ... em poucos meses o q avancei, usando o pouco tempo q me sobra para estudar/construir, é inestimável." with 👏
+03:12:44	Ed Goularth:	weekleaks pira
+03:12:50	ozana:	estou vendo uma config robusta para rodar local ? Mesmo assim eles conseguem pegar?
+03:13:05	Will Fernandes:	esse registrou o treino no strava que pega o mapa por onde correu e mostrou a localização da marinha
+03:15:22	Fernando Ostlund:	deixa as tabelas em outra pasta (fora do projeto do Claude)
+03:15:22	Bruno Tortelli:	Ele não usa pra treinar o modelo deles, mas ele salva
+03:15:26	Vinícius Nunes Azevedo:	A treta não são dados pessoais, somente.
+Pense em como passar contextos pelos Scripts.
+03:15:27	Fernando Ostlund:	e não usar o claude --dangerously-skip-permissions
+03:15:59	Bianca Ramos:	Na minha agencia eu pedi para o claude criar uma regra nele para ele não acessar  as pastas do servidor.
+03:16:11	Bianca Ramos:	Por que tinha essa questão de não acessar os servidores
+03:16:17	ozana:	... outro dia vi uma noticia q o GPT salvou uma criança de ser assassinada pelo pai q não queria pagar pensão ... o GPT pegou o chat e mandou para policia
+03:16:30	Emanuel Santana:	Ruan. Gostaria de deixar registrada uma dúvida para discutirmos. Estou desenvolvendo um modelo de negócio para uma plataforma que opera no conceito Bring Your Own AI (BYOAI).
+A ideia central é que o cliente conecte sua própria conta de IA (via API), enquanto a nossa plataforma vende o 'valor agregado': conhecimento acumulado, regras de governança e workflows avançados. Gostaria que você me explicasse melhor como estruturar os pilares desse business.
+03:16:53	Vinícius Nunes Azevedo:	Estou trabalhando em um sistema de sanitização, anonimização e descontextualização e estou nas últimas estampas.
+03:16:56	Raquel | Valiante Produções:	Reacted to "para quem não me conhece ... tenho 70 anos e vivi todas as eras, da computação dos anos 70 ... até hj ... o q tenho aprendido aqui na Overlens me deu um impulso quântico ... já tentei contratar agências, freelas ... ninguém conseguia entender o q eu precisava ... me entregavam 0,1% da necessidade ... cansei ... resolvi fazer tudo sozinha ... em poucos meses o q avancei, usando o pouco tempo q me sobra para estudar/construir, é inestimável." with ❤️
+03:17:19	Maria Eduarda Moraes:	Reacted to "para quem não me ..." with ❤️
+03:17:32	Ana Carol:	Reacted to "Ruan. Gostaria de ..." with ⚡
+03:17:39	Brenda Araujo:	Como faz pra enviar o que estamos produzindo? Com compartilhar os projetos?
+03:17:42	Fernando Ostlund:	#OVER
+03:17:42	Gustavo Henrique:	Demais
+03:17:43	Tais Malheiro:	#over!!!!
+03:17:43	Bruno Tortelli:	muito bom
+03:17:44	Will Fernandes:	com certeza
+03:17:45	Tais Malheiro:	valeu
+03:17:46	Ana Carol:	demais
+03:17:46	Ed Goularth:	#over
+03:17:46	Emanuel Santana:	Over
+03:17:46	Alessandro Paris:	Super
+03:17:48	Bianca Ramos:	#OVER
+03:17:49	Nahila:	SEMPRE
+03:17:50	Tais Malheiro:	Obrigada! ;)
+03:17:50	Renan Ramires:	Obvio que sim
+03:17:50	Mônica Lourenço:	muito demais
+03:17:51	Leliane:	excelente!!
+03:17:53	MARCUS VINICIUS GOMES:	excelente!!!
+03:17:56	Marli Pegoraro:	fez muito sentido, obrigado
+03:17:58	Bruno Stefan:	#OVER
+03:17:59	Juciley Costa:	#over
+03:18:05	Bruno Stefan:	mUITO BOM!!!
+03:18:08	Mara Aguiar:	valeu super a pena!!! #over
+03:18:10	Fernando Ostlund:	obrigado!!!
+03:18:11	Alessandro Paris:	Aviso a todos que eu vou ganhar a vanguarda
+03:18:13	Bruno Stefan:	Valeu demais!
+03:18:13	Alessandro Paris:	hahaahha
+03:18:14	ozana:	mais que demais ... não só soma ... exponnencializa
+03:18:16	Will Fernandes:	valeu, Ruan
+03:18:19	Bruno Stefan:	Obrigado
+03:18:20	Raquel | Valiante Produções:	#over

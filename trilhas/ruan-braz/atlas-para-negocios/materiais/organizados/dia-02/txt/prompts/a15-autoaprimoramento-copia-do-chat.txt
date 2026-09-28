@@ -1,0 +1,17 @@
+A15 — Autoaprimoramento — copia do chat
+
+Origem: Reprodução de Suelen, transcrita pelo ChatGPT.
+
+Fonte: Chat do dia 02, 01:18:08, Suelen, linha 819. Chat do dia 02, 01:18:16, Suelen, linha 821.
+
+Suelen identifica a origem como “Chat gpt transcreveu” às 01:18:27 (linha 824). A expressão “responsabilidade” foi mantida tal como aparece no chat. O trecho corresponde à A15, aproximadamente 00:08:47–00:09:31; não é uma mensagem original de Ruan.
+
+Texto preservado
+
+
+/goal Quero que você trabalhe em cima do sistema pra melhorar a experiência dele. Preciso melhorar a hierarquia de texto, cards quebrados, responsabilidade, mas também quero melhorar a experiência como um todo, acessibilidade, quero diminuir a quantidade de cliques para executar cada uma das tarefas, quanto menos cliques pra executar uma tarefa melhor, quero que você vasculhe toda a experiência em cada uma das camadas e veja como nós podemos melhorar. Tamanhos de imagens, bem como também a experiência visual. Quero uma experiência visual mais marcante, que ajude a pessoa a utilizar o sistema com mais facilidade.
+
+Utilize heurísticas e boas práticas do mercado pra construir um um sistema que siga as melhores práticas. Quero que você coloque múltiplos agentes e QAs, em cima desse processo, pra que a gente tenha um sistema que funciona como os melhores do mundo. Pra isso eu te coloquei essa meta aqui agora e a sua meta só será concluída quando você rodar pelo menos três QA e concluir uma nota nove de dez comparando com os melhores sistemas do mundo. Você pode tirar print de cada tela e trabalhar nesse processo de autoaprimoramento até concluir essa tarefa.
+
+
+Voltar ao índice — ../../../00 - LEIA-ME.txt

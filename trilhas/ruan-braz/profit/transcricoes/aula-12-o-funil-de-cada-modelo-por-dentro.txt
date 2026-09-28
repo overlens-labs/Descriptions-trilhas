@@ -1,0 +1,295 @@
+Aula 12 · O funil de cada modelo por dentro
+
+[-1:59:59] Primeira divisão que eu fiz nesses gráficos aqui, e vocês já vão notar, eu tenho aqui venda transacional e venda complexa.
+[00:07] Quando você começa a estudar vendas mesmo, com profundidade, se você for comprar essas consultorias, esses cursos de vendas, sei lá, vai comprar curso de vendas da V4, da G4, do Flávio Augusto, do Caio Carneiro, esses aí que tem muitos na internet, uma das primeiras coisas que você vai aprender é que eles vão te ensinar isso aqui.
+[00:24] Tem venda transacional e tem venda complexa. Você tem que entender a diferença entre as duas.
+[00:27] Venda transacional, também chamado de venda simples, é aquela venda que acontece muitas vezes sem precisar de um desenvolvimento de relacionamento, de um desenvolvimento de confiança mais amplo.
+[00:39] Geralmente aqui o branding brilha, então uma construção de marca e de marketing vão brilhar aqui.
+[00:46] Então venda transacional é aquela que o cliente compra sozinho, seja ele um cliente de uma empresa ou seja ele um cliente consumidor final, mas ele vai comprar sozinho.
+[00:56] Ele vai entrar num site seu, por exemplo, e vai fazer uma compra.
+[00:59] Clicou ali, comprou, beleza, você recebeu, ele cai num processo de logístico e aí ele recebe o que ele precisa receber.
+[01:07] Isso é uma venda transacional.
+[01:08] Na transição aqui, na mudança de transacional para complexa, pode ter um meio termo aqui nesses dois,
+[01:16] em que você tem uma venda transacional semi -consultiva, que é o quê?
+[01:22] As vezes você tem um chatbot aqui no processo que vai ajudar o cliente a tirar uma dúvida, uma IA também que pode ajudar um pouquinho aqui, mas é só uma dúvida ali na hora, entendeu?
+[01:32] Poxa vida, peraí. É uma dúvida ali na hora, um link que tá faltando, mas ainda assim a pessoa sozinha entra na jornada e ela faz, ou seja, ainda é transacional, mas ela é semiconsultiva, então é uma transição aqui do transacional para o complexo, tá?
+[01:47] Venda complexa já é aquela que você vai... é a famosa, que as pessoas conhecem.
+[01:53] Nossa, é um vendedor que vai conversar com você, vai aplicar as técnicas dele, e aí com as técnicas dele ele vai te converter, aquela coisa toda.
+[02:02] Geralmente as pessoas pensam em venda, só pensam nessa parte de baixo aqui.
+[02:05] Só que aqui também tem técnica, aqui também tem estratégia, aqui também tem funil, e isso é importante vocês entenderem.
+[02:11] Na venda complexa, começando aqui com dois estágios, exige um processo de construção de relacionamento, resolução de objeções, um processo também de jornada do cliente, o funil ele é diferente, e é isso que eu vou mostrar para vocês aqui.
+[02:26] Depois pode estudar mais, joga esses links na AI, me explica a diferença de venda transacional para a venda complexa, vocês podem inclusive, se vocês já tiverem passado pela jornada de direção ali,
+[02:35] que é mapa do mercado, ICP, já fez ali também o ímã de problemas, a oferta, já tem tudo isso.
+[02:42] Pegue esse material, joga para a inteligência artificial e fala com ela o seguinte,
+[02:46] olha, baseado nessas informações aqui, qual é o melhor modelo de go -to -market para mim?
+[02:53] Vocês podem fazer isso com a IA também, é uma prática boa.
+[02:55] Vocês printam, joga para ela e deixa ela responder para vocês, beleza?
+[02:59] Mas aqui agora eu vou passar e vocês vão entender um pouquinho melhor as diferenças.
+[03:03] Então presta muita atenção aqui, vai ser denso, eu já estou avisando, depois vocês assistem de novo, mas isso aqui é só a base.
+[03:08] Igual lá em tecnologia, eu não dei a base para vocês de Greenfield, Brownfield, Stack, não expliquei toda a base?
+[03:15] Agora a gente está fazendo isso com vendas, depois a gente vai até a automação de escoinhar.
+[03:19] Então vocês vão gostar muito, não desiste agora.
+[03:21] Então vamos lá, a gente tem aqui primeiro o product led growth, inbound.
+[03:24] Olha como que funciona o funil.
+[03:26] E primeiro, antes de tudo, se vocês não têm familiaridade com funil, por que a gente fica falando tanto de funil?
+[03:31] Porque isso aqui representa uma qualificação das pessoas que vão comprar de você.
+[03:35] Então começa aqui em cima muitas pessoas caindo interessadas, descobrindo, e aqui embaixo algumas pessoas convertendo.
+[03:42] Ou seja, a primeira coisa que vocês têm que saber sobre vendas, ouvir não é a coisa mais normal do mundo.
+[03:47] É igual eu já ouvi, isso é do Flávio Augusto, tem uma análise que ele usa.
+[03:51] O não, para quem está vendendo, é igual a graxa na mão do mecânico, é igual o sangue na mão do cirurgião, é inevitável.
+[03:57] Então, só de olhar para o funil, você já sabe, vão chegar, por exemplo, 10 mil pessoas que conheceram a sua marca, das 10 mil, 5 mil pessoas que vão criar conta, das 5 mil, 2 mil pessoas que vão fazer um tipo de ativação, das 2 mil, 1 mil que vão ter uso recorrente, dessas 1 mil, 100 que vão viralizar dentro do seu produto, dessas 100, 10 que vão comprar, dessas 10, 1 que vai te evangelizar e vai querer outros contratos com você também.
+[04:26] Olha só, não, 5 mil falou não aqui, 3 mil falou não aqui, 1 mil falou não aqui, 900 falou não aqui, 90 falou não aqui.
+[04:34] Então você vai ouvir mais não do que sim, só que depois de todos esses não, o sim sempre compensa.
+[04:39] Vou
+[04:39] Mas voltando pra cá, então, isso é o que vocês têm que entender.
+[04:42] Por isso que é funil. Começa um monte e termina poucas.
+[04:44] Isso é normal, é assim que funciona mesmo.
+[04:47] Dentro disso, olha só, aqui dentro de PLG, pensem em produtos como Notion, como Cloud,
+[04:52] você faz uma assinatura, usa um SaaS ali, você mesmo paga um valor mais barato.
+[04:57] O produto lidera o crescimento.
+[04:59] Aí nós temos aqui awareness, que é a conscientização da marca, então descobrir que essa marca existe,
+[05:05] aí tem aqui boca a boca, conteúdo técnico, comunidade, beleza, as pessoas que estão descobrindo a marca.
+[05:10] Depois você tem as pessoas que estão criando conta, e aí uma estratégia muito comum nesse modelo aqui
+[05:15] é a estratégia de fazer um freemium, uma solução gratuita para a pessoa fazer um sign -up,
+[05:21] criar uma conta ali, um cadastro grátis, sem cartão, ela própria vai experimentar
+[05:25] e precisa ter a primeira vitória dela, tá?
+[05:27] Então, algumas pessoas vão criar conta aqui.
+[05:30] O PLG, ele funciona assim, você precisa de um produto gratuito, beleza?
+[05:33] Se você não tem produto gratuito, nem entra em PLG.
+[05:35] Tem que ter algum tipo de solução gratuita aqui.
+[05:37] Pode ser, às vezes, até um livro, um e -book, mas tem que ter alguma solução gratuita
+[05:40] para a pessoa iniciar, né?
+[05:42] Para você coletar os dados de interesse dela.
+[05:45] Aí você entra na ativação.
+[05:46] Ativação, olha só, aha moment.
+[05:48] Então, eu criei uma conta gratuita, pensa no chat de EPT, primeira vez que usou,
+[05:51] eles liberaram a conta gratuita.
+[05:53] Você foi lá e digitou a primeira mensagem, eu não acredito que ele está me respondendo isso.
+[05:56] Aha, moment.
+[05:56] Pum, deu aquele salto.
+[05:58] Primeiro valor real entregue.
+[05:59] Aí algumas pessoas já vão ter isso e começar a falar para outras, não necessariamente vão comprar e vão começar a usar todo dia.
+[06:04] Está usando todo dia, só que está começando a sentir limitações.
+[06:08] Dá para imaginar o Claude aqui também, né?
+[06:11] Vocês já estão vendo a jornada.
+[06:12] Então, estou sentindo alguma limitação aqui, não estou...
+[06:15] Eu preciso de mais, isso aqui não é suficiente.
+[06:18] Eu não posso ficar sem, virou hábito, mas eu preciso de mais agora.
+[06:21] Pensa no Claude aí.
+[06:22] CloudMax, né? Enfim, aí você faz o quê? Entra a viralidade interna também, além, isso aqui pode acontecer, mas pode ter saltos também, beleza? Pode acontecer ou ter saltos aqui. Então, depois do uso recorrente, pode ter viralidade interna, então começa a falar pra todo mundo usar Cloud também, e aí aqui, muitas vezes o que acontece aqui com funil é isso aqui, tá? Que não tá representado, mas é, do uso recorrente, o funil cresce de novo do meio, porque pessoas que estão usando começam a falar dele, então ele não cresce só de lá, tá bom? Só pra trazer isso pra vocês.
+[06:51] Mas a pessoa pode, do uso recorrente, assinar para o time inteiro ou expandir, comprar um plano maior, fazer um contrato melhor, ter recursos maiores de uso.
+[07:00] Esse aqui é um funil da parte de vendas, tá? A gente tem a outra parte de CS ali, que vira um funil ampulheta, que eu não vou falar dela agora,
+[07:08] mas basicamente é se eu pegasse isso aqui, virasse isso aqui, ó, vamos pegar aqui, ó, girasse, e aí a gente tem toda a parte de CS do lado de cá, beleza?
+[07:16] Aí vira esse infinito aqui que muita gente chama de ampulheta também, porque dá para representar ele desse jeito aqui, assim, como se fosse uma ampulheta, beleza?
+[07:24] Esse é o PLG, essa é a estratégia de PLG.
+[07:26] Isso aqui, inclusive, é uma coisa que a gente está caminhando, ainda não é assim, para ser o Overpass.
+[07:31] Um produto que você consegue começar usando de graça, vai gostando de estudar ali dentro e aí você começa a falar para todo mundo e quer evoluir.
+[07:37] É difícil fazer isso aqui, tá? É bem difícil, não é fácil.
+[07:40] É um jogo aí que você tem que, se você nunca fez, você vai ter que adquirir experiência, você vai ter que lidar com coisas como churn, não é mil maravilhas, né?
+[07:48] Churn é quando as pessoas vão abandonando a assinatura. Ah, depois eu volto, não é pra mim agora.
+[07:53] E aí, às vezes você conquistou aquele cliente, já tá pagando pouco, isso aqui é a derrocada de muita gente.
+[07:57] Muita gente quer criar um SaaS e começar daqui, mas não é fácil não, beleza?
+[08:00] É mais fácil os de baixo que eu vou mostrar aqui, pra ter resultado rápido.
+[08:04] Aí o segundo é o inbound, one stage.
+[08:06] O que é que já muda daqui pra cá?
+[08:08] A própria palavra, ó, awareness, é um conceito muito mais usado em branding.
+[08:13] Então, os anúncios que você vai fazer aqui é anúncio de reconhecimento de marca e de consciência de marca.
+[08:18] Você quer que muitas pessoas vejam sua marca.
+[08:20] São aqueles anúncios, tipo anúncio do, anúncio do, da Hostinger, que a Hostinger fica falando aí toda hora, né?
+[08:26] Ou anúncios do, tô tentando pegar aqui, do Google, você vê o anúncio do Google AI, é aquele anúncio que não fala,
+[08:33] Compra agora!
+[09:03] O fluxo todo é conversão, mas o que eu quero dizer é, você está focado na performance aqui direto, você quer a venda, aqui você quer reconhecimento de marca, viralização, tem aqui viralidade, coeficiente de viralização, tem várias coisas que você trabalha aqui dentro.
+[09:16] Já aqui, no inbound, você começa fazendo o tráfego para já ter um lead qualificado, MQL, Marketing Qualified Lead, lead qualificado pelo marketing.
+[09:25] aí
+[09:25] basicamente você qualifica o lead, e aí sim que você qualificar o lead, você pode agendar uma demonstração aqui, preencher um formular, agendar uma call de demonstração,
+[09:34] Ah é, aqui é account executive. Aqui no Brasil a gente chama mais de closer, tá?
+[09:40] Mas vocês vão reparar que não tem o SDR aqui, por isso que é o one stage.
+[09:44] É o seguinte, o lead, o marketing qualifica do que o marketing qualificou.
+[09:49] Você pega os leads mais qualificados e você pode ou agendar, marcar uma call,
+[09:53] se você quiser ser mais consultivo, dependendo do preço,
+[09:56] ou você pode já fazer um SDR direto no WhatsApp e vender ali direto transacional.
+[10:01] São dois caminhos, mas você não precisa ter as duas etapas, os dois estágios.
+[10:05] Aqui, no caso, nessa demonstração, eu coloquei aqui para vocês como o executivo de vendas, de contas, account e executivo.
+[10:10] Então, agenda uma demo, mostra e já vende ali na hora.
+[10:13] Esse é um jeito de fazer.
+[10:15] É bom quando o produto aqui não é tão caro também.
+[10:18] Se o produto é mais caro, o que é mais caro?
+[10:21] Depende também do nível de vendas de vocês.
+[10:22] Como muitos aqui estão começando, eu diria que se ele é acima de mil,
+[10:26] aqui é, vou colocar acima de mil aqui para vocês,
+[10:29] Então, acima de mil, ele pode ser considerado um tiquete mais alto para quem é iniciante em vendas agora.
+[10:36] Normalmente, no mercado, coloca acima de dois.
+[10:38] Acima de dois aqui, já é um tiquete mais alto, aí já é legal usar os dois estágios.
+[10:43] Abaixo de dois, você pode usar o one stage aqui, faz sua call direto, vende na hora se a pessoa quiser.
+[10:49] A ideia, vocês vão ver aqui, é que a pessoa toma a decisão ali na hora, entendeu?
+[10:53] Por isso que é o one stage, você não fica marcando várias etapas aqui.
+[10:55] Porque eu tenho um produto barato, pensa que eu tenho um produto de 500 reais, pô, pra uma empresa, ou até mil reais pra uma empresa, se você não consegue fechar isso ali na hora, a abordagem tá ruim ali na hora, isso aqui pra maioria das empresas não é muito dinheiro, se for pra resolver o problema delas, o tomador de decisão consegue decidir isso aqui na hora, agora não, pô, é um negócio de 15 mil, aí precisa de mais etapas, aí é o de baixo que eu já vou mostrar aqui, beleza? Então o preço influencia muito aqui.
+[11:19] Agendou a demo, realizou a demo, aí aqui ó, essa proposta enviada é ali ó, não ao vivo, beleza? Não ao vivo. Mostrou a proposta, negociou, geralmente aqui ó, você vai fazer o SPIN, aplica o SPIN selling aqui, pega as dores do cliente, pegou as dores do cliente, realiza a demo, realizou a demo, tirou as dúvidas, mostra a oportunidade que é a oferta, mostrou a oferta, você vai fechar ali, beleza?
+[11:39] O contrato pode ser enviado depois, mas a negociação, o ideal nesse modelo aqui é acontecer ali, beleza?
+[11:47] Fechou ali com você, assinou o contrato, aí vem retenção, renovação anual, NRR positivo,
+[11:51] e aí vai depender aqui se você tem um serviço também de recorrência.
+[11:55] Se o serviço é só início, meio e fim, você só entrega e está tudo bem também.
+[11:58] Agora, qual que é a diferença disso aqui para Prospect to Stage?
+[12:02] Vocês vão reparar aqui que já é dividido, olha, cortado.
+[12:05] Esse aqui é o clássico do Receito Previsível, em SDR e Account Executive, que aqui no Brasil a gente chama muito de Closer.
+[12:12] Vou colocar aqui pra vocês que às vezes vocês vão encontrar desse jeito.
+[12:15] Tinha gente que chamava isso aqui também de Farmer, mas o Farmer é depois do Closer, na verdade, não precisa entrar com ele agora.
+[12:20] Então, como que funciona nesse caso aqui?
+[12:22] Se tiver a hora, beleza, a gente tá fechando, tá?
+[12:24] Eu
+[12:24] Então como que funciona aqui, o two stages?
+[12:26] Primeira parte, aqui tá como tráfego e aqui tá como topo de funil.
+[12:30] Por que que é diferente?
+[12:31] Em tráfego a gente pega muito o que é chamado de lead frio.
+[12:34] Aqui no two stage pode ser tanto um lead frio, do market, quanto um outbound.
+[12:39] Aqui também tá escrito frio, tá?
+[12:41] Porque o outbound pode ser no frio, mas só pra vocês entenderem de um jeito simples.
+[12:44] Inbound é o que a gente chama aqui de plantar o seu jardim, eu já vou explicar isso pra vocês.
+[12:50] E outbound é o que a gente chama aqui de caçar com a sua própria rede. Como assim?
+[12:54] Imagina que você tá caçando borboletas, tem dois jeitos.
+[12:56] Um jeito é você ir até a borboleta com a sua rede e ir lá e pegar a borboleta, beleza?
+[13:01] Então, fui lá e peguei.
+[13:02] O outro jeito é você construir um jardim pra atrair a borboleta até você.
+[13:06] Essa é a principal diferença aqui de inbound e outbound.
+[13:08] O inbound é você atrair as pessoas até você, com um bom marketing, um bom conteúdo,
+[13:14] Com boas... é... boas... bons gatilhos de atração.
+[13:18] Isso aqui, inclusive, o melhor jeito de aprender isso aqui é observando a natureza.
+[13:22] Eu acho maravilhoso, fantástico.
+[13:23] Por isso que eu falo da flor, do jardim, do fruto.
+[13:25] A árvore não cria um fruto saboroso, uma manga.
+[13:28] Observa aquela manga lá, que nasceu naquela árvore, aquela manga linda, com aquela cor maravilhosa,
+[13:33] que o passarinho chega ali e bica, é docinho por dentro, todo aquele néctar gostoso.
+[13:39] Isso aqui é você atrair o agente que propaga.
+[13:42] um mercado é do mesmo jeito, você atrai, inclusive em vendas, o pessoal chama isso aqui de vendas herbívora, e isso aqui de vendas carnívora, as pessoas chamam desse jeito, é como se fosse assim, aqui eu planto, atraio uma flor linda que atrai, um fruto lindo que atrai, é docinho, maravilhoso, aqui eu caço, então nesse caso aqui é herbívora, nesse caso é carnívora, então é como, por exemplo, um leão que vai caçar uma gazela, por exemplo, um exemplo clássico,
+[14:12] Eu peguei o mais óbvio aqui, mas poderia ser qualquer relação, um lobo que caça uma lebre, entendeu? Então você vai atrás.
+[14:17] Eu não gosto muito desse conceito também, porque ele faz as pessoas pensarem que os clientes são lebres e que os vendedores são predadores.
+[14:26] E eu sempre achei isso muito ruim, cara, muito ruim. Então eu não gosto muito de usar isso de herbívoro e carnívoro, né?
+[14:31] Mas eu gosto dessa ideia de você caçar a borboleta ou plantar o seu jardim.
+[14:35] Isso aqui, inclusive, leva as pessoas a terem uma lente errada das coisas.
+[14:38] Pra mim o cliente, ele não serve pra ser abatido, eu não gosto de frases como isca digital, vou abater o cliente, vou direto na jugular, vocês vão ver que isso existe no mercado, eu acho bem feio, bem ridículo, mas pra vocês entenderem que existe isso, eu prefiro pensar em plantar o jardim ou caçar com a rede.
+[14:56] Os dois são bons, e vocês têm que levar os dois em consideração, tá?
+[15:00] Então não deixe que a narrativa também faça vocês pensarem, ah, eu não sou predador carnívoro não, não deixa isso atrapalhar vocês.
+[15:07] Isso aqui é você ir até o cliente, e às vezes é um jeito muito bom de você conseguir clientes rápido, fazer bons relacionamentos, fazer bons projetos, tá bom?
+[15:14] Então aqui a gente já começa a ter o outbound de desenvolvimento de relacionamento.
+[15:18] Aí vem aqui o lead ou prospect, porque prospect é outbound, lead é inbound, beleza?
+[15:24] Então, SDR aborda por e -mail, telefone ou LinkedIn.
+[15:28] LinkedIn, geralmente, LinkedIn, telefone, e -mail, isso aqui tudo, a gente chama de outbound quando você foi até o cliente.
+[15:35] Agora, quando o cliente baixou um e -book seu, baixou um relatório, assistiu um vídeo seu e quer fazer uma demonstração, você vai coletar e -mail, nome e telefone.
+[15:43] Isso gera o lead. Esse lead aqui, o SDR vai começar um relacionamento com ele.
+[15:48] Vem aqui, Discovery. SDR é o representante de desenvolvimento.
+[15:52] Então o que ele faz? Ele desenvolve a venda antes de jogar a venda para o closer, beleza?
+[15:59] Então a gente tem aqui o discovery, ele pode fazer uma ligação, geralmente é recomendado uma ligaçãozinha rápida de 5 a 10 minutos
+[16:05] para fazer algumas perguntas, SDR não vende na hora, ele vai perguntar qual é o seu desafio atual, seu momento atual, ele aplica o SPIN, mas ele não fecha
+[16:13] Ele fala, olha, eu acredito que a gente consegue resolver seu problema sim, que tal a gente marcar uma call para eu te mostrar isso em mais detalhes?
+[16:18] Então você liga para marcar a call, beleza?
+[16:20] Aí você vai fazer o BANT aqui, depois eu vou falar mais de BANT para vocês, vai definir perfil, door, timing, aplique SPIN aqui também, faz a ligação para que você marque uma call.
+[16:29] Isso é o two stages.
+[16:30] E aí a gente tem aqui, SQL, SQL é como se fosse um contrato, é um documento que você faz, e nesse documento você coloca todas as informações do cliente ali.
+[16:40] Esse cliente tem esse perfil, tem essa dor, tem esse desafio.
+[16:43] Tudo que o SDR qualificou aqui, ele escreve nesse SQL aqui, que é o Sales Qualifier.
+[16:49] E aí ele documenta isso para entregar esse documento aqui, o handoff, a passagem de bastão, a troca.
+[16:55] Ele vai entregar esse documento para o Account Executive, ou aqui no Brasil chamado de Closer.
+[17:00] Então o SDR, ele fica qualificando os leads, ele fica vendo, esse lead está qualificado, esse não está.
+[17:05] Quando não está qualificado, ele manda para outra lista.
+[17:07] Quando está qualificado, ele coloca na lista para o closer junto com o documento de especificação.
+[17:12] Fez esse documento de especificação, o lead passou qualificado aqui, aí vai para o segundo estágio.
+[17:18] Essa é a diferença daqui. Aqui você faz a venda toda em um estágio só.
+[17:22] Aqui você tem duas etapas separadas.
+[17:24] E aí nessa segunda etapa aqui, outra pessoa, e é muito importante inclusive que seja outra pessoa,
+[17:29] quando você vai contratar a equipe de vendas, o perfil de pessoa do closer é muito diferente do perfil de pessoa do SDR.
+[17:36] São dois perfis com habilidades bem diferentes, e isso é importante de entender também, tá?
+[17:41] Por isso que isso aqui é um dos modelos clássicos mais usados no mundo hoje.
+[17:44] Até mesmo se você for colocar IA pra fazer isso aqui pra você, você vai ter que colocar IAs com processos bem diferentes.
+[17:50] Inclusive, é mais fácil colocar IA como SDR, aqui você consegue colocar IA mais fácil do que aqui, tá?
+[17:55] Aqui tem várias habilidades humanas essenciais, que aumentam a conversão.
+[18:00] Então, o executive account aqui, o account executive, ele vai fazer a demonstração, demonstração técnica, múltiplos stakeholders, que são os envolvidos ali, ele geralmente aplica o SPIN de novo, tá, é importante aplicar o SPIN de novo, só que de uma maneira mais curta e direta, e aí ele faz a proposta, faz a proposta, faz aqui o closed one, que também é o fechamento, aqui no Brasil chama muito de fechamento essa parte aqui, na proposta tem prova de conceito, negociação, contrato, closed one, que é quando assinou e fez o onboarding, e aí esse onboarding aqui é o que a gente chama
+[18:30] O onboarding muitas vezes é feito pelo vendedor, porque o vendedor já está em relacionamento com aquela pessoa, e aí o vendedor faz esse handoff junto com a pessoa, ele transfere a pessoa para um novo gerente, que é agora o gerente de sucesso, de CS, aí isso aqui vira o funil, beleza? Aí tem a expansão aqui que vira todo o funil, certo?
+[18:53] Certo, os de baixo eu não vou aprofundar agora, não vai fazer tanto sentido para a maioria de vocês, mas eu vou explicar porque que eles tem formatos diferentes, tá, isso que as vezes precisam saber, e também vocês vão ver porque que eles são chamados de vendas complexas, só pelos títulos vocês vão começar a entender que são modelos de relacionamento bem diferentes, e as pessoas costumam misturar as coisas, tá, mistura esses dois de baixo com os de cima, por isso que dá errado, você tá falando com o perfil errado, na hora errada, do jeito errado, no processo errado, as coisas não funcionam.
+[19:20] Quando você escolhe certo e toma a decisão do jeito certo, é lindo, o processo funciona, tá bom?
+[19:26] Então
+[19:26] vamos ver aqui, ABM, Account Based Marketing, então o marketing está envolvido.
+[19:31] A gente tem aqui a seleção do ICP, então define o ICP, nos outros também tem definição do ICP, mas aqui é crítico isso, tá?
+[19:38] Crítico, você não consegue nem avançar se você não tem uma seleção de ICP.
+[19:41] E essa seleção de ICP, você vai selecionar contas -alvo, então o processo aqui já é muito mais de outbound, você vai atrás.
+[19:48] Você também vai usar marketing pra atrair, pra poder envolver, mas você vai começar, a partir de algumas contas que você tem, expandir num processo de indicação, num processo de relacionamento e indicação.
+[20:02] Conversa com uma pessoa, que te leva pra outra pessoa, que te leva pra outra pessoa. Por isso que o processo aqui, ele é invertido. Você vai aumentando as possibilidades aqui dentro.
+[20:11] Mas vamos entender, seleção ICP, depois mapa da conta, aí você vai definir envolvidos, vai definir também investidores, vai definir também os principais, engajamento orquestrado, anúncio, evento, mensagem por e -mail, conteúdo personalizado, isso tudo aqui é marketing, só que é marketing orquestrado para contas específicas.
+[20:30] Aí entra aqui, ó, conta esquentou, depois de um processo rodando aqui, um ciclo de esquentar a conta.
+[20:36] Alguém demonstrou interesse, alguém está pronto para entrar agora em um processo de relacionamento.
+[20:41] Aí vem, discovery multinível, inclusive, tá, esse discovery multinível, ele é feito por várias pessoas.
+[20:48] Você tem que ganhar aqui, não, às vezes não é só uma pessoa, às vezes você tem ali o CMO,
+[20:52] só que o CMO tem que convencer o CFO, né, de finanças, não, de marketing tem que convencer o de finanças,
+[20:57] E aí você tem que fazer relacionamento com o de finanças também, aí isso aí envolve o cara de produto, e tudo isso aqui vai criando um relacionamento.
+[21:04] Às vezes, além disso, o CMO gostou, mas o head de marketing aqui não gostou, o gerente também não gostou, você tem que falar com a equipe, e você orquestra um time aqui para começar a entrar.
+[21:13] Muitas vezes a estratégia de cavalo de Troia, ela vai ser imprescindível aqui, é gerar valor, começar pequeno, criar relacionamento e por aí vai.
+[21:21] Aqui, ó, isso aqui é o Solution Design, que é o cavalo de Troia, que eu já fiz.
+[21:26] Isso aqui foi o que eu fiz, por exemplo, pra, na verdade, o Alan foi mais esse guia.
+[21:30] Só que muitas vezes você pula etapas também, né?
+[21:32] Aí vem Solution Design, depois desse discovery, vai coletando dados, vai fazendo relacionamento.
+[21:37] Aí vem aqui, ó, Sales Designer, desenha a solução customizada.
+[21:40] Então, depois que você já coletou muitos dados aqui sobre o problema da empresa,
+[21:44] por isso que a gente fala do cavalinho de Troia aí,
+[21:46] nossa, o meu cavalinho de Troia, pensem aí que isso aqui é um cavalo, tá?
+[21:54] Pensa que você entrou dentro da empresa, você já tem os contatos, você está conversando, você marca reunião, você marca café, marca almoço, conversa, pega informação, coleta tudo.
+[22:02] Você fala, eu consigo agora resolver o problema dessa empresa personalizada.
+[22:05] Aí você vai desenhar um problema, vai desenhar a solução para aquela empresa específica.
+[22:10] E quando você for apresentar isso aqui, cara, é lindo. Por quê?
+[22:13] Porque você vai usar o nome das pessoas, você vai usar os departamentos que você já conhece,
+[22:18] Você vai usar o problema que já foi nomeado e as pessoas vão falar, cara, isso aqui é feito exclusivamente para o nosso negócio, beleza?
+[22:25] Então, ROI documentado, aprovação de C -Level, apresentou business cases aqui, aí sim vem a negociação.
+[22:32] Às vezes isso aqui demora, é chato, mas aí vai, negociação, tem várias questões aqui que precisam ser tratadas,
+[22:37] eu coloquei algumas delas que eu não vou aprofundar aqui agora, né, procurement, security, MSA, headlines e por aí vai.
+[22:44] Fechou tudo isso aqui, tá tudo certo?
+[22:46] Pra vocês terem noção, uma palestra com a Unimed que eu fui fechar levou quatro meses.
+[22:50] Uma palestra.
+[22:51] E foi ticket baixo.
+[22:53] Imagina contratos maiores, né?
+[22:55] Aí tem aqui o Closed One, primeiro contrato fechado.
+[22:57] Isso aqui também, né, LEND, primeiro contrato fechado, é porque quando você investiu
+[23:01] tanto tempo numa empresa dessa, você quer reconhecer, né?
+[23:04] Você quer manter.
+[23:05] Aí aqui é chamado de LEND Expand, tá?
+[23:07] Novos times, novos casos, contratos multianuais.
+[23:10] Porque vocês têm que pensar que isso aqui é pra empresas que têm um ecossistema.
+[23:14] E você vai aproveitar esse ecossistema de maneiras diferentes, tá?
+[23:18] O daqui é parecido, só que o daqui, vocês vão ver que é muito mais político.
+[23:21] Então, olha só, account plan, aí tem uma conta, uma estratégia, 3 a 5 anos, mas isso aqui depende muito do tamanho da empresa.
+[23:30] Eu já fiz esse aqui duas vezes, uma vez levou 3 meses, outra vez levou 18 meses, beleza?
+[23:35] 3 meses foi com o Alan, 18 meses foi com uma empresa chamada Alquimia Científica, de equipamentos para laboratório.
+[23:41] E aí foi um período, negociando, conversando, peraí que eu tenho que travar isso aqui, senão fica chato, aí vem aqui, executive sponsor, de CEO pra CEO, de board pra board, tem um relacionamento aqui que ele é dedicado e diferente também, mapa de poder, quem toma decisão, 20 a 50 stakeholders mapeados, isso aqui é mapeamento de ecossistema também, eu fazia muito isso aqui com o Alan, entendendo assim ó, eu comecei a conversar com o Alan, mas depois de conversar com o Alan eu já comecei a pedir, legal, eu gerei valor pra ele, criei uma página pra ele, falei, quem que cuida do branding aqui da academia?
+[24:11] minha lendária, ele me passou o contato na época. Ah, interessante, quem que cuida do marketing? Me passou o contato, muito bom. Quem que cuida da tecnologia? Ele foi me passando. Aí dessas pessoas eu falo, ah tá, você cuida do branding, mas quem que são os designers? Aí pega o contato dos designers, quem que é? Você vai pegando, você vai pegando, vai fazendo relacionamento. Quando eu fui fazer uma proposta pro Alan, foi muito legal, porque eu já falei com ele, eu falei com fulano, falei com ciclano, já me apontaram esse problema, já me apontaram esse problema, por isso a solução precisa ser essa. É muito personalizado, você vai construindo um relacionamento ali dentro, beleza? Então define mapa de poder, relacionamento contínuo aqui,
+[24:41] Involve até jantar, evento, advisory board, QBR, não vou entrar nisso aqui agora com vocês, mas é um processo que é bem diferente, é um processo de vendas bem mais político também.
+[24:53] Aí vem aqui, discovery estratégico, RFP, edital forma ou projeto co -construído.
+[24:58] Depois, esse edital formal aqui, tem muita empresa que trabalha em edital, você tem que ganhar um edital ali, você entra para a seleção, por aí vai.
+[25:06] Outras, você pode criar um projeto personalizado ali em colaboração.
+[25:10] Engenharia de solução, que é bem parecido com o design da solução também, né?
+[25:14] Então, SE teams, arquitetos, o POC longo aqui também, que vai ser o período do projeto todo,
+[25:20] apresenta o business case com o C -level, ROE de 5 anos, comitê executivo, o CFO entra aqui também, chefe de finanças,
+[25:27] negociação, contrato master, aí tem SLA, MSA, compliance, jurídico, são coisas assim, você tá no núcleo do negócio, entendeu?
+[25:36] são contratos gigantes, meses, pode levar meses, Closed One, ele está aqui como um exemplo, mas pode ser outros exemplos também, de uma receita anual recorrente de 1 milhão a 20 milhões, para valer o investimento, você fica um tempão ali fazendo isso, e depois acaba trazendo as parcerias estratégicas multianual, expansão para outros contratos, contratos perenes e por aí vai.
+[25:56] Isso aqui são empresas que já estão muito, muito enraizadas dentro de outras empresas, né?
+[26:01] São ecossistemas mesmo.
+[26:03] E só de ler aqui vocês já estão entendendo que pra muitos de vocês não vai fazer sentido começar aqui.
+[26:08] Se pra alguns de vocês fizer sentido começar aqui, beleza, a gente vai começando a desenvolver isso com vocês.
+[26:13] Mas eu recomendo o seguinte, se você nem isso aqui tem, começa daqui, two stages.
+[26:17] Porque a gente tá na era das inteligências artificiais e a gente quer automatizar muitas coisas.
+[26:21] É claro que isso aqui vai continuar tendo muito relevância por conta do valor humano.
+[26:25] Mas não é fácil fazer isso aqui, falando bem real pra vocês, tá bom?
+[26:29] Passei
+[26:29] Você pode ter produtos diferentes inseridos no mesmo funil também.
+[26:33] Então, por exemplo, pensa que a sua entrega gratuita é um produto.
+[26:36] Essa é a visão que eu gosto de promover.
+[26:38] Isso é o Growth Loop.
+[26:40] Então, eu criei um SaaS.
+[26:41] O SaaS que eu criei vai entregar para você uma versão gratuita.
+[26:43] Isso já é um produto, só que é um produto gratuito.
+[26:45] Eu estou numa etapa do funil.
+[26:47] Depois, você gostou do gratuito e quis assinar o PRO.
+[26:50] É um segundo produto dentro do funil.
+[26:52] Aí você começou um relacionamento de CS.
+[26:54] Aí o CS vai te promover para o MAX, por exemplo.
+[26:57] Então, você ainda continua no funil.
+[26:59] A venda não acaba depois que o cliente te paga a primeira vez.
+[27:02] Entra todo o processo de customer success, que ainda é venda.
+[27:05] Geralmente o CS fica responsável por renovações, novos contratos, vendas maiores e por aí vai.
+[27:11] Relacionamento depois que o cliente está dentro do negócio, beleza?

@@ -1,0 +1,124 @@
+Gancho, problema e demonstração
+
+Tempo estimado de leitura: 6 minutos
+
+Objetivos de aprendizado
+
+Ao final desta aula, você será capaz de:
+
+- Estruturar um gancho com pergunta, dado ou premissa
+- Identificar quem sofre com o problema e quanto ele custa
+- Distinguir promessa de prova na construção do pitch
+- Executar uma demonstração centrada na experiência
+
+A ideia precisa sobreviver sem a marca
+
+Um pitch apresenta uma oportunidade. Um exercício inicial é retirar nome, identidade visual e descrições institucionais para verificar se a ideia continua poderosa.
+
+Frases cheias de termos técnicos, como plataforma de IA, arquitetura multiagente e agentes inteligentes, explicam demais antes de criar interesse.
+
+Uma abertura como "Todo mundo está treinando robôs, mas quem está treinando as pessoas?" produz curiosidade e convida o público a acompanhar o raciocínio.
+
+O erro de abrir com respostas
+
+O maior erro é começar pelo ponto errado. A abertura precisa considerar o que a pessoa já sabe sobre problema, soluções disponíveis e solução específica.
+
+Perguntas instigam porque criam uma lacuna que o cérebro deseja preencher. O livro Uma pergunta mais bonita é citado como referência para investigar negócios a partir de questões melhores.
+
+Começar com respostas demais exige atenção antes que o público tenha um motivo para oferecê-la.
+
+Perguntas abrem possibilidades
+
+Uma pergunta pode revelar problema, público e oportunidade ao mesmo tempo. Ela também pode conectar assuntos que pareciam separados.
+
+O exemplo das minicenouras mostra esse movimento. O desperdício de cenouras deformadas abre uma pergunta sobre formato; depois surge outra sobre vendê-las com a conveniência associada a snacks.
+
+Perguntas sucessivas ajudam a enxergar novos enquadramentos sem precisar começar por uma solução fechada.
+
+Problema, história e contraste
+
+O cérebro identifica e guarda problemas porque eles estão ligados à sobrevivência. Histórias organizam experiência, enquanto contrastes tornam diferenças mais fáceis de perceber e recordar.
+
+Esses três elementos são mais memoráveis do que listas de funcionalidades. Por isso, problema, história e contraste devem sustentar o começo da apresentação.
+
+Um pitch pode aplicar a mesma lógica usada em conteúdo, vendas e design: quebrar um padrão mental e conectar a quebra ao desenvolvimento seguinte.
+
+Formas de construir o gancho
+
+Pergunta é o formato clássico. TED Talks e apresentações do Shark Tank oferecem exemplos de como perguntas abrem uma ideia em pouco tempo.
+
+Um dado intrigante também funciona, especialmente quando contém contraste. A informação precisa estar conectada ao problema que será desenvolvido.
+
+A terceira possibilidade é uma premissa. Todo argumento lógico nasce de premissas que conduzem a uma conclusão. A apresentação pode afirmar algo provocativo e prová-lo ao longo do pitch.
+
+Premissa e contraste
+
+"Nunca houve tanto conteúdo disponível e nunca foi tão difícil aprender" é uma premissa construída por contraste. As duas partes parecem incompatíveis e criam interesse.
+
+"Todo mundo está treinando robôs, mas quantas pessoas estão se treinando?" adapta a mesma estrutura para o consumidor final.
+
+O público muda a frase. Uma versão dirigida a investidores pode tratar o problema em escala; outra, voltada ao usuário, aproxima a provocação da experiência individual.
+
+Desenvolver o problema
+
+Depois do gancho, a primeira pergunta é quem sofre. Dizer que uma solução serve para todo mundo enfraquece a credibilidade e amplia a promessa sem prova suficiente.
+
+Em seguida, calcula-se quanto o problema custa. Perda financeira, tempo, abandono, risco ou oportunidade desperdiçada transformam uma dificuldade abstrata em uma dor mensurável.
+
+Quanto maior e mais comprovado o custo, maior pode ser a oportunidade. O público precisa perceber por que vale a pena resolver agora.
+
+Promessa e prova
+
+Promessas extraordinárias exigem provas extraordinárias. Um exercício de copy marca cada promessa de uma cor e cada evidência de outra.
+
+O objetivo é verificar se toda afirmação importante possui sustentação. Quando a prova não existe, geralmente é melhor retirar ou reduzir a promessa.
+
+Textos com muitas promessas e poucas evidências fazem a pessoa parecer alguém que fala mais do que entrega.
+
+Costurar uma narrativa
+
+O exemplo da Overlens combina gancho, dado sobre conclusão de aprendizagem online, contraste entre acesso e transformação e uma nova pergunta sobre resultado real.
+
+Cada resposta abre a próxima questão. Assim, o público acompanha a construção em vez de receber blocos desconectados.
+
+Experiências reconhecíveis, como acumular programas de aprendizagem não concluídos, ajudam a pessoa a se enxergar dentro da história.
+
+A solução em uma frase
+
+A solução começa com uma frase simples, e não com benefícios e funcionalidades. A estrutura sugerida é: ajudamos determinado público a resolver determinado problema por meio de determinado mecanismo.
+
+No exemplo, a Overlens transforma aprendizado em construção ao permitir que pessoas criem projetos reais com IA e aprendam fazendo.
+
+A frase pode mudar de vocabulário, mas precisa responder quem recebe valor, qual problema é resolvido e como a transformação acontece.
+
+Adaptar ao público
+
+Para empreendedores, a promessa pode tratar do desenvolvimento de colaboradores. Para estudantes, fala de criar projetos em vez de apenas assistir. Para empreendedores individuais, conecta aprendizagem à construção do próprio negócio.
+
+A solução permanece, mas o enquadramento muda conforme a dor de quem escuta.
+
+Essa adaptação reduz esforço mental e mostra que a oportunidade foi pensada para aquele contexto.
+
+Demonstrar em vez de explicar
+
+Depois de prometer, é necessário mostrar. A demonstração pode usar o produto real, um mockup ou um MVP funcional construído rapidamente.
+
+O objetivo não é apresentar banco de dados, arquitetura ou detalhes técnicos. A demonstração acompanha a experiência: o usuário entra, executa ações, recebe algo e alcança um resultado.
+
+Quando a solução aparece funcionando, mesmo de forma simplificada, a prova ganha força. Depois disso, mercado e números encontram um público já interessado na oportunidade.
+
+Materiais da aula
+
+- Quadro Criação de Pitch no Figma (https://www.figma.com/board/F3i1TrLdMAtJGgkUi1oQAj/Workshop%2D%2D%2DCria%C3%A7%C3%A3o-de-Pitch?node-id=0-1&t=epur8SmjycEebPM7-1): estrutura visual usada para construir gancho, problema, solução e demonstração.
+
+Coloque em prática
+
+Retire nome e identidade visual e verifique se sua ideia continua clara.
+
+Crie três ganchos: uma pergunta, um dado e uma premissa.
+
+Defina quem sofre com o problema e calcule seu custo.
+
+Associe uma evidência a cada promessa importante.
+
+Demonstre a experiência do usuário sem explicar a tecnologia interna.

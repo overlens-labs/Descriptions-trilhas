@@ -1,0 +1,15 @@
+# A06 — Prompt BMC — original do Ruan
+
+Origem: Mensagem original de Ruan Braz.
+
+Fonte: Chat do dia 01, 02:56:31, Ruan Braz, linha 1923.
+
+Este é o prompt enviado diretamente por Ruan no chat. Grafia original preservada.
+
+## Texto preservado
+
+```text
+Quero que voce pegue na internet o template do BMC, e monte em HTML mesmo, o BMC em cima desse template. Eu quero abrir e ver os quadrantes. Coloque como postits mesmo, que posso tocar e abre um modal para eu adicionar informacoes ou editar. me permita adicionar mais postits tbm
+```
+
+[Voltar ao índice](../../../00%20-%20LEIA-ME.md)

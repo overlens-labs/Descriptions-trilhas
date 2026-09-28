@@ -1,0 +1,37 @@
+A11 — Construindo e abrindo o sistema de gestão
+
+Dia 01 · Materiais da aula
+
+Prompt e estrutura do sistema: briefing, PRD, spec e workflows.
+
+Links associados à aula
+
+SOS — briefing, PRD, spec e workflows
+
+Abrir material — https://sosatlasnegocios.vercel.app/#/dia-01/briefing-prd-spec-workflows · Equipe
+
+Prompt e explicação por partes da construção do sistema. Nanda também informou ter corrigido o erro de “spec” e organizado os blocos.
+
+Fontes: dia 01 · 07:30:55 · Nanda da Overlens · linha 3262 — ../../../Fontes originais/Dia 01/dia 01 chat.txt; dia 01 · 07:38:14 · Nanda da Overlens · linha 3340 — ../../../Fontes originais/Dia 01/dia 01 chat.txt; dia 01 · 07:53:06 · Nanda da Overlens · linha 3439 — ../../../Fontes originais/Dia 01/dia 01 chat.txt.
+
+Prompts e trechos separados
+
+- A11 - Sistema de gestao - trecho ditado — Prompts/A11 - Sistema de gestao - trecho ditado.txt — Recorte literal da transcrição da aula.
+
+Apoio geral
+
+- SOS Atlas — banco de prompts — https://sosatlasnegocios.vercel.app/#/prompts — Apoio geral.
+
+Esses endereços são compartilhados entre aulas. Eles não representam um novo material exclusivo desta aula.
+
+Conferência e observações
+
+Nanda confirma a organização e a correção de “spec” no SOS às 07:31:34 e 07:42:41 do dia 01 (linhas 3272 e 3376). O repositório prometido só é tratado no final do dia 02 e seu URL não consta dos chats.
+
+Relação com a transcrição: 00:02:29–00:03:34: quatro etapas; 00:04:06–00:09:35: ditado e ajustes do prompt; 00:15:35: abertura local do sistema.
+
+Fonte: [B] [TRILHA] [Atlas para Negócios] [2026] A11 - Construindo e abrindo o sistema de gestão.txt — ../../../../Transcrições/Dia 01/[B] [TRILHA] [Atlas para Negócios] [2026] A11 - Construindo e abrindo o sistema de gestão.txt.
+
+Voltar ao índice — ../../00 - LEIA-ME.txt · Ver pendências — ../../Referencias/Pendencias.txt
+
+Versão em Markdown — ../MD/A11 - Materiais.md

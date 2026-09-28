@@ -1,0 +1,1076 @@
+1
+00:00:00,053 --> 00:00:04,273
+hoje aqui, então, vamos lá. Hoje aqui eu quero falar sobre pitch pra vocês.
+
+2
+00:00:04,373 --> 00:00:08,813
+Eu quero explicar a importância de um bom pitch e mais do que explicar a importância de um bom pitch também,
+
+3
+00:00:08,973 --> 00:00:12,453
+dar a estrutura pra vocês construírem um bom pitch, tá?
+
+4
+00:00:12,593 --> 00:00:16,693
+A primeira coisa que eu já quero falar aqui de cara pra iniciar aqui o nosso workshop de conceitos de pitch
+
+5
+00:00:16,693 --> 00:00:20,553
+é que um pitch, ele não serve só pra você...
+
+6
+00:00:20,553 --> 00:00:23,953
+Existe uma lenda, né, que as pessoas vão explicar pitch, elas falam assim,
+
+7
+00:00:23,953 --> 00:00:28,553
+A sua ideia de negócio precisa caber em uma viagem de elevador.
+
+8
+00:00:28,673 --> 00:00:29,173
+Como assim?
+
+9
+00:00:29,253 --> 00:00:37,473
+Existe uma história, isso lá dos Estados Unidos mesmo, de que uma boa ideia, um bom divulgador de uma ideia
+
+10
+00:00:37,473 --> 00:00:43,153
+precisa estar preparado para explicar essa ideia em uma viagem de elevador com um investidor.
+
+11
+00:00:43,333 --> 00:00:48,773
+Então, você imagina que você entrou num elevador e aquele investidor que é a pessoa que você precisa para o seu negócio
+
+12
+00:00:48,773 --> 00:00:58,713
+E aí ela fala, tudo bem, você tem até eu chegar no meu andar pra me convencer de que eu deveria prestar mais atenção no que você tem pra dizer, tá?
+
+13
+00:00:58,873 --> 00:01:05,593
+Então, surgiu toda essa lenda aí em cima do pitch, mas o pitch, na verdade, ele é uma ferramenta, ele é um recurso que permite
+
+14
+00:01:05,593 --> 00:01:10,433
+tanto quem está avaliando sua ideia ter clareza do que você está apresentando sem perder tempo,
+
+15
+00:01:10,433 --> 00:01:18,853
+quanto também uma ferramenta para que você desenvolva com clareza uma apresentação que inspire as outras pessoas a quererem te ouvir mais.
+
+16
+00:01:19,053 --> 00:01:22,753
+Então o pitch não serve para você explicar seu negócio inteiro para alguém.
+
+17
+00:01:22,853 --> 00:01:26,473
+Ele serve para você convencer alguém de que essa pessoa precisa te ouvir.
+
+18
+00:01:26,513 --> 00:01:30,673
+Basicamente o pitch serve para que você compre mais tempo da pessoa com a sua ideia.
+
+19
+00:01:30,833 --> 00:01:37,733
+Pensem o seguinte, não sei se vocês já viveram essa posição, mas quando você começa a se tornar uma pessoa relevante para outras pessoas,
+
+20
+00:01:37,893 --> 00:01:40,133
+muita gente quer ouvir sua opinião.
+
+21
+00:01:40,133 --> 00:01:54,233
+Então você começa a receber muita mensagem no WhatsApp, você começa a receber muito e -mail, você começa a receber muita mensagem no Instagram, você vai em um evento, vira uma rodinha de pessoas querendo vir falar com você e tudo isso faz você ter oferta de ideias muito grandes.
+
+22
+00:01:54,253 --> 00:02:02,613
+Para uma pessoa assim, que é o papel, por exemplo, o papel não, que é a realidade, por exemplo, investidor, para uma pessoa assim, ela começa a ouvir muitas ideias de todo mundo.
+
+23
+00:02:02,613 --> 00:02:08,173
+E se a gente aplica aquele princípio de Pareto, cerca de 80 % dessas ideias não vão dar em nada.
+
+24
+00:02:08,273 --> 00:02:12,453
+Eu posso ser até... eu tô sendo generoso falando que 20 % das ideias vão dar em alguma coisa, tá?
+
+25
+00:02:12,533 --> 00:02:15,053
+Mas vamos seguir esse princípio aqui pra fazer essa análise.
+
+26
+00:02:15,173 --> 00:02:16,853
+80 % das ideias não vão dar em nada.
+
+27
+00:02:16,913 --> 00:02:21,333
+E eu não sei se vocês já passaram por isso, mas eu já passei bastante por isso.
+
+28
+00:02:21,373 --> 00:02:23,893
+Às vezes você fica ouvindo a pessoa por muito tempo.
+
+29
+00:02:23,913 --> 00:02:27,693
+Você fica ali meia hora, uma hora, duas horas, às vezes três horas ouvindo alguém.
+
+30
+00:02:27,753 --> 00:02:31,093
+E no final aquilo não vai dar em nada, você sai com uma sensação de que perdeu o seu tempo.
+
+31
+00:02:31,093 --> 00:02:38,873
+Mas tudo bem, se for uma pessoa, tá tudo bem. É uma pessoa que deu a ideia, três horas, tá ok, fui generoso, ouvi a pessoa, foi legal, tava ali pra ajudar.
+
+32
+00:02:39,093 --> 00:02:54,513
+Mas quando isso começa a multiplicar, duas, três, cinco, dez, quinze, vinte, cinquenta, e muita gente querendo te apresentar suas ideias, você passa a perder, e literalmente aqui se torna perder muito tempo da sua rotina, ouvindo ideias que não vão dar em nada.
+
+33
+00:02:54,693 --> 00:03:00,573
+E não é porque às vezes a ideia não é boa, ou a pessoa não é boa, pode ser também, mas muitas vezes porque nem você vai conseguir priorizar.
+
+34
+00:03:00,573 --> 00:03:04,913
+Então, você começa a usar isso como um mecanismo, e esse mecanismo começou a ser utilizado pra quê?
+
+35
+00:03:04,953 --> 00:03:10,953
+Olha, você tem 5 minutos, me explica aqui, se me convencer eu te escuto mais, se não, eu tenho que ir pra poder otimizar esse tempo, entende?
+
+36
+00:03:11,093 --> 00:03:18,273
+Então, o primeiro ponto que vocês precisam pensar é que um pitch serve pra você ganhar mais tempo da pessoa, ele serve pra você mostrar pra pessoa que vale a pena ouvir ela.
+
+37
+00:03:18,353 --> 00:03:22,033
+Eu posso fazer um paralelo aqui, por exemplo, com relacionamento.
+
+38
+00:03:22,033 --> 00:03:29,633
+Por exemplo, imagine um cara ou uma mulher que é muito bonito, ou muito bonita, e essa pessoa atrai muitos pretendentes.
+
+39
+00:03:29,633 --> 00:03:57,833
+O tempo todo, essa pessoa, ela começa a desenvolver meio que uma vacina, porque toda hora ela tem oferta de pessoas querendo se aproximar, então, essa pessoa, ela não vai ser convencida com o que todo mundo faz, e nem mesmo com pessoas que são bonitas, não vai bastar mais, ah, você é bonita, tem muitas pessoas bonitas que estão interessadas em mim, então, sinceramente, isso não é o que vai fazer diferença pra mim, e aí ela começa a avaliar outros critérios, a mesma coisa acontece quando a gente tá fazendo negócio, e até mesmo quando nós estamos falando com clientes, tá?
+
+40
+00:03:57,833 --> 00:04:07,713
+Às vezes, existe tanta oferta de alguma coisa, ou tanta gente falando, que você precisa ter algo especial, precisa ter algo diferente ali, que diga, vale a pena prestar atenção no que eu tô te mostrando aqui, entendeu?
+
+41
+00:04:07,953 --> 00:04:11,993
+E aí, é isso que eu quero mostrar pra vocês aqui, como que a gente constrói isso.
+
+42
+00:04:12,133 --> 00:04:14,373
+Só que tem um outro detalhe que é muito importante.
+
+43
+00:04:14,813 --> 00:04:22,253
+Imagina, nesse paralelo aí de relacionamento, imagina que você desenvolve uma técnica que chama muito a atenção, e aí você consegue seduzir a outra pessoa.
+
+44
+00:04:22,253 --> 00:04:28,713
+Só que depois que a outra pessoa começa a te conhecer mais, ela vê que aquilo tudo foi um truque de sedução e, na verdade, você não era nada daquilo do que parecia.
+
+45
+00:04:28,793 --> 00:04:30,473
+A mesma coisa acontece com o pitch.
+
+46
+00:04:30,673 --> 00:04:37,813
+Se você vai apresentar um pitch e você consegue seduzir a pessoa que está te ouvindo, mas depois você não consegue sustentar suas promessas,
+
+47
+00:04:37,873 --> 00:04:40,873
+é ainda pior, porque você vai fazer todo mundo perder tempo.
+
+48
+00:04:41,033 --> 00:04:45,833
+E, no final, a sensação de frustração é muito pior do que ter simplesmente te falado não depois.
+
+49
+00:04:45,833 --> 00:04:53,153
+Então imagina que eu tô ouvindo um pitch seu, aí você consegue criar o pitch perfeito, só que você faz uma maquiagem nas coisas ali.
+
+50
+00:04:53,253 --> 00:04:59,033
+E aí depois, quando eu vou analisar isso melhor com você, eu vejo que tá tudo maquiado, que na verdade não era bem o que estava sendo apresentado.
+
+51
+00:04:59,113 --> 00:05:05,953
+A frustração ali é muito pior, porque a minha sensação é que eu te dei tempo agora, só que depois eu perdi ainda mais tempo fazendo uma escolha errada.
+
+52
+00:05:06,113 --> 00:05:07,193
+E isso acontece muito também.
+
+53
+00:05:07,833 --> 00:05:14,573
+Nesse contexto, começam a se colocar na posição de um investidor, que é uma pessoa que consegue colocar dinheiro ou conhecimento em uma ideia,
+
+54
+00:05:14,573 --> 00:05:18,653
+E essa pessoa, ela precisa, ela tá vivendo um custo de oportunidade.
+
+55
+00:05:18,733 --> 00:05:22,933
+Então, ela pode dizer não pra ideia, ela não precisa investir em todas as ideias que aparecem.
+
+56
+00:05:23,013 --> 00:05:27,493
+Porque é o dinheiro dela, e é a vida dela, e é o tempo dela, e ela faz o que ela quiser com isso.
+
+57
+00:05:27,633 --> 00:05:30,573
+Beleza? Essa é a regra, é assim que funciona o mercado, é assim que funciona o mundo.
+
+58
+00:05:30,713 --> 00:05:33,073
+Então, eu tenho o direito de não querer investir na sua ideia.
+
+59
+00:05:33,213 --> 00:05:35,033
+Por melhor que ela apareça por você, certo?
+
+60
+00:05:35,193 --> 00:05:41,073
+E aí, se a gente coloca atenção, coloca tempo, a sensação que dá de depois perder muito tempo na ideia
+
+61
+00:05:41,073 --> 00:05:44,293
+é aquela sensação de eu devia ter falado não lá atrás.
+
+62
+00:05:44,573 --> 00:05:47,293
+E isso vai criando nos investidores uma casca muito grande.
+
+63
+00:05:47,393 --> 00:05:50,753
+Essa casca, ela faz os investidores serem muito céticos.
+
+64
+00:05:50,993 --> 00:05:56,753
+E aí a gente cai naquele ponto de uma ideia sem uma pessoa excelente por trás dela, não adianta nada.
+
+65
+00:05:56,833 --> 00:05:57,713
+Você pode ter a melhor ideia do mundo.
+
+66
+00:05:57,753 --> 00:05:59,893
+E cai também naquele viés que muita gente entra, né?
+
+67
+00:05:59,953 --> 00:06:01,633
+De, ah, eu não vou compartilhar a minha ideia.
+
+68
+00:06:02,213 --> 00:06:05,493
+Sinceramente, principalmente na era das IAs, uma ideia sozinha não tem tanto valor.
+
+69
+00:06:05,613 --> 00:06:09,173
+O que tem valor é a pessoa por trás dessa ideia, fazendo essa ideia, essa idade.
+
+70
+00:06:09,253 --> 00:06:13,653
+Então, tem muita gente que fica presa nisso também, de, ah, eu não vou contar a minha ideia para as pessoas,
+
+71
+00:06:13,653 --> 00:06:18,253
+O ponto não é nem a ideia em si, mas talvez a execução dela.
+
+72
+00:06:18,433 --> 00:06:23,333
+E aí, beleza, talvez você não vai querer contar a execução de uma ideia sua, porque é ali que está o diferencial.
+
+73
+00:06:23,393 --> 00:06:28,133
+Tudo bem, mas você pode apresentar sua ideia dentro de um contexto que faça sentido para você.
+
+74
+00:06:28,193 --> 00:06:31,233
+É aquela coisa de escolher o que você vai falar, mas não deixar de falar.
+
+75
+00:06:31,393 --> 00:06:34,493
+Isso também é uma habilidade importante que tem que ser levada em conta.
+
+76
+00:06:34,793 --> 00:06:36,533
+Então, compartilhar a tela aqui com vocês.
+
+77
+00:06:36,713 --> 00:06:37,233
+Beleza, vamos lá.
+
+78
+00:06:37,273 --> 00:06:39,793
+Primeira coisa, eu quero trazer uma frase aqui para vocês, que é essa aqui.
+
+79
+00:06:39,913 --> 00:06:42,353
+Um pitch não é uma apresentação da sua empresa.
+
+80
+00:06:42,353 --> 00:06:55,073
+Um pitch é uma apresentação de uma oportunidade, então eu já estava falando disso ali, não é para você falar de todos os produtos que a sua empresa tem, como que a sua empresa funciona, como que você foi inteligente criando uma operação, como que o seu negócio funciona, não é nada disso.
+
+81
+00:06:55,273 --> 00:07:03,153
+Um pitch é uma apresentação de uma oportunidade para a pessoa que está te ouvindo, então não é sobre você, e esse é o primeiro lugar que muita gente erra.
+
+82
+00:07:03,153 --> 00:07:33,133
+As pessoas quando vão fazer um pitch, querem falar sobre elas, sobre o quanto elas são incríveis, sobre tudo que elas fazem, sobre o quanto que elas trabalharam numa ideia, o tanto que elas se esforçaram em uma ideia, e eu acho isso muito interessante, eu não vou conseguir achar aqui agora, mas tem um, sabe esses shows de talento que existem lá, tem os britânicos, tem os americanos também, que o Brasil acaba copiando né, trouxe o The Voice e tal, mas tem um que é de negócio, eu não lembro o nome dele agora, mas essa cena ficou muito marcada pra mim, porque o participante, é tipo um Shark Tank, mas não é bem o mesmo,
+
+83
+00:07:33,153 --> 00:08:02,633
+Shark Tank. Não era um Shark Tank, se eu não me engano, mas era um britânico. E aí o participante, ele vem apresentar a ideia dele, aí ele começa a apresentar, e aí chega uma hora que as pessoas que estão ali ouvindo, né, o júri ali, as pessoas que, os investidores, falam não pra essa pessoa. Falam, olha, parabéns por todo o seu esforço, por tudo que você fez, mas a gente não vai seguir com a sua ideia. Aí eles decidem isso, juntos. Por isso que não é bem um Shark Tank nesse sentido, né. Aí o que que acontece? O cara
+
+84
+00:08:02,633 --> 00:08:31,153
+cara, começa a se justificar, mas eu não tô entendendo, eu trabalhei duro nisso, eu fiz acontecer, eu aprendi que geralmente quando você vai investir numa ideia, você investe na pessoa por trás da ideia, e eu tô aqui, eu tô dando o meu melhor, tô fazendo acontecer, eu tô construindo uma história, vocês têm que investir em mim, e aí ele vai falando assim, vai ficando emocionado e tal, aí um dos caras fala assim, para, para, para, para, para, para, para de sentir pena de você mesmo, todo mundo que tá aqui teve que trabalhar duro assim como você pra construir, isso faz parte do jogo, é o normal,
+
+85
+00:08:31,153 --> 00:08:34,153
+A gente não vai investir em uma ideia só porque a gente tem pena de você.
+
+86
+00:08:34,313 --> 00:08:36,193
+E essa cena ficou forte, mas eu falei, caraca.
+
+87
+00:08:36,313 --> 00:08:38,413
+Aí depois que ele vai embora, eles até respiram fundo assim, ó.
+
+88
+00:08:38,693 --> 00:08:40,953
+E falam, que difícil, né, falar isso pra ele.
+
+89
+00:08:41,013 --> 00:08:41,953
+É difícil falar isso pra alguém.
+
+90
+00:08:42,093 --> 00:08:44,273
+Mas às vezes é difícil, é a realidade.
+
+91
+00:08:44,313 --> 00:08:45,713
+O negócio do cara não tava pronto.
+
+92
+00:08:45,893 --> 00:08:46,713
+E é por causa disso aqui.
+
+93
+00:08:46,873 --> 00:08:47,733
+Ele confundiu.
+
+94
+00:08:48,013 --> 00:08:50,253
+Ele não conseguiu mostrar uma oportunidade ali.
+
+95
+00:08:50,313 --> 00:08:54,193
+E por não conseguir mostrar uma oportunidade ali, eu não vou investir em você agora.
+
+96
+00:08:54,413 --> 00:08:58,733
+Porque eu, como investidor, eu tenho uma grande oferta de ideias pra investir
+
+97
+00:08:58,733 --> 00:09:06,813
+Se eu escolho investir na ideia errada na hora errada, eu perco a oportunidade de investir numa ideia certa. Mais ou menos essa é a lógica.
+
+98
+00:09:07,099 --> 00:09:28,159
+Meu sangue, suor e lágrimas estão nisso. Eu fiz isso enquanto era um jogador de basquete, enquanto era um professor de ciência de computador, um estudante, um líder no campus, todas essas coisas, eu consegui fazer tudo isso no fundo do ônibus, após os jogos do Away, quando estávamos viajando de DC, eu estava codando, no aeroporto antes dos jogos, eu estava codando.
+
+99
+00:09:28,159 --> 00:09:31,639
+Ryan, you know what? Stop patting yourself in the back and stop feeling sorry for yourself.
+
+100
+00:09:31,839 --> 00:09:34,939
+I've spent 36 hours straight coding, teaching myself differently.
+
+101
+00:09:35,019 --> 00:09:37,879
+So has Robert, so has Barbara. It's part of the deal.
+
+102
+00:09:38,059 --> 00:09:42,199
+Accept that hard work, struggle, and sacrifice is part of being an entrepreneur.
+
+103
+00:09:42,679 --> 00:09:44,699
+Don't feel sorry for yourself. Go get the job done.
+
+104
+00:09:44,959 --> 00:09:47,699
+I'm not patting myself in the back. I'm just telling you my story.
+
+105
+00:09:48,179 --> 00:09:49,459
+You're gonna go in the real world.
+
+106
+00:09:49,879 --> 00:09:51,319
+It's about investing in the entrepreneur.
+
+107
+00:09:51,599 --> 00:09:53,439
+It's about investing in the entrepreneur as much as the product.
+
+108
+00:09:53,479 --> 00:09:57,959
+You identified a need. You gotta create a real product and a real business.
+
+109
+00:10:24,379 --> 00:10:27,279
+Esse é o ponto mais importante.
+
+110
+00:10:39,519 --> 00:10:43,399
+Tchumpit não é uma apresentação da sua empresa, é uma apresentação de uma oportunidade.
+
+111
+00:10:43,519 --> 00:10:51,500
+Isso significa, tá, eu já quero trazer a primeira brecha aqui pra vocês, que não necessariamente a ideia precisa ser uma ideia pronta.
+
+112
+00:10:51,659 --> 00:10:56,039
+E isso é uma das coisas que às vezes as pessoas têm dificuldade de entender um pitch e perdem oportunidades.
+
+113
+00:10:56,240 --> 00:11:04,000
+Teve um hackathon que eu participei uma vez, que a pessoa que ganhou o hackathon foi a pessoa que nem tinha um MVP direito.
+
+114
+00:11:04,299 --> 00:11:08,359
+Mas ela tinha feito uma excelente pesquisa de mercado e ela fez uma conexão.
+
+115
+00:11:08,359 --> 00:11:19,120
+Ela falou, eu tenho esses contatos aqui e eu tenho esse MVP que não está 100 % pronto, mas eu consigo executar ele, fazer ele acontecer aqui e conseguiu construir a oportunidade e falar, é nisso aqui que eu vou atacar e ganhou.
+
+116
+00:11:19,199 --> 00:11:26,679
+Porque a oportunidade, saber vender a oportunidade em um pitch vale mais, inclusive, do que às vezes ter a oportunidade toda sólida.
+
+117
+00:11:26,799 --> 00:11:33,099
+É claro, você tem que saber apresentar oportunidade e saber mostrar que você é capaz de entregar essa oportunidade, tá? Esse é o mais importante.
+
+118
+00:11:33,099 --> 00:11:48,259
+Isso serve para vendedores também. Para vendedores não, para clientes. Quando você vai apresentar para o cliente um serviço, você também tem que usar essa mesma lógica. Não é apresentação da empresa, é uma apresentação de uma oportunidade. É assim que você consegue inclusive fazer o cliente apostar em você mais.
+
+119
+00:11:48,259 --> 00:11:50,479
+E aí tem alguns pontos que eu quero trazer aqui.
+
+120
+00:11:50,599 --> 00:11:54,679
+O primeiro deles é, tanto clientes quanto investidores não compram slides.
+
+121
+00:11:55,219 --> 00:12:01,879
+Então ter um slide bonitinho é legal? É, mas o conteúdo que tem no slide é mais importante do que simplesmente ter um slide bonitinho.
+
+122
+00:12:01,959 --> 00:12:06,139
+O quanto que você consegue provar ali a sua tese. Então isso é importante.
+
+123
+00:12:06,599 --> 00:12:10,019
+Segunda coisa, investidores e clientes não compram funcionalidades.
+
+124
+00:12:10,339 --> 00:12:16,759
+Então você pode ficar falando ali tudo que o seu produto tem, mas melhor do que falar é mostrar.
+
+125
+00:12:16,759 --> 00:12:39,079
+Mostrar, então se você consegue mostrar, fazer uma demonstração rápida e fácil, é muito melhor do que ficar, a gente faz isso, a gente faz isso, fica naquela de prometer, quem promete muito geralmente não é bem visto na hora de fazer um pitch, quem entrega muito é bem visto, o que isso significa? Tudo que você estiver prometendo, se você consegue demonstrar ao invés de prometer e de um jeito simples e rápido, é melhor, então esse é o segundo ponto.
+
+126
+00:12:39,079 --> 00:12:56,439
+Bom, terceira coisa, investidores e clientes não compram tecnologia, então, ah, nós utilizamos a tecnologia X, a tecnologia Y, com essa tecnologia eu consigo fazer isso, até porque tecnologia pode ser copiada, e toda tecnologia que é um segredo, ela não consegue ser um segredo por muito tempo hoje em dia, então, também não compram tecnologia.
+
+127
+00:12:56,959 --> 00:13:05,819
+O que elas compram se elas não compram nada disso? Uma oportunidade, uma chance de resolver um problema, a gente pode colocar aqui que as pessoas compram uma chance de resolver um problema.
+
+128
+00:13:05,819 --> 00:13:18,319
+Esse ponto do problema grande, ele vem de um livro muito interessante, que é o livro de 0 a 1, e eu vi essa mesma ideia se repetir em um outro livro chamado Blitzscaling.
+
+129
+00:13:18,439 --> 00:13:26,000
+Vou trazer as duas aqui pra vocês. 0 a 1 do Peter Thiel e tem o Blitzscaling também. Caminho mais rápido pra construir negócios extremamente valiosos.
+
+130
+00:13:26,139 --> 00:13:33,559
+Esses dois livros contam histórias lá do Vale do Silício, histórias de construção de negócio, e eles esbarram nessa mesma ideia que é o seguinte.
+
+131
+00:13:33,559 --> 00:13:38,339
+A escolha do problema que você vai resolver faz parte do quão valiosa a sua ideia é.
+
+132
+00:13:38,439 --> 00:13:41,299
+Quanto maior o problema que você resolve, mais valiosa a sua ideia.
+
+133
+00:13:41,500 --> 00:13:45,099
+Só que quanto maior o problema que você resolve, maior o desafio também.
+
+134
+00:13:45,299 --> 00:13:48,759
+E é justamente essa lógica que faz alguma coisa valer mais.
+
+135
+00:13:49,019 --> 00:13:53,059
+Então o valor de algo está ligado à escassez dessa solução.
+
+136
+00:13:53,120 --> 00:13:58,659
+Se o problema é grande e ainda não foi resolvido, é porque as pessoas estão tentando resolver e não conseguiram.
+
+137
+00:13:58,779 --> 00:14:03,379
+Isso significa que quando alguém resolver esse problema, se essa pessoa estiver no lugar certo na hora certa,
+
+138
+00:14:03,559 --> 00:14:06,579
+Ela vai sim, não só fazer muito dinheiro, mas gerar muito impacto.
+
+139
+00:14:06,799 --> 00:14:16,839
+Então, quando a gente traz isso aqui, resolver um grande problema, é importante destacar isso aqui porque saber escolher o problema que você vai resolver faz parte até do pitch.
+
+140
+00:14:17,039 --> 00:14:27,839
+Se você resolve um problema trivial e que é fácil de resolver, por exemplo, se eu falo para vocês assim, eu criei uma solução que é capaz de encontrar leads para vocês no Google Maps.
+
+141
+00:14:28,120 --> 00:14:31,699
+Vocês vão falar, mas isso aí eu consigo fazer com o Cloud, é só eu pedir para ele e ele faz para mim.
+
+142
+00:14:31,699 --> 00:14:44,319
+É um problema que já tá resolvido. Ah, mas tem a simetria de informação, ele tá resolvido, mas as pessoas ainda não sabem. Beleza, mas aí você vai criar um negócio nessa base frágil, que é as pessoas saberem que algo existe. Entende? Tudo isso é levado em consideração aqui.
+
+143
+00:14:44,399 --> 00:14:57,240
+Então, quando a gente fala problema grande, não pensa só em, ah, eu vou resolver o câncer, eu vou resolver a fome do mundo. Não é necessariamente isso também, porque existem muitos problemas que são, é diferente de um problema ser grande para um problema ser complexo e sistêmico.
+
+144
+00:14:57,240 --> 00:15:04,740
+Problemas sistêmicos, na maioria das vezes, não dependem de um indivíduo ou de uma empresa, dependem de um sistema, e aí é mais complexo de resolver.
+
+145
+00:15:04,959 --> 00:15:10,939
+Um problema grande aqui a gente pode classificar como um problema real que resolve uma dor de muitas pessoas, beleza?
+
+146
+00:15:11,179 --> 00:15:21,779
+E nesses dois livros eles falam disso por óticas diferentes, 0 a 1 fala da criação de monopólios, e que um monopólio, a defesa do Peter Thiel aqui é que um monopólio não necessariamente é algo ruim,
+
+147
+00:15:21,779 --> 00:15:51,579
+e aqui é sobre velocidade, esse livro inteiro aqui é sobre velocidade, o quanto que você consegue colocar uma ideia no mercado rápido o suficiente para conseguir o monopólio, então um acaba conectado no outro aqui e entendam que esses dois livros também, eles casam com outro livro muito interessante, que é o livro do Simon Sinek, mas não começa pelo porquê, um livro que chama Jogos Infinitos, pegar a capa dele, o Jogo Infinito, esse aqui é um livro que fala que você só tem que encontrar
+
+148
+00:15:51,579 --> 00:16:00,620
+As pessoas muitas vezes erram porque elas tentam jogar jogos difíceis, mas elas não entendem que elas podem escolher o jogo delas.
+
+149
+00:16:00,659 --> 00:16:01,979
+Então escolha seu jogo.
+
+150
+00:16:02,139 --> 00:16:05,059
+E é aqui que essa ideia de monopólio não necessariamente é algo ruim.
+
+151
+00:16:05,419 --> 00:16:09,059
+Monopólio é muito ruim para o mercado em vários aspectos econômicos, tá?
+
+152
+00:16:09,179 --> 00:16:13,299
+E aqui existe um conceito muito específico que eu estou trabalhando aqui em cima de monopólio,
+
+153
+00:16:13,359 --> 00:16:18,799
+que é o conceito de, aqui no 0 a 1, é a maioria das empresas trabalham de 1 para infinito.
+
+154
+00:16:18,859 --> 00:16:20,659
+O que significa trabalhar de 1 para infinito?
+
+155
+00:16:20,659 --> 00:16:24,579
+Significa que essas empresas aqui, elas pegam uma ideia que já existe e melhoram essa ideia.
+
+156
+00:16:24,740 --> 00:16:25,639
+Então é de um para infinito.
+
+157
+00:16:25,680 --> 00:16:30,639
+Ou seja, eu tenho uma ideia que já existe, ela é um, e eu melhoro ela ao infinito.
+
+158
+00:16:30,680 --> 00:16:35,899
+Só que o Peter Thiel defende que o ideal, o melhor tipo de jogo, é o jogo que você vai de zero a um.
+
+159
+00:16:35,980 --> 00:16:41,339
+Ou seja, você cria uma oportunidade que não existe ainda e transforma ela em algo real,
+
+160
+00:16:41,440 --> 00:16:44,019
+que depois muitas pessoas vão levar isso para o infinito.
+
+161
+00:16:44,099 --> 00:16:45,919
+Mas é aqui que você vende.
+
+162
+00:16:46,079 --> 00:16:46,879
+Essa é a tese dele.
+
+163
+00:16:46,879 --> 00:16:50,779
+Você pode vender a empresa ou pode colocá -la num patamar diferente.
+
+164
+00:16:51,180 --> 00:16:55,419
+Isso aqui, inclusive, é uma tese de uma pessoa que gosta muito de fundar
+
+165
+00:16:55,419 --> 00:16:58,980
+e depois colocar isso na mão de alguém para poder ser o executivo disso.
+
+166
+00:16:59,559 --> 00:17:02,500
+A maioria dos empreendedores tem esse...
+
+167
+00:17:02,500 --> 00:17:04,059
+Talvez não empreendedores, fundadores.
+
+168
+00:17:04,339 --> 00:17:07,359
+Se você tem um perfil mais de fundador, você vai ter um perfil mais de zero a um.
+
+169
+00:17:07,460 --> 00:17:10,940
+Se você tem um perfil mais executivo, eu quero ser CEO de uma empresa,
+
+170
+00:17:11,039 --> 00:17:14,220
+geralmente você vai fazer uma faculdade de administração, algum MBA, coisas do tipo,
+
+171
+00:17:14,220 --> 00:17:17,159
+Pra virar executivo de uma empresa, você tem um perfil mais de um a infinito, né?
+
+172
+00:17:17,180 --> 00:17:19,000
+Você pega algo que existe e gerencia aquilo.
+
+173
+00:17:19,119 --> 00:17:21,240
+São perfis diferentes, não é certo e errado aqui não, tá?
+
+174
+00:17:21,379 --> 00:17:22,339
+Mas aí é pra trazer isso.
+
+175
+00:17:22,480 --> 00:17:29,619
+E muitos desses negócios aqui também, baseados nessa lógica, ou de fazer o que a gente chama aqui de bootstrapping, né?
+
+176
+00:17:29,639 --> 00:17:34,680
+Que é quando você vai, com o próprio dinheiro da empresa, fazer ela se pagar, né?
+
+177
+00:17:34,779 --> 00:17:38,940
+Esse aqui é o mais árduo, mas também ele é muito admirado, pessoas que fazem isso.
+
+178
+00:17:39,000 --> 00:17:42,500
+Por exemplo, a Overlens é um negócio que até hoje é bootstrap, bootstrap ads que fala.
+
+179
+00:17:42,480 --> 00:18:03,859
+mas bootstrapped, Overlens é bootstrapped, ou seja, com o nosso próprio dinheiro e com o próprio recurso dela mesma, ela foi se financiando e se escalando, é muito difícil fazer isso, tá, muito difícil, por isso que geralmente quando você faz isso e chega num patamar muito alto, você é admirado por isso em alguns aspectos, né, por outros empreendedores, mas tem também como você criar um negócio,
+
+180
+00:18:03,859 --> 00:18:08,539
+com a ajuda de outras pessoas, com a ajuda de investidores, e não é mais bootstrapping.
+
+181
+00:18:08,759 --> 00:18:14,500
+Então, tudo isso aqui entra nesse contexto aqui, e muitas vezes, o blitzscaling aqui,
+
+182
+00:18:14,619 --> 00:18:18,779
+ele é uma estratégia que não é muito, eu não quero falar que é certa,
+
+183
+00:18:18,880 --> 00:18:23,359
+mas o blitzscaling não necessariamente é uma boa estratégia para quem tem um negócio bootstrapping,
+
+184
+00:18:23,579 --> 00:18:28,279
+porque a ideia do blitzscaling é você focar mais em velocidade,
+
+185
+00:18:28,279 --> 00:18:35,500
+diversidade. Então, se você tem uma ideia, escalar essa ideia o mais rápido possível e depois voltar ajustando e consertando ela.
+
+186
+00:18:35,619 --> 00:18:41,240
+Essa é a ideia do blitzscaling. Então, aqui, no caso do blitzscaling, muitas vezes é melhor você ter investidores
+
+187
+00:18:41,240 --> 00:18:47,279
+ou contar com dinheiro que não é o seu, dinheiro de banco, dinheiro de investidores, porque dessa forma você escala a ideia
+
+188
+00:18:47,279 --> 00:18:53,460
+muito mais rápido do que se você fosse bancário com o seu próprio dinheiro. Inclusive, muitos dos bilionários fazem isso.
+
+189
+00:18:53,460 --> 00:18:59,599
+Eles não usam o dinheiro próprio deles, eles usam o dinheiro de terceiros para poder escalar e financiar ali, diminuir o risco e por aí vai, né?
+
+190
+00:18:59,660 --> 00:19:02,720
+Então, blitzscaling não necessariamente é uma estratégia para empresas bootstrapping.
+
+191
+00:19:02,839 --> 00:19:05,480
+O que é uma boa estratégia para empresas bootstrapping?
+
+192
+00:19:05,700 --> 00:19:12,119
+Como é que eu decido se a minha empresa é uma empresa bootstrapping ou se ela é uma empresa que funciona mais uma estratégia de blitzscaling nela?
+
+193
+00:19:12,259 --> 00:19:19,339
+Primeiro, se você está construindo um negócio de longo prazo e se ele consegue se sustentar no longo prazo.
+
+194
+00:19:19,460 --> 00:19:21,119
+Para mim, esse é o primeiro critério.
+
+195
+00:19:21,119 --> 00:19:31,160
+Então, eu tenho um negócio que ele consegue crescer, o diferencial dele, a gente pode falar que é um negócio como vinho, um negócio que ele envelhece como vinho, quanto mais o tempo passa, melhor o negócio fica.
+
+196
+00:19:31,380 --> 00:19:37,579
+Eu tenho um diferencial desse tipo? Geralmente, o que é um diferencial desse tipo? Por exemplo, eu tenho um negócio baseado em construção de marca e comunidade.
+
+197
+00:19:38,000 --> 00:19:46,920
+Beleza, quanto mais o tempo passa e melhora, ele envelhece, mais essa marca é conhecida, mais isso vai fazendo sentido ali, eu vou construindo comunidade, legal, longo prazo.
+
+198
+00:19:46,920 --> 00:20:04,440
+É um negócio que, às vezes, não é o único critério, mas faz sentido ele ser um bootstrapping, porque você pode se dar ao luxo de crescer num ritmo menor do que o ritmo do mercado, porque tudo que vai acontecendo no mercado, você consegue embarcar dentro do negócio ali, então, se o mercado acelera, você acelera.
+
+199
+00:20:04,440 --> 00:20:28,819
+Ah, eu tenho um negócio que o diferencial dele é tecnologia, cara, aí já começa a ficar perigoso, aí faz mais sentido você ir pra uma camada de blitzscaling, tentar escalar o mais rápido possível, porque tecnologia é altamente copiável, então, às vezes você tá apostando numa ideia aqui, só que se você não desenvolver essa ideia o mais rápido possível, essa sua ideia, ela pode ser roubada por alguém, ou outra pessoa pode ter uma ideia parecida com a sua e escalar ela primeiro.
+
+200
+00:20:28,819 --> 00:20:31,279
+Eu sei que isso aqui não é exatamente o pitch, tá?
+
+201
+00:20:31,440 --> 00:20:34,720
+Mas essa introdução de princípio todo que eu tô fazendo aqui pra vocês
+
+202
+00:20:34,720 --> 00:20:38,440
+vai fazer vocês pensarem mais como a pessoa que está assistindo o pitch de vocês.
+
+203
+00:20:38,619 --> 00:20:40,799
+Por isso que eu tô querendo passar esses pontos todos, tá?
+
+204
+00:20:40,960 --> 00:20:43,059
+Então, depois vocês podem pesquisar mais também.
+
+205
+00:20:43,259 --> 00:20:44,980
+Mas vou dar dois exemplos.
+
+206
+00:20:44,980 --> 00:20:49,740
+Teve o exemplo do Airbnb, que o Airbnb foi incubado na Y Combinator,
+
+207
+00:20:49,859 --> 00:20:50,660
+que é uma aceleradora.
+
+208
+00:20:50,839 --> 00:20:53,019
+E aí, na Y Combinator, eles falaram pra ele o seguinte,
+
+209
+00:20:53,059 --> 00:20:57,440
+cara, ou você escala o Airbnb pro mundo o mais rápido possível,
+
+210
+00:20:57,440 --> 00:21:26,200
+ou vocês vão perder mercado e quebrar, porque lá na Europa, eu não lembro o nome da empresa da Europa agora, tem um tempo já que eu li esse livro aqui, acho que foi em 2024 que eu li ele, mas tinha uma empresa na Europa que pegou, essa empresa, ela pegava ideias que davam certo nos Estados Unidos e simplesmente copiava essas ideias para o mercado da Europa, era basicamente isso, só que a Airbnb tinha uma natureza específica, que é o que? A Airbnb é para viagem, e as pessoas viajam para o mundo todo, e a Europa é um destino de viagem muito forte, então se a Airbnb não crescesse o mais rápido possível, ele ia quebrar,
+
+211
+00:21:26,200 --> 00:21:28,140
+E os caras daqui tinham percebido isso.
+
+212
+00:21:28,279 --> 00:21:32,019
+O mais legal é que os donos do Airbnb tinham feito uma apresentação falando o seguinte,
+
+213
+00:21:32,259 --> 00:21:35,480
+eu acho que eles estavam projetando 200 milhões de dólares, alguma coisa assim.
+
+214
+00:21:35,660 --> 00:21:43,000
+E aí eles receberam um conselho, cara, investidor gosta de negócios que começam com B, de billion, billion, billion.
+
+215
+00:21:43,180 --> 00:21:46,539
+Se o seu negócio não projeta billion, você não vai conseguir investidores aqui.
+
+216
+00:21:46,680 --> 00:21:49,019
+Então, modela o seu negócio para billion e volta.
+
+217
+00:21:49,259 --> 00:21:53,000
+Aí eles modelaram o negócio para billion, eu estou sendo bem simplista aqui na história,
+
+218
+00:21:53,079 --> 00:21:54,380
+mas só para vocês entenderem o raciocínio.
+
+219
+00:21:54,380 --> 00:21:55,920
+e conseguiram projetar o negócio.
+
+220
+00:21:56,079 --> 00:21:58,619
+Não, tem que ser global, tem que ser para o mundo, a gente precisa de investidores
+
+221
+00:21:58,619 --> 00:22:01,519
+para poder escalar no mundo inteiro o mais rápido possível,
+
+222
+00:22:01,599 --> 00:22:04,019
+porque senão a gente vai ser eclipsado por outras ideias
+
+223
+00:22:04,019 --> 00:22:05,819
+e aí o mercado vai se fragmentar e tal.
+
+224
+00:22:05,920 --> 00:22:08,779
+Então, olha que interessante, isso aqui foi uma estratégia de blitzscaling,
+
+225
+00:22:08,819 --> 00:22:11,180
+crescer o mais rápido possível e depois volta consertando,
+
+226
+00:22:11,259 --> 00:22:13,740
+mas você precisa construir marca rápido aqui para que isso aconteça.
+
+227
+00:22:13,900 --> 00:22:14,880
+Então, esse é um exemplo.
+
+228
+00:22:15,079 --> 00:22:17,680
+Vou dar um outro exemplo agora, mais perto da nossa realidade atual.
+
+229
+00:22:17,980 --> 00:22:20,420
+A gente tinha um negócio aqui que se chamava Insolence,
+
+230
+00:22:20,420 --> 00:22:24,420
+que nós iríamos lançar da Overlens, que era um construtor de Brand Systems.
+
+231
+00:22:24,819 --> 00:22:28,880
+E qual que era a ideia aqui? Olha que interessante como que isso impacta muito na decisão de um negócio.
+
+232
+00:22:30,220 --> 00:22:34,819
+A Insolence era um construtor de Brand Systems que designers, agências poderiam utilizar
+
+233
+00:22:34,819 --> 00:22:39,440
+para poder conectar com inteligência artificial e ter um negócio, um Brand System ali inteligente.
+
+234
+00:22:39,579 --> 00:22:42,299
+Isso aqui, a gente enxergou isso aqui no início de 2024,
+
+235
+00:22:42,460 --> 00:22:42,599
+tanto
+
+236
+00:22:42,559 --> 00:22:45,159
+E naquela época, todo mundo falava, faz, constrói, constrói.
+
+237
+00:22:45,159 --> 00:22:57,039
+Eu consegui, inclusive, colocar algumas projeções bem, bem conservadoras, que estimavam algo em torno ali de 250 a 500 mil reais a mês, um MRR.
+
+238
+00:22:57,159 --> 00:23:01,079
+Então, um negócio super promissor, né, que daria para construir aqui.
+
+239
+00:23:01,220 --> 00:23:02,019
+E era bem interessante.
+
+240
+00:23:02,319 --> 00:23:08,180
+Só que esse negócio aqui, a gente estava fazendo ele em 2024, não tinham agentes de código iguais existem hoje.
+
+241
+00:23:08,419 --> 00:23:12,559
+E se tivessem, o negócio já morreria, e eu explico por quê, mas essa foi a análise que eu fiz.
+
+242
+00:23:12,559 --> 00:23:15,599
+A gente poderia construir um construtor de Brand Systems.
+
+243
+00:23:15,899 --> 00:23:18,159
+A gente deu o nome pra ele, fez o MVP e tava funcionando.
+
+244
+00:23:18,279 --> 00:23:20,460
+Só que eu entendi que existia uma janela de oportunidade.
+
+245
+00:23:20,579 --> 00:23:21,960
+Qual que era essa janela de oportunidade?
+
+246
+00:23:22,180 --> 00:23:27,200
+No futuro, as pessoas poderão construir seus próprios Brand Systems direto com a própria IA.
+
+247
+00:23:27,319 --> 00:23:29,779
+E elas não vão precisar assinar meu serviço pra isso.
+
+248
+00:23:29,879 --> 00:23:33,339
+Ou seja, eu tenho um negócio que ou eu cresço ele rápido o suficiente
+
+249
+00:23:33,339 --> 00:23:37,399
+pra poder vender ele em um ano a um ano e meio, um ano a um ano e meio,
+
+250
+00:23:37,460 --> 00:23:41,159
+ou não vale a pena eu criar esse negócio, porque esse negócio aqui vai morrer.
+
+251
+00:23:41,159 --> 00:23:50,879
+E era um negócio de tecnologia, ou seja, olha a decisão importante que eu precisava tomar aqui sobre mercado, se eu ia investir mais tempo, se eu ia investir mais dinheiro nessa ideia ou não.
+
+252
+00:23:51,079 --> 00:23:57,339
+E a gente acabou decidindo que não valeria a pena investir nessa ideia, mesmo que ela tinha essa projeção, eu poderia fazer dinheiro rápido ali.
+
+253
+00:23:57,440 --> 00:24:05,619
+Só que mesmo que eu fizesse esse dinheiro rápido, o maior risco que eu tinha é de fazer esse dinheiro, depois tentar vender o negócio, se eu vendesse ele dentro do timing.
+
+254
+00:24:05,619 --> 00:24:21,619
+Beleza, vamos colocar aqui, conseguia 2 milhões de exit, de saída aqui do negócio, alguma coisa do tipo, vendia para uma outra empresa, mas eu teria que vender no timing, porque se eu errasse o timing por alguns meses, não compensa para nenhuma empresa comprar esse sistema, porque o próprio agente de A pode criar um brand system personalizado.
+
+255
+00:24:22,299 --> 00:24:29,579
+Era melhor eu vender serviço do que tecnologia, nesse caso aqui, ou seja, implementar isso nos negócios e tal, eu talvez conseguiria fazer a grana.
+
+256
+00:24:29,579 --> 00:24:59,240
+Só que eu não tava fazendo isso pensando na grana, eu tava fazendo isso pensando em longo prazo, ou seja, fazia mais sentido eu focar na Overlens, colocar minha atenção na Overlens ao invés de colocar minha atenção na Insolence. Por quê? A Overlens como negócio é um negócio de longo prazo e é um negócio que, ele é como vinho, né? Ele é um negócio que ele é bootstrapped, ele funciona bem o suficiente pra, ao longo do tempo, quanto mais o tempo passa, mais ele cresce, porque ele é um negócio de comunidade, ele é um negócio de marca, ele é um negócio de visão de mundo, ele é um negócio de estilo de vida,
+
+257
+00:24:59,240 --> 00:25:02,919
+E tudo isso aqui são diferenciais que não dá pra copiar tão fácil.
+
+258
+00:25:03,059 --> 00:25:09,519
+Porque se você copia, fica escancarado que você tá copiando ali um branding de uma marca, uma gestão de marca e tal.
+
+259
+00:25:09,639 --> 00:25:13,960
+Então faria mais sentido trabalhar na Overlens dentro do que é o nosso estilo de vida atual como donos,
+
+260
+00:25:13,980 --> 00:25:17,200
+dentro do que é o nosso posicionamento, do nosso jeito de trabalhar e proibar.
+
+261
+00:25:17,319 --> 00:25:21,220
+Ou seja, olha só que decisão interessante que vai muito além de só ver uma ideia que dá dinheiro.
+
+262
+00:25:21,379 --> 00:25:22,980
+Isso tudo precisa ser analisado, tá?
+
+263
+00:25:23,119 --> 00:25:27,059
+Então aqui só alguns exemplos pra vocês, deixa isso aqui um pouco de lado e vamos voltar pra cá.
+
+264
+00:25:27,059 --> 00:25:33,220
+Então, quando a gente fala de um problema grande, no caso, é um problema que gera um impacto suficiente para que ele consiga ser escalável.
+
+265
+00:25:33,339 --> 00:25:36,059
+Então, pensem aqui em grande como algo escalável.
+
+266
+00:25:36,159 --> 00:25:40,460
+Se você tem algo que não é escalável, dificilmente você vai conseguir um bom investimento para isso,
+
+267
+00:25:40,539 --> 00:25:46,799
+porque um investidor quer retorno do que ele está investindo, e para ter esse retorno, geralmente, precisa ser escalável, beleza?
+
+268
+00:25:47,019 --> 00:25:50,799
+Então, já tem um ponto aqui para a gente levar em consideração sobre isso.
+
+269
+00:25:50,940 --> 00:25:51,000
+Deixa
+
