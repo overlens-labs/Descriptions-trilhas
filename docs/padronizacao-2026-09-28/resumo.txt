@@ -1,0 +1,5 @@
+arquivos no GitHub: 1012 | continuam onde estão: 395 | mudam de caminho: 617
+entram do PC: 315 | ficam de fora: 213
+por tipo: descricao 384 · transcricao 571 · planilha 25 · descricao-bruta 119 · material 128 · txt 91 · readme 2 · descr-trilha 1 · raiz 6
+alertas (revisar à mão): 0
+fora do PR (por motivo): fora (atalho ou script solto): 4 | já está no GitHub (a versão do GitHub vale): 193 | cópia idêntica de um arquivo que já está no GitHub: 16
