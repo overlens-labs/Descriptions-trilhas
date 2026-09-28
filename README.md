@@ -14,14 +14,13 @@ trilhas/
       aula-NN-<slug>.md                descrição publicada da aula (uma por aula)
       descricao-da-trilha.md           descrição da trilha (quando existe)
       README.md                        leia-me da trilha (quando existe)
-      planilha-<trilha>.csv            planilha de sequência da trilha (quando existe)
       transcricoes/
         aula-NN-<slug>.<txt|srt|vtt|md>   transcrição da aula, com o MESMO nome da descrição
         exercicio-<slug>.<ext>            transcrição de exercício (não tem descrição própria)
       materiais/                       apoio da trilha:
         txt/                           cópias das descrições sem markdown
         descricoes-brutas/             rascunhos das descrições (com a linha "Cálculo interno")
-        ...                            memórias de trabalho, prompts, bate-papos, planilhas extras
+        ...                            memórias de trabalho, prompts, bate-papos, material de aula
 prompt/                                prompts oficiais para escrever as descrições
 docs/                                  scripts e registros (índice, padronização)
 ```
@@ -40,7 +39,7 @@ docs/                                  scripts e registros (índice, padronizaç
 ## Pendências conhecidas
 
 - Na trilha Syntax, as aulas 37 a 39 são exercícios e têm transcrição, mas não têm descrição.
-- `conteudo-faltando.csv` e `verificacao-trilhas.md` listam o que ainda falta produzir ou conferir.
+- `verificacao-trilhas.md` lista o que ainda falta conferir.
 
 ## Histórico
 

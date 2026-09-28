@@ -10,8 +10,8 @@ const linhas = [
   '',
   'Gerado por `docs/gerar-indice.js`. Não edite à mão; rode o script de novo.',
   '',
-  '| Professor | Trilha | Aulas (descrições) | Transcrições | Formatos | Exercícios | Planilha | Descrição da trilha | Atenção |',
-  '|---|---|---|---|---|---|---|---|---|'
+  '| Professor | Trilha | Aulas (descrições) | Transcrições | Formatos | Exercícios | Descrição da trilha | Atenção |',
+  '|---|---|---|---|---|---|---|---|'
 ];
 let totA = 0, totT = 0;
 for (const prof of ls(T).filter(d => d.isDirectory()).map(d => d.name).sort()) {
@@ -27,10 +27,9 @@ for (const prof of ls(T).filter(d => d.isDirectory()).map(d => d.name).sort()) {
     const avisos = [];
     if (semTrans.length) avisos.push('sem transcrição: ' + semTrans.map(a => a.slice(0, 7)).join(', '));
     if (semDesc.length) avisos.push('transcrição sem descrição: ' + semDesc.map(a => a.slice(0, 7)).join(', '));
-    const planilha = ls(dir).some(f => /^planilha-.*\.csv$/.test(f.name)) ? 'sim' : '';
     const descTri = ls(dir).some(f => f.name === 'descricao-da-trilha.md' || f.name === 'README.md') ? 'sim' : '';
     totA += aulas.length; totT += trans.length;
-    linhas.push('| ' + prof + ' | [' + tri + '](trilhas/' + prof + '/' + tri + ') | ' + aulas.length + ' | ' + trans.length + ' | ' + formatos + ' | ' + exerc + ' | ' + planilha + ' | ' + descTri + ' | ' + avisos.join('; ') + ' |');
+    linhas.push('| ' + prof + ' | [' + tri + '](trilhas/' + prof + '/' + tri + ') | ' + aulas.length + ' | ' + trans.length + ' | ' + formatos + ' | ' + exerc + ' | ' + descTri + ' | ' + avisos.join('; ') + ' |');
   }
 }
 linhas.push('', '**Total:** ' + totA + ' descrições de aula e ' + totT + ' arquivos de transcrição.', '');
