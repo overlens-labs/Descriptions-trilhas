@@ -1,0 +1,8 @@
+Quero que faça uma veirificação dessa trilha "fit-perfil ideal de cliente", pode usar a memoria de como fazer
+Memória> isso do verificacao-trilhas.md
+Pra verificar certinho só ler principalmente as transcrições e os titulos dos arquivos das transcrições e exercicios
+
+as transcrições estão na ordem só os exercicios que não estão
+vc tem que fazer isso : 
+  - Ler cada transcrição do início ao fim para confirmar o conteúdo de cada aula e exercicio
+  - Confirmar os títulos exatos das aulas (inferi pelos nomes dos arquivos)

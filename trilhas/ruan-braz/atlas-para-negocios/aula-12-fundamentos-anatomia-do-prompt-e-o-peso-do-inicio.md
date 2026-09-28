@@ -1,0 +1,155 @@
+# Fundamentos, anatomia do prompt e o peso do início
+
+**Tempo estimado de leitura:** 5 minutos
+
+## Objetivos de aprendizado
+
+Ao final desta aula, você será capaz de:
+
+- Identificar quais fundamentos de negócio continuam válidos mesmo com a evolução da inteligência artificial
+- Distinguir os cenários em que engenharia de prompt pesa mais do que a clareza do objetivo
+- Estruturar um prompt de projeto com objetivo, detalhamento, ordem de execução, stack e considerações finais
+- Reconhecer o efeito de poucos graus de desvio na direção definida no início de um projeto
+
+## O sistema montado na aula não é o que precisa durar
+
+A aula começa respondendo a uma pergunta do chat: essa estrutura que está sendo arquitetada vai virar obsoleta algum dia, já que o avanço está cada vez mais rápido e mais inteligente? A preocupação declarada era abrir um negócio focado nisso e ver a base envelhecer logo em seguida.
+
+A resposta começa separando duas coisas. O sistema construído ali é montado em vinte e cinco minutos, e quem quiser montar outro melhor depois também vai gastar pouco tempo.
+
+Por isso o foco não deve estar no sistema em si. Ele é uma ferramenta para ajudar a tomar decisões melhores, ponto final. As inteligências artificiais vão evoluir e vão permitir construir sistemas cada vez melhores.
+
+## Os conceitos sistêmicos de mercado são difíceis de mudar
+
+A segunda parte da resposta trata do que não envelhece junto com a ferramenta. Quando o assunto é mercado e negócio, existem conceitos sistêmicos difíceis de mudar.
+
+Os exemplos citados são teoria dos jogos, oferta e demanda e os demais axiomas e regras de mercado. Pode ser que mudem, talvez, mas é muito difícil que isso aconteça.
+
+## Os fundamentos ensinados aqui: validar e trabalhar com metodologia científica
+
+O que está sendo ensinado na trilha são fundamentos que continuam com você por muito tempo. Dois deles são nomeados de forma direta: validar o negócio e trabalhar o negócio com metodologia científica.
+
+Na prática, isso significa definir bem a direção e validar rápido. Se não deu certo, você volta atrás e muda a direção rápido, em vez de insistir naquele caminho.
+
+A ordem importa. Antes de colocar energia fazendo um produto perfeito, valide primeiro. Depois da validação, aí sim entra a energia total, porque o negócio já foi validado.
+
+## O gênio da lâmpada e a clareza do pedido
+
+O argumento é levado ao extremo para testar a validade do fundamento. A inteligência artificial pode evoluir até virar um gênio da lâmpada que faz o que você quiser, e mesmo assim isso continua sendo útil.
+
+O exercício proposto é direto: você tem o gênio da lâmpada e pode pedir o que quiser. Qual é a primeira coisa mais importante na hora de usar esse poder?
+
+A resposta é ter clareza. Clareza do que você realmente quer, de qual caminho você quer viver, de qual vida você quer ter. Com essa clareza, aí sim você consegue fazer pedidos melhores.
+
+Sobre já termos chegado à AGI, a resposta dada foi que não dá para saber, porque depende do que cada um chama de AGI.
+
+## Clareza do que se está construindo pesa mais que estrutura de prompt
+
+Outra pergunta do chat pede para categorizar o prompt em blocos, com boas práticas e exemplos. Antes disso fica o registro de que existe uma trilha inteira sobre estrutura de prompt dentro dos conteúdos, onde o assunto é explicado em detalhes.
+
+O ponto levantado é que as inteligências artificiais evoluíram bastante. A demonstração da aula foi conduzida apenas mandando áudio, e a ferramenta executou assim mesmo.
+
+Isso mostra que dá para fazer coisas incríveis desde que você tenha clareza do que está construindo. Essa clareza pesa mais do que a estrutura de prompt.
+
+## Os cenários em que engenharia de prompt é importante
+
+Engenharia de prompt não perde o valor por causa disso. Ela é muito importante quando você vai criar um sistema que precisa rodar sozinho, sem você ficar verificando, e que tem que funcionar dentro das diretrizes definidas.
+
+Ela também é importante quando o resultado não vem. Você não está conseguindo chegar onde queria, então muda o prompt e ajusta.
+
+O terceiro cenário é hackear a inteligência artificial, no sentido de fazer ela não seguir o caminho óbvio e trazer resultados inusitados e diferentes. Existem outros cenários além desses três, apenas resumidos na aula para passar a ideia.
+
+## Construir um projeto pede um jeito diferente de trabalhar
+
+Na hora de construir um projeto, o jeito de trabalhar muda. Você cria um workflow, monta um passo a passo, coloca a ferramenta para trabalhar nesse passo a passo e vai construindo junto, falando onde quer que ela ajuste.
+
+O nível de exigência sobe conforme o pedido. Se for um sistema de aprimoramento contínuo, construído por ela ao longo do processo, aí você precisa de uma estrutura de prompt mais bem construída. Depende muito de contexto.
+
+No caso desta aula o ensino é didático e passo a passo, e no final a ferramenta entrega um sistema. Se o design não ficar bom, dá para mexer depois, pedindo alterações.
+
+## A anatomia do prompt usado na demonstração
+
+O prompt enviado foi estruturado em partes, cada uma com uma função declarada.
+
+### O objetivo
+
+A primeira parte é o objetivo: o que ele quer. A formulação usada foi que queria construir um sistema que fosse assim, assim e assim.
+
+### O detalhamento de como o sistema deve ser
+
+Depois do objetivo vem o detalhamento, feito no máximo de profundidade possível. Ele desenhou mentalmente o sistema para a ferramenta, com palavras, descrevendo como imaginava que ele deveria ser.
+
+Esse detalhamento poderia ter sido feito por outros meios. Dava para mandar desenhos, mandar prints, mandar qualquer tipo de referência. A escolha de fazer só com texto foi dele.
+
+### Como a ferramenta vai realizar o pedido
+
+Explicado o objetivo, entra o como. A especificação dada foi a ordem dos documentos: criar um briefing, criar um PRD, criar um spec e criar um workflow, exatamente nessa ordem.
+
+Só depois de produzir esses documentos de preparação e planejamento do projeto é que a ferramenta pode iniciar o projeto de fato.
+
+### A stack de construção
+
+A parte seguinte diz com o que construir. Ele passou a stack inteira, citando JavaScript, Next e a biblioteca de componentes que costuma usar.
+
+### As considerações finais
+
+O último bloco do prompt são as considerações finais. O hábito declarado é colocar ali o jeito como a ferramenta vai trabalhar: paralelização e delegação para outros agentes.
+
+Às vezes ele chega a especificar cada um dos agentes separadamente. Com isso definido, o agente trabalha nesse formato para ele.
+
+## Trabalho sério é feito com calma e com leitura dos documentos
+
+Existe uma diferença entre a demonstração e o trabalho de verdade. Quando é trabalho sério mesmo, boné para trás, focado, modo caverna, o ritmo é outro: vai com mais calma e lê os documentos.
+
+O motivo é específico. O momento em que você mais facilmente pode errar é o início, não é depois. Investir tempo no início faz você ganhar muito mais lá na frente.
+
+## A metáfora do barquinho e os poucos graus de diferença
+
+Para mostrar o peso do início, um mapa do mundo é desenhado à mão livre na tela, com a América, a América do Sul, a África, a Europa, a Ásia e a Oceania posicionadas de forma aproximada.
+
+A cena proposta é a seguinte: você está nesse mapa com um barquinho e precisa decidir a direção que vai seguir. Traça uma reta para um lado ou traça outra reta com poucos graus de diferença.
+
+O destino dessas duas retas é completamente diferente. Uma delas chega na região entre Espírito Santo e Bahia, mais perto do Espírito Santo. A outra chega lá na pontinha do Rio.
+
+Poucos graus de diferença na saída levaram o barco a um lugar completamente diferente. O convite feito na sequência é imaginar exatamente isso acontecendo com a inteligência artificial.
+
+*Para ver o resultado desta demonstração, assista a partir de [05:40] no vídeo.*
+
+## O que é o início de um projeto na prática
+
+O início não é uma ideia abstrata. É o momento em que as definições são feitas, e na trilha elas já foram feitas uma a uma.
+
+Os documentos citados são o modelo do negócio, o briefing do que vai ser construído, o PRD, o spec e o workflow. Antes do briefing e do modelo de negócio, foi feito também um mapa de mercado.
+
+## Os arquivos que você não lê são os cinco graus que tiram você da rota
+
+Ter todos esses arquivos não resolve nada sozinho. O problema aparece quando você acumula um monte de arquivo e um monte de decisão registrada e não lê nenhum deles.
+
+No meio dessas decisões existe uma direção definida, e ela pode ser aqueles cinco graus para baixo quando você queria ir mais para cima. Isso muda completamente o sistema que você vai ter no final.
+
+O prejuízo é de tempo. Você colocou a inteligência artificial para construir durante um tempão e perdeu esse tempo porque não leu.
+
+A conduta correta é ler os arquivos que ela te passou e responder: é isso aqui mesmo, isso aqui não é, a gente vai nessa direção. Tratar esses dados é o que dá mais precisão ao trabalho com a inteligência artificial.
+
+## O início do projeto é a parte mais importante e a mais negligenciada
+
+O encerramento reúne o raciocínio da aula em uma frase. O início do projeto é a parte mais importante e, ao mesmo tempo, a mais negligenciada.
+
+É nele que a direção é escolhida, e é nele que um desvio de poucos graus passa despercebido. Por isso ele é o ponto que precisa ser levado em consideração antes de acelerar a construção.
+
+## Materiais da aula
+
+- [Briefing, PRD, spec e workflows no SOS](https://sosatlasnegocios.vercel.app/#/dia-01/briefing-prd-spec-workflows): mesmo material da A11, enviado por Nanda e retomado nesta aula.
+- [Prompt do sistema de gestão](../materiais/organizados/Dia%2001/MD/Prompts/A11%20-%20Sistema%20de%20gestao%20-%20trecho%20ditado.md): recorte da A11 que serve de referência para a explicação.
+- [Quadro branco do Atlas no Figma](https://www.figma.com/board/PbpEXh5DAKTWuT0njBQnqb/Atlas-para-Negocios?node-id=12-4&t=uyMxKRiZiB2EoOXN-1): quadro compartilhado por Ruan.
+- [Banco de prompts do SOS](https://sosatlasnegocios.vercel.app/#/prompts): apoio geral.
+
+## Coloque em prática
+
+Leia todos os documentos que o agente gerou antes de mandar construir.
+
+Confirme a direção em voz alta. Diga o que está certo e o que não é isso.
+
+Estruture seu próximo prompt nesta ordem: objetivo, detalhamento, como realizar, stack e considerações finais.
+
+Antes de pedir qualquer coisa, escreva em uma frase o que você quer de verdade.

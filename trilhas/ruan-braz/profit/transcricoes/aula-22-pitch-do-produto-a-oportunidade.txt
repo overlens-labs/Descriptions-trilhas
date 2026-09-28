@@ -1,0 +1,375 @@
+Aula 22 · Pitch: do produto à oportunidade
+
+[00:00] Boa, a próxima pessoa aqui na fila é...
+[00:03] Tudo certo, Carlos?
+[00:04] Sim.
+[00:05] Quando estiver pronto é só falar.
+[00:07] Certinho aqui.
+[00:08] Já consigo compartilhar, né?
+[00:10] Consegue.
+[00:11] Tá com o telefone aí do lado?
+[00:12] Tô.
+[00:13] Então manda ver.
+[00:15] Então, olá, pessoal.
+[00:16] E é só hoje que eu vou contar sobre um dos últimos cheques que tomei durante uma partida de xadrez com um dos meus sócios.
+[00:23] Carlos, o cliente não paga por esse serviço que você está entregando aí.
+[00:26] A gente vai ter que abaixar o nível, chegar num arroz com feijão bem feito,
+[00:29] pra gente não acabar pagando no lugar do cliente.
+[00:32] E como todo designer perfeccionista, não foi algo muito fácil de a gente resolver na prática,
+[00:37] mas um bom, um grande aprendizado.
+[00:40] Felizmente, eu consegui lidar bem com isso,
+[00:42] e a empresa, a que é a Método, finalmente teve seu primeiro ano de lucro.
+[00:46] Mas a pergunta que fica é, quantas empresas no Brasil, quantas empresas o Brasil perde simplesmente porque os sócios não souberam conversar?
+[00:55] Nós identificamos que o grande problema é o desalinhamento, o desalinhamento entre sócios, onde uma conversa importante nunca acontece ou pode até acontecer, mas não tem nenhum impacto de fato na empresa.
+[01:12] E ainda por cima, ambos os sócios perderam um tempo valioso.
+[01:18] Então, imagine perder 300 mil reais em patrocínio que simplesmente não foram aproveitados por faltar tempo de alguém sentar numa cadeira e simplesmente estruturar um projeto.
+[01:34] E isso não é só um caso isolado.
+[01:38] Você sabe qual é a maior categoria na maior câmara de habitagem do país?
+[01:46] O societário. Processos que levam até sete anos para se resolver.
+[01:51] Categoria essa que atingiu a maioria dos casos em 2025.
+[01:55] Podem ver aqui um crescimento de 3 ,8 % do 2024 para 2025.
+[02:02] E assim, buscando fortalecer boas ideias, nós da Casa 64 ajudamos duplas de sócios a tomarem decisões assertivas nos seus negócios,
+[02:11] construindo um pareamento entre sócios a partir de nossa metodologia proprietária, comparando discurso e prática.
+[02:18] E a distância entre essas duas respostas é o nosso produto, que vocês podem ver no nosso MVP, e em princípio ele funciona assim.
+[02:27] Sim, primeiramente os dois sócios vão responder aos mesmos cenários individualmente, sem ver a resposta um do outro.
+[02:33] Dessa maneira, cada um declara o que deveria ser feito em determinada situação de gestão, de negócio, e o que eles realmente fariam na prática.
+[02:41] E, como você pode ver ali na seção, quão confiantes estão nisso.
+[02:47] Depois, depois que o segundo sócio responde, onde a gente pode estar acompanhando ali no MVP,
+[02:51] O sistema cruza esses dados, gerando um painel comparativo, revelando exatamente onde o discurso e a prática dos dois entram em colisão ou consonância.
+[03:01] Aqui a gente pode ver o resultado do participante A, participante B, e aqui como MVP a gente tem um resumo, mas ele se expande muito mais que isso.
+[03:10] Hoje, mas hoje, o nosso maior problema é que desde 2021 a Receita usa o mesmo código, a mesma mostragem de dados,
+[03:18] Para empresas limitadas com sócios e de dono único.
+[03:22] Assim, a gente não sabe exatamente quantas sociedades existem de fato no Brasil.
+[03:27] Então, a nossa estimativa, a partir do IBGE, é que são de 480 a 670 mil empresas.
+[03:36] Isso, empresas com 10 ou mais empregados.
+[03:41] Empresários desse porte já costumam investir de 5 a 45 mil reais em programas de formação de gestão.
+[03:47] Mas nenhum desses programas abordam explicitamente esse paramento entre sócios.
+[03:53] Dessa maneira, precificamos nosso produto em torno de R $ 7 .000, mas, como a gente está aqui em fase de desenvolvimento,
+[04:01] temos uma oferta promocional por simplesmente R $ 3 .500.
+[04:07] Assim, você, investidor, também pode estar se perguntando, como que esse negócio funciona na prática?
+[04:14] Hoje nossa operação custa R $ 2 .500 por sócio.
+[04:17] Isso inclui os dois sócios pagos, o contador, o custo de operação e o imposto de 6%.
+[04:24] Assim, o nosso break -even é atingido simplesmente com quatro novos clientes cada mês.
+[04:29] Com a possibilidade de que a recorrência, mas aqui a gente está definindo somente com a entrada de quatro novos clientes cada mês.
+[04:36] Isso somente com o nosso valor promocional de R $ 3 .500.
+[04:38] O que já existe são 16 cenários de empresas testados tecnicamente, um instrumento rodando, como vocês poderam ver lá atrás, protocolo de validação, que é essa estrutura que ainda não existe, o produto está em validação, o projeto está desenhado e essa operação ficou fechada.
+[05:01] O protótipo já funciona como encaminhado e nossos próximos passos é continuar aprimorando esse serviço,
+[05:09] tangibilizar ainda mais a solução com novos produtos que tornem toda a promessa do relatório tangível no dia -a -dia dos sócios,
+[05:21] mas o mais importante de tudo isso é validar essa solução com clientes reais.
+[05:27] Assim, precisamos sentar com sócios de verdade.
+[05:30] Primeiro, para entender se as perguntas que a gente desenhou funcionam.
+[05:35] E depois, com as primeiras duplas de fato, para valer, vendendo o produto, oferecendo o serviço completo que a gente pretende entregar.
+[05:48] Aqui vocês podem ver um pouco da ideia inicial que fez crescer, de onde partiu toda a premissa da Casa 64.
+[05:59] A gente fez exercício do motor moral na Overlens, na Vanguarda, e criou um grande relatório juntando os dois dados, os meus dados com os da Maia,
+[06:15] cruzando esses dados para entender onde que a gente tem divergência, conflito ou consonância, para assim tomar melhores decisões de como a gente faria o negócio.
+[06:25] E sim, vimos uma grande oportunidade de vender isso como um serviço.
+[06:32] Mas, fica na mesa, que cada sócio tem sua jogada e nenhuma delas está errada.
+[06:39] Mas a gente consegue definir qual é a mais assertiva?
+[06:44] Fechou?
+[06:45] Fechou.
+[06:46] Ah, o Carlos pensando aí, não vou falar, é isso.
+[06:53] Entendi.
+[06:55] Primeiro, parabéns pela apresentação, pelo visual dela, muito bonito, tá?
+[06:59] Infelizmente, a gente perdeu um pouco da experiência pela internet, né?
+[07:04] Os frames ficam meio truncadinhos.
+[07:07] Imagino que aí deve ficar mais legal ainda.
+[07:10] Mas muito bom, muito bom.
+[07:13] Olha só, interessante, eu tenho uma pergunta aqui de oportunidade
+[07:18] e uma pergunta sobre a funcionalidade.
+[07:20] Vou começar com a oportunidade aqui.
+[07:22] Nick, você falou ali, e eu não entendi muito bem, quando você disse de custo de 12 mil os dois sócios, e pelo que eu tinha entendido o preço era 3 .500, e aí a minha pergunta de oportunidade aqui é a seguinte, qual é o ICP de vocês, que vocês acreditam que pagaria esse valor?
+[07:42] O nosso ICP seria essas empresas que já tem 10 pessoas na operação, que a gente acredita que teria uma flexibilidade maior para poder investir nesse serviço.
+[08:00] A solução de vocês, cada sócio paga um valor?
+[08:03] Não, exatamente isso que facilita ainda mais, porque os sócios poderiam dividir esse valor, porque o serviço completo é R $3 .500.
+[08:17] Certo.
+[08:22] Vocês pensaram nisso para os sócios?
+[08:24] Isso é desconto, né?
+[08:25] Sim, sim, sim.
+[08:27] Mas a gente também pode trabalhar com lideranças, mas a gente está focando o produto hoje para...
+[08:32] É, a minha pergunta é para vocês.
+[08:34] É, a minha pergunta é para vocês, se vocês pensaram para lideranças ao invés de sócios,
+[08:38] porque aí eu vou trazer a minha próxima pergunta, que é
+[08:40] Como o sistema de vocês lida com o ego?
+[08:44] O ego é uma questão difícil de responder, porque a gente buscou ao máximo evitar questões muito psicológicas, comportamentais,
+[08:58] e sim entender, para que os sócios possam entender qual que é a decisão certa para a empresa.
+[09:08] E aí vem uma pergunta interessante sobre isso. Eu queria que você chegasse aí para falar sobre a funcionalidade. O sistema de vocês é integrado em alguma base de conhecimento da empresa para que ele consiga ter precisão em relação ao qual é o melhor caminho para o contexto da empresa naquele momento? Ou ele é só baseado no que os sócios acham naquele momento?
+[09:33] Então, hoje o serviço, ele não é integrado na empresa do cliente, a gente não quer definir, decidir ali para o cliente o lugar dele, a gente só quer mostrar possibilidades, quais é possivelmente o caminho que eles podem seguir, a gente não quer exatamente definir qual é o caminho que a empresa vai tomar por eles, mas dar essa clareza, entregar essa clareza do que eles podem estar tomando.
+[09:58] Então é o inverso, ele é melhor para apresentar pontos cegos nos argumentos e incoerências de visão do que de fato um caminho, é isso?
+[10:08] Isso, a gente está seguindo mais nessa linha hoje
+[10:15] Entendi, e hoje ainda vocês não validaram, ninguém pagou ainda por isso
+[10:20] Não, hoje ninguém pagou por esse serviço
+[10:23] Bom, vou começar com a história da Mayara, né?
+[10:26] Mayara é essa autista aqui de...
+[10:28] Hoje ela tem 20 anos de idade.
+[10:30] Quando ela foi nossa aluna, ela tinha 17 anos.
+[10:33] Ela é de Porto Alegre e foi uma das 30 participantes aqui do nosso programa do Coteia.
+[10:40] É uma jovem talentosa que descobriu o seu interesse aí pela paixão pelo design gráfico
+[10:46] e aí a gente fez, participou do nosso treinamento.
+[10:49] A Maiara é um caso muito comum.
+[10:54] Opa, caiu aqui. Desculpa, gente.
+[10:57] A gente está olhando.
+[11:00] É, não, é que o número perdeu a formatação, sorry.
+[11:05] Mas a Maiara é um caso entre milhões.
+[11:11] No Brasil, a gente tem aproximadamente 5 milhões de autistas.
+[11:15] E ela é filha, uma realidade que acontece muito comum, dos pais dos homens abandonarem as suas famílias e ela acaba crescendo sem essa figura paterna, mas também a mãe dela tem que abandonar o emprego e perde renda imediatamente porque tem que parar de trabalhar.
+[11:41] E a Mayara, ela foi uma das pessoas que ajudava a mãe dela aí na, na, vendendo artesanato na feira para complementar a renda, né, então os autistas eles têm esse problema, mas, e com relação também ao custo das terapias, e nossa solução aqui hoje vai atacar justamente esse problema, né, hoje a gente tem um milhão de alunos, mais de um milhão de alunos no ensino regular, né, de pessoas autistas, é um número que cresce,
+[12:11] Muito, é sempre muito fácil diagnosticar, né, e o problema é que as crianças estão chegando nas escolas, mas a preparação não, né, quem cuida delas não, então por isso que a gente tem uma proposta de criar um, cada caso, que vai ajudar a pessoa na clínica, na escola e em casa, né, por um custo, uma fração do que é, que é o custo hoje, e hoje um tratamento, ele,
+[12:41] Pode chegar a 30 mil reais por mês de terapia ABBA.
+[12:47] E os planos de saúde, como eu já falei, se eles filtram esse custo na planilha do Excel de ZA,
+[12:55] autismo aparece em primeiro lugar e supera, inclusive, o custo de câncer nos planos de saúde.
+[13:02] Então, o plano de saúde tem o interesse em resolver esse problema porque tem muito overprice por parte de clínicas,
+[13:10] Porque tem muito overprice também por conta do supervisor, que é o cara que é responsável pelo caso, né?
+[13:16] Que às vezes acaba nem seguindo um protocolo, uma fidelidade de protocolo que ele acaba se comprometendo.
+[13:23] E aí a minha ideia é conectar em torno do caso, né?
+[13:29] Da Mayara, do Enzo, então conectar essas pessoas para cuidar do caso, a clínica, a escola, a família
+[13:36] e também o indivíduo, no caso de adultos nível 1 de suporte, que consigam acompanhar o seu próprio caso.
+[13:45] Então, como que funciona? O caso entra na plataforma, a IA monta um plano e cada caso recebe uma peça, né?
+[13:53] Cada um deles, uma orientação para a escola, uma orientação para a clínica, uma orientação familiar, uma carta para a família.
+[13:59] Hoje a gente já vem testando esse modelo em um produto que a gente tem aqui que se chama SuperAbo.
+[14:06] Então, onde que a gente vai, nós já temos isso pronto, rodando aqui, então onde que a gente quer rodar isso no nosso ecossistema, a gente quer criar um site específico, uma plataforma específica para receber e centralizar esses casos com esses históricos e a gente quer construir esse piloto.
+[14:30] Então, qual que é o tamanho hoje do nosso TAM, né? Esse número aqui é o que tem no censo, né? 2 .4 milhões de brasileiros, tem esse SAM de escolas, que as clínicas e as escolas já pagam por isso, e hoje a gente quer chegar nos 45 mil usuários na nossa base própria de usuários.
+[14:53] A gente tem três modelos de precificação, um modelo de entrada gratuito, o custo de CAC dele aqui é de 30 centavos para eu manter esse pagante aqui.
+[15:03] Então, se eu tiver mil pessoas, eu ainda vou estar pagando só 300 reais.
+[15:08] E aí a gente quer um modelo que ele traz o seu próprio modelo de 29 e o modelo premium, que é 59 reais por mês, que entrega pacotes diferenciados.
+[15:18] e modelo para clínicas, que é o que a gente acha que é o que mais vai ter, que é entre 890 e 290, de acordo com o número de pessoas.
+[15:28] Hoje, só para ter uma comparação, custa, para resolver esses 29 reais aqui, em torno de 200 a 600 reais para clínica.
+[15:39] Eu vou avançar aqui, que eu quero, esse é o que eu custo, essencial, mas eu vou avançar porque meu tempo está acabando,
+[15:48] A gente está operando há sete anos, então a gente quer ter esses 45 mil usuários no programa, a gente já tem 2 mil casos mapeados em estudo longitudinal durante seis anos, então a gente já tem isso testado, é daí que vem essas informações para os novos casos, junto com o grafo de todas as abordagens multilentes que a gente desenvolveu aqui.
+[16:11] A gente recentemente lançou uma plataforma de comunicação aumentativa alternativa,
+[16:17] que é o AdaptBoard, que gerou um milhão de acessos nas redes sociais.
+[16:21] Eu sou a pessoa que acompanha e desenvolve, estou construindo isso, tenho 20 anos nessa área,
+[16:29] e hoje o que eu quero aqui é pedir para o Ruan, não saia do Overlens, traga o Overlens aqui para o meu negócio,
+[16:37] Venha com ela. Na verdade, o que eu quero é a mentoria, quero a Vanguarda e quero oferecer para você 1 % do lucro líquido.
+[16:44] Então, vocês não participariam da despesa para manter aquele CAC lá de zero, mas o lucro líquido vocês ficariam com 1 % sem risco.
+[16:52] E, opa, sumiu. A Mayara, quero só para falar que a Mayara foi uma das, a primeira pessoa que a gente empregou aqui na ADAPT.
+[17:03] E depois, hoje ela já está há três anos na Somos Educação, passando pelo nosso processo educacional de formação, e no final de 2013, foi o ano que a gente empregou ela, ela me ligou querendo ser a doadora, ela foi nossa primeira doadora, doando seu décimo terceiro aqui para a gente, acabou gerando uma comoção lá na empresa, os colegas de trabalho dela também quiseram doar, então foi muito legal assim poder ver a transformação na vida dela.
+[17:32] E a gente te chama para a gente multiplicar em mil vezes, em milhões de vezes, essa experiência que ela teve aqui com a gente.
+[17:40] Legal demais, Emanuel. Muito bom. Legal trazer o caso dela, inclusive, né?
+[17:45] Isso veio do conselho que eu dei no último, né? Trazer uma história que tangibiliza tudo isso.
+[17:53] E, com certeza, eu consigo visualizar agora o impacto, né?
+[17:57] Os números já mostram esse impacto com certeza, mas a história traz mais disso.
+[18:03] E a proposta é muito boa, eu falei que eu não ia falar da última vez, falando aqui agora, eu gosto muito dela.
+[18:10] Ela é uma proposta específica não para uma incubadora, mas para um outro tipo de parceria.
+[18:17] Eu
+[18:17] um pouquinho.
+[18:18] Eu só queria falar o seguinte, que é só um pedaço do meu projeto esse, né?
+[18:22] Que eu observei que aqui não tem ninguém que apresenta produto físico,
+[18:28] e no meu caso é um produto físico e digital ao mesmo tempo, tá?
+[18:33] Ótimo. A ideia é apresentar a oportunidade, então...
+[18:37] Eu, na verdade, eu até conversei com a Maia, e aí ela falou pra mim que eu tinha que falar, né?
+[18:44] Mas eu fiz um vídeo, porque eu já aproveitei, porque é o meu vídeo de pitch mesmo, pra captação.
+[18:51] Então eu vou rodar ele aqui, tá?
+[18:53] Deixa eu ver aqui como é que sai.
+[18:56] Sabe o que é mais engraçado? Eu não coloquei essa regra, né?
+[18:59] Eu não coloquei uma regra. Posso gravar meu pitch?
+[19:03] Eu vou ter que colocar na próxima, mas como eu não coloquei, tá tudo bem.
+[19:07] Aí eu vou dar play, tá?
+[19:10] Pronto, pronto.
+[19:11] Olá, eu sou Osana Herrera, economista, doutora em agronomia e há mais de 20 anos trabalho com produtos naturais brasileiros.
+[19:21] A Natura Mater nasceu de uma inquietação.
+[19:24] Durante milhares de anos, ervas e especiarias fizeram parte da alimentação humana.
+[19:30] davam sabor, identificavam culturas e traziam ao prato uma diversidade extraordinária de compostos naturais.
+[19:40] Nossa alimentação mudou, ganhamos conveniência, escala e praticidade.
+[19:47] E no caminho deixamos muita coisa para trás.
+[19:50] E comecei a me perguntar, o que perdemos quando reduzimos tanto essa diversidade?
+[19:56] Passei meses cruzando literatura científica sobre ervas e especiarias, seus compostos e seus usos tradicionais, e encontrei algo fascinante.
+[20:07] Enquanto a ciência moderna investiga cada vez mais os compostos bioativos presentes nos vegetais, muitos dos ingredientes que os contêm estão desaparecendo da nossa cozinha cotidiana, e aqui nasceu a tese da Natura Mater.
+[20:25] Talvez não precisemos transformar alimento em medicamento.
+[20:34] Talvez precisemos começar na cozinha, reintroduzindo diversidade, recuperando ingredientes, reaprendendo a combinar,
+[20:43] de um jeito que as pessoas queiram repetir todos os dias, com prazer e sabor.
+[20:50] Por isso existe uma fronteira que, para mim, é fundamental.
+[20:55] A Natura Mater não pretende diagnosticar, não pretende prescrever e não pretende tratar doenças.
+[21:03] O alimento não é o remédio, é o lugar onde a saúde começa, antes de precisar...
+[21:14] Quando tá ficando interessante, poxa.
+[21:16] Queremos transformar conhecimento em escolhas culinárias, tradição em experiência, ciência em ingredientes e ingredientes em comida de verdade.
+[21:27] Foi daí que nasceu o nosso conceito, Natura Mater, a ciência que entra pela cozinha.
+[21:34] No início, desenvolvemos 20 blends funcionais de ervas e especiarias, mas rapidamente percebemos que não estávamos criando uma linha de temperos, estávamos construindo algo muito maior.
+[21:49] Hoje, a Natura Mater está sendo estruturada como uma plataforma de civilização alimentar, com aproximadamente 100 produtos organizados em 5 grandes universos.
+[22:05] Os funcionais respondem o que estou tentando fazer na cozinha, taste off de onde vem esta comida, e assim por diante, 5 portas diferentes para entrar no mesmo universo,
+[22:17] Um universo em que tradição, cultura, ciência e gastronomia voltam a conversar.
+[22:24] Mas percebemos outro problema.
+[22:26] Não adianta desenvolver 100 produtos se o consumidor compra um pote e não sabe o que fazer com ele.
+[22:33] Por isso, na Natura Mater, o produto é apenas o começo da experiência.
+[22:38] Criamos cookbooks gratuitos, receitas, conteúdos educativos e seis protocolos culinários.
+[22:47] Um deles se chama Sem Sal, Mas Com Amor.
+[22:52] Outro, Acabou -se o que era doce.
+[22:55] Os nomes são leves de propósito, porque não estamos oferecendo tratamentos.
+[23:00] Nossos protocolos são roteiros de cozinha.
+[23:04] Ensinamos combinações, preparações e maneiras de trazer diferentes ingredientes de volta para o cotidiano.
+[23:13] E então surgiu a pergunta de negócio.
+[23:16] Como fazer esse conhecimento chegar a milhares de cozinhas sem depender do varejo tradicional?
+[23:23] Nossa resposta é combinar tecnologia com pessoas.
+[23:27] Estamos estruturando uma rede de parceiros credenciados da Natura Mater, chefes, educadores culinários e criadores com comunidades de comida.
+[23:39] O parceiro compartilha o link ou o QR code.
+[23:45] O consumidor entra no ecossistema, faz um quiz sobre seus hábitos e preferências culinárias, descobre seu perfil e conhece conteúdos, protocolos e produtos relacionados.
+[24:01] Se decidir comprar, faz isso diretamente no nosso e -commerce.
+[24:06] E o parceiro participa da geração desse novo cliente.
+[24:10] Isso cria um modelo direto ao consumidor, baseado não apenas na primeira venda, mas na recorrência.
+[24:18] Uma pessoa chega por um conteúdo gratuito, compra um protocolo, experimenta o primeiro blend e volta para descobrir os outros universos.
+[24:28] Em vez da margem do varejo, construímos relacionamento direto.
+[24:34] E existe ainda uma segunda avenida de crescimento, a Natura Mater Ingredients.
+[24:43] Nesse canal, nossos blends deixam de ser produto de consumo e passam a ser ingrediente para outras indústrias de alimentos.
+[24:52] Dois motores complementares, D2C para marca e recorrência, B2B para escala.
+[25:00] A Natura Mater começou com uma pequena indústria, 20 blends e uma pergunta. Hoje, essa pergunta virou tudo isso, mas a nossa ambição não é colocar mais 100 produtos no mundo, é outra.
+[25:15] Queremos devolver diversidade à cozinha, recuperar ingredientes, sabores e conhecimentos que atravessaram gerações e usar a ciência não para transformar comida em remédio, mas para nos ajudar a compreender melhor aquilo que está no prato, porque grandes transformações não precisam começar no laboratório, na farmácia ou no consultório.
+[25:44] As vezes elas podem começar em um lugar muito mais simples, por exemplo, na sua próxima refeição.
+[25:54] O produto, se alguém quiser ver direito, eu vou colocar o link do vídeo, tá?
+[26:04] Sim, claro. Você conseguiu bater os sete minutos como gravou, né? Dava pra gerenciar ali, mesmo com o tempo...
+[26:14] dando umas garradinhas, né? Deu sete minutos
+[26:16] aqui, mas
+[26:18] primeiro de tudo, tá? Tem uma solução
+[26:20] muito inteligente aí, e você fez uma
+[26:22] coisa que eu achei
+[26:24] interessante dentro da minha cabeça, que
+[26:26] é visualizar
+[26:28] uma possibilidade de produto,
+[26:30] né? Sobre
+[26:32] a oportunidade. Eu tenho o produto pronto já.
+[26:34] Ele tá pronto. Sim, eu falo
+[26:36] de enquadramento dele pras pessoas.
+[26:39] Ah, sim. Quando você
+[26:40] fala que existe um mundo da culinária,
+[26:42] O seu roteiro está bom, entendeu? O roteiro está interessante ali.
+[26:47] Eu acho que tem como enquadrar design ali para gerar muito desejo, mas o roteiro está interessante,
+[26:54] porque eu foquei mais nas palavras que você escolheu para montar o roteiro e isso me fez pensar sensorialmente nisso.
+[27:02] Por exemplo, quantos temperos eu nunca experimentei, quantas junções de alimentos eu nunca experimentei,
+[27:08] E aí isso cria um mundo na cabeça.
+[27:10] E eu vi que tem alguns sinais ali na sua apresentação, que às vezes, isso criou uma vantagem injusta para você,
+[27:18] mas você jogou dentro das regras, eu não posso fazer nada dessa vez.
+[27:22] Que é, por exemplo, você pôde revisar o vídeo ali, as outras pessoas tiveram que se virar para tentar mostrar a ideia delas ao vivo.
+[27:29] Mas tem algumas coisas interessantes ali, que eu vejo.
+[27:33] Primeiro, dá pra ver uma inteligência sua em relação ao mercado pra falar que isso não é um remédio, não é uma solução,
+[27:41] que na verdade você quer propor um estilo de vida, basicamente é isso, um estilo de vida pras pessoas ali.
+[27:48] Então vi isso, você trouxe também uma camada de B2C, B2B, como você pensa em distribuir isso,
+[27:53] então tem uma inteligência de modelo de negócio que eu não vi, na verdade eu vi no do Emanuel um pouco e no seu,
+[28:00] Os outros eu não vi essa camada, que é uma das coisas que eu quero comentar e aí eu tô trazendo aqui de feedback também, que eu achei interessante, né, teve no seu, então uma camada de modelo de negócio e eu achei muito legal, tá, achei muito massa.
+[28:15] Mas, em questão de oportunidade, o que não ficou claro ali pra mim é o tipo de oportunidade que você tá abrindo no sentido de
+[28:24] eu quero parceiros pro negócio, eu quero uma sociedade, eu quero divulgar meu produto pra outras pessoas comprarem,
+[28:33] eu só senti falta disso no objetivo do vídeo em si.
+[28:37] Não, eu falei, eu falei, eu acho que você, acho que talvez eu tenha que melhorar.
+[28:42] Pode ser que eu esqueci, pode ser, não, pode ser.
+[28:44] É, apresentação, esse pitch é, na verdade, para captação de parceiros.
+[28:52] Então, mas, exato, quando você fala de parceiros, você está falando de parceiros em que sentido?
+[28:57] Pode ser que passou a música e eu perdi, tá?
+[28:59] Parceiros, divulgadores do produto, porque eu não dei o...
+[29:03] Divulgação, distribuição.
+[29:04] Ele tem um MCM que ele não pode ir para a prateleira, porque senão vai ficar inviável o preço no final,
+[29:11] por questões fiscais, né, de tributação.
+[29:14] no final ele vai sair um preço muito alto e vai ficar inacessível pra muita gente, eu quero pegar uma faixa de população que consiga comprar esse produto no máximo por 20 reais mas você quer vender um produto que chega na casa da pessoa sim, esse produto vai pelo nosso e -commerce e o que eu preciso como não é um produto comum, ninguém conhece, são blends bem diferenciados
+[29:44] E esses blends, começou toda essa história, eu ligando isso a questões de saúde, uma pesquisa que eu fiz durante muito tempo, e aí eu passei isso pela IA, tava tudo pronto já, cookbook, tudo, 20 produtos, e aí ela me apontou que isso daí eu poderia ter problemas com a questão de regulatórios, aí eu voltei tudo pra trás, comecei rótulo de novo, tudo de novo,
+[30:14] Eu vou te dar uma direção aqui, não é a ideia, mas eu fiquei com muita vontade de fazer isso, então vou fazer.
+[30:21] Pra pensar sobre isso, talvez você já pensou também, a gente discute depois.
+[30:25] Mas o que você tem de mais valioso é a informação, e não o produto em si.
+[30:31] E se você distribuir essa informação do jeito certo pra mais pessoas, gerando desejo nelas,
+[30:36] e talvez ensinando pra elas que elas podem encontrar isso, até o próprio nome já fala, mãe natureza.
+[30:43] Então, encontrar isso na própria natureza, essa informação, talvez seja a coisa mais valiosa que você tem aí.
+[30:50] E ela é mais fácil de distribuir.
+[30:52] Um problema grande, assim, né, é que eu tenho que evangelizar as pessoas porque ninguém conhece.
+[30:59] Quando você fala tempero, a pessoa pensa salsinha, cebolinha, essas coisas aí.
+[31:03] Ou pior ainda, né, caldo de quinoa.
+[31:06] Blends sinergicamente combinados, né, e não esse daí, pelo amor de Deus.
+[31:11] São blends que são sinergicamente combinados com base em ciência, não é?
+[31:17] Sim, exato.
+[31:19] Então, as pessoas não estão preparadas para isso.
+[31:22] E a minha função, o meu trabalho maior é fazer essa evangelização, né?
+[31:29] E tornar isso uma realidade para as pessoas, porque a minha teoria principal é que,
+[31:35] A partir do momento que você parou de comer determinados fitonutrientes, começou -se uma epidemia muito grande de problemas crônico -degenerativos, tem até estatística disso, e essa dor é uma dor que está no mundo, e eu gostaria assim de, o médico vai falar, é muito pouco que você tem ali, mas não é, porque se você comer uma coisa com constância, você entendeu?
+[32:05] Isso no seu organismo, ele vai criar várias barreiras com relação a doenças.
+[32:12] E esses temperos a gente usa desde que a humanidade começou, né?
+[32:20] E nós paramos de comer.
+[32:22] Você ia na casa de uma tia, tinha um arroz doce com canela, tinha um doce de mamão com cravo,
+[32:30] e hoje não tem mais isso, você tem o sintético.
+[32:33] Biscoito recheado.
+[32:36] Muito bom, Osana. Tem várias questões interessantes aí, tá? Gostei muito.
+[32:42] Eu adoraria ter visto você apresentando isso ao vivo também, mas ainda assim você cumpriu aqui os requisitos.
+[32:52] Mas é muita coisa em sete minutos.
+[32:54] É isso, esse é o jogo, né?
+[32:56] A ideia é muito complexa pra se colocar, né?
+[33:00] Com certeza, com certeza.
+[33:02] Obrigado.
+[33:02] complexo, mas muito bom. Parabéns e fiquei interessado também. Existem ideias que às vezes eu escuto e falo, cara, dá muita vontade de contribuir com elas, né? E a sua é uma delas. Muito massa. Parabéns.
+[33:17] Eu espero que você contribua. Eu vou colocar a foto dos produtos aqui, de alguns, né, pra vocês darem uma olhada também.
+[33:28] Você tem uma super tese que está escondida dentro de um enquadramento que tem pouco potencial.
+[33:39] Quando eu falo isso, eu estou falando no sentido de comunicação mesmo ali, design, visual mesmo,
+[33:45] o que você está mostrando para as pessoas, alimento é muito sensorial.
+[33:49] Se você traz essa camada sensorial para a sua comunicação ali, você tem uma big idea já,
+[33:55] Isso já é real, ela só precisa do enquadramento certo, porque é uma ideia que impacta e alcança muitas pessoas.
+[34:01] E aí eu já vou te falar uma coisa aqui, você tá num grupo que 30, acho que é 30 ou 40 % do grupo da Vanguarda são de designers.
+[34:08] Então são pessoas que você já tem aqui, que conseguem trazer o enquadramento que você precisa.
+[34:14] Eu vou falar aqui pra poder... como é que eu posso fazer isso?
+[34:19] Eu vou instigar, né, e eu tô fazendo isso agora, galera, pelo tempo, porque tanto o Miguel quanto o Felipe, eu não sei se eles chegaram depois, mas quando a gente chamou aqui eles não estavam aqui, né, e aí eu risquei, né, aqui, mas as outras pessoas todas apresentaram, por isso que eu tô comentando aqui.
+[34:39] Mas pra instigar vocês, nesse caso da Osana, eu quero que vocês imaginem primeiro a diversidade que é o tópico alimentos, eu quero que vocês imaginem a diversidade visual disso, de possibilidade de construção de um sistema visual sensorial, porque alimento é cheiro, gosto e visão.
+[35:01] E também pode ser, é tato também, né? Obviamente. E também pode ser audição. Eu consigo imaginar, por exemplo, qual que é o som de um tempero num pacotinho pra um tomate esmagado, por exemplo. Dá pra imaginar o som do alimento também.
+[35:21] Então, o Alimente, ele cobre cinco camadas sensoriais. Um designer muito bom no que ele faz, consegue traduzir essas cinco camadas sensoriais para comunicação e envolver as pessoas para gerar, que aí é o ponto principal que a Osana precisa, gerar desejo no consumo.
+[35:38] Gerando esse desejo no consumo, existe uma causa positiva para isso, de um problema civilizacional mesmo, da população do mundo, que é o que a gente come, é um dos maiores problemas hoje, isso envolve múltiplos ecossistemas, que foi o que a Osana conectou aqui de possibilidades, ela trouxe B2C e D2C, que é direct consumer, mas isso envolve várias cadeias diferentes,
+[36:05] E eu acho que talvez, trazendo uma visão sistêmica para esse desafio da Osana, e mudando o ângulo em dois pontos, que é a comunicação para gerar esse desejo, e focar mais na informação do que no produto, por questão de gargalo, é uma ideia que ela consegue sair desse gargalo para algo que alcança muita gente de uma vez.
+[36:31] Que eu faria aí, eu tô falando coisas aqui que eventualmente viriam numa consultoria, algo do tipo, mas no seu lugar, Zana, eu colocaria múltiplos creators, nutricionistas, médicos, que já falam desse assunto e gostariam de trazer isso em cima da sua marca principal, a sua marca tem que ser a distribuição da informação, o produto pode existir também ali como uma experiência, mas se você foca na distribuição da informação, com parceiros que podem divulgar isso pra você, e a sua marca é como se fosse a fonte da tese,
+[37:01] Que as pessoas vão entrar nesse site e vão ter aquela informação ali, você conecta isso com cadeias de logística de cada região, porque toda região tem hortifruti, tem, aqui no Brasil, também talvez seja o melhor país para começar uma marca desse tipo, porque se você tem uma inteligência logística sistêmica em cima disso, você consegue conectar parceiros para poder distribuir esses alimentos, e o seu foco seria em talvez usar a sua marca para chancelar produtos de qualidade,
+[37:30] Eu sei que essa fazenda é livre de agrotóxico, ela segue esses selos, ela tem esses padrões, eu sei que esse lugar no Brasil produz essa matéria -prima, esse outro lugar produz essa matéria -prima, você trabalhar no ecossistema, na informação distribuída, e a sua marca ser a marca de selo, você traz a informação de valor, o estilo de vida, e deixa que o ecossistema forneça, porque você resolve o problema de logística, resolve o problema de...
+[37:59] Vou chamar aqui de compliance disso, mas enfim, essa cadeia de regras que existe, porque cada região vai conseguir fornecer num preço muito mais baixo, sua marca vai ser distribuída muito mais do que se você focasse no produto, e seria um caminho possível aqui pra seguir, tá?
+[38:16] Mas aí tem que ver também se isso faz sentido pro seu propósito, pro que você queria, só foi uma ideia que quanto mais eu fui ouvindo o vídeo ali, eu fui visualizando essa possibilidade.
+[38:25] E aí eu quis instigar vocês, porque eventualmente podem ter pessoas aqui que podem te entregar uma camada dessa visão toda, que é o enquadramento, essa visão ali, trazer esse sentido sensorial para a sua comunicação e você vai conseguir envolver muita gente na ideia, se você tiver essa camada sensorial.
+[38:51] Se você der uma olhada no rótulo, aumenta um pouquinho aqui que dá pra ver.
+[39:00] Ó, embaixo, nesse...
+[39:02] A gente não tá conseguindo ver, tá?
+[39:04] A gente não tá vendo sua tela.
+[39:05] A gente não tá vendo sua tela.
+[39:07] Não.
+[39:08] Tá conseguindo?
+[39:08] Não tá compartilhando, não.
+[39:10] Ah, não, não tô compartilhando, eu mandei no chat.
+[39:14] Ah, beleza.
+[39:15] Todos os rótulos dele, com essa mudança que eu fiz, por fora são os ingredientes que cabem dentro desse pote aí juntos, né?
+[39:28] Que é o que compõe ele. E por fora tem a parte sensorial, que é o sabor. Então ele é cítrico, herbal e picante, nesse caso.
+[39:39] E esse produto, ele, no caso aí o CardioVital, né, que é um dos 20, ele é um produto sinergicamente feito com ervas e especiarias que ajudam a questão cardiovascular. Aí tem um outro que eu coloquei aí. Cada um tem uma coisa, ó.
+[40:00] Olha isso, tá vendo esses ingredientes que você tá colocando fora da embalagem?
+[40:06] Se você aplica uma visão sistêmica disso e cria uma marca que toma isso como ativo da marca, ativo visual da marca,
+[40:17] cada ingrediente ativo visual da marca pode ser um ativo sensorial também.
+[40:22] Então se você cria uma identidade de marca sistêmica que comunica isso de um jeito diferente,
+[40:29] E sensorial, as pessoas vão se envolver com sua marca muito forte, entendeu?
+[40:34] Sim, foi assim, até o caminho que o próprio Claude, nas nossas conversas aqui, me deu, né?
+[40:42] Porque o que eu estava focando era ser um produto, e quem ia vender esse produto era o pessoal que pode prescrever,
+[40:53] porque eu abordo coisas assim de saúde, né?
+[40:57] E aí, o Claude me alertou que eu ia bater com regulatórios lá, né?
+[41:03] Eu concordo com o Claude.
+[41:04] E eu fiquei entusiasmado e nem passei por cima disso, né? Quando eu comecei a pensar nisso.
+[41:12] Ah, aqui não tá mostrando a tela, tá mostrando só...
+[41:15] Deixa eu printar, peraí.
+[41:17] É porque tem gente que não viu a imagem.
+[41:20] Não, eu mandei no chat.
+[41:22] É, sim, sim, mas é porque tem gente que não tá conseguindo abrir no chat não, mas eu coloquei aqui na tela.
+[41:26] Então cada um deles tem essa coisa que a pessoa olha e fala assim, hum, eu vou comprar isso aqui, mas ele tem um gosto cítrico, levemente herbal e o cheiro também, porque na verdade o sabor ele é composto por vários sensores que a gente tem, não é só o que você come.
+[41:47] O que eu tô propondo aqui,
+[41:49] Osana, eu vou falar também,
+[41:51] já bateu meio dia ali, mas o que eu tô
+[41:53] propondo aqui é, por exemplo, se você pensa na
+[41:56] visão sistêmica disso,
+[41:58] aí você vai pensar em canais. Primeiro
+[41:59] canal que você precisa, blog. Por que
+[42:01] você precisa de blog? Com o seu blog,
+[42:03] eu faria
+[42:05] 50, 100 artigos por dia
+[42:07] lá dentro, aí teria que
+[42:10] modelar
+[42:10] o tom de voz e
+[42:13] qualidade pra ficar muito bom. Mas
+[42:15] se você consegue
+[42:17] 50 aqui é bastante, eu falo 50 sem porquê, é uma questão de você conseguir trazer a marca pra dentro da internet, e eu pegaria cada um, vou falar só de gengibre, vou falar só de cebola, vou falar só de folha de louro, vou falar só de limão, vou falar só de alecrim, vou falar só de cebola, você pega cada um deles, só de alho, e fala dos benefícios, aí você vai fazer vários posts falando desses alimentos, a história deles, o que que eles fazem, isso vai ajudar você a distribuir sua marca.
+[42:44] Depois que você fizer isso, as IAs vão começar a falar da sua marca e usar a sua marca de referência, que esse é um movimento dentro da internet.
+[42:51] Com isso, você vai trazer muito da sua tese também.
+[42:54] A partir disso, você vai começar a criar um império de distribuição, entendeu?
+[42:59] E aí, dentro desse império de distribuição, você começa a produzir conteúdo também no Instagram, TikTok, YouTube.
+[43:05] A marca começa a se tornar conhecida pela informação, porque a informação é barata, você consegue levar, distribuir a marca.
+[43:11] E aí, a partir disso, você começa a trazer produtos também, entendeu?
+[43:15] Faria parcerias com pessoas da área, enfim.
+[43:18] maioria dos pits aqui, eu senti falta de uma oportunidade aterrissada.
+[43:25] A oportunidade, ela está ali implícita, faltou tornar ela explícita, com uma chamada mesmo, com eu quero isso e eu vou te devolver isso, então me dá isso que eu te entrego isso, isso é uma proposta de oportunidade, eu senti falta, tá, na grande maioria de vocês, isso
+[43:44] Hoje eu vou ter um round table, uma mesa redonda de CEOs aqui em Belo Horizonte, no WTC de Belo Horizonte, WTC é um grupo de empreendedores que é o World Trade Center, e aí tem várias cidades, tem de Belo Horizonte também, eu fui convidado para poder ser uma das pessoas que vai guiar essa mesa.
+[44:04] E são empresários, são 35 empresários que faturam de 5 a 150 milhões e eu vou levar pra lá a ideia de IA, IA pra CEOs mesmo.
+[44:13] E muito do que a gente tá falando aqui vai funcionar pra eles também.
+[44:16] E por que eu tô falando isso com vocês?
+[44:18] Eu quero que vocês observem essas oportunidades aqui, que vocês estão apresentando também, treinem mais sobre isso,
+[44:24] porque essas oportunidades como a que eu vou ter hoje, são onde vocês conseguem, quando acontecer com vocês, né,
+[44:31] Conseguem trazer parceiros para o negócio e levar o negócio para mais pessoas.
+[44:35] É conseguir explicar em 5 minutos, em 6 minutos ali, qual que é a ideia que vocês estão defendendo, no que vocês estão trabalhando, tá
+[44:43] Então, por enquanto é isso, eu vou falar igual vocês, né? É isso!

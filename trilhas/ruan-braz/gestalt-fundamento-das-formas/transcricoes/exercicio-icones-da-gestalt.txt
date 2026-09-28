@@ -1,0 +1,13 @@
+Crie um ícone para cada uma das seis leis da Gestalt, demonstrando sua compreensão desses princípios no design. SO objetivo desse exercício é criar um conjunto de ícones, cada um representando uma das seis leis fundamentais da Gestalt: Proximidade, Semelhança, Continuidade, Fechamento, Simetria e Figura-Fundo. Esses ícones devem não apenas ilustrar cada princípio visualmente, mas também serem esteticamente coerentes e funcionais como um conjunto.
+
+1. Estudo: Compreenda as seis leis fundamentais da Gestalt: Proximidade, Semelhança, Continuidade, Fechamento, Simetria e Ordem Figura-Fundo.
+
+2. Esboço: Faça esboços para cada lei, pensando em como cada princípio pode ser visualmente representado. Assegure que cada ícone seja limpo, simples e eficaz em comunicar a lei que representa.
+
+3. Exemplos: Para a lei da Proximidade, crie um ícone que agrupe elementos para mostrar relação ou conexão, para a lei da Semelhança, desenvolva um ícone com elementos repetidos ou similares para ilustrar agrupamento, para a lei da Continuidade, desenhe um ícone que direcione o olhar através de linhas ou formas, sugerindo movimento, para o Fechamento, elabore um ícone usando elementos incompletos que o cérebro percebe como completos, para a Simetria, crie um ícone que exiba simetria, representando equilíbrio e estabilidade, para a Figura-Fundo, desenvolva um ícone que jogue com a percepção de figura e fundo, possibilitando a visualização de diferentes formas.
+
+4. Finalização: Refine seus ícones em um software de vetorização como o Illustrator. Assegure que os ícones formem um conjunto coeso, compartilhando um estilo visual ou paleta de cores. Depois, prepare uma breve explicação para cada ícone, descrevendo como ele representa a respectiva lei da Gestalt.
+
+Este exercício visa aplicar seu entendimento das leis da Gestalt de forma prática, criando ícones que comunicam esses princípios visuais poderosos. Não se esqueça de publicar seu exercício abaixo para concluir essa tarefa.
+
+Não publique links! Eles podem quebrar e assim perdemos a informação. Publique as imagens e textos direto na plataforma a partir do botão abaixo.

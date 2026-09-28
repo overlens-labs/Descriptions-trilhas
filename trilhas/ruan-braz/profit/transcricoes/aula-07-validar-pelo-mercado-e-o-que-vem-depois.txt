@@ -1,0 +1,230 @@
+Aula 7 · Validar pelo mercado e o que vem depois
+
+[00:00] Aí olha só, beleza, entramos num diferente aqui agora, teste de anúncios.
+[00:04] Crie anúncios diferentes para problemas, promessas e mecanismos diferentes e mande todos para a mesma audiência.
+[00:10] Você está perguntando ao mercado qual dessas teses faz você parar.
+[00:16] Isso aqui é muito legal porque o anúncio, o objetivo dele não necessariamente é já converter,
+[00:21] mas ver qual anúncio teve mais clique, por exemplo.
+[00:23] Então eu posso fazer 10 anúncios diferentes, colocar 10 reais em cada anúncio e colocar eles para rodar.
+[00:28] Aí eu vejo ali, gastei 100 reais, qual teve mais clique?
+[00:31] Esse aqui teve um clique, aquele ali teve 4, o outro teve 8.
+[00:34] Opa, tem algo aqui que está chamando mais atenção.
+[00:37] A ideia é focar no anúncio mesmo, mais até do que na conversão nesse momento aqui, tá?
+[00:44] Então você tá validando qual tipo de promessa as pessoas clicam mais.
+[00:47] Depois que você entendeu que essa promessa tem mais clique, aí você pode fazer variações dela.
+[00:52] Agora eu não vou fazer só imagem, vou fazer um vídeo usando essa mesma ideia.
+[00:56] Eu vou fazer imagens diferentes usando essa mesma ideia.
+[00:58] Aí você faz testes de anúncio.
+[01:00] Se tiver uma conversão dali, né, a pessoa mandou mensagem no WhatsApp ou se cadastrou como vídeo, melhor ainda.
+[01:05] Você tem mais informações, beleza?
+[01:07] A Strategizer recomenda anúncios justamente como experimento de Value Proposition e Problem Solution Fit.
+[01:14] Eu gosto de anúncio porque o anúncio te dá amostragem.
+[01:20] Então, como assim ele te dá amostragem?
+[01:22] Ele te dá dados que no outbound, às vezes, você vai deixar escapar.
+[01:25] O objetivo do anúncio é você paga para ter informação e alcançar muito mais pessoas do que você alcançaria sozinho ali.
+[01:33] Por quê?
+[01:33] Uma coisa é você mandar mensagem para 100 pessoas.
+[01:35] Outra coisa é você gastar R $100 e 5 mil pessoas verem seus anúncios.
+[01:41] Entende?
+[01:41] Se tem mais amostragem, isso te ajuda a ter dados quantitativos maiores aqui.
+[01:46] Teste de fumaça e landing page.
+[01:48] Já falamos desse aqui também.
+[01:50] Eu gosto muito do teste de fumaça, porém, eu tenho que colocar aqui um PIN, um cuidado, um alfinete.
+[01:56] Que é o quê?
+[01:57] Não é para você criar a landing page perfeita.
+[02:00] Não é para criar a landing page perfeita.
+[02:01] Não é para poder criar o funil perfeito agora.
+[02:04] Agora, é pra existir, e depois de existir você vai melhorando, então sim, pode ter cara de cloud, você tá validando a ideia, ah, mas eu não quero queimar minha marca, cria uma outra marca, pode ser um outro nome qualquer, não precisa nem registrar no INPI, né, veja lá, é claro, tem uma empresa com esse nome, só pra não prejudicar outra empresa, porque pode ser ruim pra outra empresa, mas não tem um nome ali, dá pra usar, pode ser qualquer coisa, sei lá, vai chamar, vai chamar Xisto, nessa caralho, né, vai chamar Dude,
+[02:34] Ok, qualquer coisa, dá um nome ali e faz o teste da landing page, o cloud cria pra você em 30 minutos, coloca pra rodar e vê, troca headline, testa promessas diferentes, qual que teve clique, qual que teve alguém que gerou, virou lead seu, né, colocou os dados ali, porque se funcionar com a página ruim, digamos assim, vai funcionar melhor ainda com a boa, desde que você saiba que é uma página boa, né, porque uma página boa não necessariamente também é ter o design legal, tem páginas com design incrível que não converta, então, só esse cuidado, tá bom?
+[03:03] Mas o que é o smoke test aqui então?
+[03:05] Faça a página como se a solução existisse.
+[03:08] Headline, problema, proposta, como funciona, preço e CTA.
+[03:13] O CTA pode ser quero testar, solicitar acesso, agendar demonstração ou entrar na lista.
+[03:19] Não precisa haver produto, a página é o próprio experimento.
+[03:24] Landing pages são um dos testes clássicos para transformar uma proposição abstrata em comportamento observável.
+[03:30] Olha que interessante, porque eu também já falo isso pra vocês há bastante tempo.
+[03:34] Você não precisa do produto pra criar a landing page.
+[03:36] E muitas vezes é melhor focar em criar a landing page e o funil pra validar aquilo
+[03:40] do que ficar fazendo produto.
+[03:42] As madrugadas que vocês estão gastando aí, criando produtos que vocês acham incríveis,
+[03:47] se vocês estivessem gastando nessas madrugadas, criando um funil por dia,
+[03:51] tá entendendo?
+[03:52] Vou criar uma página, um funil por dia, testar ofertas aqui, colocar um dinheirinho ali,
+[03:55] ver qual que eu tenho conversão, vocês já não estavam mais no patamar que vocês estão.
+[03:59] Olha que loucura, aí vem isso em consideração, tá?
+[04:02] E é um teste clássico, eu gosto desse teste, porque desse teste inclusive pode sair até uma venda já, só tem que tomar cuidado com ele.
+[04:12] Porque se você gastar tempo demais na landing page, querer fazer perfeitinho, eu quero me expressar, eu quero criar a marca mais incrível do mundo, é isso aí que vai te ferrar, beleza?
+[04:22] Nesse momento aqui, depois aprimore e vai dar tudo certo.
+[04:26] Porta falsa, fake door, vá além da lista de espera, coloque algo como começar agora, contratar ou escolher plano, e meça quantas pessoas atravessaram aquela porta, se o produto ainda não estiver disponível, seja transparente antes de concluir qualquer cobrança, o objetivo é descobrir quantas pessoas tentariam efetivamente iniciar a compra, ou eu já fiz isso também, só que aí tem que ficar de olho, deixa a pessoa comprar, você pode falar, eu vou te entregar isso aqui em 7 dias,
+[04:56] ou a primeira fase da minha entrega é um diagnóstico em que eu vou conversar com você.
+[05:01] Pronto, deixa a pessoa comprar.
+[05:03] Porque aí ela comprou, ela já pode marcar esse diagnóstico inicial.
+[05:07] Desse diagnóstico inicial, você vai ter essa conversa com ela e você vai explicar.
+[05:10] Vamos conversar aqui.
+[05:11] Aí você tem a oportunidade de fazer algumas perguntas para a pessoa
+[05:13] e aí você tem também a oportunidade de entregar para ela uma primeira solução que é manual.
+[05:18] Você mesmo vai fazer, vai entregar o resultado no final.
+[05:20] E isso vai te permitir criar o produto.
+[05:22] Mas você já está validando que alguém pagou por aquilo, ok?
+[05:25] teste de preço, não deixe preço pra depois, coloque R $99, R $299, R $999, R $10 .000 e veja o que acontece, muitas soluções parecem interessantes até aparecer a pergunta quanto custa, testar, nossa me quebrou aqui, willingness to pay, willingness eu acho que aqui que é o deveria, vamos pegar aqui porque quando aparece palavra nova eu gosto de saber o que é disposição, deveria, disposição, disposição a pagar, então tá pronto,
+[05:53] Então, testar disposição a pagar cedo reduz dramaticamente a falsa sensação de validação.
+[05:59] Que é também aquilo de, ah, a pessoa virou meu lead, já está validado.
+[06:02] Não, a pessoa está pronta para pagar no preço que aquela solução precisa ter ou não.
+[06:09] Leva isso em consideração aqui.
+[06:10] Dá para casar também esse com o fake door aqui, para fazer um fake door você precisa do preço ali na hora.
+[06:17] Então, dá para casar um com o outro.
+[06:19] E dá pra testar também, colocar preços diferentes e ver até onde as pessoas estão dispostas a pagar.
+[06:24] Onde que você conseguiu uma compra daquilo?
+[06:26] Eu gosto desse teste, é teste, tá?
+[06:28] Você não pode fazer isso, depois que você for construir o seu negócio, é ruim fazer isso com um produto real.
+[06:36] Então, por exemplo, vou anunciar por 100 reais e por 500, meio leilão assim, é ruim pra sua marca, pra reputação dela.
+[06:42] Agora, enquanto sua marca não existe, você tá validando algo, é o oposto, você tá testando o preço.
+[06:47] Então, o que você faz ali?
+[06:48] Crie um anúncio que custa R $500 ,00, crie outro anúncio que custa R $1 .000 ,00, e crie um que custa tipo R $10 ,00, R $20 ,00, e aí você vai começar a perceber uma coisa interessante.
+[06:59] À medida que você vai testando, você vai vendo até onde as pessoas pagaram por aquela copy que você fez, por aquela promessa que você está fazendo.
+[07:06] Beleza? Eu tenho certeza que em preços mais baratos vocês vão até conseguir ter venda, mas aí entra naquilo.
+[07:10] Validou ou não? Depende, você validou no preço que você precisa? Então leva isso em conta.
+[07:14] Pré -venda. Pré -venda e waitlist. Vamos ver se ele vai falar de waitlist depois.
+[07:18] Esse é um salto enorme na qualidade da evidência.
+[07:21] Venda antes de construir.
+[07:22] Pode ser pagamento integral, sinal, reserva ou depósito reembolsável.
+[07:27] Se cinco pessoas depositam dinheiro para receber algo que ainda será entregue,
+[07:31] você aprendeu muito mais do que aprenderia com 50 entrevistas.
+[07:35] Então, a pré -venda pode ser uma landing page também.
+[07:38] A pré -venda pode ser feita em um webinar.
+[07:41] Então, você faz uma landing page para convidar as pessoas para uma aula com você.
+[07:44] Nessa aula, você vai ensinar como resolver o problema delas e, no final, vai fazer uma pré -venda.
+[07:48] Pode também. Serve para você validar interesse.
+[07:51] Vocês já pararam para pensar por que filme faz pré -venda? Por que livro faz pré -venda?
+[07:56] Isso é temperatura de mercado. Você está tentando identificar ali o quanto as pessoas realmente estão interessadas naquilo.
+[08:03] Protótipo clicável. Para software, monte no Figma, Lovable, Cloud, Codex ou outra ferramenta um fluxo que pareça real e coloque o usuário para executar uma tarefa.
+[08:12] não pergunte o que você acha, dê uma missão e observe, isso testa principalmente compreensão da solução, usabilidade e percepção de valor
+[08:21] descoberta de produto usa justamente protótipo para testar riscos antes de construção do produto completo
+[08:26] isso aqui também é muito bom, dá para testar de novo, só tomaria cuidado com aquela vontade de construir o produto inteiro
+[08:33] principalmente porque hoje em dia parece barato fazer isso, mas aí vai ver se está 7 dias, 14 dias, 30 dias criando o protótipo
+[08:41] Não faz o menor sentido também, ok? Então tomem cuidado com isso. É legal? É legal, dependendo da sua solução.
+[08:48] Criar um protótipo clicável ali para o usuário ver funcionando pode ser legal? Com certeza, pode ser uma oportunidade.
+[08:53] Mas as pessoas tendem a se afundar nessa lama aqui, então atenção nesse ponto.
+[08:59] Concierge MVP. Talvez minha técnica favorita nessa fase.
+[09:03] Entregue manualmente o resultado que futuramente um software entregaria.
+[09:08] Se a sua ideia é uma IA que analisa 200 documentos, no início você analisa os documentos.
+[09:14] Se é uma plataforma que conecta duas partes, você faz o matchmaking manualmente.
+[09:18] Você testa o resultado, não a tecnologia.
+[09:22] Eu
+[09:22] Eu gosto muito desse, mais do que o do protótipo, porque aqui você testa a oferta,
+[09:28] se a pessoa está disposta a pagar por aquele resultado, e você já consegue entregar,
+[09:32] você já consegue vender e entregar.
+[09:34] E tem uma coisa muito legal nisso, que você já começa a validar também a entrega,
+[09:38] E aprender no processo, o que realmente tem dentro, você começa a entender aquele problema melhor, do que se você só ficasse na teoria dele, que é um outro erro que as pessoas cometem, cria um produto todo teórico, aí vai pra prática e o produto não funciona, porque esse produto não viveu na vida real, agora quando você cria um produto a partir de uma experiência que você viveu entregando, aquilo é outra história completamente diferente, beleza?
+[10:01] Então, eu também gosto muito desse, já usei muito esse, igual falei pra vocês, desde 2020, eu utilizo esse daqui, fiz isso no último hackathon, eu
+[10:11] vendi isso aqui, um concierge MVP, e aí é o que eu falei pra vocês, usem isso a favor de vocês, é o primeiro, é o que vai receber mais da minha energia, é o que vai receber mais da minha atenção, é o que vai pagar o menor preço, em troca, você vai validar isso junto comigo, legal?
+[10:26] Tem pessoas que, inclusive, preferem esse serviço concierge aqui, porque tem uma atenção maior de quem está construindo.
+[10:33] Mágico de Oz, o cliente acredita estar interagindo com um sistema automatizado, mas parte significativa da operação ocorre manualmente por trás.
+[10:41] Isso aqui gera muita polêmica, né? Às vezes as pessoas veem notícias aí,
+[10:44] ah, descobriam que software tal, na verdade, quem estava fazendo aquilo eram seres humanos.
+[10:50] E aí as pessoas acham que isso é simplesmente uma enganação, mas não é, na verdade isso é uma técnica de mercado, e as pessoas não sabem disso, e é uma técnica muito inteligente, porque te permite escalar, ter recurso para investir naquilo e construir a solução, talvez você esteja convicto de que consegue entregar a solução, mas você vai passando por fases, e aí através dessas fases você vai evoluindo.
+[11:14] por isso que investidores, por exemplo, não veem um problema nisso aqui
+[11:17] é muito maior um problema de um negócio que não funciona, que não vende
+[11:20] agora, um negócio que parece automatizado, mas tem um processo todo manual por trás
+[11:25] por um período, que você está validando aqui, não é necessariamente algo ruim
+[11:29] então, isso é interessante
+[11:31] não é para enganar sobre condições comerciais
+[11:34] é para evitar construir infraestrutura antes de saber se o comprometimento do usuário existe
+[11:39] gasta muito menos fazendo dessa forma
+[11:41] O primeiro é legalzinho, depois vai ficando ruim.
+[11:51] Quem lembra o nome dele aí?
+[11:53] Que é um grupo de cinco mágicos que ficam fazendo ilusões.
+[11:55] Truque de mestre isso aí.
+[11:56] Isso aqui é o truque de mestre, né?
+[11:58] Você faz a pessoa olhar pra um lado e entrega aquilo pra ela fazendo de outro lado, né?
+[12:04] Uma ilusão ali.
+[12:05] Mas no final, se você entregou o resultado, a pessoa ficou satisfeita, você validou.
+[12:09] E aí você pode entrar nessa camada de orbital, né?
+[12:12] De estruturar processos da organização.
+[12:15] Piloto pago.
+[12:16] Para B2B, eu colocaria isso entre os sinais mais fortes.
+[12:20] Pegue três empresas e diga.
+[12:22] Durante 30 dias, vamos resolver isso juntos com vocês por X.
+[12:26] Se ninguém aceitar pagar por um piloto,
+[12:28] eu ficaria bastante desconfiado de uma futura venda de...
+[12:32] Não sei porque colocou aqui 50 mil.
+[12:34] Então, talvez como exemplo, né?
+[12:37] O que ele está trazendo aqui é, eu gosto de mesclar esse piloto pago com o cavalo de Troia, que eu já ensinei para vocês.
+[12:44] Eu
+[12:44] adoro a técnica do cavalo de Troia, gosto muito, porque ela é rápida, ela é fácil e ela é inacreditável.
+[12:50] Eu contei para vocês a história da Elizabeth, da Elizabeth Torres, que foi um caso real de cavalo de Troia que deu muito certo.
+[12:56] O que é a estratégia do cavalo de Troia? Você vai mudar isso aqui um pouquinho.
+[12:59] Durante 30 dias vamos resolver esse problema juntos dentro da sua empresa e você não vai precisar me pagar nada por isso.
+[13:04] No final você vai sair com isso pronto e eu vou sair com uma tese minha validada.
+[13:09] Depois disso, se você quiser continuar comigo, a gente vai.
+[13:11] Qual que é o risco aqui?
+[13:12] Você vai validar a entrega e não a oferta.
+[13:15] Aí tem que levar isso em conta também.
+[13:16] Mas no final você pode ganhar um case de sucesso, um histórico para poder mostrar na sua landing page,
+[13:22] olha, fiz isso nessa empresa, deu esse resultado.
+[13:24] Então pode ser também um caminho interessante de validação.
+[13:27] Talvez, se você quer diminuir o risco, você não precisa fazer 30 dias,
+[13:33] Olha, eu estou construindo uma solução, só que eu não quero construir ela sozinho.
+[13:36] Eu quero construir ela com quem vive esse problema todos os dias.
+[13:40] Então minha proposta para você é a seguinte, eu quero construir a solução junto com você,
+[13:44] eu já sei como fazer isso, eu já tenho a habilidade necessária, os recursos necessários,
+[13:48] eu preciso de alguém que vive isso no dia a dia para validar comigo.
+[13:51] Então a gente constrói junto, eu preciso do seu comprometimento,
+[13:54] e no final, se isso fizer sentido para você, você compra de mim essa solução.
+[13:58] Então é um caminho também, mas coloque compromisso, dinheiro, horas dedicadas,
+[14:02] Dados, equipe, integração ou contrato
+[14:05] Adorei, pode me avisar quando lançar, não é um design partner
+[14:09] Então a pessoa fala, gostei disso aí, quando você lançar você me avisa
+[14:13] Não, você quer que a pessoa participe de reunião, responda as suas perguntas, teste junto com você
+[14:19] Esse é o mais importante, tá?
+[14:22] Switching test, pergunte algo ainda mais difícil
+[14:25] Você substituiria X por isso?
+[14:29] Mercados não são vazios. Seu concorrente muitas vezes é o Excel, WhatsApp, funcionário, agência, chat, EPT, ou simplesmente não fazer nada.
+[14:38] A verdadeira validação é gerar energia suficiente para a pessoa abandonar alguma coisa em troca de outra.
+[14:44] Então, identificar isso aqui pode ser muito interessante também.
+[14:46] Inclusive, isso aqui é uma abordagem clássica.
+[14:48] Na hora que você está escolhendo uma solução que é nova, você sempre pensa, isso aconteceu inclusive, eu
+[14:53] eu falei com vocês assim, por que que eu vou escolher a solução de vocês se eu tenho isso no ClickUp e eu tô usando isso lá?
+[14:59] Eu tô usando uma objeção de por que eu, eu tô falando uma objeção de por que que eu não usaria, porque eu já tenho uma solução.
+[15:05] E aí a pergunta que fica é, será que o meu cliente estaria disposto a trocar o ClickUp pela minha solução?
+[15:11] Se eu não consigo responder essa pergunta, eu preciso trocar ela. Pegaram a ideia? Então aqui já é um ponto interessante também.
+[15:17] Time to Value Test
+[15:20] Entregue uma versão mínima e meça quanto tempo leva até a pessoa dizer ou demonstrar.
+[15:27] Caramba! Resolveu.
+[15:28] Uma solução pode resolver um problema real e ainda assim fracassar porque leva três semanas para mostrar valor.
+[15:34] A pessoa desiste antes da hora.
+[15:36] Isso aqui é mais para poder validar a entrega do que para validar a oferta.
+[15:40] Mas é um ponto interessante também.
+[15:42] A gente chama de momento wow.
+[15:44] Esse caramba, isso resolveu?
+[15:46] O momento ou, na verdade, ele não precisa resolver 100 % do problema, mas ele precisa despertar na pessoa a esperança de que um problema dela vai ser resolvido agora.
+[15:56] Teste de retenção. Depois que as primeiras pessoas experimentarem, a pergunta muda de elas vieram para elas voltaram.
+[16:03] Uso repetido começa a transformar a descoberta em evidência. Para alguns produtos isso será uso diário, para outros mensal ou ligado a um evento específico.
+[16:11] E a gente chama esse evento específico de evento crítico, que é o que gera a demanda por aquela solução.
+[16:17] Então isso aqui é depois, isso aqui a gente não lida agora nessa fase de validação do jeito que a gente está fazendo aqui.
+[16:23] E tem aqui o referral test, que é aqui sobre a pessoa recomendar a sua solução.
+[16:30] Então finalmente, depois de obter valor, a pessoa espontaneamente apresenta a outra pessoa.
+[16:34] Tem um amigo que precisa disso, é um sinal muito interessante porque mostra que o usuário conseguiu entender claramente para quem a solução serve.
+[16:40] Eu vou mostrar aqui pra vocês, vai ficar mais fácil.
+[16:43] Isso ali vai entrando no que a gente chama de growth loop.
+[16:47] Só que o growth loop a gente trabalha com ele mais pra frente.
+[16:50] Deixa
+[16:51] ó, processos, beleza.
+[16:53] Só pra vocês entenderem a ideia aqui do growth loop.
+[16:56] Essa metodologia que a gente usa é uma metodologia que chama ARRR, você pode chamá -la de metodologia do homem das cavernas ou do pirata, acho que o pessoal chama ela de metodologia do pirata pra Growth Loop.
+[17:10] Que é o que? Primeira coisa que você vai validar num Growth Loop, aquisição. Aí você vai pegar aqui, olha, isso aqui a gente fez com algumas soluções nossas, né? Live, aí tinha o Códice que era um produtinho barato, que depois o Códice virou o Atlas, tá? Então Live, Atlas, anúncio, mecanismo de busca tipo Google, aí a gente tinha, quando eu fiz esse formato aqui, a gente tinha o Prisma, que eram os professores da Overlens, a gente ainda tem professores na Overlens, mas a gente descontinuou o projeto Prisma, né?
+[17:39] Conteúdo Evergreen, que é o conteúdo que eu faço pra YouTube, por exemplo, e aqui conteúdo geral, isso serve pra aquisição, aquisição principalmente de lead, pra poder se tornar conhecido, poderia chamar também de awareness aqui, né, consciência descoberta.
+[17:53] Aí vem ativação, quais são as ativações? Paywall no nosso sistema, pop -up, anúncio, banner, botão, faixa, notificação, e -mails, e tem também outros tipos de ativações que não são dentro do produto, né, são ativações de anúncio, landing page, por aí vai.
+[18:07] Retenção, aí vem certificado, ofensiva, XP, desafio, BED, conteúdo da semana, ranking, fractal, inventário.
+[18:15] Aí você define quais são, você vai validando aqui as ferramentas de retenção.
+[18:20] Hevery, que é receita, aí você coloca aqui quais são as camadas de receita e valida elas.
+[18:26] E por último, o referral, que é a indicação, o quanto das pessoas que indicam.
+[18:31] Tem até um método que a gente usa aqui, que é o key factor, que a gente trabalha com indica e ganha.
+[18:36] e esse aqui a gente ainda não lapidou direito para usar, que é o user -generated content, que é conteúdo gerado pelos próprios usuários,
+[18:45] mas é um que a gente quer apostar também, aí sugere a indicação.
+[18:48] Aí a partir disso você monta todo o fluxo aqui, né, ativação, retenção, revenue e referral.
+[18:56] Aí depois você volta para o fluxo de novo, porque alguém indicou alguém que virou aquisição, virou ativação e por aí vai.
+[19:02] Por isso que se chama growth loop, tá?
+[19:05] serve pra vocês entenderem a lógica de validação ali desse growth loop, né?
+[19:10] Que é o loop de crescimento do negócio
+[19:12] Legal?

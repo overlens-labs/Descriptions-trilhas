@@ -1,0 +1,15 @@
+Chegou a hora de colocar em prática um pouco do que você aprendeu sobre geometria plana e tangentes. Esse desafio pode ser realizado manualmente, usando papel, compasso e régua, ou digitalmente, utilizando o Adobe Illustrator. O objetivo é entender e aplicar os princípios de tangência em formas geométricas, desenvolvendo sua precisão e habilidade em desenho técnico. Caso opte pela execução digital, será necessário apresentar o resultado em modo de visualização de contorno (outline), para verificar a precisão dos círculos tangentes.
+
+1. Preparação: Se for trabalhar no papel, fixe-o sobre uma superfície plana e tenha compasso e régua à mão. No Illustrator, crie um novo documento e selecione a ferramenta de elipse (Ellipse Tool).
+
+2. Primeiro círculo: No papel, posicione o compasso e desenhe um círculo com o raio desejado. No Illustrator, clique e arraste para desenhar o primeiro círculo, segurando Shift para manter a proporção perfeita.
+
+3. Segundo círculo: Determine o ponto onde o segundo círculo tocará o primeiro. No papel, posicione a ponta seca do compasso neste ponto e desenhe o segundo círculo. No Illustrator, use a ferramenta de elipse novamente, começando no ponto de tangência para garantir que os círculos se toquem perfeitamente.
+
+4. Terceiro círculo: Para o terceiro círculo, que deve tocar os outros dois, localize os pontos de tangência nos dois círculos existentes. No papel, ajuste o compasso para tocar esses dois pontos e complete o desenho. No Illustrator, posicione a ferramenta de elipse nos pontos de tangência e desenhe o terceiro círculo, assegurando-se de que ele toque os outros dois sem sobreposição.
+
+5. Revisão: Verifique se os círculos estão devidamente tangentes, ajustando conforme necessário. No papel, use a régua para medir e confirmar as tangências. No Illustrator, para conferir a precisão, vá em View > Outline (ou pressione Ctrl+Y/Cmd+Y) para ver apenas o contorno dos círculos. Ajuste qualquer imperfeição observada nesta visualização.
+
+Ao finalizar, certifique-se de que os círculos estão perfeitamente tangentes, demonstrando sua habilidade em criar formas precisas e interligadas.
+
+Não publique links! Eles podem quebrar e assim perdemos a informação. Publique as imagens e textos direto na plataforma a partir do botão abaixo.

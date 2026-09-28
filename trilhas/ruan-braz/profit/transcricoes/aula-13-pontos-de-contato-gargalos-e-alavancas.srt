@@ -1,0 +1,792 @@
+1
+00:00:00,179 --> 00:00:05,980
+Uma vez que a gente chegou aqui agora, o que a gente vai fazer é entender agora os pontos de contato.
+
+2
+00:00:06,119 --> 00:00:09,920
+Isso é muito importante, porque cada modelo aqui tem um ponto de contato diferente.
+
+3
+00:00:10,179 --> 00:00:17,119
+Então a gente precisa entender os pontos de contato de cada funil, às vezes a palavra foge, né?
+
+4
+00:00:17,200 --> 00:00:23,240
+Os pontos de contato de cada funil, e aí a partir disso vocês vão entender melhor onde falar com esse cliente
+
+5
+00:00:23,240 --> 00:00:26,700
+pra que a gente aí sim possa trabalhar os roteiros e scripts, tá certo?
+
+6
+00:00:26,700 --> 00:00:37,000
+Então, o que eu vou fazer aqui primeiro? Deixa eu até ver, porque eu tentei puxar e ele não puxou. Ah, agora ele puxou. O que eu quero fazer aqui primeiro? Eu vou puxar isso pra cá, eu posso até fazer melhor, quer ver? Vamos por partes.
+
+7
+00:00:37,400 --> 00:00:45,039
+Aí, pegar essas três aqui, podia ter segurado o shift, né? Opa, por isso que eu não seguro o shift. Vamos pegar os mesmos funis aqui e a gente tem que separar isso.
+
+8
+00:00:45,240 --> 00:00:52,500
+O que eu vou fazer pra simplificar aqui e atender mais pessoas nesse momento? Eu não vou falar desses fluxos aqui mais complexos agora, tá bom?
+
+9
+00:00:52,500 --> 00:00:59,360
+Mas a lógica é a mesma, para quem está nesse nível aqui, o que vocês vão fazer aqui agora é mapear os touchpoints.
+
+10
+00:00:59,659 --> 00:01:04,679
+Isso aqui é interessante, porque se você já está nos níveis mais avançados, você também sabe mapear os touchpoints,
+
+11
+00:01:04,920 --> 00:01:12,480
+que basicamente é você colocar todo o fluxo aqui, o blueprint de serviço, na verdade o blueprint de serviço é depois,
+
+12
+00:01:12,599 --> 00:01:19,059
+é o blueprint de vendas aqui, o fluxo de vendas, cada ponto de contato em que você tem um relacionamento com o seu cliente.
+
+13
+00:01:19,059 --> 00:01:20,740
+Isso vai apontar os canais todos aqui.
+
+14
+00:01:21,159 --> 00:01:29,099
+Começa no WhatsApp, depois do WhatsApp eu agendo uma call, depois da call eu apresento meu site com todas as definições,
+
+15
+00:01:29,340 --> 00:01:35,240
+depois do site tem o contrato, depois do contrato tem os pagamentos, você vai colocar aqui todos os pontos de contato.
+
+16
+00:01:35,300 --> 00:01:39,639
+Só que antes disso, como é que você, nesses níveis aqui, como que você chegou no WhatsApp da pessoa?
+
+17
+00:01:39,800 --> 00:01:43,900
+Antes do WhatsApp da pessoa, muitas vezes tem um LinkedIn, antes do LinkedIn muitas vezes tem uma indicação,
+
+18
+00:01:43,900 --> 00:01:49,920
+Ação. Então, o seu ponto de contato é outra pessoa que te indicou para aquela pessoa, te indicou para aquela empresa e por aí vai.
+
+19
+00:01:50,019 --> 00:01:52,760
+Então, quem está nesses níveis aqui já está mais avançado.
+
+20
+00:01:52,840 --> 00:02:00,579
+E aí, a tarefa que eu tenho aqui para vocês, se você ainda não fez, é mapear todos os pontos de contato dentro do seu fluxo de venda complexo aqui.
+
+21
+00:02:00,700 --> 00:02:01,880
+Beleza? Esse é o objetivo.
+
+22
+00:02:02,260 --> 00:02:08,840
+E aí, para quem ainda não tem experiência com isso, eu vou fazer aqui o exemplo com vocês de como a gente pode mapear os touchpoints.
+
+23
+00:02:08,919 --> 00:02:12,880
+Então vamos pegar aqui, por exemplo, eu vou começar o funil, aí eu tenho aqui awareness, beleza?
+
+24
+00:02:12,959 --> 00:02:18,240
+Então é o nível de conscientização da marca, de conscientização, é, daria pra chamar de conscientização, é.
+
+25
+00:02:18,240 --> 00:02:21,079
+É como você torna as pessoas conscientes da sua marca.
+
+26
+00:02:21,300 --> 00:02:21,699
+Awareness.
+
+27
+00:02:21,840 --> 00:02:22,959
+Quais são os pontos de contato?
+
+28
+00:02:23,059 --> 00:02:28,280
+Você pode falar, eu torno elas conscientes no Instagram, Creators, barra Influencers,
+
+29
+00:02:28,699 --> 00:02:34,519
+eu torno ela consciente em Google Ads, vou chamar aqui de Meta Ads, anúncio, conteúdo
+
+30
+00:02:35,059 --> 00:02:36,439
+orgânico, e aí você vai mapeando.
+
+31
+00:02:36,539 --> 00:02:40,539
+Todos os seus pontos de contato aqui, cuidado para quem está começando agora, para não
+
+32
+00:02:40,539 --> 00:02:44,860
+fazer uma lista muito extensa, escolhe um indicado para começar, vou dar um exemplo
+
+33
+00:02:44,860 --> 00:02:46,019
+aqui para quem está começando.
+
+34
+00:02:46,019 --> 00:02:52,659
+Então eu falo assim, eu vou focar em Google Ads, Meta Ads e Creators, barra Influencers.
+
+35
+00:02:52,979 --> 00:02:56,459
+Ou seja, isso aqui são os meus canais de consciência da marca.
+
+36
+00:02:56,619 --> 00:03:00,179
+Como que eu faço as pessoas conhecerem minha marca, tornar minha marca visível.
+
+37
+00:03:00,320 --> 00:03:02,820
+Aí eu venho para o segundo, sign up, individual, cadastro.
+
+38
+00:03:02,860 --> 00:03:05,439
+Depois que eu venho para o segundo, qual que é meu ponto de contato?
+
+39
+00:03:05,579 --> 00:03:09,119
+Meu ponto de contato se torna, por exemplo, minha página, tela de login.
+
+40
+00:03:09,320 --> 00:03:10,740
+Vou colocar, a tela é criar conta.
+
+41
+00:03:10,900 --> 00:03:11,979
+Tela, criar conta.
+
+42
+00:03:12,220 --> 00:03:15,519
+Ou, isso é, opa, deixa eu só colocar aqui, sign up, individual.
+
+43
+00:03:16,019 --> 00:03:20,599
+Aí eu coloco aqui, ó, tela de criar conta, website do negócio, beleza?
+
+44
+00:03:20,840 --> 00:03:22,199
+Esse é o segundo ponto de contato.
+
+45
+00:03:22,340 --> 00:03:23,240
+O que é importante aqui?
+
+46
+00:03:23,439 --> 00:03:28,159
+Ruan, e se eu for fazer PLG, mas eu não for fazer com conta gratuita?
+
+47
+00:03:28,159 --> 00:03:31,860
+Eu quero fazer um PLG com algum material gratuito e tal?
+
+48
+00:03:31,900 --> 00:03:34,019
+Aí você não necessariamente vai ter um PLG, né?
+
+49
+00:03:34,059 --> 00:03:37,840
+Você vai ter aqui um one stage, porque o PLG precisa que o próprio produto se venda.
+
+50
+00:03:37,959 --> 00:03:41,159
+E pra isso você tem que dar uma demonstração, geralmente é a estratégia que mais funciona.
+
+51
+00:03:41,380 --> 00:03:44,860
+Tem como agendar demonstração também, mas aí se torna um one stage aqui, tá?
+
+52
+00:03:44,939 --> 00:03:45,720
+Ou um two stage.
+
+53
+00:03:46,019 --> 00:03:50,699
+aí vem ativação, Ahamoment, você pode colocar aqui, Ahamoment, ativação
+
+54
+00:03:50,699 --> 00:03:54,499
+pode ser por exemplo um pop -up, pop -up na tela de Ahamoment
+
+55
+00:03:54,499 --> 00:03:58,699
+assim que você conseguir alguma coisa, pum, assine a ferramenta aqui agora
+
+56
+00:03:58,699 --> 00:04:02,780
+eu posso fazer aqui também pop -ups em início de sessão
+
+57
+00:04:02,780 --> 00:04:06,139
+então sempre que você logou de novo, eu faço um pop -up de início de sessão aqui
+
+58
+00:04:06,139 --> 00:04:11,979
+eu posso colocar aqui também dentro de ativação, botões de ativação mesmo, vou chamar de botões de ativação
+
+59
+00:04:11,979 --> 00:04:16,499
+Então sabe, aqui ó, vou dar exemplos pra vocês disso. Tem um nome técnico, mas eu não tô lembrando agora.
+
+60
+00:04:16,780 --> 00:04:20,959
+Você vem aqui no chat de EPT, ó, vou pegar o chat de EPT porque o meu tá no gratuito.
+
+61
+00:04:21,119 --> 00:04:25,159
+Aí tá vendo aqui, ó, promoção gratuita. Isso aqui é um touchpoint de ativação.
+
+62
+00:04:25,220 --> 00:04:30,320
+Aqui vem, ó, teste o plus grátis. Isso aqui é outro botão de ativação, entendeu? Aí você coloca aqui.
+
+63
+00:04:30,579 --> 00:04:39,599
+Aí vem uso recorrente, hábito formado, aí você pode colocar aqui, por exemplo, um feedback, feedback de hábito pra pessoa, uso recorrente.
+
+64
+00:04:39,999 --> 00:05:04,499
+Viraliza... aí, na verdade, feedback de hábito tem que estar como touchpoint, aqui é o uso recorrente, uso recorrente, nossa, escrevi errado, aí você coloca aqui no seu produto um feedback de hábito, parabéns, você já logou X vezes, né, tem os streaks, você pode colocar aqui, o Duolingo faz isso, coloca streaks, quanto mais você loga seguido, mais streaks você vai ganhando ali, né, e aí isso é bom porque forma hábito, é bom porque vira aqui ferramenta essencial no dia a dia.
+
+65
+00:05:04,499 --> 00:05:06,300
+Aí você vem em viralização interna.
+
+66
+00:05:06,340 --> 00:05:10,519
+Na viralização interna, você coloca aqui, por exemplo, indique um amigo.
+
+67
+00:05:10,740 --> 00:05:12,979
+Então, dentro do funil, você indica um amigo e ganha prêmios.
+
+68
+00:05:13,139 --> 00:05:15,220
+Uma viralização interna.
+
+69
+00:05:15,599 --> 00:05:17,519
+Compartilhe seu resultado com amigos.
+
+70
+00:05:17,780 --> 00:05:19,199
+Então, conseguiu uma coisa legal na plataforma?
+
+71
+00:05:19,320 --> 00:05:20,399
+Compartilhe nas redes sociais.
+
+72
+00:05:20,619 --> 00:05:22,679
+Isso vai depender muito da plataforma, né?
+
+73
+00:05:22,740 --> 00:05:27,240
+Tem um outro jeito de viralização que é convide alguém do seu time.
+
+74
+00:05:27,439 --> 00:05:31,499
+É outro touchpoint também, que na verdade a gente poderia até chamar aqui de expansão.
+
+75
+00:05:31,579 --> 00:05:34,199
+Só que dentro desses aqui, você pode trazer mais coisas.
+
+76
+00:05:34,199 --> 00:06:04,179
+Por exemplo, eu estou aqui em, eu ativei a pessoa usando aqui o próprio produto, só que aqui em viralização interna, ou então quando a pessoa adquiriu um uso recorrente, ela se qualificou, isso aqui é um critério de qualificação dentro da minha plataforma, ela se tornou aqui agora a ICP da minha próxima solução, aí eu posso fazer duas coisas com ela, posso agendar uma call para conversar com essa pessoa, vou trazê -la para um outro produto meu de um outro funil, eu posso trazer isso para dentro, então construir aqui os pontos de contato serve para que vocês entendam
+
+77
+00:06:04,199 --> 00:06:06,720
+Onde as vendas vão acontecer em cada canal?
+
+78
+00:06:06,860 --> 00:06:08,519
+E isso é muito importante, tá?
+
+79
+00:06:08,659 --> 00:06:08,720
+Eu
+
+80
+00:06:08,780 --> 00:06:09,020
+vocês,
+
+81
+00:06:09,020 --> 00:06:17,000
+Mas é importante vocês fazerem esse exercício que eu acabei de fazer, que é o exercício de você mesmo pensar quais são os pontos de contato dentro do seu funil.
+
+82
+00:06:17,060 --> 00:06:21,680
+Então você vai escolher o funil que faz mais sentido aqui e vai pensar nos pontos de contato desse funil.
+
+83
+00:06:21,720 --> 00:06:26,680
+Onde que existe uma relação do cliente com você? É daqui que começa o seu plano de vendas.
+
+84
+00:06:26,820 --> 00:06:35,720
+Muitas vezes as pessoas acham que já tem que sair mandando mensagem, marcando calls, mas às vezes você tem pontos de contato inteligentes que você poderia estar aproveitando e está deixando passar.
+
+85
+00:06:36,020 --> 00:06:37,759
+Por isso que essa visão macro aqui é importante.
+
+86
+00:06:38,059 --> 00:06:40,400
+a gente vai construir, vocês vão construir de vocês baseado nele.
+
+87
+00:06:40,400 --> 00:06:43,439
+Então, o que vocês têm que entender aqui? A lógica por trás do playbook.
+
+88
+00:06:43,599 --> 00:06:45,099
+Primeiro, por que criar um playbook?
+
+89
+00:06:45,279 --> 00:06:49,139
+Antes de sair contratando pessoas para a sua equipe, é legal você entender duas coisas.
+
+90
+00:06:49,499 --> 00:06:54,099
+Gargalos da sua empresa, então eu vou puxar isso para cá mais como um negócio aqui para vocês entenderem.
+
+91
+00:06:54,179 --> 00:06:57,439
+Então você tem que entender quais são os gargalos e quais são as alavancas.
+
+92
+00:06:57,599 --> 00:07:00,519
+Aqui existe uma relação muito forte entre os dois.
+
+93
+00:07:00,799 --> 00:07:04,860
+Quando você foca só nas alavancas, você cria novos gargalos.
+
+94
+00:07:04,860 --> 00:07:09,539
+E quando você resolve os gargalos, você abre espaço para poder investir em mais alavancas.
+
+95
+00:07:09,539 --> 00:07:15,799
+Geralmente a gente tem aqui gargalos no produto e no CS, são os principais gargalos de negócios.
+
+96
+00:07:15,959 --> 00:07:20,400
+A entrega, posso colocar aqui produto e serviço, vou chamar de entrega e o CS, beleza?
+
+97
+00:07:20,479 --> 00:07:27,279
+E a alavanca, geralmente, a alavanca de um negócio são vendas, marketing e branding, isso aqui são alavancas.
+
+98
+00:07:27,400 --> 00:07:31,199
+Erro que muita gente comete, e vocês também já cometeram muitas vezes,
+
+99
+00:07:31,299 --> 00:07:36,299
+ah, eu vou fazer meu portfólio, ah, eu vou fazer meu site para ficar bonito, ah, eu vou montar meu produto.
+
+100
+00:07:36,299 --> 00:07:39,799
+Aí você fica aqui falando muito de você, você, você, você, você, você, você, você.
+
+101
+00:07:39,939 --> 00:07:42,519
+Isso tudo aqui te ajuda a diminuir gargalo.
+
+102
+00:07:42,539 --> 00:07:46,239
+Por quê? Se eu tenho um site que explica o que eu faço, se eu tenho um portfólio que explica o que eu faço,
+
+103
+00:07:46,299 --> 00:07:49,759
+eu diminuo o gargalo de ter que fazer isso tudo ali na pressão, na hora.
+
+104
+00:07:49,900 --> 00:07:52,099
+Só que isso aqui não é a venda. Isso aqui não é venda.
+
+105
+00:07:52,219 --> 00:07:54,259
+Isso aqui tudo é material interno, é institucional.
+
+106
+00:07:54,439 --> 00:07:57,979
+Se eu fico um tempão criando o meu produto antes de vender ele,
+
+107
+00:07:58,099 --> 00:08:02,279
+você, além de investir muito tempo, pode acabar também investindo muito dinheiro e falindo.
+
+108
+00:08:02,279 --> 00:08:04,599
+É o que acontece com muita gente. É o que quase aconteceu com a Overlens.
+
+109
+00:08:04,599 --> 00:08:08,099
+Aí a gente precisa trabalhar as alavancas, que isso aqui é chamado de distribuição.
+
+110
+00:08:08,340 --> 00:08:14,599
+Então, pessoas inteligentes, quando vão criar um negócio, querem definir, querem validar uma tese de valor.
+
+111
+00:08:14,759 --> 00:08:21,400
+E vocês são pessoas inteligentes, então o caminho ideal é começar nas alavancas e depois ir para os gargalos.
+
+112
+00:08:21,519 --> 00:08:26,400
+Ou seja, você tem uma tese de valor e você vai validar ela no mercado fazendo as primeiras vendas.
+
+113
+00:08:26,479 --> 00:08:30,639
+Depois que você vendeu, aí você começa a melhorar o produto.
+
+114
+00:08:30,639 --> 00:08:37,199
+O que você precisa ter aqui pra fazer a alavanca rodar é um MVP ou um roadmap do MVP.
+
+115
+00:08:37,519 --> 00:08:38,239
+Como assim um roadmap?
+
+116
+00:08:38,559 --> 00:08:41,219
+Você não precisa ter nem um MVP pronto pra validar uma ideia.
+
+117
+00:08:41,380 --> 00:08:44,880
+Você tem ali o roadmap, você tem o plano de execução dele, você tem a promessa dele
+
+118
+00:08:44,880 --> 00:08:46,619
+e o período que você vai levar pra fazê -lo.
+
+119
+00:08:46,699 --> 00:08:51,239
+O que você precisa é de uma tese de valor e de uma oferta pra poder começar uma alavanca.
+
+120
+00:08:51,359 --> 00:08:56,059
+E aí dentro dessa lógica de vendas, então, a recomendação que eu tenho pra vocês é,
+
+121
+00:08:56,140 --> 00:08:59,859
+geralmente as pessoas perguntam, quem que eu contrato primeiro, onde que eu começo um negócio?
+
+122
+00:08:59,859 --> 00:09:11,260
+Vendas. Eu comecei a equipe da Overlens contratando pra gargalo. E hoje eu posso falar pra vocês, um ano depois, que o mais inteligente teria sido eu começar contratando pra alavanca.
+
+123
+00:09:11,420 --> 00:09:17,260
+Hoje a gente tá lidando com isso, e a gente tá resolvendo alavancas. Mas aí agora, com um pouco mais de experiência, eu posso falar pra você.
+
+124
+00:09:17,319 --> 00:09:24,559
+Ainda não tem ninguém na sua equipe? Você vai começar aqui com vendas. Porque se você vende, você tem demanda, se tem demanda, nem que você contrate alguém pra fazer pra você,
+
+125
+00:09:24,559 --> 00:09:30,399
+E aí quando a gente vai contratar vendas, o erro que as pessoas cometem é
+
+126
+00:09:30,399 --> 00:09:34,199
+vou chamar um vendedor experiente, que aí ele monta o processo pra mim.
+
+127
+00:09:34,279 --> 00:09:37,519
+Errado. Ele não conhece o seu negócio, você vai criar dependência nele,
+
+128
+00:09:37,600 --> 00:09:38,519
+vendedor experiente.
+
+129
+00:09:38,779 --> 00:09:40,779
+Então eu não posso contratar um vendedor experiente?
+
+130
+00:09:41,019 --> 00:09:45,000
+Não, você pode, só que o erro é chamar isso aqui de solução.
+
+131
+00:09:45,059 --> 00:09:49,199
+A solução é, antes de contratar um vendedor experiente, desenhar o processo.
+
+132
+00:09:49,460 --> 00:09:53,819
+Só que desenhar o processo, dependendo do seu extrato cognitivo atual,
+
+133
+00:10:07,359 --> 00:10:09,640
+E aí, como que funciona?
+
+134
+00:10:24,180 --> 00:10:29,739
+Você, você, tem que ser a primeira pessoa a passar por esse processo, pelo menos uma vez.
+
+135
+00:10:29,960 --> 00:10:34,619
+E aí, depois que você passou e entendeu o processo, aí sim, você vai contratar alguém
+
+136
+00:10:34,619 --> 00:10:37,659
+para trabalhar dentro do processo que você desenhou.
+
+137
+00:10:37,760 --> 00:10:40,479
+Essa pessoa pode aprimorar o processo? Pode, com certeza, isso é maravilhoso.
+
+138
+00:10:40,579 --> 00:10:44,739
+Mas você vai entregar para ela o processo, como o negócio funciona.
+
+139
+00:10:44,960 --> 00:10:48,199
+E é aqui que entram os playbooks e os workflows.
+
+140
+00:10:48,600 --> 00:10:51,399
+Então, você passa pelo processo uma vez, valida tudo,
+
+141
+00:10:51,399 --> 00:10:55,619
+Depois que passou, você vai ter os seus playbooks e os seus workflows do processo inteiro
+
+142
+00:10:55,619 --> 00:10:58,100
+pra poder delegar isso pra alguém fazer por você.
+
+143
+00:10:58,239 --> 00:10:59,300
+Esse é o caminho inteligente.
+
+144
+00:10:59,380 --> 00:11:01,079
+Ué, eu não tenho tempo pra fazer isso.
+
+145
+00:11:01,199 --> 00:11:04,319
+Então arruma um sócio ou uma parceria que vai fazer isso pra você,
+
+146
+00:11:04,380 --> 00:11:06,340
+senão o seu negócio não vai funcionar.
+
+147
+00:11:06,619 --> 00:11:07,899
+Simplesmente não vai funcionar.
+
+148
+00:11:07,979 --> 00:11:09,059
+Você pode ter o melhor produto.
+
+149
+00:11:09,279 --> 00:11:11,439
+Vários produtos ruins vão vender mais do que você.
+
+150
+00:11:11,600 --> 00:11:14,239
+Aí sim, no momento que você estruturou isso aqui e contratou,
+
+151
+00:11:14,319 --> 00:11:16,079
+aí você vai pro próximo, que é CS.
+
+152
+00:11:16,399 --> 00:11:17,180
+Aí o que você vai fazer?
+
+153
+00:11:17,300 --> 00:11:19,739
+Você vai vir aqui pro CS, desenhar o processo,
+
+154
+00:11:19,739 --> 00:11:49,699
+processo, passar pelo processo você e depois colocar aqui, aí depende do negócio. Inclusive aqui muitas vezes você pode trazer um SDR ao invés do closer, porque aí você vai ter que investir menos ali, 3 mil reais de fixo já é algo legal, às vezes também tem pessoas que vão querer 100 % variável com uma comissão maior, enfim, vocês tem que aprender a conversar com as pessoas e fazer propostas, ouvir o que elas têm a dizer e mostrar o que você tem a oferecer. Eventualmente as pessoas vão falar, olha, eu vendo pra você, eu quero uma comissão inicial de 40%, é muito alta, mas você não precisa me pagar nenhum fixo, às vezes é um
+
+155
+00:11:49,699 --> 00:12:03,039
+Caminha, né? Depende também do produto que você vai oferecer. Mas aí, uma vez que você passou por vendas, aí você vai desenhar o processo de CS. E por aí vai, é assim que você vai desenhando um processo de cada vez, ao invés de tentar desenhar todo o negócio de uma vez só, esse é um erro crítico, tá bom? Então,
+
+156
+00:12:03,059 --> 00:12:05,179
+vamos lá, vou fazer rapidinho aqui, vocês vão pegar comigo.
+
+157
+00:12:05,439 --> 00:12:07,979
+Topo de funil, inbound marketing e outbound.
+
+158
+00:12:08,099 --> 00:12:10,699
+Então o que isso significa? A gente vai colocar aqui, topo de funil.
+
+159
+00:12:10,799 --> 00:12:13,219
+Aí vocês vão pensar nos pontos de contato de topo de funil.
+
+160
+00:12:13,319 --> 00:12:15,839
+Os mais clássicos aqui, vou colocar ele em Medium.
+
+161
+00:12:15,979 --> 00:12:20,239
+Os mais clássicos que eu posso colocar é Instagram, YouTube, LinkedIn.
+
+162
+00:12:20,679 --> 00:12:27,319
+E aí eu coloco aqui como parte também, vou colocar também TikTok, não pode esquecer TikTok mais não.
+
+163
+00:12:27,419 --> 00:12:28,099
+Então redes sociais.
+
+164
+00:12:28,099 --> 00:12:32,579
+Mas eu posso colocar aqui também, além de redes sociais, creators barra influencers.
+
+165
+00:12:33,339 --> 00:12:38,279
+Eu posso colocar aqui também e -mail, listas de WhatsApp.
+
+166
+00:12:39,039 --> 00:12:42,679
+Lista de WhatsApp já entra embaixo, né? E -mail e lista já entra embaixo.
+
+167
+00:12:42,879 --> 00:12:44,599
+Eu vou separar eles aqui, vai ficar melhor.
+
+168
+00:12:44,799 --> 00:12:46,619
+Então aqui vem lead e prospect.
+
+169
+00:12:47,000 --> 00:12:49,219
+Aí quais são os pontos de contato aqui? Acabei de falar.
+
+170
+00:12:49,359 --> 00:12:53,460
+E -mail, lista de WhatsApp, seguidores com ressalva, tá?
+
+171
+00:12:53,460 --> 00:13:00,960
+Quando você tem seguidores, você está construindo o seu negócio no terreno dos outros, então você não tem a lista toda ali, né?
+
+172
+00:13:01,039 --> 00:13:04,639
+A lista é do Instagram, por exemplo, só que ele te deixa usar a lista ali.
+
+173
+00:13:04,799 --> 00:13:11,039
+Aí ele colocou aqui também, ó, telefone, LinkedIn, pode ser também o lead direto no LinkedIn, mas aqui eu trouxe alguns para vocês.
+
+174
+00:13:11,319 --> 00:13:17,960
+Outras coisas que podem estar no topo de funil aqui, eventos, eventos online, eventos presenciais.
+
+175
+00:13:18,199 --> 00:13:20,139
+Aí eu quero que vocês pensem um pouco sobre isso, né?
+
+176
+00:13:20,219 --> 00:13:22,419
+Da onde que os clientes vão ficar sabendo de vocês?
+
+177
+00:13:22,419 --> 00:13:28,699
+Aí vira o lead. E -mail, lista de WhatsApp, seguidores, esses são os principais pontos de contato que a gente pode colocar aqui.
+
+178
+00:13:28,839 --> 00:13:36,859
+Aí vem aqui, Discovery. O Discovery clássico é uma ligação. Ligação rápida, 10 minutinhos. Então, telefone, barra, ligação.
+
+179
+00:13:37,059 --> 00:13:40,639
+Mas o Discovery aqui também pode ser no WhatsApp, caso a pessoa não queira falar.
+
+180
+00:13:40,819 --> 00:13:45,479
+Isso aqui é o que o SDR vai fazer, ele vai fazer perguntas aqui pra poder qualificar o lead.
+
+181
+00:13:45,659 --> 00:13:48,819
+E esses são os principais pontos de contato dessas perguntas aqui, tá?
+
+182
+00:13:48,819 --> 00:13:54,739
+A gente evita de fazer chamada de vídeo, chamada de vídeo geralmente a gente trabalha com o executivo de contas aqui, que é o closer.
+
+183
+00:13:54,960 --> 00:14:01,039
+Aí nós temos aqui esse SQL handoff, que na verdade é uma etapa interna, então não é um ponto de contato com os clientes.
+
+184
+00:14:01,119 --> 00:14:12,000
+Aí a gente passa do discovery para o demo. O demo aqui acontece no Zoom, ou Google Meet, ou o Teams da Microsoft, esse é o ponto de contato aqui da demo.
+
+185
+00:14:12,000 --> 00:14:22,919
+Aí vem a proposta. A proposta, ela usa esse ponto de contato aqui também, mas pode ser o seu website, pode ser um documento, PDF, PPTX, PPT, né, no caso, e por aí vai.
+
+186
+00:14:23,159 --> 00:14:32,500
+Depois, aqui nesse Closed One, a gente tem outro ponto de contato, o contrato. Só que aqui também, na proposta, você usa WhatsApp, você usa e -mail.
+
+187
+00:14:32,539 --> 00:14:36,239
+Quais são os pontos de contato aqui para continuar conversando com o cliente nessa etapa?
+
+188
+00:14:36,239 --> 00:14:41,819
+Aqui também usa o WhatsApp e -mail, porque às vezes manda o link aqui, por exemplo, tem o calendar, é um outro ponto de contato.
+
+189
+00:14:41,839 --> 00:14:46,679
+Todos os pontos de contato que o cliente tem ali, tudo isso faz parte da jornada de compra dele aqui.
+
+190
+00:14:46,859 --> 00:14:52,919
+Aí vem a proposta, a proposta vai via contrato, muitas vezes por e -mail, tem também gente que usa no WhatsApp, e por aí vai.
+
+191
+00:14:53,079 --> 00:14:55,460
+Então, coloquei aqui os principais para vocês.
+
+192
+00:14:56,059 --> 00:14:59,719
+Expansão vira CS, tá? Aí CS tem os seus próprios pontos de contato ali.
+
+193
+00:14:59,839 --> 00:15:05,179
+Entenderam a lógica? O da IA ficou fraquinho, a IA até colocou um aqui que eu não tinha colocado, que é bom de colocar aqui.
+
+194
+00:15:05,179 --> 00:15:15,659
+SEO e DO. As pessoas te encontrarem porque uma IA te indicou, por exemplo, o Google te indicou e por aí vai. Boca a boca também, aqui ó, creator, influencers e boca a boca, beleza.
+
+195
+00:15:16,019 --> 00:15:26,659
+Aí ele colocou aqui, olha, sign up grátis, sem cartão, só que isso aqui pra mim não é two stages, né, tem onboarding, NUDs, ah, isso aqui que é NUDs, NUDs que são os botões de ativação lá.
+
+196
+00:15:26,799 --> 00:15:31,759
+Convite de colegas, isso tudo aqui ó, isso aqui não é two stages não, ele quer aqui também, ele fez errado.
+
+197
+00:15:31,759 --> 00:15:36,279
+E aí eu vou deixar aqui, eu mesmo montei junto com vocês, vocês conseguem pegar a ideia, beleza?
+
+198
+00:15:36,619 --> 00:15:36,759
+Curtiram
+

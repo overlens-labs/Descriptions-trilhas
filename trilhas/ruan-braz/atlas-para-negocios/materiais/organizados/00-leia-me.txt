@@ -1,0 +1,82 @@
+Atlas para Negócios — materiais organizados
+
+25 aulas conferidas com os chats dos dias 01 e 02. Os arquivos originais foram preservados.
+
+Comece aqui
+
+- Abrir a versão visual, com busca e filtros — Abrir materiais.html — abra este arquivo no navegador.
+- Dia 01 — aulas A01 a A12 — Dia 01/TXT/00 - Indice.txt.
+- Dia 02 — aulas A13 a A24 — Dia 02/TXT/00 - Indice.txt.
+- A25 — perguntas e respostas dos dois dias — Complementares/TXT/A25 - Materiais.txt.
+- Materiais compartilhados e complementos — Referencias/Materiais compartilhados.txt.
+- Pendências e arquivos não encontrados — Referencias/Pendencias.txt.
+- Links administrativos e comerciais — Referencias/Links administrativos.txt.
+- Catálogo em CSV — Referencias/Catalogo de links.csv — 30 referências catalogadas, incluindo apoio e contatos administrativos.
+
+Versões MD e TXT
+
+- Dia 01 — Markdown — Dia 01/MD/00 - Indice.md · Dia 01 — texto simples — Dia 01/TXT/00 - Indice.txt.
+- Dia 02 — Markdown — Dia 02/MD/00 - Indice.md · Dia 02 — texto simples — Dia 02/TXT/00 - Indice.txt.
+- A25 — Markdown — Complementares/MD/A25 - Materiais.md · A25 — texto simples — Complementares/TXT/A25 - Materiais.txt.
+
+As versões TXT incluem as fichas, os índices e os prompts. Os links continuam escritos por inteiro e os textos dos prompts foram preservados. As transcrições estão em Transcrições, separadas por dia; os chats estão em materiais/Fontes originais.
+
+O que foi separado
+
+Cada aula tem sua própria ficha, com links, descrição do uso, autoria no chat, horários e referência à transcrição. Também há dez arquivos de prompts: cinco recuperados das mensagens e cinco recortes das transcrições, sempre com a origem indicada.
+
+Nos chats, Nanda aparece como Nanda da Overlens. Não aparece identificada pelo sobrenome informado no pedido.
+
+Como interpretar
+
+- Equipe: envio identificado de Ruan Braz ou Nanda da Overlens.
+- Apoio geral: portal ou banco de materiais que atende várias aulas; não é um arquivo exclusivo.
+- Participante: contribuição útil de outra pessoa, com autor identificado.
+- Associação provável: o link existe no chat, mas seu vínculo exato com a aula ou o título do arquivo não pôde ser confirmado.
+- Demonstração geral: exemplo mostrado sem correspondência segura com uma aula editada.
+
+Os horários do chat são os registros da sessão ao vivo. Os horários das transcrições recomeçam em cada aula editada; não são equivalentes. Os vínculos foram feitos pelo conteúdo, pela sequência e pelas falas, não pela igualdade dos relógios.
+
+O quadro branco foi enviado no dia 02, mas também apoia as aulas do dia 01. A25 reúne perguntas dos dois dias. A seção “juntar-docs” tem associação provável com A09, e o título do livro enviado por Vera no Drive não foi confirmado.
+
+A organização usa os arquivos locais. Os links externos foram preservados, sem testar disponibilidade, login ou conteúdo atual e sem baixar seus destinos. Os arquivos de materiais criados aqui são fichas e extratos; não são cópias dos sites, da planilha ou do repositório.
+
+Dia 01
+
+Aula — Conteúdo — Material identificado
+
+A01 — Dia 01/TXT/A01 - Materiais.txt — Abertura e enquadramento de aprendizagem — Documento de enquadramento de aprendizagem.
+A02 — Dia 01/TXT/A02 - Materiais.txt — Um site publicado em 10 minutos com Claude Code e Codex — Os dois sites da demonstração e uma cópia do prompt.
+A03 — Dia 01/TXT/A03 - Materiais.txt — Energia no lugar certo - dos comos aos porquês — Apoio à explicação sobre onde colocar energia e ao início da organização do projeto.
+A04 — Dia 01/TXT/A04 - Materiais.txt — As camadas da IA e o ambiente de trabalho — Quadro das camadas da IA e orientação de instalação das IDEs.
+A05 — Dia 01/TXT/A05 - Materiais.txt — Hipótese de negócio - briefing por áudio e as seis hipóteses — Briefing do negócio, BMC inicial e hipóteses a validar.
+A06 — Dia 01/TXT/A06 - Materiais.txt — Business Model Canvas - do Markdown ao painel interativo — Prompt original do BMC em HTML com post-its editáveis.
+A07 — Dia 01/TXT/A07 - Materiais.txt — Por que validar e o prompt de pesquisa profunda — Prompt de pesquisa de mercado e validação de hipóteses.
+A08 — Dia 01/TXT/A08 - Materiais.txt — O mercado é um jogo, e pensamento sistêmico — Quadro branco para os conceitos de mercado, teoria dos jogos e pensamento sistêmico.
+A09 — Dia 01/TXT/A09 - Materiais.txt — Lendo a pesquisa e fazendo as contas do negócio — Referências para leitura da pesquisa e cálculo das metas do negócio.
+A10 — Dia 01/TXT/A10 - Materiais.txt — Funil de validação e unit economics — Apoio visual para funil de validação, custos e viabilidade econômica.
+A11 — Dia 01/TXT/A11 - Materiais.txt — Construindo e abrindo o sistema de gestão — Prompt e estrutura do sistema: briefing, PRD, spec e workflows.
+A12 — Dia 01/TXT/A12 - Materiais.txt — Fundamentos, anatomia do prompt e o peso do início — O mesmo prompt da construção do sistema, explicado por blocos.
+
+Dia 02
+
+Aula — Conteúdo — Material identificado
+
+A13 — Dia 02/TXT/A13 - Materiais.txt — Rodando o sistema e melhorando a interface — Quadro de design system e referências para melhorar a interface.
+A14 — Dia 02/TXT/A14 - Materiais.txt — Infraestrutura - arquivos, banco de dados e publicação — Quadro de infraestrutura: arquivos, repositório, banco de dados e publicação.
+A15 — Dia 02/TXT/A15 - Materiais.txt — Loop de autoaprimoramento - o sistema se melhorando sozinho — Prompt de autoaprimoramento da interface, transcrito por Suelen.
+A16 — Dia 02/TXT/A16 - Materiais.txt — Validando o modelo - a conta, o excesso de plano e o produto certo — Documentação e cálculos usados para revisar a viabilidade e escolher a oferta.
+A17 — Dia 02/TXT/A17 - Materiais.txt — Perfil ideal de cliente e o gargalo da lista — Ficha de perfil ideal de cliente (ICP).
+A18 — Dia 02/TXT/A18 - Materiais.txt — Os três planos de aquisição — Quadro dos três planos de aquisição e prompt de busca de leads.
+A19 — Dia 02/TXT/A19 - Materiais.txt — Seiscentos leads e a lista limpa — Prompt de coleta dos leads e contexto da limpeza da lista.
+A20 — Dia 02/TXT/A20 - Materiais.txt — Cold mail - da lista ao disparo — Orientação de uso da lista para envio de cold mail.
+A21 — Dia 02/TXT/A21 - Materiais.txt — A landing page - do prompt ao primeiro lead na planilha — Prompt da landing page e resultado publicado.
+A22 — Dia 02/TXT/A22 - Materiais.txt — Criativos - da referência às dez imagens — Referências visuais e trecho da instrução para gerar os dez criativos.
+A23 — Dia 02/TXT/A23 - Materiais.txt — Publicando o anúncio e o balanço do fim de semana — Landing page usada no anúncio e quadro de metas de aquisição.
+A24 — Dia 02/TXT/A24 - Materiais.txt — Subindo o projeto no GitHub e encerramento — Link público da Marabilia e situação da entrega do projeto.
+
+Complementar
+
+Aula — Conteúdo — Material identificado
+
+A25 — Complementares/TXT/A25 - Materiais.txt — Perguntas e Respostas — Perguntas e respostas que retomam os materiais dos dois dias.

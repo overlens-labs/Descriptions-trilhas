@@ -1,0 +1,177 @@
+Aula 8 · O primeiro cliente e o primeiro caixa
+
+[00:00] Depois que você valida o negócio e acerta ele, a escala é mais fácil,
+[00:03] porque você já tem as informações pra oferecer.
+[00:06] Porque, só pensa assim, as pessoas prontas pra pagar já existem, não precisa criar essas pessoas, o que precisa existir é a solução pro problema delas que elas vão pagar, e a gente tem que acertar isso, é o que a gente chama de product market fit, lá fora no mundo real já tem gente e empresa com dinheiro pra colocar, e prontas pra fazer isso agora, vou dar um exemplinho aqui só bem rápido, tá?
+[00:29] Antes de ontem, eu estava trabalhando aqui no Cloud, e às vezes quando eu vou trabalhando no Cloud, eu fico rankeando conteúdos pra eu pegar de modelo pra eu começar a gravar.
+[00:38] Eu tô gravando mais agora lá no Instagram, né? E aí eu fico rodando o feed ali, pra ver conteúdos interessantes pra eu salvar.
+[00:43] E aí passou um anúncio pra mim de uma empresa que trabalha com treinamento de time de vendas.
+[00:48] Gente, era mais ou menos 17 horas. Eu vi esse anúncio e mandei mensagem.
+[00:53] Mandei mensagem na hora, me responderam, já gostei disso. Na hora.
+[00:56] ou seja, teve o anúncio, eu entrei no anúncio e mandei uma mensagem, eu caí na página, cliquei e mandei uma mensagem no WhatsApp, tem interesse, na hora fui respondido, quando eu fui respondido eu falei, deve ser um bot, vou testar, e eu comecei a falar ali para tentar pegar o bot, não era um bot, era uma pessoa, e não tinha problema se fosse um bot, mas era uma pessoa, e aí eles falaram, Ruan, vamos agendar uma conversa para a gente,
+[01:19] O que eu consigo remarcar?
+[01:22] eu falei com eles, né, eu não tenho vaga pra amanhã, eles queriam marcar uma call comigo no dia seguinte, amanhã eu não posso, vai ser corrido, mas eu posso hoje à noite.
+[01:29] Aí eles falaram, Ruan, eu tô com a minha agenda toda lotada, mas eu tenho um cliente que eu atendo nove horas, que eu posso remarcar com ele.
+[01:35] Mas eu tenho que ter certeza de que você vai aparecer.
+[01:38] Falei, beleza, pode marcar aí.
+[01:39] Nove horas da noite o cara estava lá comigo.
+[01:42] Ele fez a reunião comigo.
+[01:43] Na reunião, ele já queria tirar a venda ali na hora.
+[01:47] E ele está certo.
+[01:48] Foi muito bom, tá?
+[01:49] Ele só falou, Ruan, eu entendo isso aí, se você quiser ver o contrato, vamos ver o contrato agora, junto comigo aqui,
+[01:55] porque aí você tem a oportunidade de tirar a dúvida comigo.
+[01:56] O nosso contrato é pequeno, é simples de entender.
+[01:59] Olha aí, o cara não queria que eu saísse da call porque ele queria a venda ali na hora.
+[02:01] Falei, beleza, vamos ver o contrato aqui.
+[02:03] Depois eu falei, ah, mas meu sócio não está aqui agora.
+[02:06] Preciso dele aqui.
+[02:07] Ele falou, você não consegue ligar para o seu sócio para a gente resolver isso?
+[02:10] E aí ele me explicou porque tinha que ser no dia.
+[02:12] Ele falou, essa oferta que você viu no WhatsApp, quando a pessoa entra em contato com a gente,
+[02:15] ela cai no nosso CRM e ela é feita uma única vez.
+[02:18] A gente tem uma segunda oferta aqui, mas se você voltar a falar comigo amanhã,
+[02:21] se você não fechar aqui agora, eu vou te fazer essa segunda oferta.
+[02:24] E por que eu faço isso, Ruan?
+[02:25] É política nossa da empresa.
+[02:27] A gente tem dois perfis de públicos diferentes.
+[02:29] E a gente quer falar com um perfil de público que já está decidido,
+[02:31] já sabe o que quer, está pronto para poder investir na gente.
+[02:34] Para esse público, a gente dá um prêmio.
+[02:35] E esse prêmio é a sua oferta que eu estou te fazendo aqui.
+[02:38] E era uma oferta muito boa, tá?
+[02:40] Agora, se você não quiser, agora quiser pensar melhor, não tem problema nenhum, decide no seu tempo.
+[02:43] Mas, você não vai ter acesso a essa oferta mais porque eu marco aqui no CRM e a gente não volta, faz parte da política da empresa.
+[02:49] E aí a sua oferta passa a ser essa daqui, a partir do momento que você sai dessa reunião.
+[02:53] Tá tudo bem, é uma decisão sua, mas isso é um jeito que a gente faz para poder encontrar pessoas que já estão decididas,
+[02:58] que tem coragem de investir, que tem coragem de acreditar na gente.
+[03:01] Lembrando que você tem garantia, tem reembolso, se você não gostar é só você pedir, isso tem sete dias.
+[03:06] O que eu estou contando isso para vocês aqui agora?
+[03:13] Gente para pagar, uma abordagem certa, gente para pagar tem.
+[03:17] Diz ele que ele faz 15 vendas dessa por dia, 5 mil reais a venda, por dia.
+[03:21] Então dá ali 60 mil por dia com esse tipo de venda.
+[03:25] E eu acredito, porque eles estão gerando tráfego o tempo todo, só que isso é um modelo que foi validado.
+[03:30] Ele chegou numa oferta validada, ele entende qual é o público dele.
+[03:33] Pra chegar nisso aqui e escalar, não é a parte mais difícil.
+[03:36] A mais difícil é validar.
+[03:37] Só que se a gente demora demais na validação, além de começar a ficar inviável,
+[03:41] que a gente fala, pô, isso aqui não tá me trazendo dinheiro, tô ficando tenso, não tá dando resultado,
+[03:45] a nossa mente começa a sabotar e as pessoas não conseguem passar desse filtro, que é o mais difícil.
+[03:50] Então eu sei que eu estendi na resposta aqui, mas só pra trazer um pouco de possibilidades que vocês podem fazer também.
+[03:56] Agora é o momento que vocês têm que ter uma fome.
+[03:59] Fome e a palavra fome aqui ela é importante porque quando a gente tá com fome, nada mais importa, a gente arruma um jeito de comer. Tô com fome, cara, eu vou achar um jeito de eu comer, tá? Eu falo isso porque isso é algo humano e essa é a palavra que melhor define isso. Vocês precisam estar com fome nessa fase. Enquanto vocês não estiverem com fome, a barriga tá meio cheia, depois eu como qualquer coisa ali.
+[04:21] Agora, quando você está com fome mesmo, você fala, beleza, fiz a página, o que eu vou fazer agora? E agora? O que eu vou fazer agora?
+[04:27] Essa é a postura que precisa nessa fase, porque depois que passa dela, eu prometo para vocês, tem método.
+[04:33] É método e número, beleza?
+[04:35] ainda na verdade, tem que tomar o cuidado com sair da rota que você planejou, né, senão lá na frente você vai falar, cara, fiz isso aqui, ganhei dinheiro, mas fui na direção diferente do que eu queria, isso tem que ser bem claro na sua cabeça desde o início, mas fora isso, cara, na verdade é uma coisa boa, você está sendo pago para estruturar o negócio, tanto o nosso negócio quanto o do cliente, que é uma empresa nova também, inclusive uma recomendação
+[05:00] A recomendação que eu faço geralmente é essa, encontre uma marca para apadrinhar sua tese, então você faz com ela a primeira vez ali, cobra às vezes um valor menor, ou até faz de graça, e depois daquilo você tem um método validado, isso a gente já, várias vezes, desde 2020 a gente aplica esse método.
+[05:20] Eu tenho uma aluna minha, que
+[05:21] ela não tá aqui na Vanguarda, mas a jornada dela foi muito legal, tá?
+[05:26] Em
+[05:26] eu vou falando talvez eu lembre.
+[05:27] Mas ela entrou na Overlens, na verdade nem chamava Overlens na época, mas ela se tornou aluna minha, a gente começou esse processo de mentoria, de ajudar ela, e uma das estratégias que eu ensinei na época foi Cavalo de Troia.
+[05:41] É pra todo mundo? Não. Por exemplo, essa estratégia funciona pra Osana, em
+[05:44] tese, quando ela te dá um pouco do tempero pra você experimentar, isso é o que a gente chama aqui de estratégia do Cavalo de Troia.
+[05:52] Que é você entrar dentro do negócio da pessoa primeiro, pra depois você oferecer algo mais.
+[05:59] queria validar uma entrega dela.
+[06:00] Ela não tinha tido nenhum cliente até então, porque ela era bem nova,
+[06:04] ela tava entrando no mercado e ia começar a empreender,
+[06:06] e eu falei pra ela, você vai fazer a estratégia do cavalo de Troia.
+[06:09] Na época, o perfil de cliente dela eram empresas de energia solar.
+[06:12] Ela entrou em contato com várias e conseguiu chamar a atenção de uma.
+[06:18] Foi uma das empresas que acreditou nela, só que ela fez o seguinte, ela falou, eu vou implementar isso aqui tudo pra você de maneira gratuita, eu só preciso do seu engajamento aqui pra no final a gente coletar o resultado.
+[06:30] E o cara que contratou ela ficou sem entender, como assim, você vai fazer isso tudo de graça, você não vai me cobrar nada? Ela, é, não vou te cobrar nada.
+[06:35] E ele falou, não, mas isso não faz o menor sentido, eu quero te pagar, me fala quanto que é.
+[06:40] E aí ela falou, não, eu vou receber com a validação, fica tranquilo, vou receber com a validação e depois disso a gente pode continuar conversando.
+[06:50] Aí foi muito legal a história porque ela executou, levou mais ou menos duas semanas ali para ela executar, no final da validação deu certo,
+[06:57] ela entregou tanto uma marca nova quanto um site que trouxe clientes para essa empresa e aí essa empresa quis contratar ela,
+[07:05] E aí já contratou ela, se eu não me engano, pra um serviço de 5 mil reais, porque ela tava começando ali, e depois o que que aconteceu? Que aí vem a reviravolta nesse caso, tá? Eu não sei como que ela tá hoje, mas do que eu lembro da história, esse cliente dela gostou tanto dela como pessoa e do trabalho que ela tava fazendo ali, que eles quiseram contratar ela, fizeram uma proposta muito boa pra ela, que ela gostou mais do que o negócio que ela estava fazendo, ela entrou nesse negócio e a vida dela mudou completamente, por conta de um movimento
+[07:35] A gente precisa gerar valor pra pessoa primeiro, principalmente porque as pessoas não te conhecem, não sabem quem você é, então não adianta chegar pra alguém e falar, confia em mim, você tem que provar que o que você tá fazendo faz sentido.
+[07:53] O erro aqui só é prometer algo grande demais e aí você vai estar praticamente se escravizando, você promete uma coisa pequena que prova a sua qualidade, que não vai ter um custo muito alto para você, mas que faz você entrar dentro ali do negócio, entrar dentro da empresa da pessoa, entendeu? Então é uma estratégia muito útil de executar. Pode
+[08:13] falar, Gabriel.
+[08:14] É uma coisa muito legal isso, porque ao mesmo tempo que a gente está começando também,
+[08:20] a gente percebe, como é uma empresa nova, a gente percebe que as necessidades também vão surgindo pela outra empresa.
+[08:28] Então, eles estão começando agora, estão montando estrutura, estão montando equipe, estão começando a fazer estrutura comercial,
+[08:36] E aí surge, pô, a gente vai precisar de um sistema de CRM, a gente vai precisar de um, gerenciar as vendas de uma determinada maneira, a gente precisa de um sistema interno aqui pra gente conversar entre a gente, a gente precisa, então a gente, ao mesmo tempo que a gente tá olhando pra gente, né, a gente olha pra ele ao mesmo tempo, é uma coisa que segue meio que paralelo, assim, é uma
+[08:58] muito a gente é o framework do Atlas, do Atlas do Brand System.
+[09:04] existem porque ali tem auditoria de mercado, auditoria de negócio, benchmark, posicionamento
+[09:09] e a gente está paralelamente, como a gente não tinha nada, a gente só conversava o que a gente queria fazer e tal
+[09:16] a gente está validando as duas coisas nessas auditorias também
+[09:20] ele foi um ICP que veio para a gente antes da gente ter um ICP pronto
+[09:26] então a gente meio que percebeu que ele é um cliente ideal para a gente
+[09:30] Uma empresa que está começando agora, que não tem estrutura, não tem infraestrutura ainda,
+[09:35] e que vai precisar de ajuda para montar alguma coisa, e tem que ser alguma coisa rápida e ágil,
+[09:41] porque se ele for para o mercado e pegar um sistema de CRM com a empresa começando,
+[09:46] ele não vai conseguir pagar, porque são coisas caras e tal.
+[09:49] Então a gente está meio que percebendo quais são as necessidades dessas empresas também,
+[09:54] e validando essas necessidades também, não simplesmente o negócio.
+[09:58] Isso é a validação, cara.
+[10:00] Da forma mais crua possível, inclusive quando a gente está em movimento e está dentro de outros impérios, digamos assim,
+[10:08] é quando a gente consegue enxergar os problemas que existem ali, que é o que está acontecendo com você.
+[10:12] E aí várias coisas começam a acontecer, são princípios que a gente abraça muito aqui.
+[10:17] Por exemplo, o melhor cliente é o cliente que já é cliente.
+[10:20] Então esse é um primeiro passo, e é o que está acontecendo aí.
+[10:23] Segunda coisa, por já ter um cliente ali para vocês executarem o que vocês estão fazendo,
+[10:32] E aí sim, vem site, posicionamento, definição, vamos chamar aqui de enquadramento do ICP mais preciso também, porque agora você já validou melhor, e outra coisa que pra mim é o melhor de tudo,
+[10:57] Que quando você está em movimento e tem clientes, esses clientes estão dentro de outras redes, então está dando certo com ele, é muito fácil de você pegar para alguém que já confia em você, que você já faz reunião e falar agora hoje eu que quero te fazer um pedido, qual pedido que é esse?
+[11:13] Você é empresário, você tem outros amigos empresários, outras pessoas que você conhece que são empresários e eu gostaria que você me indicasse três, três para eu entrar em contato essa semana ainda para implementar o que a gente está fazendo aqui,
+[11:24] Pessoas que você ficaria muito feliz de ver que estão tendo, de ter o resultado que você está tendo aqui também.
+[11:29] Isso vai gerando a rede para você, a distribuição começa a acontecer de dentro para fora, entende?
+[11:35] Então é uma oportunidade muito grande.
+[11:36] Com um, tá vendo? Um cliente validado tem um tamanho muito maior do que a gente acaba dando no final, né?
+[11:44] Com certeza.
+[11:45] Muito
+[11:45] a Kiza falou sim e eu validei e me sinto travada.
+[11:48] Eu sei o que devo fazer, mas fico em dúvida.
+[11:50] Mas espera aí, você já validou.
+[11:52] Você está travada na parte de caixa, então.
+[11:55] É isso, Kiza.
+[11:55] Se for isso, e você tá na dúvida do que deve fazer, vamos resolver isso aqui agora, então.
+[12:01] Traz aqui o contexto pra eu te ajudar.
+[12:03] não necessariamente.
+[12:03] E assim, eu tenho que fazer uma landing page, eu acho, uma coisa simples, direta, pra anunciar o produto, e eu tô naquela dúvida que eu te mandei um áudio ontem, se eu faço um SaaS ou não, porque eu validei da melhor maneira, assim, da forma mais rápida, tanto é que o primeiro mesmo, MVPzão, o meu modelo de apresentação era no Google Slides, não era nem no, da forma que eu tô fazendo hoje, né?
+[12:27] Você validou a entrega, né? Quantas pessoas já compram o seu produto?
+[12:31] Três.
+[12:32] 3, então já validou venda também, parabéns, disso, agora o seu próximo passo, agora entra em caixa, o que que, qual que é o objetivo da etapa de caixa tá, o objetivo da etapa de caixa é principalmente você transformar o que hoje é uma tese validada em um negócio, e aí pra transformar isso em um negócio, você precisa de um modelo de negócio, por isso que eu vou até compartilhar aqui de novo, isso aqui ó, esse é o jeito mais simples, só que é muito poderoso, de agora desenhar um modelo de negócio,
+[13:02] O que você precisa fazer aqui? Você já tem uma proposta de valor e já tem um segmento de cliente.
+[13:09] Nesses dois casos aqui, você validou, ótimo. Agora você tem que transformar o seu produto em um negócio.
+[13:17] Para transformar o seu produto em um negócio, agora é a hora que você vai fazer conta.
+[13:20] Por isso que a gente chama essa etapa de caixa. Mas o que é fazer conta?
+[13:23] Quais são suas fontes de receitas? Você tem só uma.
+[13:26] Se você tem só essa, o quanto de receita esse negócio precisa fazer para que ele seja sustentável?
+[13:33] Não é nem previsibilidade, mas é uma meta. Você precisa dessa meta.
+[13:37] Então, por exemplo, eu tenho três clientes, ok, mas agora eu vou definir uma meta.
+[13:42] Agora que eu vi que tem pessoas que pagam, eu preciso definir quantas pessoas pagantes eu preciso
+[13:47] para que o negócio seja sustentável.
+[13:50] E aí vem uma parte importante.
+[13:52] ser sustentável não significa atingir sua meta de faturamento ou de lucro desejada, significa atingir a meta de faturamento e lucro mínima para que o negócio se sustente, porque assim você vai avançar para a próxima etapa que é a previsibilidade, é em previsibilidade que você vai trabalhar mais o fundamento para que você escale o negócio, que aí você vai ter uma quantidade de lucro interessante, dentro de caixa você percebe a viabilidade dentro da sua solução,
+[14:21] e é nesse momento que você talvez vai perceber, por exemplo, que você não pode ter o negócio de um único produto
+[14:26] ou de um único perfil de cliente, mas você só vai conseguir responder isso com contas.
+[14:31] Por isso que se a gente vem aqui, o que a gente tem aqui em caixa?
+[14:35] Princípio da entidade, primeira coisa, separar o que é o negócio do que é a pessoa.
+[14:39] Depois, runway do negócio, quanto de runway seu negócio e não você como pessoa,
+[14:43] mas o seu negócio precisa ter para que ele seja sustentável.
+[14:46] Isso significa que você vai incluir ali o seu prolabore, por exemplo.
+[14:49] Então, por exemplo, meu prolabora é 4 mil, mais os custos que eu tenho aqui, meu negócio tem uma matriz de custo que tem aqui também, olha, estrutura de custo.
+[15:01] Entendendo a estrutura de custo do meu negócio, eu preciso ter pelo menos 15 mil de faturamento no mês. Ótimo.
+[15:07] Seu objetivo agora, dentro da fase de caixa, é alcançar esses 15 mil de faturamento no mês.
+[15:12] Aí você vai fazer conta. Na hora de fazer conta, que você vai começar a ver que você não tem um negócio ainda, você tem um produto.
+[15:19] Vamos supor que você vê ali, ah, eu consigo vender por 50 reais a assinatura simples do meu gerador de proposta.
+[15:25] Exemplo, tá? Você define o preço. Eu não tenho os dados para definir o preço.
+[15:28] Mas aí eu pego aqui 15 mil e divido por 50, vou ver, eu preciso de 300 pessoas assinando.
+[15:34] Beleza, esse é um caminho, mas eu preciso de definir aqui também qual que é o churn que eu tenho nesse negócio aqui
+[15:41] e se isso encaixa nessa estrutura de custo também.
+[15:43] Se encaixou e eu tenho um churn ali que eu consigo sustentar, essa pode ser uma meta que eu posso buscar.
+[15:49] Porém, na hora que a gente está definindo o modelo de negócio, é a hora que a gente desenha isso aqui de maneiras diferentes.
+[15:57] Porque você vai pensar o seguinte, beleza, eu tenho esse produto, mas a oferta em cima desse produto pode ser diferente.
+[16:03] Como que ela pode ser diferente? Ao invés de vender o SaaS, e se eu já entregasse um serviço para a pessoa disso?
+[16:08] Ela tem o SaaS ali, com as propostas, mas eu vou trabalhar com ela também uma consultoria de construção de oferta, exemplo.
+[16:15] Então, ao invés dela pegar só aqui R $50 ,00 por mês, ela vai me pagar um valor inicial de R $1 .500 ,00, e além desses R $1 .500 ,00 que ela vai me pagar, que eu vou fazer uma consultoria e estruturação de proposta para ela, ela depois tem o meu sistema ali que ela me paga R $50 ,00 por mês para utilizar.
+[16:32] Então, eu tenho um serviço inicial de estruturação, mais um software que eu entrego para ela depois. Ah, nesse caso aqui eu preciso de R $10 ,00 ao invés de R $300 ,00 por mês.
+[16:43] É isso que eu estou fazendo.
+[16:46] Então, no seu caso aqui, já tá em caixa, já validou, maravilha!
+[16:50] Você vai começar a fazer esses pontos todos que eu tô te falando aqui, ó.
+[16:53] Runway, meta de reserva, oferta de caixa, que é o que eu comecei a dar o exemplo aqui pra você,
+[16:59] plano de receita, controle financeiro e conquista.
+[17:02] Bateu isso, você entra em previsibilidade.
+[17:03] Ou seja, você falou, eu tô perdido, eu não sei o que fazer, tá tudo aqui.

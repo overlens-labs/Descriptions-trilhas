@@ -1,0 +1,289 @@
+Aula 17 · Gancho, problema e demonstração
+
+[00:00] Dito isso, a gente já entendeu então que o negócio, o pitch, o objetivo do pitch é mostrar uma oportunidade, beleza?
+[00:07] Você precisa ser capaz de convencer a pessoa mesmo sem colocar o nome da sua empresa.
+[00:11] Até um exercício, se eu tirar o nome da minha empresa, se eu tirar toda essa camada aqui, toda essa maquiagem agora, a ideia continua poderosa?
+[00:18] É uma primeira pergunta.
+[00:19] Aí vamos para o principal erro, qual é o maior erro?
+[00:22] Qual que vocês acham que é? Comenta no chat aí, o maior erro na hora de construir um pitch.
+[00:25] O
+[00:25] explicar demais, então tá, vou pegar aqui ó, vamos dar uma olhada nesse exemplo aqui, eu quero que vocês falem se esse exemplo aqui é bom ou ruim.
+[00:31] Nós somos uma plataforma de IA que conecta usuários através de agentes inteligentes utilizando a arquitetura multiagente.
+[00:37] Bom
+[00:37] Então agora eu vou pegar uma frase aqui, que é a frase inclusive que a gente vai começar a usar na Overlens, pra apresentar seu...
+[00:43] Por exemplo aqui, eu vou fazer um exercício criando o pitch deck da Overlens, tá?
+[00:47] Mas eu quero que vocês vejam essa frase aqui, o que vocês acham dela?
+[00:49] Está todo mundo treinando robôs, mas quem está treinando as pessoas?
+[00:52] Vocês acham essa frase boa ou ruim?
+[00:54] Pode falar se achar ruim também, a gente vai destrinchar aqui.
+[00:56] que ela é boa?
+[00:57] Primeiro, ela instiga, ela já desperta uma vontade de querer saber o que as pessoas têm para falar.
+[01:02] Isso aqui é o pitch deck inteiro?
+[01:03] Não, todo mundo está treinando robôs, mas ninguém está treinando pessoas.
+[01:07] E aí, qual é o próximo passo?
+[01:08] Então, isso aqui não é o pitch deck, mas isso aqui já abre melhor o pitch deck.
+[01:14] E o maior erro na hora de construir um pitch deck é abrir o pitch deck errado, beleza?
+[01:18] O pitch deck não, né? O pitch errado. O pitch deck é os slides.
+[01:21] O maior erro de um pitch é abrir o pitch errado.
+[01:23] A primeira pergunta que a gente faz em vendas é o que a pessoa já sabe, não é?
+[01:27] O que a pessoa já sabe.
+[01:29] Então, segue a mesma lógica. Consciente do problema, consciente da solução, consciente da minha solução.
+[01:34] Essa é a lógica para construir o pitch deck. Mesma lógica.
+[01:36] Tem diferenças que eu vou mostrar para vocês, mas a lógica é essa mesma aqui.
+[01:39] Ou seja, o primeiro passo é você instigar a pessoa.
+[01:42] E o melhor jeito de instigar a pessoa é com a pergunta certa.
+[01:45] Então, o maior erro de um pitch deck é começar com respostas de mais e questões de menos.
+[01:51] Ou seja, abrir o pitch errado.
+[01:53] Tem um outro livro muito legal, que eu vou trazer aqui para vocês, que se chama Uma Pergunta Mais Bonita.
+[01:58] A capa dele é muito feia, eu não gosto não, mas pelo menos chama atenção, ela cumpre uma função prática ali.
+[02:04] Mas esse livro é bem interessante porque ele analisa negócios a partir da pergunta.
+[02:09] Então ele começa a fazer análises de, aqui ó, as perguntas dos criadores do Airbnb, Netflix e Google, e muitas outras também.
+[02:15] Tá, então o que é interessante dele? Ele traz as perguntas.
+[02:18] Eu até tô com ele aqui, quer ver? Eu acho que eu tô com ele aqui, que aí eu trago alguns exemplos pra vocês.
+[02:23] Aqui ó.
+[02:25] Continua no ar, né?
+[02:26] Ainda bem, deixa eu só pegar aqui.
+[02:27] O fone tava carregando aqui e tava no fio. Aí o fio embolou no meu pé e eu não tinha visto.
+[02:33] Tem esse livrinho aqui, ó. Olha aí. A capa dele.
+[02:35] Eu acho feio porque é difícil de ler, às vezes, quando vai mostrar assim.
+[02:39] Então, olha que interessante, né? Vou pegar aqui, ó.
+[02:41] Eu vou ler o... Cada capítulo tem várias perguntas.
+[02:44] Aí eu vou ler só pra dar alguns exemplos pra vocês.
+[02:46] Então, vamos lá. O poder de questionar. Aí vem perguntas.
+[02:49] E se é possível mandar o homem à lua, por que eles não conseguem fazer um pé decente?
+[02:54] Como assim? Mas é uma pergunta que já abre uma questão pra...
+[02:57] Esse como assim já abre a pergunta pra entender.
+[03:00] Ou então, em que tipo de negócio nós estamos agora?
+[03:04] E ainda existe trabalho pra mim?
+[03:05] Essa é uma pergunta interessante também. Muitas pessoas querem a resposta pra isso.
+[03:08] Uma boa pergunta.
+[03:09] O conhecimento se tornou obsoleto?
+[03:11] É uma outra pergunta interessante.
+[03:13] Instiga, eu quero saber, será que se tornou?
+[03:15] Vou pegar aqui, ó.
+[03:15] É possível criar uma escola com base em perguntas?
+[03:18] É uma outra pergunta aqui.
+[03:19] Aqui no caso eu tô pegando, vou pegar uma marcação minha,
+[03:22] Que aí eu mostro a pergunta já com uma solução, né?
+[03:25] Olha aqui, ó, isso aqui é uma pergunta, um exemplo.
+[03:27] Como podemos induzir as pessoas a beber mais litros de água com mais frequência?
+[03:32] Essa pergunta, ela já mostra duas coisas.
+[03:34] Primeiro, existe alguém estudando sobre isso?
+[03:37] Isso tem um impacto que talvez eu não saiba.
+[03:39] E tem uma pergunta que tá aberta aqui, que é induzir as pessoas a beber mais litros com mais frequência.
+[03:44] E olha só, isso aqui tá num quadradinho, então eu vou ler pra vocês, olha só.
+[03:47] Durante os anos em que Jeffrey era diretor executivo da Coca -Cola,
+[03:50] A feia questão acima se revelou fundamental para o marketing da empresa, fabricante de refrigerante e cheio de açúcar.
+[04:12] A Coca -Cola não estava sozinha, é claro. O escritor Mitchell revelou que as empresas da indústria de snacks faziam, igualmente focavam em questões engenhosas como essa e métodos que objetivavam o aumento de consumo de produtos lotados de açúcar só de gordura, mesmo com a epidemia da obesidade tendo piorado bastante.
+[04:30] Atualmente, Dan, que é o Jeffrey ali, segue uma linha de produto mais saudável, como diretor de uma empresa que produz cenouras, água e agricultor local, cansado de ter que jogar fora cenouras deformadas e retorcidas, pensou, e se eu tirar a pele das cenouras e cortar em formato de mini cenouras perfeitas?
+[04:48] Olha só como uma pergunta vai levando para outra pergunta, vai levando para outra pergunta.
+[04:51] Tem a questão de beber mais água, a questão de tirar o desperdício, então eu tenho peças de cenouras que não vão para lá,
+[04:58] e se eu cortar elas, transformar em cenourinhas perfeitas e cobrar até mais caro das pessoas para essas cenourinhas perfeitas,
+[05:03] as mini cenouras, e por aí vai.
+[05:05] Aí vem outra pergunta, e se vendermos as mini cenouras como se fossem junk food?
+[05:10] Então, e se eu pego uma coisa saudável e vendo como se fosse junk food, é tipo fast food, é comida boba,
+[05:15] Comida burra, aquela comida que você só compra rápido ali porque ela é conveniente, mas e se eu tornar a comida saudável, parecendo uma junk food e as pessoas começarem a comer mais assim?
+[05:23] Então olha só, foi uma pergunta que ele trouxe daqui.
+[05:25] Eu não vou ficar lendo aqui todas as perguntas agora, até porque eu não tinha planejado trazer esse livro, ele apareceu aqui no meio da aula, porque eu me lembrei dele.
+[05:31] Mas ele é excelente pra esse caso aqui, tá?
+[05:33] E aí depois vocês podem até colocar ele lá no chat GPT de vocês, ou algo do tipo, e falar, eu quero que baseado nesse livro você me ajude a fazer perguntas melhores sobre o meu negócio.
+[05:42] Vai ser um exercício excelente pra vocês, tá bom?
+[05:44] Mas fica de ponto aqui.
+[05:45] Então, o maior erro é começar errado a apresentação e o jeito de começar errado é começar com respostas de mais e perguntas de menos.
+[05:54] Beleza? Então, a pergunta certa é o primeiro ponto.
+[05:56] E por que isso é importante? Porque as pessoas, elas se lembram do quê?
+[06:01] Elas se lembram de, basicamente, o que ajuda o cérebro a sobreviver.
+[06:04] Então, o nosso cérebro já está acostumado a guardar coisas que ajudam a sobreviver.
+[06:07] E o que ajuda o cérebro a sobreviver? Guardar problema.
+[06:09] Então, é muito mais fácil para o nosso cérebro identificar problema do que identificar solução.
+[06:13] A gente guarda histórias, porque a história foi o principal mecanismo que permitiu a humanidade construir tudo que construiu.
+[06:20] E contrastes, é uma outra ferramenta que a gente pode utilizar.
+[06:24] Então, o nosso cérebro guarda contrastes com muita facilidade.
+[06:28] Isso aqui, inclusive, a gente usa muito no design, a partir da gestalt.
+[06:31] E existe também a gestalt como psicologia disso.
+[06:35] Psicologia da forma, mas também a psicologia do contraste, da ideia e por aí vai.
+[06:39] Então, vocês têm que levar isso aqui em consideração na hora de criar um pitch.
+[06:42] Problema, história e contraste, beleza?
+[06:44] O nome do livro, o Carlos perguntou ali, é uma pergunta mais bonita, pergunta mais bonita.
+[06:48] O que vocês podem reparar aqui?
+[06:49] Que as pessoas não se lembram com frequência de funcionalidade.
+[06:52] Ou seja, ficar mostrando funcionalidade é perder tempo do seu pitch, beleza?
+[06:56] Peguem isso aí.
+[06:56] Ruan, entendi, então você já me falou do principal problema, você já me explicou aqui também o que é um pitch,
+[07:01] que não é uma apresentação da empresa, é uma apresentação de uma oportunidade.
+[07:05] Então, qual que é a estrutura para construir um pitch?
+[07:07] Vamos seguir a estrutura aqui e vocês vão ver que ela tem muitos padrões parecidos até com construir um site, por exemplo, até com construir uma apresentação de vendas, né?
+[07:16] E aí o primeiro ponto é o seguinte, um pitch precisa do gancho e esse aqui que é o primeiro erro, né? O erro fundamental, que é abrir o pitch errado.
+[07:23] Isso aqui serve para produção de conteúdo também, isso aqui serve para, se a gente está falando de conseguir a atenção das pessoas, o primeiro passo é o gancho, não tem jeito.
+[07:30] Em qualquer mídia que você vai trabalhar, o primeiro passo sempre é o gancho.
+[07:34] Um bom gancho é aquele que quebra o padrão mental que já está na cabeça da pessoa
+[07:39] e depois que quebra esse padrão mental, conecta no desenvolvimento que você quer trazer aqui com o seu pitch.
+[07:45] A mesma coisa se você vai produzir um conteúdo para a rede social.
+[07:47] Você primeiro quebra um padrão e depois você desenvolve o que você está fazendo.
+[07:51] Então, quais são ideias de gancho que a gente pode trazer aqui?
+[07:54] Eu vou até colocar assim, ó.
+[07:55] Um. O primeiro passo é um bom gancho, beleza?
+[07:58] Ideias de gancho que a gente tem.
+[07:59] Pergunta. Essa é a clássica.
+[08:01] Vocês podem ver isso aqui acontecendo muito em TED Talk, apresentação de Shark Tank, por exemplo, já que vocês vão treinar para fazer pitch, já assiste mais Shark Tank, assiste mais TED Talks, porque vocês vão ver como que as pessoas em pouco tempo conseguem despertar o interesse em uma ideia, tá? São bons lugares.
+[08:17] E vocês vão ver que em ambos, muitas vezes as pessoas começam com perguntas. Então, um bom jeito de começar um gancho é com perguntas.
+[08:24] Mas é o único. Não. Um outro jeito de começar um gancho é com dados.
+[08:28] Então, se você traz um dado que é intrigante, interessante, e um dado com contraste,
+[08:32] você também pode usar isso de gancho para chamar a atenção das pessoas.
+[08:37] Então, vou colocar de outra cor aqui. Dados também é um jeito interessante.
+[08:41] Além dos dados, você pode começar também com uma... não é uma tese, fugiu o nome.
+[08:48] Quando a gente quebra os conceitos lógicos, a gente tem...
+[08:51] me ajudem aí, às vezes me falta, me fogem os nomes
+[08:54] não é paradigma não, você tem uma
+[08:56] nossa, eu vou ter que perguntar aqui pra ir lá, não é ruptura não, quebre
+[09:00] é a coisa mais boba do mundo, também não é hipótese
+[09:03] eu tô passando amnésia pra vocês
+[09:05] quebre os conceitos lógicos
+[09:07] premissa, lembrei sozinho, enquanto eu fui explicando pra ele lembrei
+[09:10] você pode começar com uma premissa, porque
+[09:13] todo argumento lógico, ele é construído em cima de premissas
+[09:16] você junta essas premissas e tem o seu argumento
+[09:19] Então, você pode começar também com premissas.
+[09:21] Então, eu posso trazer aqui uma premissa de uma ideia, e aí eu vou desenvolver essa premissa ao longo do meu pitch.
+[09:28] Mas é um jeito também de te fazer.
+[09:30] Uma premissa é uma frase, uma frase que você afirma alguma coisa ali para iniciar o que você está construindo.
+[09:36] E aí, vamos lá, vamos pegar aqui alguns exemplos.
+[09:38] Essa frase aqui, nunca houve tanto conteúdo disponível e nunca foi tão difícil aprender.
+[09:43] Isso aqui é um contraste, e é um contraste que é uma premissa.
+[09:46] Eu tô iniciando aqui um argumento lógico, e aí eu tenho essa minha premissa inicial.
+[09:50] Isso aqui é uma premissa com contraste, e ela é muito boa pra iniciar um pitch, tá?
+[09:54] Nunca houve tanto conteúdo disponível e nunca foi tão difícil aprender.
+[09:57] Por que que isso aqui funciona?
+[09:59] Porque pro nosso cérebro, quando a gente identifica o contraste, esse contraste ele é mais fácil de absorver pelo nosso cérebro,
+[10:04] isso aqui também é mais memorável e mais simples de iniciar uma construção de argumento, tá?
+[10:09] Então, esse é um jeito de fazer.
+[10:11] A gente também pode fazer isso com uma pergunta, por exemplo,
+[10:13] Vou colocar aqui, ó. Todo mundo está treinando robôs, mas quem está treinando pessoas? Essa a gente já tinha falado ali. Então, isso aqui também é um contraste, mas é um contraste com pergunta. E ela é muito, ela funciona muito para o momento atual, porque ela gera um desconforto, que é o seguinte, eu estou treinando robô também, mas será que eu estou me treinando? Eu poderia também, dependendo do público, mudar, ao invés de todo mundo estar treinando robôs, quem está treinando pessoas, eu poderia falar também, todo mundo está treinando robôs, mas quantas pessoas estão se treinando? Também poderia ser.
+[10:43] O que que muda isso aqui? O público. Mas quantas pessoas estão se treinando? Isso aqui é, isso aqui é, quanto que eu uso cada uma? Aqui eu tô falando com o investidor, aqui eu tô falando com o público mais macro, eu tô falando de negócio. Aqui eu tô falando com o meu consumidor final. Eu tô falando, olha, você tá treinando robôs, mas você está se treinando? Posso usar a mesma base aqui, mas mudando o público. São jeitos de fazer. Ok, a gente tem aqui o gancho.
+[11:06] Depois que a gente tem um gancho, a segunda coisa é falar do problema.
+[11:10] Então agora a gente vai desenvolver isso aqui, a gente despertou o interesse com o gancho, agora a gente vai lidar com o problema.
+[11:19] E aí sempre que a gente vai falar de problema, a gente tem que começar perguntando quem sofre com esse problema.
+[11:24] A Siri quase ativou ali. Quem sofre com esse problema?
+[11:27] Essa é a primeira pergunta que a gente precisa fazer, porque o problema pode não ser o mesmo para todo mundo.
+[11:32] Inclusive, falar que você resolve um problema para todo mundo é perigoso.
+[11:36] Lembrem sempre disso aqui, promessas extraordinárias requerem provas extraordinárias.
+[11:44] Uma boa apresentação é uma apresentação em que cada promessa que você faz, você tem uma prova para ela.
+[11:49] Inclusive, quando você vai analisar copy e apresentação, tem um exercício que a gente faz que é mais ou menos assim.
+[11:54] Imagina que você escreveu o seu texto ali.
+[11:56] A gente vai lendo o texto e todo momento que tem uma promessa, a gente vem e risca.
+[12:00] Prometi, promessa, risca de laranja, tem uma promessa aqui no texto, prometi outra coisa aqui no texto, prometi, aí depois você volta a ler o texto de novo, só que você vai fazendo assim, agora eu vou marcar toda vez que eu provei minha promessa, provei aqui, por exemplo, e aí você consegue medir, então o ideal é que para cada laranja tem um verde, se você tem algo assim no seu texto, muito mais promessa do que prova, sua cópia está ruim, seu texto não está bom, você precisa voltar a ler de novo e encontrar uma prova para cada coisa que você prometeu, se você não tem uma prova, você tem que verificar,
+[12:29] Mas na maioria das vezes é melhor tirar a promessa do que deixar ela sem uma prova, porque senão você começa a criar algo que a pessoa vai te perceber como alguém que fica falando demais e mostrando menos.
+[12:39] Então isso aqui é uma técnica escrita de cópia que é muito comum, muito utilizada, tá? Então fica aí pra vocês também.
+[12:46] Então, promessas extraordinárias requerem provas extraordinárias, quem sofre com o problema? Essa é a pergunta que a gente tem que resolver aqui.
+[12:52] Depois a gente também tem que responder outras perguntas, a gente tem que responder, por exemplo, quanto custa esse problema?
+[12:58] Isso aqui tem relação com o lance do maior dor, né?
+[13:02] Quanto maior a dor, maior o negócio.
+[13:03] Quanto maior a dor, maior o negócio.
+[13:05] E aí, maior a oportunidade.
+[13:07] Então, na hora que vocês vão apresentar isso aqui para investidores,
+[13:10] vocês conseguem construir aqui um senso de oportunidade muito maior,
+[13:15] mostrando quanto que custa o problema.
+[13:17] Se você só fala do problema, mas não fala quanto ele custa,
+[13:20] às vezes parece óbvio, mas não é óbvio para as pessoas.
+[13:22] E é importante entender isso aqui também, tá bom?
+[13:25] Então, leve isso em consideração.
+[13:26] Então vamos pegar um exemplo aqui para vocês, de como construir uma dor.
+[13:31] A gente já tem as perguntas, vamos pegar aqui.
+[13:34] Milhões de pessoas passam horas estudando, mas menos de 15 % concluem cursos online.
+[13:39] O problema nunca foi acesso ao conhecimento, o problema é a transformação.
+[13:43] Aqui, a gente ainda pode colocar aqui, quantas pessoas de fato saem transformadas de um programa de aprendizagem online?
+[13:51] Fiz mais uma pergunta provocativa.
+[13:52] Sempre que você termina um top, você provoca com o próximo.
+[13:55] Você continua costurando a pessoa no seu pitch inteiro.
+[13:59] Então, olha só, eu estou fazendo isso aqui pensando na Overlens, né?
+[14:01] Todo mundo está treinando robô, mas quem está treinando as pessoas?
+[14:05] Milhões de pessoas passam horas estudando, mas menos de 15 % concluem cursos online.
+[14:09] O problema nunca foi o conhecimento, a internet está cheia disso.
+[14:12] O problema é a transformação.
+[14:14] Quantas pessoas de fato saem transformadas de um programa de aprendizagem online?
+[14:18] Olha como você vai provocando.
+[14:19] E as pessoas vão construindo o raciocínio com vocês, elas vão falando a verdade.
+[14:22] Você pode até, dependendo do público, falar, fazer outras perguntas.
+[14:26] Todo mundo aqui tem uma gaveta cheia de cursos online que nunca terminou.
+[14:30] Olha só, eu estou envolvendo as pessoas dentro de uma realidade, eu estou contando uma história.
+[14:34] E eu estou fazendo você se enxergar nessa história.
+[14:36] É assim que você constrói uma oportunidade, beleza?
+[14:39] Então, mais um tópico aqui.
+[14:41] Depois que você mostrou o problema, o que a gente tem?
+[14:44] A gente tem a solução.
+[14:45] A gente está seguindo aqui a lógica do Eugene Schwartz, do mesmo jeito.
+[14:48] Então, vamos colocar aqui.
+[14:49] Trouxe o problema, agora a gente vai trazer uma solução pra esse problema.
+[14:53] Vamos colocar aqui, ó, solução.
+[14:54] Só que aqui tem uma pegadinha.
+[14:56] Ter uma solução não é falar dos benefícios.
+[14:59] Ter uma solução não é ficar falando das funcionalidades do seu sistema.
+[15:04] Ter uma solução é começar com uma frase.
+[15:07] Só uma.
+[15:07] E essa frase, ela já é um clichê.
+[15:10] Você pode ajustar ela um pouco, mas ela é quase como não.
+[15:13] Ela é um roteirinho.
+[15:15] E o roteirinho, ele é esse aqui, ó.
+[15:16] Você pode falar com outras palavras, mas você precisa responder exatamente essa frase aqui.
+[15:22] Nós ajudamos XYZ a resolver 1, 2, 3 através de ABC.
+[15:27] Você tem que conseguir em uma frase encaixar isso aqui.
+[15:29] Ah, mas eu quero trocar, eu quero trocar o nós ajudamos porque já é manjado demais, todo mundo sabe.
+[15:34] Tudo bem, pode trocar o nós ajudamos.
+[15:36] Pode falar de um outro jeito, mas você precisa em uma frase responder essas três variáveis aqui.
+[15:40] Então eu vou dar um exemplo aqui que troca as palavras, mas que resolve as variáveis.
+[15:44] Overlens transforma aprendizado em construção. Em vez de assistir aulas, você cria projetos reais com o IA.
+[15:50] Aqui eu já comecei a trazer uma solução. Eu posso ainda melhorar isso aqui? Posso.
+[15:54] Eu posso, por exemplo, falar, Overlens transforma aprendizado em construção.
+[15:57] Em vez de assistir aulas, você cria projetos reais com o IA e aprende fazendo, por exemplo.
+[16:03] Aí eu posso melhorar também. Overlens transforma aprendizado em construção.
+[16:07] Eu posso colocar aqui, por exemplo, como eu já trouxe a construção, aqui tem um ponto interessante, na verdade.
+[16:12] Dá uma vontade de começar a colocar coisas.
+[16:16] Vou aumentar a frase, desenvolver ela mais, só que quanto mais simples a frase é, melhor, pra iniciar.
+[16:21] Depois você pode desenvolver isso aqui mais, com a, aí a gente vai falar aqui já já, mas com a demonstração, beleza?
+[16:27] Então, até aqui a gente tá prometendo, eu preciso demonstrar, certo?
+[16:31] Mas vamos lá, Overlens transforma aprendizado em construção.
+[16:34] Ao invés, né, ao invés de assistir aulas, você cria projetos reais com o IA e aprende fazendo.
+[16:39] Então, eu já estou trazendo a minha solução aqui de um jeito simples e rápido, só que eu estou resolvendo isso aqui.
+[16:44] Aí vem, nós ajudamos. Quem? Aqui eu ainda posso melhorar essa frase. Eu posso falar, a Overlens ajuda, aí eu posso colocar empreendedores.
+[16:52] Isso, esse quem, pode mudar com o ambiente. Isso é uma coisa que às vezes as pessoas também não levam em conta.
+[16:58] Por exemplo, eu sei que eu estou em um ambiente falando com empreendedores, e eu sei que eu ajudo eles, então eu vou falar, a Overlens ajuda empreendedores a transformar aprendizado em construção.
+[17:08] E eu posso enquadrar isso aqui para a dor dos empreendedores.
+[17:12] Eu posso falar, por exemplo, a Overlens ajuda empreendedores a transformar aprendizado em construção.
+[17:18] Em vez de colocar os colaboradores para assistir cursos, eles criam projetos reais com o IA aprendendo e fazendo.
+[17:25] Olha só como que eu enquadrei. Isso aqui é a parte inteligente da coisa.
+[17:29] Se eu estou falando com empreendedores, eu ajusto minha promessa para eles, porque eu quero vender para eles.
+[17:34] Então, aqui eu vou falar, olha, qual que é a dor do empreendedor?
+[17:37] É desenvolver talento.
+[17:38] Então, eu posso falar pra ele, a Overlens ajuda empreendedores a transformar aprendizado em construção.
+[17:41] Em vez de colocar os colaboradores pra assistir cursos, eles criam projetos reais com IA e aprendem fazendo.
+[17:46] Tem como ir ajustando a frase? Tem.
+[17:48] Mas qual que é a lógica que vocês podem trazer aqui?
+[17:50] Eu enquadro a minha solução com quem está ouvindo.
+[17:53] Então, nós ajudamos, ele serve pra isso.
+[17:55] Se eu estivesse falando com estudantes, eu ia falar, a Overlens ajuda estudantes a transformar aprendizado em construção.
+[18:01] Em vez de assistir aulas, você cria projetos reais com IA e aprende fazendo.
+[18:03] Se eu estivesse falando não com estudantes, mas com empreendedores individuais, eu poderia colocar
+[18:08] a Overlens ajuda empreendedores individuais a transformar aprendizado em construção.
+[18:12] Ao invés de comprar milhares de cursos para se desenvolver, você cria projetos reais
+[18:16] para o seu negócio e aprende fazendo.
+[18:18] Eu adapto de acordo com o contexto, beleza?
+[18:21] Então, aí a gente já tem esse ponto.
+[18:23] Uma vez que a gente tem uma solução construída, aí a gente tem um passo aqui que, claro,
+[18:27] se você vai construir um site, é legal você levar isso em consideração também, mas
+[18:30] Mas é o momento em que a gente vai demonstrar. Se você prometeu, você tem que provar.
+[18:35] E a demonstração, ela pode ser simples, tá? Ela é um como funciona, basicamente.
+[18:39] Você vai mostrar aquilo acontecendo. Se você consegue mostrar no produto real, isso já tem um impacto gigante.
+[18:45] Mas se você não consegue mostrar no produto real, mostra no mockup.
+[18:48] Com o IA, hoje em dia, é muito rápido. Então, cria um MVP.
+[18:51] Qualquer pitch que vocês forem fazer, principalmente para empreendedores, para investidores e até para clientes,
+[18:57] Hoje em dia, você gasta um dia e já tem um MVP funcional que pelo menos serve pra você mostrar como funciona.
+[19:03] Não precisa nem ter banco de dados, nada disso.
+[19:05] Cria um como funciona ali só pra mostrar acontecendo na hora e provar o seu ponto.
+[19:11] Entendeu a lógica?
+[19:12] Esse que é o como funciona, não precisa ser o produto real.
+[19:15] E aí você vai mostrar, sem entrar em técniques, beleza?
+[19:19] Isso aqui é muito importante.
+[19:20] Sem entrar em técniques, você vai explicar, explique a experiência.
+[19:25] experiência, mostre a experiência, então como que você vai falar? Você vai falar, ó, o usuário entra, faz isso, faz isso, recebe isso, consegue esse resultado, ponto, é isso que você vai fazer, é isso que você vai mostrar, mostrou, a pessoa já vai ficar empolgada, porque você começou chamando a atenção para um gancho, falou do problema, falou qual era a solução, mostrou a solução, agora você entra na oportunidade de fato, agora você pode falar mais números, agora você pode falar, cara, gostou disso aqui, fez sentido, então deixa eu te mostrar porque
+[19:55] Agora que a coisa fica boa. Agora que a coisa vai ficar interessante.
+[19:58] Como

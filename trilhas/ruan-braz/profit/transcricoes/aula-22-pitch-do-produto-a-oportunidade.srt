@@ -1,0 +1,1492 @@
+1
+00:00:00,000 --> 00:00:02,639
+Boa, a próxima pessoa aqui na fila é...
+
+2
+00:00:03,019 --> 00:00:03,880
+Tudo certo, Carlos?
+
+3
+00:00:04,440 --> 00:00:04,920
+Sim.
+
+4
+00:00:05,259 --> 00:00:06,759
+Quando estiver pronto é só falar.
+
+5
+00:00:07,480 --> 00:00:08,340
+Certinho aqui.
+
+6
+00:00:08,460 --> 00:00:09,920
+Já consigo compartilhar, né?
+
+7
+00:00:10,279 --> 00:00:10,759
+Consegue.
+
+8
+00:00:11,000 --> 00:00:12,360
+Tá com o telefone aí do lado?
+
+9
+00:00:12,779 --> 00:00:13,119
+Tô.
+
+10
+00:00:13,980 --> 00:00:14,880
+Então manda ver.
+
+11
+00:00:15,500 --> 00:00:16,380
+Então, olá, pessoal.
+
+12
+00:00:16,380 --> 00:00:21,920
+E é só hoje que eu vou contar sobre um dos últimos cheques que tomei durante uma partida de xadrez com um dos meus sócios.
+
+13
+00:00:23,139 --> 00:00:26,179
+Carlos, o cliente não paga por esse serviço que você está entregando aí.
+
+14
+00:00:26,279 --> 00:00:29,380
+A gente vai ter que abaixar o nível, chegar num arroz com feijão bem feito,
+
+15
+00:00:29,440 --> 00:00:31,799
+pra gente não acabar pagando no lugar do cliente.
+
+16
+00:00:32,039 --> 00:00:36,940
+E como todo designer perfeccionista, não foi algo muito fácil de a gente resolver na prática,
+
+17
+00:00:37,039 --> 00:00:39,639
+mas um bom, um grande aprendizado.
+
+18
+00:00:40,380 --> 00:00:42,119
+Felizmente, eu consegui lidar bem com isso,
+
+19
+00:00:42,179 --> 00:00:46,039
+e a empresa, a que é a Método, finalmente teve seu primeiro ano de lucro.
+
+20
+00:00:46,380 --> 00:00:54,719
+Mas a pergunta que fica é, quantas empresas no Brasil, quantas empresas o Brasil perde simplesmente porque os sócios não souberam conversar?
+
+21
+00:00:55,860 --> 00:01:12,779
+Nós identificamos que o grande problema é o desalinhamento, o desalinhamento entre sócios, onde uma conversa importante nunca acontece ou pode até acontecer, mas não tem nenhum impacto de fato na empresa.
+
+22
+00:01:12,779 --> 00:01:17,059
+E ainda por cima, ambos os sócios perderam um tempo valioso.
+
+23
+00:01:18,500 --> 00:01:31,460
+Então, imagine perder 300 mil reais em patrocínio que simplesmente não foram aproveitados por faltar tempo de alguém sentar numa cadeira e simplesmente estruturar um projeto.
+
+24
+00:01:34,019 --> 00:01:38,519
+E isso não é só um caso isolado.
+
+25
+00:01:38,519 --> 00:01:45,460
+Você sabe qual é a maior categoria na maior câmara de habitagem do país?
+
+26
+00:01:46,380 --> 00:01:51,079
+O societário. Processos que levam até sete anos para se resolver.
+
+27
+00:01:51,440 --> 00:01:54,920
+Categoria essa que atingiu a maioria dos casos em 2025.
+
+28
+00:01:55,360 --> 00:02:01,699
+Podem ver aqui um crescimento de 3 ,8 % do 2024 para 2025.
+
+29
+00:02:02,960 --> 00:02:11,179
+E assim, buscando fortalecer boas ideias, nós da Casa 64 ajudamos duplas de sócios a tomarem decisões assertivas nos seus negócios,
+
+30
+00:02:11,840 --> 00:02:18,299
+construindo um pareamento entre sócios a partir de nossa metodologia proprietária, comparando discurso e prática.
+
+31
+00:02:18,659 --> 00:02:27,519
+E a distância entre essas duas respostas é o nosso produto, que vocês podem ver no nosso MVP, e em princípio ele funciona assim.
+
+32
+00:02:27,519 --> 00:02:33,799
+Sim, primeiramente os dois sócios vão responder aos mesmos cenários individualmente, sem ver a resposta um do outro.
+
+33
+00:02:33,900 --> 00:02:41,639
+Dessa maneira, cada um declara o que deveria ser feito em determinada situação de gestão, de negócio, e o que eles realmente fariam na prática.
+
+34
+00:02:41,860 --> 00:02:45,579
+E, como você pode ver ali na seção, quão confiantes estão nisso.
+
+35
+00:02:47,179 --> 00:02:51,739
+Depois, depois que o segundo sócio responde, onde a gente pode estar acompanhando ali no MVP,
+
+36
+00:02:51,739 --> 00:03:00,960
+O sistema cruza esses dados, gerando um painel comparativo, revelando exatamente onde o discurso e a prática dos dois entram em colisão ou consonância.
+
+37
+00:03:01,980 --> 00:03:08,980
+Aqui a gente pode ver o resultado do participante A, participante B, e aqui como MVP a gente tem um resumo, mas ele se expande muito mais que isso.
+
+38
+00:03:10,239 --> 00:03:18,619
+Hoje, mas hoje, o nosso maior problema é que desde 2021 a Receita usa o mesmo código, a mesma mostragem de dados,
+
+39
+00:03:18,619 --> 00:03:22,779
+Para empresas limitadas com sócios e de dono único.
+
+40
+00:03:22,980 --> 00:03:27,259
+Assim, a gente não sabe exatamente quantas sociedades existem de fato no Brasil.
+
+41
+00:03:27,840 --> 00:03:35,960
+Então, a nossa estimativa, a partir do IBGE, é que são de 480 a 670 mil empresas.
+
+42
+00:03:36,279 --> 00:03:39,539
+Isso, empresas com 10 ou mais empregados.
+
+43
+00:03:41,599 --> 00:03:47,799
+Empresários desse porte já costumam investir de 5 a 45 mil reais em programas de formação de gestão.
+
+44
+00:03:47,799 --> 00:03:52,500
+Mas nenhum desses programas abordam explicitamente esse paramento entre sócios.
+
+45
+00:03:53,119 --> 00:04:00,900
+Dessa maneira, precificamos nosso produto em torno de R $ 7 .000, mas, como a gente está aqui em fase de desenvolvimento,
+
+46
+00:04:01,719 --> 00:04:06,039
+temos uma oferta promocional por simplesmente R $ 3 .500.
+
+47
+00:04:07,059 --> 00:04:13,319
+Assim, você, investidor, também pode estar se perguntando, como que esse negócio funciona na prática?
+
+48
+00:04:14,059 --> 00:04:17,880
+Hoje nossa operação custa R $ 2 .500 por sócio.
+
+49
+00:04:17,940 --> 00:04:23,679
+Isso inclui os dois sócios pagos, o contador, o custo de operação e o imposto de 6%.
+
+50
+00:04:24,440 --> 00:04:28,599
+Assim, o nosso break -even é atingido simplesmente com quatro novos clientes cada mês.
+
+51
+00:04:29,500 --> 00:04:35,559
+Com a possibilidade de que a recorrência, mas aqui a gente está definindo somente com a entrada de quatro novos clientes cada mês.
+
+52
+00:04:36,079 --> 00:04:38,880
+Isso somente com o nosso valor promocional de R $ 3 .500.
+
+53
+00:04:38,880 --> 00:05:01,309
+O que já existe são 16 cenários de empresas testados tecnicamente, um instrumento rodando, como vocês poderam ver lá atrás, protocolo de validação, que é essa estrutura que ainda não existe, o produto está em validação, o projeto está desenhado e essa operação ficou fechada.
+
+54
+00:05:01,309 --> 00:05:09,230
+O protótipo já funciona como encaminhado e nossos próximos passos é continuar aprimorando esse serviço,
+
+55
+00:05:09,289 --> 00:05:20,429
+tangibilizar ainda mais a solução com novos produtos que tornem toda a promessa do relatório tangível no dia -a -dia dos sócios,
+
+56
+00:05:21,069 --> 00:05:24,789
+mas o mais importante de tudo isso é validar essa solução com clientes reais.
+
+57
+00:05:27,549 --> 00:05:30,250
+Assim, precisamos sentar com sócios de verdade.
+
+58
+00:05:30,250 --> 00:05:34,309
+Primeiro, para entender se as perguntas que a gente desenhou funcionam.
+
+59
+00:05:35,429 --> 00:05:44,789
+E depois, com as primeiras duplas de fato, para valer, vendendo o produto, oferecendo o serviço completo que a gente pretende entregar.
+
+60
+00:05:48,529 --> 00:05:59,269
+Aqui vocês podem ver um pouco da ideia inicial que fez crescer, de onde partiu toda a premissa da Casa 64.
+
+61
+00:05:59,269 --> 00:06:15,329
+A gente fez exercício do motor moral na Overlens, na Vanguarda, e criou um grande relatório juntando os dois dados, os meus dados com os da Maia,
+
+62
+00:06:15,989 --> 00:06:25,349
+cruzando esses dados para entender onde que a gente tem divergência, conflito ou consonância, para assim tomar melhores decisões de como a gente faria o negócio.
+
+63
+00:06:25,349 --> 00:06:29,349
+E sim, vimos uma grande oportunidade de vender isso como um serviço.
+
+64
+00:06:32,659 --> 00:06:39,119
+Mas, fica na mesa, que cada sócio tem sua jogada e nenhuma delas está errada.
+
+65
+00:06:39,739 --> 00:06:43,579
+Mas a gente consegue definir qual é a mais assertiva?
+
+66
+00:06:44,000 --> 00:06:44,599
+Fechou?
+
+67
+00:06:45,119 --> 00:06:45,719
+Fechou.
+
+68
+00:06:46,340 --> 00:06:51,099
+Ah, o Carlos pensando aí, não vou falar, é isso.
+
+69
+00:06:53,340 --> 00:06:53,940
+Entendi.
+
+70
+00:06:55,239 --> 00:06:59,119
+Primeiro, parabéns pela apresentação, pelo visual dela, muito bonito, tá?
+
+71
+00:06:59,679 --> 00:07:04,219
+Infelizmente, a gente perdeu um pouco da experiência pela internet, né?
+
+72
+00:07:04,239 --> 00:07:07,539
+Os frames ficam meio truncadinhos.
+
+73
+00:07:07,960 --> 00:07:09,940
+Imagino que aí deve ficar mais legal ainda.
+
+74
+00:07:10,779 --> 00:07:12,840
+Mas muito bom, muito bom.
+
+75
+00:07:13,360 --> 00:07:18,420
+Olha só, interessante, eu tenho uma pergunta aqui de oportunidade
+
+76
+00:07:18,420 --> 00:07:20,400
+e uma pergunta sobre a funcionalidade.
+
+77
+00:07:20,699 --> 00:07:22,559
+Vou começar com a oportunidade aqui.
+
+78
+00:07:22,559 --> 00:07:42,299
+Nick, você falou ali, e eu não entendi muito bem, quando você disse de custo de 12 mil os dois sócios, e pelo que eu tinha entendido o preço era 3 .500, e aí a minha pergunta de oportunidade aqui é a seguinte, qual é o ICP de vocês, que vocês acreditam que pagaria esse valor?
+
+79
+00:07:42,299 --> 00:08:00,159
+O nosso ICP seria essas empresas que já tem 10 pessoas na operação, que a gente acredita que teria uma flexibilidade maior para poder investir nesse serviço.
+
+80
+00:08:00,920 --> 00:08:03,299
+A solução de vocês, cada sócio paga um valor?
+
+81
+00:08:03,759 --> 00:08:11,860
+Não, exatamente isso que facilita ainda mais, porque os sócios poderiam dividir esse valor, porque o serviço completo é R $3 .500.
+
+82
+00:08:17,279 --> 00:08:17,679
+Certo.
+
+83
+00:08:22,319 --> 00:08:24,119
+Vocês pensaram nisso para os sócios?
+
+84
+00:08:24,340 --> 00:08:24,920
+Isso é desconto, né?
+
+85
+00:08:25,840 --> 00:08:26,799
+Sim, sim, sim.
+
+86
+00:08:27,440 --> 00:08:32,299
+Mas a gente também pode trabalhar com lideranças, mas a gente está focando o produto hoje para...
+
+87
+00:08:32,299 --> 00:08:33,500
+É, a minha pergunta é para vocês.
+
+88
+00:08:34,119 --> 00:08:38,179
+É, a minha pergunta é para vocês, se vocês pensaram para lideranças ao invés de sócios,
+
+89
+00:08:38,219 --> 00:08:40,000
+porque aí eu vou trazer a minha próxima pergunta, que é
+
+90
+00:08:40,000 --> 00:08:43,059
+Como o sistema de vocês lida com o ego?
+
+91
+00:08:44,819 --> 00:08:58,250
+O ego é uma questão difícil de responder, porque a gente buscou ao máximo evitar questões muito psicológicas, comportamentais,
+
+92
+00:08:58,369 --> 00:09:07,630
+e sim entender, para que os sócios possam entender qual que é a decisão certa para a empresa.
+
+93
+00:09:08,409 --> 00:09:33,929
+E aí vem uma pergunta interessante sobre isso. Eu queria que você chegasse aí para falar sobre a funcionalidade. O sistema de vocês é integrado em alguma base de conhecimento da empresa para que ele consiga ter precisão em relação ao qual é o melhor caminho para o contexto da empresa naquele momento? Ou ele é só baseado no que os sócios acham naquele momento?
+
+94
+00:09:33,929 --> 00:09:58,989
+Então, hoje o serviço, ele não é integrado na empresa do cliente, a gente não quer definir, decidir ali para o cliente o lugar dele, a gente só quer mostrar possibilidades, quais é possivelmente o caminho que eles podem seguir, a gente não quer exatamente definir qual é o caminho que a empresa vai tomar por eles, mas dar essa clareza, entregar essa clareza do que eles podem estar tomando.
+
+95
+00:09:58,989 --> 00:10:08,630
+Então é o inverso, ele é melhor para apresentar pontos cegos nos argumentos e incoerências de visão do que de fato um caminho, é isso?
+
+96
+00:10:08,989 --> 00:10:13,369
+Isso, a gente está seguindo mais nessa linha hoje
+
+97
+00:10:15,569 --> 00:10:20,409
+Entendi, e hoje ainda vocês não validaram, ninguém pagou ainda por isso
+
+98
+00:10:20,409 --> 00:10:23,010
+Não, hoje ninguém pagou por esse serviço
+
+99
+00:10:23,130 --> 00:10:26,130
+Bom, vou começar com a história da Mayara, né?
+
+100
+00:10:26,189 --> 00:10:28,210
+Mayara é essa autista aqui de...
+
+101
+00:10:28,210 --> 00:10:30,069
+Hoje ela tem 20 anos de idade.
+
+102
+00:10:30,409 --> 00:10:32,989
+Quando ela foi nossa aluna, ela tinha 17 anos.
+
+103
+00:10:33,449 --> 00:10:40,309
+Ela é de Porto Alegre e foi uma das 30 participantes aqui do nosso programa do Coteia.
+
+104
+00:10:40,529 --> 00:10:46,250
+É uma jovem talentosa que descobriu o seu interesse aí pela paixão pelo design gráfico
+
+105
+00:10:46,250 --> 00:10:49,949
+e aí a gente fez, participou do nosso treinamento.
+
+106
+00:10:49,949 --> 00:10:54,389
+A Maiara é um caso muito comum.
+
+107
+00:10:54,569 --> 00:10:57,309
+Opa, caiu aqui. Desculpa, gente.
+
+108
+00:10:57,809 --> 00:10:59,210
+A gente está olhando.
+
+109
+00:11:00,250 --> 00:11:04,130
+É, não, é que o número perdeu a formatação, sorry.
+
+110
+00:11:05,989 --> 00:11:10,529
+Mas a Maiara é um caso entre milhões.
+
+111
+00:11:11,090 --> 00:11:15,210
+No Brasil, a gente tem aproximadamente 5 milhões de autistas.
+
+112
+00:11:15,210 --> 00:11:41,489
+E ela é filha, uma realidade que acontece muito comum, dos pais dos homens abandonarem as suas famílias e ela acaba crescendo sem essa figura paterna, mas também a mãe dela tem que abandonar o emprego e perde renda imediatamente porque tem que parar de trabalhar.
+
+113
+00:11:41,489 --> 00:12:11,469
+E a Mayara, ela foi uma das pessoas que ajudava a mãe dela aí na, na, vendendo artesanato na feira para complementar a renda, né, então os autistas eles têm esse problema, mas, e com relação também ao custo das terapias, e nossa solução aqui hoje vai atacar justamente esse problema, né, hoje a gente tem um milhão de alunos, mais de um milhão de alunos no ensino regular, né, de pessoas autistas, é um número que cresce,
+
+114
+00:12:11,489 --> 00:12:41,069
+Muito, é sempre muito fácil diagnosticar, né, e o problema é que as crianças estão chegando nas escolas, mas a preparação não, né, quem cuida delas não, então por isso que a gente tem uma proposta de criar um, cada caso, que vai ajudar a pessoa na clínica, na escola e em casa, né, por um custo, uma fração do que é, que é o custo hoje, e hoje um tratamento, ele,
+
+115
+00:12:41,489 --> 00:12:47,250
+Pode chegar a 30 mil reais por mês de terapia ABBA.
+
+116
+00:12:47,409 --> 00:12:55,429
+E os planos de saúde, como eu já falei, se eles filtram esse custo na planilha do Excel de ZA,
+
+117
+00:12:55,649 --> 00:13:02,649
+autismo aparece em primeiro lugar e supera, inclusive, o custo de câncer nos planos de saúde.
+
+118
+00:13:02,809 --> 00:13:10,090
+Então, o plano de saúde tem o interesse em resolver esse problema porque tem muito overprice por parte de clínicas,
+
+119
+00:13:10,090 --> 00:13:16,769
+Porque tem muito overprice também por conta do supervisor, que é o cara que é responsável pelo caso, né?
+
+120
+00:13:16,830 --> 00:13:23,630
+Que às vezes acaba nem seguindo um protocolo, uma fidelidade de protocolo que ele acaba se comprometendo.
+
+121
+00:13:23,929 --> 00:13:28,170
+E aí a minha ideia é conectar em torno do caso, né?
+
+122
+00:13:29,649 --> 00:13:36,870
+Da Mayara, do Enzo, então conectar essas pessoas para cuidar do caso, a clínica, a escola, a família
+
+123
+00:13:36,870 --> 00:13:45,029
+e também o indivíduo, no caso de adultos nível 1 de suporte, que consigam acompanhar o seu próprio caso.
+
+124
+00:13:45,389 --> 00:13:52,870
+Então, como que funciona? O caso entra na plataforma, a IA monta um plano e cada caso recebe uma peça, né?
+
+125
+00:13:53,210 --> 00:13:59,049
+Cada um deles, uma orientação para a escola, uma orientação para a clínica, uma orientação familiar, uma carta para a família.
+
+126
+00:13:59,290 --> 00:14:03,590
+Hoje a gente já vem testando esse modelo em um produto que a gente tem aqui que se chama SuperAbo.
+
+127
+00:14:06,870 --> 00:14:30,549
+Então, onde que a gente vai, nós já temos isso pronto, rodando aqui, então onde que a gente quer rodar isso no nosso ecossistema, a gente quer criar um site específico, uma plataforma específica para receber e centralizar esses casos com esses históricos e a gente quer construir esse piloto.
+
+128
+00:14:30,549 --> 00:14:53,189
+Então, qual que é o tamanho hoje do nosso TAM, né? Esse número aqui é o que tem no censo, né? 2 .4 milhões de brasileiros, tem esse SAM de escolas, que as clínicas e as escolas já pagam por isso, e hoje a gente quer chegar nos 45 mil usuários na nossa base própria de usuários.
+
+129
+00:14:53,189 --> 00:15:03,670
+A gente tem três modelos de precificação, um modelo de entrada gratuito, o custo de CAC dele aqui é de 30 centavos para eu manter esse pagante aqui.
+
+130
+00:15:03,849 --> 00:15:07,790
+Então, se eu tiver mil pessoas, eu ainda vou estar pagando só 300 reais.
+
+131
+00:15:08,170 --> 00:15:18,309
+E aí a gente quer um modelo que ele traz o seu próprio modelo de 29 e o modelo premium, que é 59 reais por mês, que entrega pacotes diferenciados.
+
+132
+00:15:18,309 --> 00:15:28,250
+e modelo para clínicas, que é o que a gente acha que é o que mais vai ter, que é entre 890 e 290, de acordo com o número de pessoas.
+
+133
+00:15:28,449 --> 00:15:37,729
+Hoje, só para ter uma comparação, custa, para resolver esses 29 reais aqui, em torno de 200 a 600 reais para clínica.
+
+134
+00:15:39,109 --> 00:15:47,909
+Eu vou avançar aqui, que eu quero, esse é o que eu custo, essencial, mas eu vou avançar porque meu tempo está acabando,
+
+135
+00:15:48,309 --> 00:16:11,309
+A gente está operando há sete anos, então a gente quer ter esses 45 mil usuários no programa, a gente já tem 2 mil casos mapeados em estudo longitudinal durante seis anos, então a gente já tem isso testado, é daí que vem essas informações para os novos casos, junto com o grafo de todas as abordagens multilentes que a gente desenvolveu aqui.
+
+136
+00:16:11,309 --> 00:16:17,090
+A gente recentemente lançou uma plataforma de comunicação aumentativa alternativa,
+
+137
+00:16:17,130 --> 00:16:20,830
+que é o AdaptBoard, que gerou um milhão de acessos nas redes sociais.
+
+138
+00:16:21,489 --> 00:16:29,389
+Eu sou a pessoa que acompanha e desenvolve, estou construindo isso, tenho 20 anos nessa área,
+
+139
+00:16:29,489 --> 00:16:36,529
+e hoje o que eu quero aqui é pedir para o Ruan, não saia do Overlens, traga o Overlens aqui para o meu negócio,
+
+140
+00:16:37,109 --> 00:16:44,790
+Venha com ela. Na verdade, o que eu quero é a mentoria, quero a Vanguarda e quero oferecer para você 1 % do lucro líquido.
+
+141
+00:16:44,870 --> 00:16:52,309
+Então, vocês não participariam da despesa para manter aquele CAC lá de zero, mas o lucro líquido vocês ficariam com 1 % sem risco.
+
+142
+00:16:52,710 --> 00:17:02,689
+E, opa, sumiu. A Mayara, quero só para falar que a Mayara foi uma das, a primeira pessoa que a gente empregou aqui na ADAPT.
+
+143
+00:17:03,689 --> 00:17:32,670
+E depois, hoje ela já está há três anos na Somos Educação, passando pelo nosso processo educacional de formação, e no final de 2013, foi o ano que a gente empregou ela, ela me ligou querendo ser a doadora, ela foi nossa primeira doadora, doando seu décimo terceiro aqui para a gente, acabou gerando uma comoção lá na empresa, os colegas de trabalho dela também quiseram doar, então foi muito legal assim poder ver a transformação na vida dela.
+
+144
+00:17:32,689 --> 00:17:39,710
+E a gente te chama para a gente multiplicar em mil vezes, em milhões de vezes, essa experiência que ela teve aqui com a gente.
+
+145
+00:17:40,750 --> 00:17:45,590
+Legal demais, Emanuel. Muito bom. Legal trazer o caso dela, inclusive, né?
+
+146
+00:17:45,630 --> 00:17:52,929
+Isso veio do conselho que eu dei no último, né? Trazer uma história que tangibiliza tudo isso.
+
+147
+00:17:53,609 --> 00:17:57,909
+E, com certeza, eu consigo visualizar agora o impacto, né?
+
+148
+00:17:57,909 --> 00:18:02,469
+Os números já mostram esse impacto com certeza, mas a história traz mais disso.
+
+149
+00:18:03,630 --> 00:18:10,029
+E a proposta é muito boa, eu falei que eu não ia falar da última vez, falando aqui agora, eu gosto muito dela.
+
+150
+00:18:10,889 --> 00:18:17,170
+Ela é uma proposta específica não para uma incubadora, mas para um outro tipo de parceria.
+
+151
+00:18:17,389 --> 00:18:17,399
+Eu
+
+152
+00:18:17,589 --> 00:18:17,929
+um pouquinho.
+
+153
+00:18:18,150 --> 00:18:22,369
+Eu só queria falar o seguinte, que é só um pedaço do meu projeto esse, né?
+
+154
+00:18:22,589 --> 00:18:28,969
+Que eu observei que aqui não tem ninguém que apresenta produto físico,
+
+155
+00:18:28,989 --> 00:18:33,589
+e no meu caso é um produto físico e digital ao mesmo tempo, tá?
+
+156
+00:18:33,909 --> 00:18:37,029
+Ótimo. A ideia é apresentar a oportunidade, então...
+
+157
+00:18:37,029 --> 00:18:44,909
+Eu, na verdade, eu até conversei com a Maia, e aí ela falou pra mim que eu tinha que falar, né?
+
+158
+00:18:44,969 --> 00:18:51,650
+Mas eu fiz um vídeo, porque eu já aproveitei, porque é o meu vídeo de pitch mesmo, pra captação.
+
+159
+00:18:51,809 --> 00:18:53,489
+Então eu vou rodar ele aqui, tá?
+
+160
+00:18:53,989 --> 00:18:55,469
+Deixa eu ver aqui como é que sai.
+
+161
+00:18:56,169 --> 00:18:59,349
+Sabe o que é mais engraçado? Eu não coloquei essa regra, né?
+
+162
+00:18:59,429 --> 00:19:01,789
+Eu não coloquei uma regra. Posso gravar meu pitch?
+
+163
+00:19:03,369 --> 00:19:07,449
+Eu vou ter que colocar na próxima, mas como eu não coloquei, tá tudo bem.
+
+164
+00:19:07,589 --> 00:19:09,889
+Aí eu vou dar play, tá?
+
+165
+00:19:10,329 --> 00:19:11,249
+Pronto, pronto.
+
+166
+00:19:11,669 --> 00:19:20,809
+Olá, eu sou Osana Herrera, economista, doutora em agronomia e há mais de 20 anos trabalho com produtos naturais brasileiros.
+
+167
+00:19:21,089 --> 00:19:23,869
+A Natura Mater nasceu de uma inquietação.
+
+168
+00:19:24,289 --> 00:19:30,249
+Durante milhares de anos, ervas e especiarias fizeram parte da alimentação humana.
+
+169
+00:19:30,249 --> 00:19:40,489
+davam sabor, identificavam culturas e traziam ao prato uma diversidade extraordinária de compostos naturais.
+
+170
+00:19:40,669 --> 00:19:47,169
+Nossa alimentação mudou, ganhamos conveniência, escala e praticidade.
+
+171
+00:19:47,429 --> 00:19:50,589
+E no caminho deixamos muita coisa para trás.
+
+172
+00:19:50,909 --> 00:19:56,529
+E comecei a me perguntar, o que perdemos quando reduzimos tanto essa diversidade?
+
+173
+00:19:56,529 --> 00:20:07,549
+Passei meses cruzando literatura científica sobre ervas e especiarias, seus compostos e seus usos tradicionais, e encontrei algo fascinante.
+
+174
+00:20:07,769 --> 00:20:25,849
+Enquanto a ciência moderna investiga cada vez mais os compostos bioativos presentes nos vegetais, muitos dos ingredientes que os contêm estão desaparecendo da nossa cozinha cotidiana, e aqui nasceu a tese da Natura Mater.
+
+175
+00:20:25,849 --> 00:20:33,969
+Talvez não precisemos transformar alimento em medicamento.
+
+176
+00:20:34,150 --> 00:20:43,709
+Talvez precisemos começar na cozinha, reintroduzindo diversidade, recuperando ingredientes, reaprendendo a combinar,
+
+177
+00:20:43,809 --> 00:20:50,190
+de um jeito que as pessoas queiram repetir todos os dias, com prazer e sabor.
+
+178
+00:20:50,529 --> 00:20:54,249
+Por isso existe uma fronteira que, para mim, é fundamental.
+
+179
+00:20:55,849 --> 00:21:03,329
+A Natura Mater não pretende diagnosticar, não pretende prescrever e não pretende tratar doenças.
+
+180
+00:21:03,529 --> 00:21:10,249
+O alimento não é o remédio, é o lugar onde a saúde começa, antes de precisar...
+
+181
+00:21:14,579 --> 00:21:16,519
+Quando tá ficando interessante, poxa.
+
+182
+00:21:16,639 --> 00:21:27,440
+Queremos transformar conhecimento em escolhas culinárias, tradição em experiência, ciência em ingredientes e ingredientes em comida de verdade.
+
+183
+00:21:27,440 --> 00:21:34,699
+Foi daí que nasceu o nosso conceito, Natura Mater, a ciência que entra pela cozinha.
+
+184
+00:21:34,819 --> 00:21:49,919
+No início, desenvolvemos 20 blends funcionais de ervas e especiarias, mas rapidamente percebemos que não estávamos criando uma linha de temperos, estávamos construindo algo muito maior.
+
+185
+00:21:49,919 --> 00:22:05,079
+Hoje, a Natura Mater está sendo estruturada como uma plataforma de civilização alimentar, com aproximadamente 100 produtos organizados em 5 grandes universos.
+
+186
+00:22:05,179 --> 00:22:17,419
+Os funcionais respondem o que estou tentando fazer na cozinha, taste off de onde vem esta comida, e assim por diante, 5 portas diferentes para entrar no mesmo universo,
+
+187
+00:22:17,419 --> 00:22:24,459
+Um universo em que tradição, cultura, ciência e gastronomia voltam a conversar.
+
+188
+00:22:24,839 --> 00:22:26,599
+Mas percebemos outro problema.
+
+189
+00:22:26,999 --> 00:22:33,759
+Não adianta desenvolver 100 produtos se o consumidor compra um pote e não sabe o que fazer com ele.
+
+190
+00:22:33,959 --> 00:22:38,779
+Por isso, na Natura Mater, o produto é apenas o começo da experiência.
+
+191
+00:22:38,779 --> 00:22:47,659
+Criamos cookbooks gratuitos, receitas, conteúdos educativos e seis protocolos culinários.
+
+192
+00:22:47,959 --> 00:22:51,980
+Um deles se chama Sem Sal, Mas Com Amor.
+
+193
+00:22:52,059 --> 00:22:55,459
+Outro, Acabou -se o que era doce.
+
+194
+00:22:55,559 --> 00:23:00,659
+Os nomes são leves de propósito, porque não estamos oferecendo tratamentos.
+
+195
+00:23:00,919 --> 00:23:04,419
+Nossos protocolos são roteiros de cozinha.
+
+196
+00:23:04,419 --> 00:23:12,919
+Ensinamos combinações, preparações e maneiras de trazer diferentes ingredientes de volta para o cotidiano.
+
+197
+00:23:13,199 --> 00:23:15,739
+E então surgiu a pergunta de negócio.
+
+198
+00:23:16,599 --> 00:23:23,019
+Como fazer esse conhecimento chegar a milhares de cozinhas sem depender do varejo tradicional?
+
+199
+00:23:23,559 --> 00:23:27,419
+Nossa resposta é combinar tecnologia com pessoas.
+
+200
+00:23:27,419 --> 00:23:39,819
+Estamos estruturando uma rede de parceiros credenciados da Natura Mater, chefes, educadores culinários e criadores com comunidades de comida.
+
+201
+00:23:39,819 --> 00:23:45,219
+O parceiro compartilha o link ou o QR code.
+
+202
+00:23:45,539 --> 00:24:01,499
+O consumidor entra no ecossistema, faz um quiz sobre seus hábitos e preferências culinárias, descobre seu perfil e conhece conteúdos, protocolos e produtos relacionados.
+
+203
+00:24:01,679 --> 00:24:05,859
+Se decidir comprar, faz isso diretamente no nosso e -commerce.
+
+204
+00:24:06,159 --> 00:24:10,359
+E o parceiro participa da geração desse novo cliente.
+
+205
+00:24:10,359 --> 00:24:18,199
+Isso cria um modelo direto ao consumidor, baseado não apenas na primeira venda, mas na recorrência.
+
+206
+00:24:18,359 --> 00:24:28,819
+Uma pessoa chega por um conteúdo gratuito, compra um protocolo, experimenta o primeiro blend e volta para descobrir os outros universos.
+
+207
+00:24:28,940 --> 00:24:34,699
+Em vez da margem do varejo, construímos relacionamento direto.
+
+208
+00:24:34,699 --> 00:24:43,119
+E existe ainda uma segunda avenida de crescimento, a Natura Mater Ingredients.
+
+209
+00:24:43,539 --> 00:24:52,419
+Nesse canal, nossos blends deixam de ser produto de consumo e passam a ser ingrediente para outras indústrias de alimentos.
+
+210
+00:24:52,980 --> 00:25:00,279
+Dois motores complementares, D2C para marca e recorrência, B2B para escala.
+
+211
+00:25:00,279 --> 00:25:15,739
+A Natura Mater começou com uma pequena indústria, 20 blends e uma pergunta. Hoje, essa pergunta virou tudo isso, mas a nossa ambição não é colocar mais 100 produtos no mundo, é outra.
+
+212
+00:25:15,739 --> 00:25:44,419
+Queremos devolver diversidade à cozinha, recuperar ingredientes, sabores e conhecimentos que atravessaram gerações e usar a ciência não para transformar comida em remédio, mas para nos ajudar a compreender melhor aquilo que está no prato, porque grandes transformações não precisam começar no laboratório, na farmácia ou no consultório.
+
+213
+00:25:44,419 --> 00:25:53,079
+As vezes elas podem começar em um lugar muito mais simples, por exemplo, na sua próxima refeição.
+
+214
+00:25:54,859 --> 00:26:03,400
+O produto, se alguém quiser ver direito, eu vou colocar o link do vídeo, tá?
+
+215
+00:26:04,119 --> 00:26:10,879
+Sim, claro. Você conseguiu bater os sete minutos como gravou, né? Dava pra gerenciar ali, mesmo com o tempo...
+
+216
+00:26:14,419 --> 00:26:16,480
+dando umas garradinhas, né? Deu sete minutos
+
+217
+00:26:16,480 --> 00:26:17,859
+aqui, mas
+
+218
+00:26:18,719 --> 00:26:20,559
+primeiro de tudo, tá? Tem uma solução
+
+219
+00:26:20,559 --> 00:26:22,459
+muito inteligente aí, e você fez uma
+
+220
+00:26:22,459 --> 00:26:24,339
+coisa que eu achei
+
+221
+00:26:24,339 --> 00:26:26,440
+interessante dentro da minha cabeça, que
+
+222
+00:26:26,440 --> 00:26:28,419
+é visualizar
+
+223
+00:26:28,419 --> 00:26:30,299
+uma possibilidade de produto,
+
+224
+00:26:30,659 --> 00:26:32,539
+né? Sobre
+
+225
+00:26:32,539 --> 00:26:34,539
+a oportunidade. Eu tenho o produto pronto já.
+
+226
+00:26:34,940 --> 00:26:36,499
+Ele tá pronto. Sim, eu falo
+
+227
+00:26:36,499 --> 00:26:38,499
+de enquadramento dele pras pessoas.
+
+228
+00:26:39,159 --> 00:26:40,459
+Ah, sim. Quando você
+
+229
+00:26:40,459 --> 00:26:42,419
+fala que existe um mundo da culinária,
+
+230
+00:26:42,419 --> 00:26:47,119
+O seu roteiro está bom, entendeu? O roteiro está interessante ali.
+
+231
+00:26:47,359 --> 00:26:53,719
+Eu acho que tem como enquadrar design ali para gerar muito desejo, mas o roteiro está interessante,
+
+232
+00:26:54,019 --> 00:27:02,459
+porque eu foquei mais nas palavras que você escolheu para montar o roteiro e isso me fez pensar sensorialmente nisso.
+
+233
+00:27:02,659 --> 00:27:08,099
+Por exemplo, quantos temperos eu nunca experimentei, quantas junções de alimentos eu nunca experimentei,
+
+234
+00:27:08,099 --> 00:27:10,359
+E aí isso cria um mundo na cabeça.
+
+235
+00:27:10,519 --> 00:27:18,679
+E eu vi que tem alguns sinais ali na sua apresentação, que às vezes, isso criou uma vantagem injusta para você,
+
+236
+00:27:18,759 --> 00:27:21,480
+mas você jogou dentro das regras, eu não posso fazer nada dessa vez.
+
+237
+00:27:22,059 --> 00:27:29,179
+Que é, por exemplo, você pôde revisar o vídeo ali, as outras pessoas tiveram que se virar para tentar mostrar a ideia delas ao vivo.
+
+238
+00:27:29,739 --> 00:27:33,199
+Mas tem algumas coisas interessantes ali, que eu vejo.
+
+239
+00:27:33,199 --> 00:27:41,259
+Primeiro, dá pra ver uma inteligência sua em relação ao mercado pra falar que isso não é um remédio, não é uma solução,
+
+240
+00:27:41,799 --> 00:27:47,779
+que na verdade você quer propor um estilo de vida, basicamente é isso, um estilo de vida pras pessoas ali.
+
+241
+00:27:48,299 --> 00:27:53,199
+Então vi isso, você trouxe também uma camada de B2C, B2B, como você pensa em distribuir isso,
+
+242
+00:27:53,299 --> 00:28:00,539
+então tem uma inteligência de modelo de negócio que eu não vi, na verdade eu vi no do Emanuel um pouco e no seu,
+
+243
+00:28:00,539 --> 00:28:15,819
+Os outros eu não vi essa camada, que é uma das coisas que eu quero comentar e aí eu tô trazendo aqui de feedback também, que eu achei interessante, né, teve no seu, então uma camada de modelo de negócio e eu achei muito legal, tá, achei muito massa.
+
+244
+00:28:15,819 --> 00:28:24,659
+Mas, em questão de oportunidade, o que não ficou claro ali pra mim é o tipo de oportunidade que você tá abrindo no sentido de
+
+245
+00:28:24,659 --> 00:28:33,779
+eu quero parceiros pro negócio, eu quero uma sociedade, eu quero divulgar meu produto pra outras pessoas comprarem,
+
+246
+00:28:33,839 --> 00:28:36,759
+eu só senti falta disso no objetivo do vídeo em si.
+
+247
+00:28:37,319 --> 00:28:42,839
+Não, eu falei, eu falei, eu acho que você, acho que talvez eu tenha que melhorar.
+
+248
+00:28:42,839 --> 00:28:44,959
+Pode ser que eu esqueci, pode ser, não, pode ser.
+
+249
+00:28:44,959 --> 00:28:51,119
+É, apresentação, esse pitch é, na verdade, para captação de parceiros.
+
+250
+00:28:52,759 --> 00:28:57,639
+Então, mas, exato, quando você fala de parceiros, você está falando de parceiros em que sentido?
+
+251
+00:28:57,739 --> 00:28:59,459
+Pode ser que passou a música e eu perdi, tá?
+
+252
+00:28:59,519 --> 00:29:02,559
+Parceiros, divulgadores do produto, porque eu não dei o...
+
+253
+00:29:03,039 --> 00:29:03,919
+Divulgação, distribuição.
+
+254
+00:29:04,999 --> 00:29:11,599
+Ele tem um MCM que ele não pode ir para a prateleira, porque senão vai ficar inviável o preço no final,
+
+255
+00:29:11,639 --> 00:29:14,699
+por questões fiscais, né, de tributação.
+
+256
+00:29:14,959 --> 00:29:44,319
+no final ele vai sair um preço muito alto e vai ficar inacessível pra muita gente, eu quero pegar uma faixa de população que consiga comprar esse produto no máximo por 20 reais mas você quer vender um produto que chega na casa da pessoa sim, esse produto vai pelo nosso e -commerce e o que eu preciso como não é um produto comum, ninguém conhece, são blends bem diferenciados
+
+257
+00:29:44,319 --> 00:30:14,299
+E esses blends, começou toda essa história, eu ligando isso a questões de saúde, uma pesquisa que eu fiz durante muito tempo, e aí eu passei isso pela IA, tava tudo pronto já, cookbook, tudo, 20 produtos, e aí ela me apontou que isso daí eu poderia ter problemas com a questão de regulatórios, aí eu voltei tudo pra trás, comecei rótulo de novo, tudo de novo,
+
+258
+00:30:14,319 --> 00:30:20,519
+Eu vou te dar uma direção aqui, não é a ideia, mas eu fiquei com muita vontade de fazer isso, então vou fazer.
+
+259
+00:30:21,759 --> 00:30:25,079
+Pra pensar sobre isso, talvez você já pensou também, a gente discute depois.
+
+260
+00:30:25,839 --> 00:30:30,499
+Mas o que você tem de mais valioso é a informação, e não o produto em si.
+
+261
+00:30:31,119 --> 00:30:36,019
+E se você distribuir essa informação do jeito certo pra mais pessoas, gerando desejo nelas,
+
+262
+00:30:36,019 --> 00:30:43,199
+e talvez ensinando pra elas que elas podem encontrar isso, até o próprio nome já fala, mãe natureza.
+
+263
+00:30:43,199 --> 00:30:49,440
+Então, encontrar isso na própria natureza, essa informação, talvez seja a coisa mais valiosa que você tem aí.
+
+264
+00:30:50,159 --> 00:30:51,879
+E ela é mais fácil de distribuir.
+
+265
+00:30:52,199 --> 00:30:59,059
+Um problema grande, assim, né, é que eu tenho que evangelizar as pessoas porque ninguém conhece.
+
+266
+00:30:59,179 --> 00:31:03,539
+Quando você fala tempero, a pessoa pensa salsinha, cebolinha, essas coisas aí.
+
+267
+00:31:03,859 --> 00:31:06,219
+Ou pior ainda, né, caldo de quinoa.
+
+268
+00:31:06,379 --> 00:31:11,099
+Blends sinergicamente combinados, né, e não esse daí, pelo amor de Deus.
+
+269
+00:31:11,940 --> 00:31:17,279
+São blends que são sinergicamente combinados com base em ciência, não é?
+
+270
+00:31:17,519 --> 00:31:18,679
+Sim, exato.
+
+271
+00:31:19,659 --> 00:31:22,659
+Então, as pessoas não estão preparadas para isso.
+
+272
+00:31:22,940 --> 00:31:28,900
+E a minha função, o meu trabalho maior é fazer essa evangelização, né?
+
+273
+00:31:29,379 --> 00:31:35,940
+E tornar isso uma realidade para as pessoas, porque a minha teoria principal é que,
+
+274
+00:31:35,940 --> 00:32:05,239
+A partir do momento que você parou de comer determinados fitonutrientes, começou -se uma epidemia muito grande de problemas crônico -degenerativos, tem até estatística disso, e essa dor é uma dor que está no mundo, e eu gostaria assim de, o médico vai falar, é muito pouco que você tem ali, mas não é, porque se você comer uma coisa com constância, você entendeu?
+
+275
+00:32:05,940 --> 00:32:12,819
+Isso no seu organismo, ele vai criar várias barreiras com relação a doenças.
+
+276
+00:32:12,980 --> 00:32:20,379
+E esses temperos a gente usa desde que a humanidade começou, né?
+
+277
+00:32:20,719 --> 00:32:22,699
+E nós paramos de comer.
+
+278
+00:32:22,859 --> 00:32:29,980
+Você ia na casa de uma tia, tinha um arroz doce com canela, tinha um doce de mamão com cravo,
+
+279
+00:32:30,139 --> 00:32:33,239
+e hoje não tem mais isso, você tem o sintético.
+
+280
+00:32:33,419 --> 00:32:34,379
+Biscoito recheado.
+
+281
+00:32:36,679 --> 00:32:41,619
+Muito bom, Osana. Tem várias questões interessantes aí, tá? Gostei muito.
+
+282
+00:32:42,659 --> 00:32:52,079
+Eu adoraria ter visto você apresentando isso ao vivo também, mas ainda assim você cumpriu aqui os requisitos.
+
+283
+00:32:52,159 --> 00:32:53,900
+Mas é muita coisa em sete minutos.
+
+284
+00:32:54,059 --> 00:32:56,519
+É isso, esse é o jogo, né?
+
+285
+00:32:56,579 --> 00:32:59,440
+A ideia é muito complexa pra se colocar, né?
+
+286
+00:33:00,219 --> 00:33:01,759
+Com certeza, com certeza.
+
+287
+00:33:02,359 --> 00:33:02,839
+Obrigado.
+
+288
+00:33:02,839 --> 00:33:17,359
+complexo, mas muito bom. Parabéns e fiquei interessado também. Existem ideias que às vezes eu escuto e falo, cara, dá muita vontade de contribuir com elas, né? E a sua é uma delas. Muito massa. Parabéns.
+
+289
+00:33:17,559 --> 00:33:26,959
+Eu espero que você contribua. Eu vou colocar a foto dos produtos aqui, de alguns, né, pra vocês darem uma olhada também.
+
+290
+00:33:28,039 --> 00:33:38,379
+Você tem uma super tese que está escondida dentro de um enquadramento que tem pouco potencial.
+
+291
+00:33:39,039 --> 00:33:45,239
+Quando eu falo isso, eu estou falando no sentido de comunicação mesmo ali, design, visual mesmo,
+
+292
+00:33:45,539 --> 00:33:49,779
+o que você está mostrando para as pessoas, alimento é muito sensorial.
+
+293
+00:33:49,859 --> 00:33:55,419
+Se você traz essa camada sensorial para a sua comunicação ali, você tem uma big idea já,
+
+294
+00:33:55,419 --> 00:34:01,599
+Isso já é real, ela só precisa do enquadramento certo, porque é uma ideia que impacta e alcança muitas pessoas.
+
+295
+00:34:01,859 --> 00:34:07,940
+E aí eu já vou te falar uma coisa aqui, você tá num grupo que 30, acho que é 30 ou 40 % do grupo da Vanguarda são de designers.
+
+296
+00:34:08,599 --> 00:34:14,199
+Então são pessoas que você já tem aqui, que conseguem trazer o enquadramento que você precisa.
+
+297
+00:34:14,480 --> 00:34:18,219
+Eu vou falar aqui pra poder... como é que eu posso fazer isso?
+
+298
+00:34:19,099 --> 00:34:39,779
+Eu vou instigar, né, e eu tô fazendo isso agora, galera, pelo tempo, porque tanto o Miguel quanto o Felipe, eu não sei se eles chegaram depois, mas quando a gente chamou aqui eles não estavam aqui, né, e aí eu risquei, né, aqui, mas as outras pessoas todas apresentaram, por isso que eu tô comentando aqui.
+
+299
+00:34:39,779 --> 00:35:00,419
+Mas pra instigar vocês, nesse caso da Osana, eu quero que vocês imaginem primeiro a diversidade que é o tópico alimentos, eu quero que vocês imaginem a diversidade visual disso, de possibilidade de construção de um sistema visual sensorial, porque alimento é cheiro, gosto e visão.
+
+300
+00:35:01,059 --> 00:35:21,980
+E também pode ser, é tato também, né? Obviamente. E também pode ser audição. Eu consigo imaginar, por exemplo, qual que é o som de um tempero num pacotinho pra um tomate esmagado, por exemplo. Dá pra imaginar o som do alimento também.
+
+301
+00:35:21,980 --> 00:35:38,639
+Então, o Alimente, ele cobre cinco camadas sensoriais. Um designer muito bom no que ele faz, consegue traduzir essas cinco camadas sensoriais para comunicação e envolver as pessoas para gerar, que aí é o ponto principal que a Osana precisa, gerar desejo no consumo.
+
+302
+00:35:38,639 --> 00:36:05,659
+Gerando esse desejo no consumo, existe uma causa positiva para isso, de um problema civilizacional mesmo, da população do mundo, que é o que a gente come, é um dos maiores problemas hoje, isso envolve múltiplos ecossistemas, que foi o que a Osana conectou aqui de possibilidades, ela trouxe B2C e D2C, que é direct consumer, mas isso envolve várias cadeias diferentes,
+
+303
+00:36:05,659 --> 00:36:31,599
+E eu acho que talvez, trazendo uma visão sistêmica para esse desafio da Osana, e mudando o ângulo em dois pontos, que é a comunicação para gerar esse desejo, e focar mais na informação do que no produto, por questão de gargalo, é uma ideia que ela consegue sair desse gargalo para algo que alcança muita gente de uma vez.
+
+304
+00:36:31,599 --> 00:37:01,139
+Que eu faria aí, eu tô falando coisas aqui que eventualmente viriam numa consultoria, algo do tipo, mas no seu lugar, Zana, eu colocaria múltiplos creators, nutricionistas, médicos, que já falam desse assunto e gostariam de trazer isso em cima da sua marca principal, a sua marca tem que ser a distribuição da informação, o produto pode existir também ali como uma experiência, mas se você foca na distribuição da informação, com parceiros que podem divulgar isso pra você, e a sua marca é como se fosse a fonte da tese,
+
+305
+00:37:01,139 --> 00:37:30,779
+Que as pessoas vão entrar nesse site e vão ter aquela informação ali, você conecta isso com cadeias de logística de cada região, porque toda região tem hortifruti, tem, aqui no Brasil, também talvez seja o melhor país para começar uma marca desse tipo, porque se você tem uma inteligência logística sistêmica em cima disso, você consegue conectar parceiros para poder distribuir esses alimentos, e o seu foco seria em talvez usar a sua marca para chancelar produtos de qualidade,
+
+306
+00:37:30,779 --> 00:37:57,279
+Eu sei que essa fazenda é livre de agrotóxico, ela segue esses selos, ela tem esses padrões, eu sei que esse lugar no Brasil produz essa matéria -prima, esse outro lugar produz essa matéria -prima, você trabalhar no ecossistema, na informação distribuída, e a sua marca ser a marca de selo, você traz a informação de valor, o estilo de vida, e deixa que o ecossistema forneça, porque você resolve o problema de logística, resolve o problema de...
+
+307
+00:37:59,999 --> 00:38:16,099
+Vou chamar aqui de compliance disso, mas enfim, essa cadeia de regras que existe, porque cada região vai conseguir fornecer num preço muito mais baixo, sua marca vai ser distribuída muito mais do que se você focasse no produto, e seria um caminho possível aqui pra seguir, tá?
+
+308
+00:38:16,239 --> 00:38:25,940
+Mas aí tem que ver também se isso faz sentido pro seu propósito, pro que você queria, só foi uma ideia que quanto mais eu fui ouvindo o vídeo ali, eu fui visualizando essa possibilidade.
+
+309
+00:38:25,940 --> 00:38:51,999
+E aí eu quis instigar vocês, porque eventualmente podem ter pessoas aqui que podem te entregar uma camada dessa visão toda, que é o enquadramento, essa visão ali, trazer esse sentido sensorial para a sua comunicação e você vai conseguir envolver muita gente na ideia, se você tiver essa camada sensorial.
+
+310
+00:38:51,999 --> 00:38:59,900
+Se você der uma olhada no rótulo, aumenta um pouquinho aqui que dá pra ver.
+
+311
+00:39:00,519 --> 00:39:02,480
+Ó, embaixo, nesse...
+
+312
+00:39:02,480 --> 00:39:03,959
+A gente não tá conseguindo ver, tá?
+
+313
+00:39:04,159 --> 00:39:05,379
+A gente não tá vendo sua tela.
+
+314
+00:39:05,699 --> 00:39:07,019
+A gente não tá vendo sua tela.
+
+315
+00:39:07,539 --> 00:39:07,940
+Não.
+
+316
+00:39:08,059 --> 00:39:08,659
+Tá conseguindo?
+
+317
+00:39:08,699 --> 00:39:09,839
+Não tá compartilhando, não.
+
+318
+00:39:10,319 --> 00:39:13,339
+Ah, não, não tô compartilhando, eu mandei no chat.
+
+319
+00:39:14,659 --> 00:39:15,459
+Ah, beleza.
+
+320
+00:39:15,459 --> 00:39:27,879
+Todos os rótulos dele, com essa mudança que eu fiz, por fora são os ingredientes que cabem dentro desse pote aí juntos, né?
+
+321
+00:39:28,279 --> 00:39:39,559
+Que é o que compõe ele. E por fora tem a parte sensorial, que é o sabor. Então ele é cítrico, herbal e picante, nesse caso.
+
+322
+00:39:39,559 --> 00:39:59,639
+E esse produto, ele, no caso aí o CardioVital, né, que é um dos 20, ele é um produto sinergicamente feito com ervas e especiarias que ajudam a questão cardiovascular. Aí tem um outro que eu coloquei aí. Cada um tem uma coisa, ó.
+
+323
+00:40:00,379 --> 00:40:04,900
+Olha isso, tá vendo esses ingredientes que você tá colocando fora da embalagem?
+
+324
+00:40:06,039 --> 00:40:17,539
+Se você aplica uma visão sistêmica disso e cria uma marca que toma isso como ativo da marca, ativo visual da marca,
+
+325
+00:40:17,679 --> 00:40:21,659
+cada ingrediente ativo visual da marca pode ser um ativo sensorial também.
+
+326
+00:40:22,159 --> 00:40:29,099
+Então se você cria uma identidade de marca sistêmica que comunica isso de um jeito diferente,
+
+327
+00:40:29,959 --> 00:40:34,539
+E sensorial, as pessoas vão se envolver com sua marca muito forte, entendeu?
+
+328
+00:40:34,719 --> 00:40:42,259
+Sim, foi assim, até o caminho que o próprio Claude, nas nossas conversas aqui, me deu, né?
+
+329
+00:40:42,579 --> 00:40:52,499
+Porque o que eu estava focando era ser um produto, e quem ia vender esse produto era o pessoal que pode prescrever,
+
+330
+00:40:53,119 --> 00:40:57,980
+porque eu abordo coisas assim de saúde, né?
+
+331
+00:40:57,980 --> 00:41:03,400
+E aí, o Claude me alertou que eu ia bater com regulatórios lá, né?
+
+332
+00:41:03,539 --> 00:41:04,759
+Eu concordo com o Claude.
+
+333
+00:41:04,919 --> 00:41:09,900
+E eu fiquei entusiasmado e nem passei por cima disso, né? Quando eu comecei a pensar nisso.
+
+334
+00:41:12,249 --> 00:41:15,009
+Ah, aqui não tá mostrando a tela, tá mostrando só...
+
+335
+00:41:15,869 --> 00:41:17,190
+Deixa eu printar, peraí.
+
+336
+00:41:17,989 --> 00:41:19,509
+É porque tem gente que não viu a imagem.
+
+337
+00:41:20,389 --> 00:41:21,730
+Não, eu mandei no chat.
+
+338
+00:41:22,769 --> 00:41:26,949
+É, sim, sim, mas é porque tem gente que não tá conseguindo abrir no chat não, mas eu coloquei aqui na tela.
+
+339
+00:41:26,949 --> 00:41:47,929
+Então cada um deles tem essa coisa que a pessoa olha e fala assim, hum, eu vou comprar isso aqui, mas ele tem um gosto cítrico, levemente herbal e o cheiro também, porque na verdade o sabor ele é composto por vários sensores que a gente tem, não é só o que você come.
+
+340
+00:41:47,929 --> 00:41:49,589
+O que eu tô propondo aqui,
+
+341
+00:41:49,690 --> 00:41:51,589
+Osana, eu vou falar também,
+
+342
+00:41:51,650 --> 00:41:53,730
+já bateu meio dia ali, mas o que eu tô
+
+343
+00:41:53,730 --> 00:41:55,569
+propondo aqui é, por exemplo, se você pensa na
+
+344
+00:41:56,429 --> 00:41:57,509
+visão sistêmica disso,
+
+345
+00:41:58,009 --> 00:41:59,929
+aí você vai pensar em canais. Primeiro
+
+346
+00:41:59,929 --> 00:42:01,749
+canal que você precisa, blog. Por que
+
+347
+00:42:01,749 --> 00:42:03,650
+você precisa de blog? Com o seu blog,
+
+348
+00:42:03,690 --> 00:42:04,269
+eu faria
+
+349
+00:42:05,809 --> 00:42:07,629
+50, 100 artigos por dia
+
+350
+00:42:07,629 --> 00:42:09,269
+lá dentro, aí teria que
+
+351
+00:42:10,029 --> 00:42:10,429
+modelar
+
+352
+00:42:10,429 --> 00:42:13,650
+o tom de voz e
+
+353
+00:42:13,650 --> 00:42:15,650
+qualidade pra ficar muito bom. Mas
+
+354
+00:42:15,650 --> 00:42:16,289
+se você consegue
+
+355
+00:42:17,349 --> 00:42:44,949
+50 aqui é bastante, eu falo 50 sem porquê, é uma questão de você conseguir trazer a marca pra dentro da internet, e eu pegaria cada um, vou falar só de gengibre, vou falar só de cebola, vou falar só de folha de louro, vou falar só de limão, vou falar só de alecrim, vou falar só de cebola, você pega cada um deles, só de alho, e fala dos benefícios, aí você vai fazer vários posts falando desses alimentos, a história deles, o que que eles fazem, isso vai ajudar você a distribuir sua marca.
+
+356
+00:42:44,949 --> 00:42:51,029
+Depois que você fizer isso, as IAs vão começar a falar da sua marca e usar a sua marca de referência, que esse é um movimento dentro da internet.
+
+357
+00:42:51,469 --> 00:42:53,669
+Com isso, você vai trazer muito da sua tese também.
+
+358
+00:42:54,049 --> 00:42:58,929
+A partir disso, você vai começar a criar um império de distribuição, entendeu?
+
+359
+00:42:59,190 --> 00:43:04,969
+E aí, dentro desse império de distribuição, você começa a produzir conteúdo também no Instagram, TikTok, YouTube.
+
+360
+00:43:05,589 --> 00:43:11,549
+A marca começa a se tornar conhecida pela informação, porque a informação é barata, você consegue levar, distribuir a marca.
+
+361
+00:43:11,549 --> 00:43:15,549
+E aí, a partir disso, você começa a trazer produtos também, entendeu?
+
+362
+00:43:15,669 --> 00:43:17,569
+Faria parcerias com pessoas da área, enfim.
+
+363
+00:43:18,010 --> 00:43:25,710
+maioria dos pits aqui, eu senti falta de uma oportunidade aterrissada.
+
+364
+00:43:25,710 --> 00:43:44,880
+A oportunidade, ela está ali implícita, faltou tornar ela explícita, com uma chamada mesmo, com eu quero isso e eu vou te devolver isso, então me dá isso que eu te entrego isso, isso é uma proposta de oportunidade, eu senti falta, tá, na grande maioria de vocês, isso
+
+365
+00:43:44,989 --> 00:44:04,689
+Hoje eu vou ter um round table, uma mesa redonda de CEOs aqui em Belo Horizonte, no WTC de Belo Horizonte, WTC é um grupo de empreendedores que é o World Trade Center, e aí tem várias cidades, tem de Belo Horizonte também, eu fui convidado para poder ser uma das pessoas que vai guiar essa mesa.
+
+366
+00:44:04,689 --> 00:44:13,430
+E são empresários, são 35 empresários que faturam de 5 a 150 milhões e eu vou levar pra lá a ideia de IA, IA pra CEOs mesmo.
+
+367
+00:44:13,569 --> 00:44:16,470
+E muito do que a gente tá falando aqui vai funcionar pra eles também.
+
+368
+00:44:16,949 --> 00:44:18,590
+E por que eu tô falando isso com vocês?
+
+369
+00:44:18,869 --> 00:44:24,510
+Eu quero que vocês observem essas oportunidades aqui, que vocês estão apresentando também, treinem mais sobre isso,
+
+370
+00:44:24,590 --> 00:44:31,649
+porque essas oportunidades como a que eu vou ter hoje, são onde vocês conseguem, quando acontecer com vocês, né,
+
+371
+00:44:31,649 --> 00:44:34,789
+Conseguem trazer parceiros para o negócio e levar o negócio para mais pessoas.
+
+372
+00:44:35,010 --> 00:44:43,720
+É conseguir explicar em 5 minutos, em 6 minutos ali, qual que é a ideia que vocês estão defendendo, no que vocês estão trabalhando, tá
+
+373
+00:44:43,729 --> 00:44:47,549
+Então, por enquanto é isso, eu vou falar igual vocês, né? É isso!
+

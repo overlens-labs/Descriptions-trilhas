@@ -1,0 +1,132 @@
+# Script, follow-up e um passo de cada vez
+
+**Tempo estimado de leitura:** 6 minutos
+
+## Objetivos de aprendizado
+
+Ao final desta aula, você será capaz de:
+
+- Estruturar um script curto de qualificação por telefone
+- Aplicar BANT de maneira natural durante a conversa
+- Distinguir encaminhamentos transacionais e complexos
+- Executar uma cadência modular de follow-up
+
+## O contexto do script
+
+O roteiro analisado foi criado para um lead que chegou ao WhatsApp por anúncio e recebeu uma ligação do SDR. A linguagem deve ser brasileira, consultiva, direta e natural.
+
+O objetivo único é fazer triagem com BANT e definir o próximo passo. A ligação não tenta concluir toda venda; ela encaminha para um link transacional ou agenda uma reunião com o closer.
+
+A duração sugerida é de quatro a sete minutos, com tentativa de contato até cinco minutos depois da entrada do lead.
+
+## Preparação antes da chamada
+
+Antes de ligar, o SDR confere nome, anúncio de origem, última mensagem e informações disponíveis. CRM ou outro local de registro precisa estar aberto.
+
+O ritmo é de conversa. A sequência recomendada é perguntar, escutar, refletir o que foi entendido e somente então fazer a pergunta seguinte.
+
+Ler o roteiro antes da ligação ajuda a preservar naturalidade. O operador conhece a estrutura sem precisar recitar cada frase mecanicamente.
+
+## Abertura e pedido de permissão
+
+A abertura confirma com quem o SDR está falando, apresenta empresa e contexto e explica por que a ligação é mais rápida do que uma troca longa de mensagens.
+
+Depois, pede três minutos. A pergunta reduz a sensação de invasão e permite que o lead aceite a conversa conscientemente.
+
+Se a pessoa não puder falar, o profissional não força. Oferece horários específicos para retornar ou adapta parte da qualificação para mensagem.
+
+## Descobrir o motivo do clique
+
+A primeira pergunta aberta investiga o que chamou atenção no anúncio. Ao responder, o lead verbaliza a dor e oferece palavras úteis para qualificação e comunicação.
+
+Se não lembrar, o SDR recupera a promessa central e pergunta se aquele contexto faz sentido para o momento atual.
+
+As palavras usadas pelo lead devem ser registradas. Elas revelam como a pessoa interpreta o problema e ajudam a manter a conversa próxima da realidade.
+
+## Aplicar BANT sem interrogatório
+
+As perguntas de Budget, Authority, Need e Timing são costuradas ao diálogo. A ordem pode mudar conforme as respostas.
+
+Need aparece quando o SDR pergunta como a pessoa lida com o problema e o que mais incomoda. Timing surge ao investigar por que a situação virou prioridade agora e quando precisa ser resolvida.
+
+Authority verifica se a decisão pertence ao contato ou envolve outra pessoa. Budget pode ser abordado como uma forma de indicar o caminho adequado, sem oferecer algo fora do momento financeiro.
+
+## Escolher entre transacional e complexa
+
+Uma venda tende a ser transacional quando o investimento é menor, a urgência é clara, existe apenas um decisor e a necessidade está bem definida.
+
+A venda complexa faz mais sentido quando o tíquete é alto, existem várias dúvidas, mais pessoas participam da decisão ou a solução precisa ser personalizada.
+
+Na dúvida, a heurística apresentada é tratar como complexa e agendar uma reunião. Uma conversa adicional protege a experiência e permite compreender o cenário antes de oferecer.
+
+## O caminho transacional
+
+O SDR explica que a solução atende diretamente ao caso e que a pessoa pode assinar sem reunião. Apresenta preço, condições e garantia ou reembolso quando existirem.
+
+Depois pede autorização para enviar o link. O lead recebe orientação para responder na mesma conversa caso encontre alguma dificuldade.
+
+A oportunidade é registrada como transacional no CRM. Após 24 horas, se a compra não ocorreu, uma mensagem verifica se houve problema ou dúvida.
+
+## O caminho da venda complexa
+
+Quando o caso exige atenção dedicada, o SDR explica que um especialista fará uma reunião para compreender o cenário e apresentar opções.
+
+Em vez de perguntar genericamente quando a pessoa pode, oferece dois horários fechados. Se nenhum funcionar, o lead sugere outra opção.
+
+Depois confirma data, horário e e-mail, envia o convite e avisa que haverá lembrete pelo WhatsApp. O contexto é registrado e preparado para o closer antes da reunião.
+
+## Banco de objeções
+
+O roteiro inclui respostas para situações recorrentes. Se a pessoa diz estar sem tempo, o SDR reconhece que ligou de surpresa e oferece horários específicos para retornar.
+
+Se prefere WhatsApp, o profissional aceita e pede duas respostas curtas para enviar a informação correta. A objeção altera o formato sem abandonar a qualificação.
+
+Um banco de objeções evita improviso excessivo e mantém o tom coerente. Ele precisa ser revisado com base nas conversas que realmente acontecem.
+
+## Scripts de mensagem
+
+Quando duas tentativas de ligação não são atendidas, começa o roteiro por mensagem. Ele pode conter variações de abertura, quebra-gelo, perguntas e encaminhamento.
+
+Variáveis como nome e contexto são substituídas antes do envio. O texto pronto reduz esforço, mas precisa continuar compatível com o que o lead fez e falou.
+
+Mensagens, ligações e CRM devem representar o mesmo fluxo para que nenhuma oportunidade perca contexto entre canais.
+
+## Cadência de 21 dias
+
+A sequência apresentada distribui contatos nos dias 0, 2, 4, 6, 9, 12, 14, 18 e 21. WhatsApp e e-mail alternam ou aparecem juntos conforme a etapa.
+
+Cada contato possui um ângulo: recapitulação, retorno do investimento, case, depoimento, quebra de objeção, condição com prazo, lembrete, última chamada, conteúdo útil e encerramento respeitoso.
+
+O breakup fecha a sequência com elegância quando não existe interesse. A automação mantém regularidade, mas o conteúdo precisa respeitar as respostas e interromper mensagens inadequadas.
+
+## Lei da parcimônia
+
+A lei da parcimônia orienta simplificar. Em vez de construir uma operação hiperconectada, a equipe trabalha com clusters ou módulos menores.
+
+O primeiro módulo pode cuidar apenas da qualificação pelo SDR. A empresa desenha scripts, decide entre humano e IA, coloca em prática, observa o resultado e corrige.
+
+Quando o módulo começa a gerar reuniões, surge o cenário real para desenvolver o próximo, como o fluxo do closer.
+
+## Teoria e prática em sequência
+
+O funil já oferece uma divisão mental em blocos. Cada etapa pode ser tratada como uma necessidade separada, com início, decisão, saída e indicador.
+
+Fluxos mudam constantemente. Um mapa único e gigantesco vira um novelo difícil de compreender e atualizar. Módulos permitem localizar o problema e alterar somente a parte afetada.
+
+Não é necessário modularizar tudo antes de executar. Escolha uma necessidade, construa o mínimo, teste com leads reais e avance quando ela estiver validada.
+
+## Materiais da aula
+
+- [Drawflow no Figma](https://www.figma.com/board/OXUbXejVKFnFKhjdY08Y31/Drawflow?node-id=0-1&t=g5RJGsAiJc6u5YAl-1): quadro do fluxo comercial que contextualiza scripts, abordagens e follow-up.
+
+## Coloque em prática
+
+Prepare nome, origem e contexto antes de cada ligação.
+
+Escreva uma abertura com pedido de três minutos.
+
+Distribua perguntas de BANT ao longo de uma conversa natural.
+
+Defina regras para encaminhar vendas transacionais e complexas.
+
+Implemente e teste um único módulo antes de criar o próximo.

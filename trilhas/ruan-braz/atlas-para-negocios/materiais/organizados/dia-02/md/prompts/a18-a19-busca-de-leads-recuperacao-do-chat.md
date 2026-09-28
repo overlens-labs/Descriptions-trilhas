@@ -1,0 +1,25 @@
+# A18-A19 — Busca de leads — recuperacao do chat
+
+Origem: Recuperação compartilhada por Kysa.
+
+Fonte: Chat do dia 02, 04:52:05, Kysa, linha 1814.
+
+Kysa diz que pediu à IA para recuperar o prompt a partir da transcrição. Trate como reprodução/resumo, não como transcrição literal do envio de Ruan. Nanda reagiu à mensagem às 04:53:00, o que não a transforma em remetente. O pedido corresponde à A18, 00:16:17–00:17:27, e a observação sobre os dados públicos corresponde à A19.
+
+## Texto preservado
+
+```text
+Peguei da minha transcricao da reuniao de hoje, perguntei se ele sabia qual era o prompt e entregou isso: **Prompt de busca de leads:**
+
+- "Quero que você acesse o nosso documento de ICP, entenda exatamente qual é o nosso perfil ideal de cliente e, a partir disso, coloque múltiplos agentes em paralelização para buscarem empresas que possuem esse perfil e estão cadastradas no Google Maps."
+- "Quero que você traga para mim 600 leads que podem ser qualificados, com e-mail das empresas."
+- "Traga o máximo de informações relevantes para o nosso plano de prospecção via cold mail."
+
+**Observação importante:**
+
+- Ele depois ajustou a fonte para dados públicos de CNPJ da Receita Federal, porque o Google Maps não entregava e-mail de forma confiável.
+
+Se quiser, eu posso te devolver isso em formato de prompt pronto para copiar e colar.
+```
+
+[Voltar ao índice](../../../00%20-%20LEIA-ME.md)

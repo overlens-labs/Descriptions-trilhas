@@ -1,0 +1,180 @@
+# Rodando o sistema e melhorando a interface
+
+**Tempo estimado de leitura:** 7 minutos
+
+## Objetivos de aprendizado
+
+Ao final desta aula, você será capaz de:
+
+- Executar o sistema na sua máquina a partir da pasta correta do projeto
+- Identificar o que o endereço local entrega e o que exige publicação em servidor
+- Aplicar o ciclo de ajuste de interface por print, referência visual e pedido em linguagem comum
+- Distinguir o ajuste direto de tela da construção de um design system com instâncias
+
+## Cada tecnologia tem uma forma de dar a partida
+
+O trabalho recomeça colocando o sistema para rodar de novo. Os terminais abertos são fechados e um novo é aberto no lugar, e antes de digitar qualquer coisa vem uma explicação que evita confusão mais adiante.
+
+A forma de dar a ignição no projeto depende do conjunto de tecnologias escolhido para construir ele. Não existe um único comando que sirva para tudo.
+
+Se o sistema for feito de HTML e CSS, que são linguagens de marcação que qualquer navegador lê, basta dar dois cliques no arquivo e ele abre funcionando normalmente. Não há etapa intermediária nenhuma.
+
+Quando o projeto usa linguagens de programação mais avançadas, como JavaScript, a regra muda. Nesse caso você precisa rodar um servidor para conseguir visualizar o seu sistema.
+
+## O comando que sobe o servidor de desenvolvimento
+
+O projeto da aula foi construído com Next e JavaScript, e por isso o comando usado é npm run dev. Cada pedaço dele é aberto antes da execução.
+
+O npm é um gestor de pacotes. A aula não mergulha nesse conceito, e o aviso é explícito: não é preciso saber isso para conseguir rodar o sistema.
+
+O run significa rodar e o dev significa servidor de desenvolvimento. É esse servidor que mantém o sistema de pé localmente, na sua própria máquina, para que você consiga visualizar o que construiu.
+
+## O erro mais comum é rodar na pasta errada
+
+O primeiro enter deu erro, e o erro virou conteúdo. Ele é comum, e no caso da aula tem um motivo identificável na hora.
+
+O terminal estava aberto na pasta Maravilha, que não é a pasta do sistema. Ela é a pasta que reúne o projeto inteiro e guarda outras três pastas dentro dela. O comando precisa ser executado dentro da pasta onde o sistema está, que ali é a pasta app.
+
+A correção é entrar nessa pasta pelo próprio terminal. Você digita cd, espaço e o nome da pasta, e o comando fica cd app.
+
+O caminho exibido no terminal serve de confirmação visual. Antes aparecia só maravilha, e depois do comando passa a aparecer maravilha com app no final. Com o comando repetido nessa pasta, o servidor sobe certinho e o endereço local aparece.
+
+Vale a ressalva feita para quem não viu erro nenhum. Se funcionou de primeira, é porque o aplicativo está na pasta raiz, e nesse caso não há nada a corrigir.
+
+## Do terminal para o navegador
+
+O editor mostra o sistema em uma visualização embutida, e ela foi descartada por preferência. Dentro do Antigravity essa visualização não agrada, então é fechada direto, junto com os outros terminais abertos.
+
+O motivo declarado para essa limpeza é de atenção: já é coisa demais para gerenciar ao mesmo tempo. O trabalho segue com o link copiado do terminal e colado no navegador.
+
+*Para ver o resultado desta demonstração, assista a partir de [02:48] no vídeo.*
+
+## Localhost significa que o sistema existe só na sua máquina
+
+O endereço aberto no navegador começa com localhost, e essa palavra carrega uma informação que muda o que você pode fazer com o link. Ela significa que o sistema está hospedado localmente, dentro da sua máquina.
+
+A consequência prática aparece na hora de compartilhar. Se você manda esse link para outra pessoa, que não está no seu computador, ela não consegue acessar o site.
+
+Para que outras pessoas acessem, o sistema precisa ser publicado em um servidor que fica ligado vinte e quatro horas por dia. Esse é um passo posterior, e a aula sinaliza que ele vai ser explicado.
+
+## O primeiro pedido: print da tela e troca da tipografia
+
+Com o sistema rodando, o foco muda da execução para o acabamento. Os dois pontos apontados são a tipografia e as hierarquias, e é esse diagnóstico que orienta o pedido feito ao agente.
+
+O caminho é mais simples do que parece. Ele tira um print da tela principal, volta para o agente e escreve em linguagem comum que precisam melhorar a experiência de uso do sistema.
+
+Junto com o texto vão duas informações que dão endereço ao pedido. A pasta app, que é onde o sistema está, e a própria imagem da tela colada dentro da conversa.
+
+O pedido específico vem em seguida: mudar a tipografia para Inter em todos os textos. A intenção declarada é deixar uma letra visualmente mais fácil de lidar, e a avaliação é que ela funciona bem nesse sistema.
+
+## O agente de código não gera imagens
+
+Quanto mais complexa a tela, mais cuidado o processo exige. O exemplo usado é a tela que tem imagem dentro dela.
+
+O limite é dito sem rodeio: o Claude não vai gerar imagens. Para ter as imagens você precisa usar outras inteligências artificiais de imagem, e o ChatGPT é citado como uma que gera e já entrega a imagem para você.
+
+Daí sai uma ordem de trabalho. Primeiro você trabalha a interface, depois traz as imagens para dentro dela.
+
+## Referência visual no lugar de descrição
+
+O ajuste seguinte não é descrito com adjetivos, é mostrado. As telas de referência são abertas uma a uma e a aula espera cada uma carregar para conseguir avaliar melhor.
+
+Uma delas foi aprovada assim que apareceu, e a mesma referência trazia outras telas aproveitáveis. Elas foram abertas em novas guias para entrar no material de trabalho.
+
+A forma de capturar essas referências é a mais simples possível: um print de tela já é suficiente. Não é preciso salvar arquivo nem montar biblioteca para usar a referência no pedido.
+
+*Para ver o resultado desta demonstração, assista a partir de [05:34] no vídeo.*
+
+## Mudar de ferramenta sem reescrever o pedido
+
+A parte seguinte foi feita em outra ferramenta, e o motivo é de variedade: a aula vinha trabalhando muito no Claude com a turma. Ao abrir a outra janela, ele notou que ela estava apresentando pequenos bugs e conferiu o modelo selecionado, que estava em Astra High, e decidiu seguir assim mesmo.
+
+As imagens que já estavam em uso foram enviadas para o novo agente. Depois delas veio o prompt que já tinha sido escrito do outro lado, copiado com o botão direito, que traz todo o texto de uma vez, e colado na nova conversa.
+
+O texto colado ainda precisou de um ajuste antes de servir. A menção a uma das imagens não fazia mais sentido, porque outras imagens tinham entrado no lugar dela, então essa parte saiu do pedido.
+
+No meio desse ajuste, um elemento piscando na tela chamou atenção pelo motivo errado. A avaliação foi direta: se aquele efeito fosse proposital, seria muito ruim.
+
+## Numerar as imagens: onde o sistema está e onde ele deve chegar
+
+O pedido ganhou uma terceira imagem, e ela tem função diferente das outras duas. É o print de como o sistema está no momento, enviado para que o agente saiba o ponto de partida.
+
+Com as três imagens na conversa, o texto do pedido vira uma comparação explícita. No momento estamos assim, apontando a terceira imagem, e quero deixar como as imagens enviadas no início.
+
+Essa é a estratégia por trás do pedido. Em vez de descrever o resultado desejado com palavras, você entrega o estado atual e a referência, e deixa a diferença entre as duas dizer o que precisa mudar.
+
+## Responsividade entra no mesmo pedido
+
+Antes de enviar, a última checagem foi pensar se faltava alguma coisa a dizer. O item acrescentado foi trabalhar também a responsividade.
+
+O termo é definido ali mesmo: responsividade é o quanto uma tela se ajusta a telas menores ou maiores.
+
+Com o pedido completo, o enter é dado e o agente fica trabalhando enquanto a aula continua. Junto vem uma curiosidade declarada sobre custo, porque além de observar como o modelo se comporta, ele quer ver se a execução vai acabar com os créditos.
+
+## O processo profissional passa pelo design system
+
+Enquanto o agente trabalha, a aula abre um parêntese sobre como esse mesmo tipo de construção é feito de forma mais profissional. O Figma é aberto só para essa explicação.
+
+O processo ideal, nesse cenário, é construir um design system antes das telas. A razão é de consequência: qualquer página nova que for construída depois já nasce em cima desse design system.
+
+## Instância e botão matriz
+
+O design system trabalha com instâncias, e o conceito é explicado pelo exemplo mais simples que existe em interface. Você cria um botão mestre, que é chamado de botão matriz.
+
+Toda vez que esse botão aparece em uma página, o que você usa é uma cópia vinculada ao original. Essa cópia é o que se chama de instância. Tem um botão em uma página, tem outro botão em outra página, mas é sempre o mesmo botão.
+
+O ganho aparece na hora da mudança. Se depois você precisar mudar todos esses botões, você vai só no botão matriz, muda ele, e todos os outros mudam automaticamente, porque estão vinculados a ele.
+
+## Onde um design system é construído
+
+Um design system pode ser construído de diversas formas, e a escolha varia conforme o time. Designers costumam construir no próprio Figma e depois traduzir aquilo para a inteligência artificial.
+
+Na Overlens o caminho é outro. O trabalho usa o Storybook e o shadcn, sendo o shadcn responsável por criar toda a base dos componentes.
+
+Com essas duas ferramentas somadas à inteligência artificial, dá para criar todos os componentes e gerenciar eles pelo Storybook.
+
+## Quando o atalho basta e quando o cuidado passa a valer
+
+Construir o design system não é o objetivo desta aula. O que foi apresentado é a lógica de construção, e quem quiser se aprofundar precisa de mais tempo, assunto tratado dentro da Vanguarda.
+
+O jeito mais simples é exatamente o que estava sendo feito ali. Você fala exatamente como quer a tela, a inteligência artificial ajusta tudo e constrói as telas para você, e isso funciona bem, principalmente em projeto interno como o da aula.
+
+A distinção é de escala. Em projeto interno, a ausência desses vínculos entre componentes não chega a ser um problema. Quando o projeto começa a escalar e aparecem tipos de usuários diferentes, aí sim esses detalhes exigem atenção.
+
+## As mudanças aparecendo enquanto a conversa segue
+
+De volta ao sistema, o painel já estava diferente. O agente começou a aplicar as alterações enquanto a explicação sobre design system acontecia.
+
+Nem tudo entrou de uma vez, e isso também faz parte do processo. O que ficou pendente vai ser pedido depois, em uma nova rodada de ajuste.
+
+*Para ver o resultado desta demonstração, assista a partir de [10:42] no vídeo.*
+
+## O painel de hipóteses e a pergunta em aberto
+
+O sistema que está sendo ajustado é um painel, e ele reúne as seis hipóteses do negócio. São seis hipóteses diferentes, e o trabalho acontece em cima delas.
+
+Esse trabalho é dividido com a inteligência artificial. Você pode adicionar notas no painel, e ela também pode adicionar notas junto com você.
+
+A pergunta que está sendo respondida nesse momento do processo é uma só: se essa entrega é economicamente viável.
+
+## Materiais da aula
+
+- [Quadro branco do Atlas no Figma](https://www.figma.com/board/PbpEXh5DAKTWuT0njBQnqb/Atlas-para-Negocios?node-id=12-4&t=uyMxKRiZiB2EoOXN-1): quadro compartilhado por Ruan, com apoio à explicação do design system.
+- [SOS Atlas](https://sosatlasnegocios.vercel.app): apoio geral indicado por Nanda para os prompts.
+- [Dribbble](https://dribbble.com/): referência visual compartilhada pelo participante Daniel Silva.
+- [Dashboard sugerido por Allan Rehder](https://dribbble.com/shots/24659454-Customer-Journey-CRM-Dashboard): contribuição de participante, sem confirmação de que seja a imagem escolhida por Ruan.
+- [Storybook](https://storybook.js.org/): endereço sugerido pelo participante Luiz para a ferramenta citada em aula; sem confirmação do URL pela equipe no chat.
+
+## Coloque em prática
+
+Rode o seu sistema pelo terminal. Se der erro, confira em qual pasta você está antes de qualquer outra coisa.
+
+Entre na pasta do aplicativo com cd e o nome dela. Depois repita o comando.
+
+Confira se o endereço aberto é localhost. Enquanto for, só você enxerga o site.
+
+Ajuste a interface por imagem. Print da tela atual e referências do resultado que você quer.
+
+Numere as imagens dentro do pedido. Diga qual é o estado atual e quais são as referências.
+
+Peça a responsividade junto. A tela precisa funcionar em telas menores e maiores.

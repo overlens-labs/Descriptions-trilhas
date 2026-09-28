@@ -1,4 +1,4 @@
-# Decifrando códigos
+# Decifrando códigos: superando as barreiras do idioma
 
 **Tempo estimado de leitura:** 12 minutos
 

@@ -1,0 +1,1668 @@
+1
+00:00:00,159 --> 00:00:05,540
+quero ajudar vocês a melhorar a maneira como vocês apresentam a oportunidade que vocês têm na mão.
+
+2
+00:00:05,620 --> 00:00:08,879
+Lembrando que apresentar um pitch não é apresentar o negócio.
+
+3
+00:00:09,019 --> 00:00:12,820
+Apresentar um pitch é apresentar uma oportunidade.
+
+4
+00:00:12,939 --> 00:00:12,960
+Beleza?
+
+5
+00:00:13,159 --> 00:00:17,019
+vou começar com o número de diagnósticos de autismo, né?
+
+6
+00:00:17,039 --> 00:00:22,999
+Hoje a gente tem um em casa, 31 crianças são diagnosticadas com autismo no mundo, né?
+
+7
+00:00:23,039 --> 00:00:24,539
+É dado do CDC.
+
+8
+00:00:24,879 --> 00:00:32,819
+E no Brasil, no ano passado, a gente chegou a 1 ,2 milhão de pessoas, estudantes autistas, na educação básica.
+
+9
+00:00:32,819 --> 00:00:39,239
+Então, nos últimos cinco anos, cresceu 4 ,4 vezes o número de pessoas autistas.
+
+10
+00:00:39,359 --> 00:00:45,099
+Em 2021, era 200 mil, ou seja, nos últimos cinco anos, cresceu um milhão.
+
+11
+00:00:45,259 --> 00:00:53,719
+Então, nunca se diagnosticou tanto o autismo no Brasil e, ao mesmo tempo, nunca foi tão difícil trabalhar para clínicas e famílias e escolas
+
+12
+00:00:53,719 --> 00:01:00,079
+trabalharem com relação aos desafios que o autismo traz para o ambiente escolar e para a sociedade como um todo.
+
+13
+00:01:00,079 --> 00:01:05,819
+Então, essa é uma entrada só para a gente ter ideia do tamanho do que a gente está falando
+
+14
+00:01:05,819 --> 00:01:09,519
+e da dificuldade que essas pessoas têm em vários ambientes.
+
+15
+00:01:09,859 --> 00:01:15,299
+Hoje, a terapia para o autismo, em média, fica aí no custo de 30 mil reais por mês.
+
+16
+00:01:15,539 --> 00:01:21,599
+Quando os planos de saúde filtram o principal custo, que já supera o tratamento de câncer,
+
+17
+00:01:21,659 --> 00:01:26,460
+embora o autismo não possa ser comparado com câncer porque não é uma doença, é uma condição,
+
+18
+00:01:26,460 --> 00:01:30,619
+Então, é o principal custo hoje com relação aos planos de saúde.
+
+19
+00:01:30,679 --> 00:01:34,759
+Quando eles filtram lá de Z para A na planilha de custo, autismo é o primeiro.
+
+20
+00:01:34,999 --> 00:01:39,719
+E o problema é que, ainda assim, essas terapias, embora se invista muito dinheiro,
+
+21
+00:01:40,259 --> 00:01:42,539
+ainda boa parte delas são ineficazes.
+
+22
+00:01:42,699 --> 00:01:47,659
+Então, acaba que a pessoa não generaliza os conhecimentos para a escola,
+
+23
+00:01:47,719 --> 00:01:50,259
+ou mesmo para o contexto do trabalho, que é onde a gente quer chegar.
+
+24
+00:01:50,259 --> 00:01:58,639
+E essa é uma situação que é insustentável, tanto para as escolas conviver com a dificuldade,
+
+25
+00:01:58,799 --> 00:02:00,379
+quanto mesmo para os planos de saúde.
+
+26
+00:02:00,460 --> 00:02:05,039
+A gente precisa ofertar condições sustentáveis no longo prazo
+
+27
+00:02:05,039 --> 00:02:08,059
+e oferecer para essas pessoas uma condição cada vez mais digna.
+
+28
+00:02:08,219 --> 00:02:10,539
+Então, a ideia minha é fazer o Cada Caso,
+
+29
+00:02:10,539 --> 00:02:15,539
+é uma fruta baixa do Blick, que é um serviço que eu quero ofertar.
+
+30
+00:02:15,539 --> 00:02:20,699
+Cada caso ele faz a conexão de clínica, família e escola,
+
+31
+00:02:20,979 --> 00:02:26,419
+algo que a gente já vem fazendo aqui de maneira artesanal na ADAPT,
+
+32
+00:02:26,499 --> 00:02:32,219
+com a presença de clínico, mas a gente vem fazendo no último mês
+
+33
+00:02:32,219 --> 00:02:39,499
+um teste com a IA, que é fazer a medição do caso e ofertar,
+
+34
+00:02:39,559 --> 00:02:42,840
+com base num histórico que a gente fez, um estudo longitudinal,
+
+35
+00:02:42,840 --> 00:03:12,820
+Longitudinal, que a gente, nos últimos cinco anos, nós ofertamos, nós tratamos 2 mil casos aqui, e aí a gente fez um estudo longitudinal do que que funciona e o que que foi legal em cada caso, e fizemos isso em um grafo, e depois nós cruzamos esse grafo com a abordagem multilente, e aí o caso entra no sistema, né, então tem a entrada dele, aí monta o plano, né, a gente no último mês a gente fez cerca de 200 casos, e aí a gente elaborou 285 programas,
+
+36
+00:03:12,840 --> 00:03:18,619
+E aí cada caso é diferente um do outro, ele recebe um desses programas com uma orientação,
+
+37
+00:03:18,719 --> 00:03:22,619
+tanto para a família, tanto para a escola e também para a clínica,
+
+38
+00:03:22,739 --> 00:03:30,599
+com abordagem terapêutica em ABBA, em DBT, em TCC, em CAA, que é comunicação aumentativa e alternativa.
+
+39
+00:03:30,979 --> 00:03:37,239
+No Brasil, a gente tem hoje, pelo censo do IBGE, 2 ,4 milhões de pessoas.
+
+40
+00:03:37,539 --> 00:03:42,560
+O nosso número aqui, nossa expectativa é que esse número seja pelo menos de 6 milhões, né?
+
+41
+00:03:42,840 --> 00:03:53,659
+As escolas particulares são o nosso SAM, né, trabalhar com as pessoas que já ocupam, que já é o serviço que a gente oferta aqui na ADAPT.
+
+42
+00:03:53,759 --> 00:04:02,739
+Então, e a ideia é que nos próximos dois anos, né, a gente consiga 45 mil usuários aqui no nosso ecossistema.
+
+43
+00:04:02,879 --> 00:04:12,080
+E um ponto aqui que a gente quer trabalhar na ADAPT é basicamente mostrar um pouco aí do nosso repertório, né,
+
+44
+00:04:12,080 --> 00:04:29,079
+É uma dor que a gente vem sentindo aqui, a gente já tem 25 mil professores que fizeram os nossos cursos gratuitos, a gente atua muito com cara de ONG, e esse seria o nosso produto com fins lucrativos, ou cada caso.
+
+45
+00:04:29,079 --> 00:04:57,239
+Então, esses são os números que a gente já trabalha, a gente tem uma parceria com a PoliUSP, no qual a gente faz o treinamento lá de pessoas autistas para o mercado de trabalho, hoje eu lidero uma turma com 50 alunos autistas na Poli, e fiz o lançamento da comunicação ambientativa alternativa essa semana, na quarta -feira, então o post já está com 442 mil visualizações, 32 mil compartilhamentos,
+
+46
+00:04:57,239 --> 00:05:15,560
+O post do Conectea, que é o projeto que a gente faz na USP, está com 192, isso é para mostrar um pouco da carência aí, né, lancei na quarta -feira a comunicação aumentativa alternativa, ontem tinha 5 mil pessoas quando eu entrei no sistema logados, utilizando aquela prancha que vocês viram.
+
+47
+00:05:15,560 --> 00:05:41,159
+Então, quem constrói isso sou eu, com minha esposa, eu tenho 20 anos aí na área de atuação no mercado educacional, eu construí um aplicativo chamado Saber, na Croton, que tinha 1 ,5 milhão de alunos no ensino superior, hoje eu sou pesquisador da Poli, sou fundador aqui da Adapt, desde 2019, e é um caso que eu não pesquisei essa dor, eu assisto essa dor não somente há 7 anos, mas também como pai.
+
+48
+00:05:41,159 --> 00:05:52,919
+Meu filho mais velho tem 21 anos, está na faculdade, é autista, nível 1 de suporte, e minha filha mais nova tem 15, e também é autista, e eu tenho meu filho do meio, que é meu autista de nível 3 de suporte.
+
+49
+00:05:53,099 --> 00:06:04,119
+Então, a minha ideia é, olhando para frente, pegar essa fruta baixa agora, do cada caso, utilizar esse repertório que a gente construiu nos últimos sete anos,
+
+50
+00:06:04,119 --> 00:06:19,899
+Com essas duas mil reuniões, com esse estudo longitudinal, e que é uma fruta baixa para um projeto maior, que é o Blic, que aí sim é um projeto mega, só que a gente não consegue colocar de pé ele hoje, mas a gente já consegue pegar grana agora direto com cada caso.
+
+51
+00:06:20,099 --> 00:06:30,899
+E minha proposta aqui para o Ruan, para a Overlens, é ganhar a Vanguarda, a mentoria dele desse produto cada caso, e em troca ele ficaria aí com 1 % do faturamento líquido do produto.
+
+52
+00:06:30,899 --> 00:06:38,119
+Então, você entra com o método aqui, me mentorando, me guiando, e eu entro com esse contexto, com esse histórico, pra gente seguir junto.
+
+53
+00:06:38,339 --> 00:06:52,519
+Que massa, cara! Deu seis minutos aqui e entra dentro do prazo de sete minutos que a gente tá planejando, né? Parabéns! Você praticamente gabaritou a estrutura, né, que a gente montou juntos na última aula, gostei muito.
+
+54
+00:06:52,519 --> 00:06:56,339
+e alguns pontos aqui muito fortes a seu favor, né?
+
+55
+00:06:56,399 --> 00:06:58,739
+Que faz a sua apresentação ficar muito boa.
+
+56
+00:06:58,839 --> 00:07:04,579
+Você tem histórico, você tem número, você tem o que a gente chama de track record, né?
+
+57
+00:07:04,619 --> 00:07:09,479
+E geralmente, quando as pessoas vão apresentar uma ideia, a primeira coisa que é analisada é a pessoa.
+
+58
+00:07:09,659 --> 00:07:11,079
+E tem muita gente com ideia.
+
+59
+00:07:11,399 --> 00:07:17,319
+É o que eu tinha um professor que falava assim, tem muita gente cheia de iniciativa e pouca gente com acabativa, né?
+
+60
+00:07:17,319 --> 00:07:22,639
+Então, as pessoas gostam de ter ideias, mas quantas pessoas vão lá e faz a ideia acontecer?
+
+61
+00:07:22,879 --> 00:07:25,779
+E é exatamente a sua posição, né?
+
+62
+00:07:25,939 --> 00:07:27,899
+Então, eu achei isso demais, assim.
+
+63
+00:07:28,039 --> 00:07:31,759
+Você já tinha me apresentado algumas coisas, eu achei fantástico.
+
+64
+00:07:31,839 --> 00:07:37,759
+Não só pelo lado social do seu propósito, mas também pelo lado de impacto que você já causa.
+
+65
+00:07:37,899 --> 00:07:40,519
+Então, cara, é só um monte de coisa boa aqui, né?
+
+66
+00:07:40,519 --> 00:07:48,739
+Se eu puder ajudar em relação à apresentação, que eu acho que dá pra gente ajustar e ficar ainda melhor, é em relação ao sentir.
+
+67
+00:07:48,999 --> 00:07:52,099
+Você tem um tema muito bom pra fazer as pessoas sentirem.
+
+68
+00:07:52,139 --> 00:07:58,219
+E na sua apresentação, eu, olhando como oportunidade, tá excelente, é isso que eu tô falando.
+
+69
+00:07:58,339 --> 00:08:03,459
+Tem número, você tem provas, você tem um mercado interessante também.
+
+70
+00:08:03,519 --> 00:08:05,959
+Falando só friamente de oportunidade, é isso mesmo.
+
+71
+00:08:05,959 --> 00:08:32,460
+Mas falando de ser humano e do seu propósito e de tudo que você faz, eu acho que naquele início ali, e aí eu vou te recomendar assistir mais TED Talks, vai ser bem interessante para isso, você trazer um pouco mais desse sentir para que as pessoas entendam mais o que é o autismo e entendam mais como que isso impacta todo mundo, porque eu acho que a primeira coisa que as pessoas pensam nisso muitas vezes é, ah, eu não sou autista, não conheço ninguém autista, então esse problema não é meu.
+
+72
+00:08:32,460 --> 00:08:34,680
+E não é isso, impacta todo mundo, né?
+
+73
+00:08:34,700 --> 00:08:35,639
+Então eu acho muito massa.
+
+74
+00:08:35,779 --> 00:08:38,720
+Se eu puder fazer um comentário em relação a isso, é esse.
+
+75
+00:08:38,980 --> 00:08:48,780
+Bom, primeiro para manter o padrão do Emanuel vai ser pesado, mas vou fazer o meu melhor aqui para a gente poder equilibrar todo mundo e ficar na mesma linha.
+
+76
+00:08:48,940 --> 00:08:54,379
+Cara, eu estou revalidando o meu negócio já tem um bom tempo e eu entrei na Vanguarda por isso.
+
+77
+00:08:54,480 --> 00:09:01,420
+E aí seguindo todas as coisas que, todas não, mas vamos falar aí uns 80 % das coisas que eu consegui botar em prática nesse período,
+
+78
+00:09:01,420 --> 00:09:11,500
+Inclusive o MVP, que foi quando eu entrei, de fato, eu consegui validar meu negócio sem gastar dinheiro com um projeto que era mais do que o dobro do que eu cobrava, normalmente.
+
+79
+00:09:11,879 --> 00:09:22,420
+Então eu montei uma estrutura de pitch, pra ser avaliada também, pra antecipar um pouquinho, porque isso talvez ajude a entender um pouco mais de onde eu saí e pra onde eu quero chegar.
+
+80
+00:09:23,500 --> 00:09:30,140
+Onde, na verdade, eu não tenho investidor, e sim alguém que tracione a parte comercial da minha empresa, que é o meu maior gargalo hoje.
+
+81
+00:09:30,140 --> 00:09:34,480
+Eu consigo fazer isso bem, só que eu não consigo estar em vários lugares ao mesmo tempo.
+
+82
+00:09:34,600 --> 00:09:42,540
+E a maneira como eu venho trabalhando, comecei a perceber que quando eu estou no one -on -one ali com os empresários ou com acionista,
+
+83
+00:09:42,560 --> 00:09:50,040
+funciona muito melhor do que eu simplesmente ter uma abordagem mais morna ou que eu tenha que ter muitas quebras ali.
+
+84
+00:09:50,879 --> 00:09:56,460
+Esse que eu vou comentar aqui na reunião, por exemplo, é um cara que tem negócios fora do Brasil,
+
+85
+00:09:56,460 --> 00:10:21,220
+Brasil, em pelo menos oito estados aqui, trabalha com direito e outras coisas, e foi quem validou o meu negócio, e eu mandei uma, fiz uma divulgação sem custo, dentro de grupo de família, dentro de outros WhatsApps de empresário que eu tenho, disparei via e -mail, sem compromisso, pra todo mundo, apenas pra conhecer o que eu tava fazendo, eu não troquei nem os textos do meu site, tem alguns que tão com o lado em Y, e mesmo assim, o negócio veio.
+
+86
+00:10:30,519 --> 00:10:32,819
+Olha aí!
+
+87
+00:10:51,980 --> 00:11:09,019
+Eu tô com... deixa eu ver se eu consigo, que eu tô com o HTML que eu girei no cloud, mas ele não tá, não tá indo, só um pouquinho, peraí que eu vou aqui, vou montar isso aqui, agora o Zon quer gravar minha tela, será que agora vai? Só um minutinho, gente, prometo que eu vou ser rápido aqui.
+
+88
+00:11:09,019 --> 00:11:18,960
+Não, tá tranquilo, tá tranquilo, Nico. Hoje é o dia pra isso. É até bom que todo mundo veio assim. Eu tô torcendo pra dar tudo errado hoje com todo mundo, porque hoje é o dia de dar errado, entendeu?
+
+89
+00:11:19,539 --> 00:11:29,120
+Porque no dia do pitch, dependendo da quantidade de pessoas que cadastraram o pitch, né, eu vou ser mais... eu vou seguir a linha, né, o que a gente combinar.
+
+90
+00:11:29,279 --> 00:11:33,420
+Então, quando eu falar, bora começar, a gente vai ter um tempo ali, a gente vai seguir com ele.
+
+91
+00:11:33,420 --> 00:11:37,480
+Então, eu tô torcendo pra tudo dar errado hoje, que fica como um grande aprendizado.
+
+92
+00:11:37,640 --> 00:11:39,360
+Mas deu certo, a gente tá vendo sua tela.
+
+93
+00:11:39,519 --> 00:11:40,039
+Ah, maravilha.
+
+94
+00:11:40,120 --> 00:11:45,059
+Bom, eu tô partindo da premissa onde eu tô juntando design e negócios
+
+95
+00:11:45,059 --> 00:11:48,220
+pra eu não necessariamente ficar me preocupando com estética.
+
+96
+00:11:48,400 --> 00:11:54,180
+E eu não quero que o meu cliente ache que uma logo bonita, uma cor, ou alguma coisa que seja banal
+
+97
+00:11:54,180 --> 00:11:59,400
+caia no mesmo discurso de a marca feita de maneira, como eu posso dizer assim,
+
+98
+00:11:59,400 --> 00:12:08,880
+Sem ser de maneira coerente, no sentido de pegar uma pessoa que apenas sabe operar o software e ter um resultado e misturar toda a pessoa do começo com a nossa bagagem.
+
+99
+00:12:08,980 --> 00:12:13,660
+Então, o que eu estou mudando? Eu estou transformando a minha empresa, onde a parte...
+
+100
+00:12:13,660 --> 00:12:15,880
+Nossa, eu tenho bastante coisa para pensar, só um pouquinho.
+
+101
+00:12:16,140 --> 00:12:18,400
+Eu vou lendo aqui, vai ficar mais fácil para eu me organizar.
+
+102
+00:12:18,480 --> 00:12:22,980
+Bom, o design move os negócios e quem entende esse movimento decide na frente.
+
+103
+00:12:23,180 --> 00:12:28,259
+Então, a gente trabalha dessa maneira onde o brand é uma decisão de negócio e não um enfeite estético.
+
+104
+00:12:28,259 --> 00:12:41,120
+E aqui, eu quero apresentar um gancho onde muitas marcas bonitas, ou esteticamente muito agradáveis, ou com uma identidade bonita, elas morrem, porque elas não têm receita, elas não vendem, elas não convertem.
+
+105
+00:12:41,200 --> 00:12:52,080
+Então eu fiz uma pesquisa aqui, dentro de sites como o WGSN e a McKinsey, segundo aqui os dados que eu encontrei, a maioria das empresas, no caso assim, no ticket que eu estou buscando,
+
+106
+00:12:52,080 --> 00:12:56,259
+300 empresas de capital aberto com mais de 100 mil ações envolvem design.
+
+107
+00:12:56,539 --> 00:12:59,620
+Então a gente tem um mercado que comprova o que a gente está falando.
+
+108
+00:12:59,779 --> 00:13:07,600
+Não necessariamente eu ou onde a gente vive da Overlens, mas o Brasil inteiro e a América Latina toda, segundo esses dados que a gente tem aqui.
+
+109
+00:13:07,799 --> 00:13:11,500
+Aí a gente vai partir para um design que é baseado em estratégia e não boutique.
+
+110
+00:13:11,680 --> 00:13:18,539
+A partir do momento que você entende isso, você deixa de parecer uma pessoa empolgada, entusiasmada, com um símbolo legal
+
+111
+00:13:18,539 --> 00:13:28,620
+E aí a marca também consegue transcender essa parte estética que não é um talento, é método.
+
+112
+00:13:28,700 --> 00:13:36,620
+E a IA, dentro do negócio, ela vem pra acelerar essa coleta de informação, organizar os dados, planear de uma maneira mais...
+
+113
+00:13:36,620 --> 00:13:38,779
+que gere evidências, não por achismo.
+
+114
+00:13:38,880 --> 00:13:46,259
+Então a gente vai trabalhar com esses dados todos que a IA vai organizar, amassar e produzir pra gente essa massa, pra gente prototipar aí mais pra frente.
+
+115
+00:13:46,259 --> 00:13:50,440
+Então, antes de falar de... Desculpa que eu tô arrastando o negócio aqui do zoom.
+
+116
+00:13:50,620 --> 00:13:58,819
+Antes de eu falar, a marca já falou por você. O que ela transmite é raramente o que de fato ela é, se não tiver toda essa bagagem que a gente colocou aqui.
+
+117
+00:13:59,000 --> 00:14:13,600
+A pesquisa de credibilidade da Stanford mostra que a maioria, que metade dessas pessoas avalia e confia se a marca tem um grau de relevância para ela se transmitir valor com base na sua aparência, com alguns poucos segundos de interação.
+
+118
+00:14:13,600 --> 00:14:18,000
+E isso aumenta a possibilidade de conversão em 46%.
+
+119
+00:14:18,000 --> 00:14:25,440
+Então, a gente também está falando que receita, além disso daí, segundo essa pesquisa, ela pode subir até 23%.
+
+120
+00:14:25,440 --> 00:14:27,799
+Peraí que eu... Nossa, cara, tem... Aí, pronto.
+
+121
+00:14:28,080 --> 00:14:32,720
+Desculpa, gente, que eu estou com várias telas aqui abertas, não estão me mandando os recados que eu não quero mexer agora.
+
+122
+00:14:32,920 --> 00:14:42,700
+E quando você não tem uma marca adequada, não tem uma pesquisa de mercado que indique para você o motivo real de você colocar cor na sua fachada,
+
+123
+00:14:42,700 --> 00:14:48,500
+de você colocar determinada linguagem na sua empresa, você pode perder dinheiro.
+
+124
+00:14:48,779 --> 00:14:53,259
+E fazendo uma analogia muito simples com uma fachada de um empreendimento pequeno,
+
+125
+00:14:53,340 --> 00:14:56,340
+ela pode custar uns 40, 50 mil reais mais ou menos.
+
+126
+00:14:56,500 --> 00:15:02,580
+Só que se você não tiver fluxo de porta, não tiver cliente, não tiver percepção de valor,
+
+127
+00:15:02,680 --> 00:15:09,100
+sua marca não chegar onde ela precisa, possivelmente o seu declínio financeiro vai ser muito maior do que isso.
+
+128
+00:15:09,100 --> 00:15:21,860
+E quando você tem uma marca já posicionada, naquela primeira etapa de adaptação, é possível você começar a tracionar o seu mercado com só a mudança de marca e posicionamento com até 30%.
+
+129
+00:15:21,860 --> 00:15:28,360
+Mais do que isso vai envolver um esforço de estratégia, de negócios que não está mensurado aqui dentro.
+
+130
+00:15:28,539 --> 00:15:33,460
+Mas esses são dados importantes para a gente poder analisar de onde está para onde vai.
+
+131
+00:15:33,460 --> 00:15:38,680
+E a solução para poder jogar como um grande player é abraçar um novo momento dos...
+
+132
+00:15:38,680 --> 00:15:39,580
+Ai, desculpa gente.
+
+133
+00:15:39,740 --> 00:15:45,960
+Tá de boa, fica tranquilo. Hoje aqui eu não tô avaliando, eu tô aqui pra te ajudar. Então manda ver, depois a gente analisa.
+
+134
+00:15:46,819 --> 00:15:51,180
+Então a solução é jogar como um grande player. Como é que a gente faz isso?
+
+135
+00:15:51,299 --> 00:15:59,279
+Você realiza isso através de não entregar algo apenas bonito, mas algo que faça sentido comercialmente
+
+136
+00:15:59,279 --> 00:16:04,700
+e que possa traduzir o seu mercado, para o seu mercado, tudo que você pode fazer
+
+137
+00:16:04,700 --> 00:16:10,480
+sem você necessariamente ter que ficar o tempo inteiro vendendo e microgerenciando essas coisas.
+
+138
+00:16:10,779 --> 00:16:14,240
+Então a gente vai sair de uma conversa para algo prático.
+
+139
+00:16:14,259 --> 00:16:18,120
+Na minha empresa, o cliente chega, normalmente ele chega perdido,
+
+140
+00:16:18,120 --> 00:16:22,440
+normalmente com uma indicação que alguém fez por um projeto que trabalhou comigo
+
+141
+00:16:22,440 --> 00:16:26,640
+ou viu alguma coisa e aí obteve a informação que foi feita comigo.
+
+142
+00:16:26,640 --> 00:16:49,840
+E aí a gente senta e faz um diagnóstico. Hoje em dia, depois de ter reestruturado e validado, o diagnóstico é feito com IA. E eu faço um debriefing no final para entender as inconsistências, aonde que eu posso ajudar esse cliente a resolver um problema que ele mesmo não sabe, e aí eu exponho isso para ele, depois eu vou com a intenção do que ele está fazendo.
+
+143
+00:16:49,840 --> 00:16:56,400
+Vou dar um exemplo. Eu tenho um cliente que ele é da área de contabilidade médica e ele só trabalha com médicos.
+
+144
+00:16:56,440 --> 00:17:04,160
+Só que ele não tinha se atentado que também existem médicos que são proprietários de empreendimentos, como clínicas e hospitais particulares.
+
+145
+00:17:04,460 --> 00:17:12,539
+Quando eu... é algo banal, muito simples, mas como ele está focado numa operação estreita, ele não estava olhando para esse lado.
+
+146
+00:17:12,539 --> 00:17:28,519
+Depois que a gente fez essa entrada, o diagnóstico, e mostramos a intenção de crescimento da empresa, ele conseguiu tangibilizar um pouco mais até onde ele pode chegar, que não tem muito uma questão de limite, sim uma questão de onde a oportunidade está e como é que eu faço para chegar lá.
+
+147
+00:17:28,759 --> 00:17:42,200
+Então, mudando isso de uma maneira global, a gente vai ter um caminho que ele vira uma decisão de negócio apresentada no MACOL, igual a gente está fazendo aqui, de uma maneira leve, sem pressa, para o cliente decidir com clareza e não por impulso.
+
+148
+00:17:42,720 --> 00:17:48,000
+depois a gente entrega toda a estrutura e ele sai com um sistema de marca inteligente
+
+149
+00:17:48,000 --> 00:17:54,140
+que ajuda a converter de uma maneira bem didática todas essas coisas que a gente viu aí
+
+150
+00:17:54,140 --> 00:17:57,440
+bom, esse aqui é o Sérgio, que é o cara que eu estava falando
+
+151
+00:17:57,440 --> 00:18:02,140
+ele chegou pra mim com uma dor que era muito difícil de diagnosticar no momento
+
+152
+00:18:02,140 --> 00:18:07,180
+ele me pediu uma landing page, só que eu fui bem criterioso, ouvi tudo que ele falou
+
+153
+00:18:07,180 --> 00:18:10,559
+e eu fui bem claro, falei, olha Sérgio, você não precisa de uma landing page
+
+154
+00:18:10,559 --> 00:18:32,299
+E aí, você precisa resolver o seu problema. Se você continuar dessa maneira, não vai funcionar. Ele não entendeu. Eu peguei, abri o documento e li pra ele todo o landing page atual dele. Ela parece um balcão de serviço de posto de saúde. Você tem ali uma estrutura que é pra todo mundo, de uma maneira muito fácil, muito acessível, e é justamente o que ele não quer.
+
+155
+00:18:32,299 --> 00:18:38,400
+e uma estética que está datada, que não vende o que ele faz e não converte com o público que ele está buscando hoje.
+
+156
+00:18:38,519 --> 00:18:42,100
+E não converte também com os negócios que ele tem em outros estados, que eu não sei como ele fez,
+
+157
+00:18:42,220 --> 00:18:46,920
+mas a identidade da empresa dele não transparece o que ele faz.
+
+158
+00:18:47,120 --> 00:18:53,259
+Então, depois que eu consegui que ele entendesse tudo, a gente passou por essa parte de diagnóstico,
+
+159
+00:18:53,299 --> 00:18:58,220
+mostramos o problema, mostrei a questão do balcão de serviço ali dentro do site,
+
+160
+00:18:58,220 --> 00:19:17,420
+E também dei um passo a passo muito simples, que foi aí que a gente fechou o negócio, que eu não estava nem preocupado em fechar o negócio com ele, sim, e ajudar, para onde, o que ele precisaria fazer para sair de onde ele está, de onde ele deseja, com uma estimativa de etapa e não de tempo, e aí foi onde a gente conseguiu validar o negócio.
+
+161
+00:19:17,420 --> 00:19:33,340
+Bom, levando em conta esse perfil de cliente aqui no meu estado, partindo do Mato Grosso do Sul e depois para o Centro -Oeste, visando que eu estou migrando para o mercado de tecnologia, a gente tem aqui localmente quase 2 mil startups na região.
+
+162
+00:19:33,340 --> 00:19:41,799
+O mercado TAM, SAM, SOM aqui, ele mostra de maneira maior que é onde eu quero chegar no mercado lusófono, de trás pra frente, né?
+
+163
+00:19:41,900 --> 00:19:44,580
+Aí aqui em nível Brasil e aqui no nível Centro -Oeste.
+
+164
+00:19:44,720 --> 00:19:48,819
+Esse aqui seriam as possibilidades de renda em cima dos projetos.
+
+165
+00:19:48,860 --> 00:19:57,380
+Não tem uma quantidade específica, porque cada projeto vai ter o seu valor de objetivo de alcance e também financeiro.
+
+166
+00:19:57,380 --> 00:20:03,740
+Então aqui a gente tem apenas esse panorama do tamanho do mercado para entender essa possibilidade de uma maneira mais prática.
+
+167
+00:20:03,880 --> 00:20:08,180
+Bom, e como que é que funciona? Por que foi validado e assim por diante?
+
+168
+00:20:08,240 --> 00:20:17,420
+Que eu disse ali, cada projeto, hoje eu estou trabalhando nessa faixa de 10 mil e eu consegui operar de uma maneira onde eu tenho 74 % de margem.
+
+169
+00:20:17,480 --> 00:20:22,660
+Eu tenho mais ou menos menos de mil reais fixo por mês para poder ter esse retorno.
+
+170
+00:20:22,660 --> 00:20:27,620
+Então essa é a parte mais interessante da maneira como eu consegui otimizar todas as coisas.
+
+171
+00:20:27,819 --> 00:20:32,259
+Eu tenho um custo fixo de R $925 ,00 e tenho um projeto de R $10 ,00.
+
+172
+00:20:32,340 --> 00:20:35,500
+Então isso me sobra aí 74 % de dinheiro no bolso.
+
+173
+00:20:35,740 --> 00:20:47,400
+Eu diria que o maior ponto de travamento do meu negócio hoje é o tempo e também não conseguir prospectar de maneira eficiente a não ser por eu mesmo.
+
+174
+00:20:47,400 --> 00:20:53,420
+Aí eu tenho aqui mais duas empresas que também comprovam o resultado que a gente tem.
+
+175
+00:20:54,480 --> 00:20:57,980
+Micheles é uma hamburgueria daqui, ela nasceu na pandemia.
+
+176
+00:20:58,319 --> 00:21:06,100
+O Micheles, que é o proprietário, ele vendia kit burger às 40 reais e hoje ele tem três empresas.
+
+177
+00:21:06,319 --> 00:21:14,400
+Uma fábrica de pães, hamburgueria que também serve almoço, não fecha nenhum dia da semana e tem uma milkshakeria.
+
+178
+00:21:14,400 --> 00:21:18,480
+todas as coisas que eu conversei com ele e propus, ele fez
+
+179
+00:21:18,480 --> 00:21:21,200
+e ele também está abrindo agora uma distribuidora de cosméticos
+
+180
+00:21:21,200 --> 00:21:23,700
+tudo com capital próprio, trabalhando com hambúrguer
+
+181
+00:21:23,700 --> 00:21:28,620
+então essa maneira de trazer o que é que a minha empresa sabe fazer melhor
+
+182
+00:21:28,620 --> 00:21:30,620
+tem aqui no Sérgio que validou o negócio
+
+183
+00:21:30,620 --> 00:21:32,680
+tem nessa bagagem do Micheles
+
+184
+00:21:32,680 --> 00:21:34,960
+e tem nessa outra que eu vou comentar aqui
+
+185
+00:21:34,960 --> 00:21:36,340
+que é da JMW Group
+
+186
+00:21:36,340 --> 00:21:38,960
+o pai tinha 60 e poucos anos
+
+187
+00:21:38,960 --> 00:21:41,640
+tinha uma empresa que fazia manutenção
+
+188
+00:21:41,640 --> 00:21:43,720
+para grandes obras
+
+189
+00:21:43,720 --> 00:21:52,160
+Como se fosse uma empresa especializada, não é isso, mas ela faz um serviço mais operacional para empresas de engenharia e indústrias de ferro.
+
+190
+00:21:52,200 --> 00:21:59,220
+Esse cara estava passando o bastão para a filha, a filha assumiu, mudou o nome, mudou o posicionamento, mudou várias coisas,
+
+191
+00:21:59,380 --> 00:22:04,240
+e ela precisava, por uma questão pessoal dela, que a marca refletisse ela e o pai.
+
+192
+00:22:04,380 --> 00:22:09,019
+E aí entrou a estratégia que a gente buscou, pesquisou e construiu juntos,
+
+193
+00:22:09,019 --> 00:22:13,779
+Aonde, pra ela poder ter a bagagem do pai, a gente conseguiu resolver numa cor.
+
+194
+00:22:13,960 --> 00:22:20,160
+E pra mostrar que ela tava assumindo, a gente conseguiu resolver com uma cor de apoio e mais o símbolo.
+
+195
+00:22:20,220 --> 00:22:25,900
+Então temos aí, além do negócio do Sérgio, mais outros dois negócios que comprovam o que a gente consegue fazer.
+
+196
+00:22:26,180 --> 00:22:31,059
+E aqui eu quero terminar com uma provocação muito simples, que é a mesma lá do começo,
+
+197
+00:22:31,279 --> 00:22:34,680
+que o design move negócios e quem entende o movimento decide ir na frente.
+
+198
+00:22:34,900 --> 00:22:38,400
+Eu tô buscando um parceiro comercial pra escalar esse modelo que já funciona,
+
+199
+00:22:38,400 --> 00:22:42,680
+Tem uma boa margem de lucro e alguém que gosta de dinheiro, que gosta de crescer.
+
+200
+00:22:42,779 --> 00:22:49,640
+Então, se quem entende movimentos decide na frente, o que você vai decidir na frente que você está hoje? E é isso.
+
+201
+00:22:49,759 --> 00:22:54,620
+Boa! Vamos conversar porque você trouxe um prato cheio e recheado para mim e eu adorei, cara.
+
+202
+00:22:54,720 --> 00:22:57,279
+Eu tenho alguns pontos bem legais aqui para comentar.
+
+203
+00:22:57,380 --> 00:23:04,259
+Primeiro, parabéns. Parabéns por ter construído todo o seu estudo de caso para apresentar aqui hoje.
+
+204
+00:23:04,259 --> 00:23:13,240
+Parabéns também pelos seus resultados, que deu pra trazer vários resultados legais, tem muitas pessoas que sonham em um dia chegar nesse ponto, então parabéns, primeiro de tudo.
+
+205
+00:23:13,380 --> 00:23:18,519
+Agora, vamos fazer algumas análises aqui, tá? Eu fui anotando tudo, eu já pausei aqui, tá bem?
+
+206
+00:23:18,620 --> 00:23:27,880
+Você levou 12, não, 13 minutos, aí legal, hoje não tem problema nenhum, por isso que eu tô deixando, tem só mais duas pessoas com a mão levantada, então a gente tem tempo,
+
+207
+00:23:27,880 --> 00:23:57,799
+Mas eu gosto de trazer o dado pra você treinar, porque no dia do pitch day, por exemplo, quando a pitá aqui, e é muito ruim fazer isso, eu já estive nas duas posições, errando o tempo e alguém me parando, e sendo forçado alguém para, eu tendo que ser a pessoa que para alguém, os dois lados é ruim, tá nas duas posições, mas eu vou ter que fazer isso no dia, então, acabou o tempo, acabou o cara, não, mas deixa, não, acabou, acabou, acabou, porque aqui vocês estão numa escola, né, uma mentoria, então eu criar esse ambiente pra fazer isso com vocês,
+
+208
+00:23:57,799 --> 00:24:10,660
+O que eu vi aqui, tá, Nicolas? Primeiro de tudo, vou fazer uma análise geral.
+
+209
+00:24:10,940 --> 00:24:14,160
+O seu pitch tá trazendo um problema e não uma oportunidade.
+
+210
+00:24:14,200 --> 00:24:19,220
+E o problema não é algo ruim, porque é o problema que gera a oportunidade.
+
+211
+00:24:19,360 --> 00:24:23,340
+Mas faltam alguns pontos que eu vou comentar aqui pra que isso se pareça uma oportunidade.
+
+212
+00:24:23,440 --> 00:24:26,120
+Você falou bastante sobre o seu cenário, sobre o seu contexto.
+
+213
+00:24:26,120 --> 00:24:29,720
+Inclusive, eu acerto aqui e eu tô com dificuldade aqui.
+
+214
+00:24:29,840 --> 00:24:32,840
+E aí você termina com isso, ou seja, você termina com um problema.
+
+215
+00:24:33,039 --> 00:24:37,900
+E pitches que terminam com um problema, as pessoas geralmente se esquecem dele,
+
+216
+00:24:38,019 --> 00:24:40,740
+porque as pessoas não querem problemas, elas querem oportunidades.
+
+217
+00:24:40,880 --> 00:24:45,380
+E por mais que uma coisa tá ligada com a outra, muitas vezes as pessoas não fazem a conexão.
+
+218
+00:24:45,440 --> 00:24:50,840
+Até porque quando você tem muita oferta, é melhor já conectar o que parece mais pronto ali dentro, entende?
+
+219
+00:24:50,840 --> 00:24:56,059
+Então esse é o primeiro ponto, eu senti aqui que o seu pitch fala de um problema, mas não traz a oportunidade.
+
+220
+00:24:56,240 --> 00:25:02,039
+Aí talvez você vai falar, mas Ruan, eu trouxe números, eu mostrei um pouco da minha visão e eu achei que isso era oportunidade.
+
+221
+00:25:02,140 --> 00:25:08,000
+Mas na verdade não, a oportunidade é o fechamento que você faz com todas as teses que você vem construindo.
+
+222
+00:25:08,120 --> 00:25:13,860
+Então ali no final você até falou, estou buscando um parceiro comercial, eu já tenho um negócio que funciona,
+
+223
+00:25:14,160 --> 00:25:17,620
+ele tem boa margem de lucro e eu quero alguém que goste de crescer.
+
+224
+00:25:17,620 --> 00:25:26,420
+Isso tudo é você mostrando, você tá olhando na sua ótica, você não tá olhando nem na ótica do seu parceiro comercial que você quer atrair, e isso é uma das melhores coisas na hora de negociar.
+
+225
+00:25:26,519 --> 00:25:33,519
+Você não fecha falando o que você tá buscando, você fecha abrindo o que outra pessoa quer, e é uma questão pura de enquadramento.
+
+226
+00:25:33,759 --> 00:25:37,180
+Então o que eu faria no seu fechamento, eu vou começar dele e depois eu vou trazendo tudo.
+
+227
+00:25:37,340 --> 00:25:44,559
+No seu fechamento você tem que mostrar, olha, eu tenho tudo isso aqui, e se você entrar dentro desse cenário, isso aqui é o que você pode ganhar.
+
+228
+00:25:44,660 --> 00:25:47,480
+E aí você tem que mostrar o que a pessoa pode ganhar com isso, entende?
+
+229
+00:25:47,620 --> 00:25:49,320
+É assim que você mostra uma oportunidade.
+
+230
+00:25:49,440 --> 00:25:52,140
+E agora eu vou vir reconstruindo isso aqui pra gente entender.
+
+231
+00:25:52,380 --> 00:25:58,559
+Primeiro conselho, você tava um pouco nervoso ali, é normal isso acontecer, só que às vezes a gente mesmo cava a própria cova, cara.
+
+232
+00:25:58,680 --> 00:26:04,220
+E aí qual que é o meu conselho pra você? Evita ao máximo o texto, usa bullet points e imagens.
+
+233
+00:26:04,360 --> 00:26:10,300
+Isso vai te deixar mais calmo, porque quando a gente imprime um parágrafo na tela, nós queremos ler o que tá ali,
+
+234
+00:26:10,380 --> 00:26:15,460
+e aí você já começa a ficar, eu vou ler, mas eu não tenho o que ler, mas aí acabou, aí já era.
+
+235
+00:26:15,460 --> 00:26:42,180
+Então, se você coloca ali bullet points, pode ter, o pessoal chama de, quando a gente vai fazer pitch, a partir do pitch deck mesmo, tem alguns termos para isso, por exemplo, bullet points, que são esses termos, os big numbers, que é quando você cria uma composição com os números mais importantes ali também, e imagem, inclusive esse conselho serve até para o Emanuel, eu falei para ele que eu acho que dá para melhorar ainda mais o sentir na apresentação dele,
+
+236
+00:26:42,180 --> 00:26:46,820
+E talvez um ponto que melhore o sentir na apresentação dele também, na sua, são imagens.
+
+237
+00:26:47,039 --> 00:26:49,920
+Às vezes não é nem o que a gente fala, mas é o que presta suporte.
+
+238
+00:26:50,039 --> 00:26:56,280
+E o pitch deck, ele é isso. Ele pode te ajudar a relembrar um tópico, a te manter ali na estrutura, sim, ele é bom pra isso.
+
+239
+00:26:56,380 --> 00:26:59,960
+Mas o principal de um bom pitch deck é ele ser o suporte do que você tá falando.
+
+240
+00:27:00,100 --> 00:27:02,700
+Então, enquanto você fala, o seu pitch deck mostra.
+
+241
+00:27:03,000 --> 00:27:08,060
+E aí não tinham imagens ali, eu vou voltar nesse tópico de imagem várias vezes aqui na minha anotação, eu vou falando com você.
+
+242
+00:27:08,180 --> 00:27:11,800
+Mas já fica o primeiro conselho, bullet point e imagem, e big number.
+
+243
+00:27:12,340 --> 00:27:17,600
+É isso. Às vezes você precisa de uma frase, precisa de uma headline, é isso. Seu pitch tem que ter isso.
+
+244
+00:27:18,120 --> 00:27:22,520
+Parágrafo, não. Parágrafo é muito bom quando você vai enviar uma proposta para o cliente,
+
+245
+00:27:22,520 --> 00:27:27,120
+mas o conselho que eu sempre dou é nunca envia uma proposta para o cliente antes de apresentar ela para ele.
+
+246
+00:27:27,240 --> 00:27:31,120
+E aí eu gosto de fazer duas propostas, a de apresentar e a de enviar.
+
+247
+00:27:31,160 --> 00:27:33,100
+Isso já vai te deixar muito mais tranquilo.
+
+248
+00:27:33,180 --> 00:27:37,600
+A de apresentar é imagem, bullet point, pig numbers e headlines. Só isso.
+
+249
+00:28:00,820 --> 00:28:02,700
+Design move negócios
+
+250
+00:28:02,700 --> 00:28:04,800
+Quem entende o movimento decide na frente
+
+251
+00:28:04,800 --> 00:28:06,800
+Um estúdio de branding que trata a marca
+
+252
+00:28:06,800 --> 00:28:08,560
+Como decisão de negócio, não como enfeite.
+
+253
+00:28:08,660 --> 00:28:12,080
+Primeiro, você está falando de você e não da oportunidade, está falando do estúdio.
+
+254
+00:28:12,220 --> 00:28:17,360
+Então, isso aqui, no momento de fazer um pitch, de apresentar uma oportunidade, isso joga contra você.
+
+255
+00:28:17,500 --> 00:28:19,960
+Isso num site, beleza, mas no pitch não.
+
+256
+00:28:20,080 --> 00:28:25,020
+Segunda coisa, você trouxe frases de efeito, frases que são muito conceituais.
+
+257
+00:28:25,240 --> 00:28:28,780
+Design move negócios. Quem entende o movimento decide na frente.
+
+258
+00:28:28,780 --> 00:28:36,780
+Uma frase conceitual, ela vai fazer sentido para quem já passou por um raciocínio mental e chegou em uma conclusão.
+
+259
+00:28:36,840 --> 00:28:41,200
+Então, quem vai concordar com você são pessoas que pensam parecido com você.
+
+260
+00:28:41,280 --> 00:28:43,040
+E você não está falando com essas pessoas.
+
+261
+00:28:43,320 --> 00:28:48,400
+Aí entra um outro ponto que eu coloquei aqui como pergunta, é, com quem você está falando nesse pitch?
+
+262
+00:28:48,640 --> 00:28:51,680
+Você está querendo falar com pessoas que concordam com você já?
+
+263
+00:28:51,800 --> 00:28:55,260
+E aí você quer provar uma tese, falar, olha, eu acredito nisso e tal?
+
+264
+00:28:55,260 --> 00:28:59,920
+Ou não, você quer falar com o seu cliente ou você quer falar com o vendedor?
+
+265
+00:29:00,080 --> 00:29:06,420
+Lá no final, eu entendi que o público desse seu pitch aqui é o vendedor que você está procurando, é o comercial que você está procurando.
+
+266
+00:29:06,540 --> 00:29:11,020
+Mas quando eu tento conectar isso lá no início, eu vejo que no início você não está falando com o mesmo cara.
+
+267
+00:29:11,200 --> 00:29:13,820
+E aí esse é um ponto legal para a gente levar em conta aqui, tá?
+
+268
+00:29:13,940 --> 00:29:18,340
+Eu vi você no início tentando defender uma tese e trazer um conceito.
+
+269
+00:29:18,400 --> 00:29:20,200
+No pitch, não é bom fazer isso.
+
+270
+00:29:20,300 --> 00:29:22,500
+No pitch, você tem que focar na oportunidade.
+
+271
+00:29:22,500 --> 00:29:25,200
+E aí você vai notar que, na verdade, é mais simples do que parece.
+
+272
+00:29:25,480 --> 00:29:27,800
+Eu, só pra trazer um exemplo, tá?
+
+273
+00:29:27,880 --> 00:29:31,400
+Na faculdade, eu tinha muito um pensamento conceitual das coisas.
+
+274
+00:29:31,460 --> 00:29:35,680
+E aí eu trazia muito conceito e eu não entendia porque que às vezes as pessoas não entendiam.
+
+275
+00:29:35,780 --> 00:29:37,720
+Ficava bonito, mas as pessoas não entendiam.
+
+276
+00:29:37,820 --> 00:29:43,200
+Depois de muito tempo eu percebi que não tem como eu comparar eu, que estou há dias pensando em um problema,
+
+277
+00:29:44,440 --> 00:29:47,760
+construindo, sofisticando esse problema na minha cabeça, chegando numa conclusão.
+
+278
+00:29:47,760 --> 00:29:54,760
+Eu queria pegar alguém que às vezes foi exposto a esse problema hoje e querer fazer ela dar esse salto e chegar na conclusão abstrata junto comigo.
+
+279
+00:29:54,880 --> 00:30:00,420
+Eu preciso de algo mais simples para poder pegar aquela pessoa que caiu aqui nessa oportunidade que eu quero trazer.
+
+280
+00:30:00,640 --> 00:30:02,540
+Esse é um outro ponto que eu coloquei aqui.
+
+281
+00:30:02,820 --> 00:30:09,420
+Então, apresentar uma oportunidade é melhor do que apresentar uma tese conceitual quando a gente está falando de um pitch, tá bom?
+
+282
+00:30:09,500 --> 00:30:11,700
+Tese conceitual é bom para manifesto.
+
+283
+00:30:11,700 --> 00:30:18,580
+E esse é um outro detalhe importante que designer, às vezes a nossa força é o que mais nos atrapalha, muitas vezes.
+
+284
+00:30:18,840 --> 00:30:24,880
+E quando eu falo com designers e artistas, eu vejo que a maior força de um designer e de um artista é o pensamento conceitual.
+
+285
+00:30:25,000 --> 00:30:28,200
+Nós somos bons em fazer isso porque nós aprendemos a fazer isso.
+
+286
+00:30:28,260 --> 00:30:31,820
+E é justamente isso que atrapalha a gente, porque aí a gente confunde momentos.
+
+287
+00:30:32,220 --> 00:30:34,800
+Então, por exemplo, qual que é um momento para ser conceitual?
+
+288
+00:30:34,860 --> 00:30:39,980
+Quando você vai construir marca e aí quando que você vai construir marca também tem várias micro etapas ali.
+
+289
+00:30:39,980 --> 00:30:43,160
+uma das etapas de construção de marca é consciência da marca
+
+290
+00:30:43,160 --> 00:30:46,700
+outra etapa de construção de marca é relacionamento com a marca
+
+291
+00:30:46,700 --> 00:30:48,460
+cada uma fala com um público bem diferente
+
+292
+00:30:48,460 --> 00:30:50,320
+se você está falando de relacionamento com a marca
+
+293
+00:30:50,320 --> 00:30:52,740
+é alguém que já conhece a marca e se relaciona com ela
+
+294
+00:30:52,740 --> 00:30:54,920
+essa pessoa eu posso ser conceitual
+
+295
+00:30:54,920 --> 00:30:59,220
+e isso é uma coisa que aqui no Brasil a gente aprendeu errado por exposição
+
+296
+00:30:59,220 --> 00:31:01,760
+nós fomos muito expostos à publicidade
+
+297
+00:31:01,760 --> 00:31:05,240
+e aí a gente entende que existe um jeito de fazer publicidade
+
+298
+00:31:05,240 --> 00:31:09,000
+que é o jeito da TV que costuma ser muito simbólico e conceitual
+
+299
+00:31:09,000 --> 00:31:24,820
+E a gente acha que é assim que tem que fazer o comercial, mas a gente esquece que as marcas que anunciam na TV são marcas já conhecidas que estão construindo relacionamento e símbolo, é capital simbólico, então elas não precisam te explicar porque elas já estão no seu dia a dia e elas querem construir essa visão simbólica.
+
+300
+00:31:24,820 --> 00:31:48,840
+Isso atrapalha, é muito ruim pra um negócio que não é conhecido, porque aí você tenta ser simbólico e conceitual, e é ali que você vai perder os clientes, e depois a gente às vezes não entende, porque que alguém que chegou com uma linguagem mais simples, só simplesmente falou o que queria, outra pessoa comprou, e fica sem entender, nossa, eu tô aqui, olha que legal que eu tô construindo, eu tenho uma narrativa inteira em cima disso, mas ninguém entende, é aí que tá o ponto.
+
+301
+00:31:48,840 --> 00:31:51,980
+Então lembra sempre o meio e com quem você está falando.
+
+302
+00:31:52,140 --> 00:31:55,360
+Aqui você está falando, você está em busca de alguém para ser o seu comercial.
+
+303
+00:31:55,620 --> 00:31:57,380
+Então você tem que ficar o tempo todo com isso na sua cabeça.
+
+304
+00:31:57,420 --> 00:31:58,440
+Eu estou falando é com esse cara.
+
+305
+00:31:58,600 --> 00:31:59,780
+Como que é a vida desse cara?
+
+306
+00:31:59,920 --> 00:32:01,640
+O que que esse cara ou essa mulher, né?
+
+307
+00:32:01,780 --> 00:32:04,600
+O que que ele, qual é o desafio que ele tem no dia a dia?
+
+308
+00:32:04,660 --> 00:32:06,080
+O que que ele está buscando para a vida dele?
+
+309
+00:32:06,280 --> 00:32:09,860
+E aí eu tenho que apresentar uma oportunidade para ele, beleza?
+
+310
+00:32:10,140 --> 00:32:15,680
+Anotei aqui, explicação técnica antes de ancorar a oportunidade faz você perder a atenção das pessoas.
+
+311
+00:32:15,680 --> 00:32:19,860
+E mais uma coisa que eu anotei, número sem motivação vira apenas ruído.
+
+312
+00:32:19,960 --> 00:32:29,780
+Como você não começou apresentando a oportunidade, depois que você traz os números, a gente já está desconectado e os números viram só algo frio e um ruído ali no meio.
+
+313
+00:32:29,900 --> 00:32:37,880
+Então você passa para os números para a gente aí, vamos lá, pode passar mais um pouquinho antes, depois desse, mais um pouquinho, aí beleza, você parou nessa tela aí.
+
+314
+00:32:37,880 --> 00:32:43,880
+Como a gente não teve uma boa construção de oportunidade antes, e não estava muito claro com quem você estava falando,
+
+315
+00:32:44,060 --> 00:32:47,760
+então, será que ele está falando com investidores? Será que ele está falando com o cliente dele?
+
+316
+00:32:48,060 --> 00:32:51,020
+Será que ele está falando com alguém que queira ser o comercial dele?
+
+317
+00:32:51,160 --> 00:32:52,840
+Eu só fui entender isso lá no final.
+
+318
+00:32:53,000 --> 00:32:58,460
+E aí isso inverte toda a retórica, que a ideia é logo no início a gente entender com quem você está falando,
+
+319
+00:32:58,620 --> 00:33:00,100
+qual é a oportunidade que tem na mesa.
+
+320
+00:33:00,220 --> 00:33:04,400
+Isso faz o cérebro de todo mundo gastar menos energia, porque as pessoas vão poder falar,
+
+321
+00:33:04,400 --> 00:33:08,580
+Ah, isso é pra mim ou não é pra mim, e se é pra mim eu vou prestar atenção, entendeu a lógica?
+
+322
+00:33:08,660 --> 00:33:19,000
+Aí a gente entra aqui, você começou a mostrar esses números, 46 % de credibilidade, mais 23 % de receita, 40 mil de prejuízo, isso não significa nada fora de contexto, nada.
+
+323
+00:33:19,220 --> 00:33:32,320
+E eu sei que na sua cabeça tinha contexto, e como o seu professor aqui, eu escavei pra encontrar o contexto, mas na hora de fazer um pitch, você não pode contar com a pessoa gastando energia pra escavar e encontrar o contexto sozinho, você que tem que entregar isso pra ela.
+
+324
+00:33:32,320 --> 00:33:59,260
+E aí o que que acontece quando a gente não faz isso? As pessoas desconectam. E aí fica um ruidinho de fundo, vocês ficam escutando, isso é muito comum, tá? Muito, muito mais comum do que vocês imaginam, né? Quando vocês, se vocês tiverem a oportunidade de participar de mais eventos em que as pessoas ficam apresentando suas ideias, vocês vão ver isso e talvez vocês já tenham se pegado falando, ai nossa, tá falando um monte de número lá, que hora que vai acabar isso? Porque você já nem tá conectado mais naqueles números. E é um erro que as pessoas cometem.
+
+325
+00:33:59,260 --> 00:34:05,960
+Aí o número às vezes é relevante, mas eu tô fora do contexto dele, eu nem sei se é pra mim, eu não entendi a oportunidade, então eu não vou ver o número.
+
+326
+00:34:06,100 --> 00:34:07,840
+Então tem que tomar muito cuidado com isso, tá?
+
+327
+00:34:08,060 --> 00:34:10,880
+Número sem motivação vira apenas ruído, anotei aqui.
+
+328
+00:34:10,920 --> 00:34:18,640
+Aí reforcei a pergunta pra você, que é com quem você está falando, e aí eu vou te dar uma técnica que eu gosto de usar muito aqui,
+
+329
+00:34:18,780 --> 00:34:28,000
+que é a técnica da persona, que a gente já usa muito dentro do design, mas você puxar isso pra você mesmo, pra qualquer tipo de comunicação que você for fazer.
+
+330
+00:34:28,000 --> 00:34:31,480
+A pergunta que você tem que responder primeiro é, com quem que eu tô falando?
+
+331
+00:34:31,580 --> 00:34:33,820
+Só depois dessa que você entende qual que é o problema.
+
+332
+00:34:34,040 --> 00:34:36,800
+Então, isso tem que estar muito claro pra todo mundo aqui.
+
+333
+00:34:36,940 --> 00:34:38,540
+A primeira pergunta, com quem que eu tô falando?
+
+334
+00:34:38,700 --> 00:34:39,760
+Pode ser o mesmo problema.
+
+335
+00:34:40,120 --> 00:34:43,960
+Pra cada pessoa, você vai enquadrar ele de um jeito diferente.
+
+336
+00:34:44,280 --> 00:34:46,080
+Se é com o investidor, você enquadra de um jeito.
+
+337
+00:34:46,200 --> 00:34:48,660
+Se é com o seu próprio cliente, você enquadra de outro jeito.
+
+338
+00:34:48,840 --> 00:34:53,960
+Se é com o vendedor, o comercial que você quer contratar ou ter uma parceria, você vai enquadrar de outro jeito.
+
+339
+00:34:54,140 --> 00:34:56,420
+A mesma tese é reenquadrada ali.
+
+340
+00:34:56,420 --> 00:35:00,580
+E aí, eu já mostrei pra vocês algumas vezes aqui que nós temos algumas personas da Overlens.
+
+341
+00:35:00,780 --> 00:35:02,020
+Qual que é a técnica que eu uso?
+
+342
+00:35:02,120 --> 00:35:07,080
+Eu vou escrever alguma coisa e eu me pergunto, eu tô falando com o Brunin, com a Tela, com o Ander ou com a Lili?
+
+343
+00:35:07,200 --> 00:35:08,160
+Eu sempre me pergunto isso.
+
+344
+00:35:08,340 --> 00:35:13,040
+E depois que eu entendo com qual das quatro personas eu tô falando aqui dentro, eu imagino.
+
+345
+00:35:13,100 --> 00:35:15,780
+Então vamos lá, eu imagino a Lili aqui, por exemplo.
+
+346
+00:35:15,800 --> 00:35:16,800
+Falando com a Lili, então.
+
+347
+00:35:16,900 --> 00:35:21,260
+A Lili já tem um perfil executivo, já teve resultado, as coisas já funcionam pra ela,
+
+348
+00:35:21,380 --> 00:35:24,580
+ela já tem as certezas dela e tem os desafios dela.
+
+349
+00:35:24,580 --> 00:35:28,780
+Então, eu posso ir mais direto ao ponto, posso conversar com ela já mostrando que eu entendo o cenário dela.
+
+350
+00:35:28,880 --> 00:35:34,980
+Olha só como que eu consigo adaptar a minha linguagem para poder conversar com ela e fazer o que a gente chama de rapport, né?
+
+351
+00:35:35,020 --> 00:35:36,860
+Que é essa conexão com a pessoa que está te ouvindo.
+
+352
+00:35:36,980 --> 00:35:40,880
+Então, o conselho aqui é esse. Vai preparar qualquer coisa, imagina com quem que eu estou falando ali.
+
+353
+00:35:41,040 --> 00:35:44,600
+Aí, vem alguns pontos aqui também que eu comentei.
+
+354
+00:35:44,660 --> 00:35:47,420
+Isso aqui é outra técnica que ajuda vocês a construir pitch.
+
+355
+00:35:47,600 --> 00:35:52,020
+Um bom pitch guia o pensamento das pessoas e antecipa o que elas vão pensar.
+
+356
+00:35:52,020 --> 00:35:57,380
+Então, quando você vai construir um bom pitch, você tem que pensar assim, mostrei uma tela e comecei a falar.
+
+357
+00:35:57,560 --> 00:36:01,660
+Se coloca na posição de quem está te ouvindo. O que é que provavelmente essa pessoa está pensando nesse momento?
+
+358
+00:36:01,860 --> 00:36:05,700
+E aí que a gente começa a voltar lá atrás. Qual que é o momento mais importante do pitch? O início.
+
+359
+00:36:05,980 --> 00:36:12,060
+Se você acerta o início, as coisas dão certo. Se você erra no início, não importa mais nada do pitch, porque a pessoa vai se desconectar de você.
+
+360
+00:36:12,240 --> 00:36:17,420
+Então, ali no início, o que as pessoas estão pensando? Geralmente elas estão pensando, o que será que esse cara vai falar?
+
+361
+00:36:17,420 --> 00:36:20,760
+Quem que é esse cara? Será que ele tem uma oportunidade? Será que ele já teve resultado?
+
+362
+00:36:21,200 --> 00:36:24,420
+Quem que ele é? O que que ele já fez? O que que ele vai mostrar pra mim?
+
+363
+00:36:24,480 --> 00:36:27,700
+Então as pessoas estão curiosas. Essa é a sensação do início do pitch.
+
+364
+00:36:27,860 --> 00:36:30,660
+E se as pessoas estão curiosas, o que que você faz no início do pitch?
+
+365
+00:36:31,380 --> 00:36:34,260
+Ó, tem alguém vazando aí. Não sei se é, acho que é o Marcelo.
+
+366
+00:36:34,320 --> 00:36:36,340
+Não sei se é. Ah tá, então tá de boa.
+
+367
+00:36:36,480 --> 00:36:39,560
+É porque o Marcelo tá com o microfone aberto também, aí eu tava vendo quem era.
+
+368
+00:36:39,640 --> 00:36:44,460
+Mas tranquilo, eu vou mutar só pra eu não, porque senão eu não consigo construir o raciocínio.
+
+369
+00:36:44,460 --> 00:36:49,740
+Então, quem que é a pessoa que tá ali do outro lado e o que que ela tá sentindo?
+
+370
+00:36:49,820 --> 00:36:52,360
+Então, o início, ela tá se sentindo curiosa.
+
+371
+00:36:52,380 --> 00:36:54,480
+Então, o que que eu vou fazer? Saciar essa curiosidade.
+
+372
+00:36:54,620 --> 00:36:58,640
+Como? Aí a gente teve, na semana passada, a construção do início do pitch, né?
+
+373
+00:36:58,660 --> 00:37:05,020
+Você vai trazer um contraste, você vai trazer uma tese que abre uma possibilidade pra pessoa,
+
+374
+00:37:05,100 --> 00:37:07,340
+uma tese de oportunidade ali mesmo pra ela.
+
+375
+00:37:07,420 --> 00:37:09,960
+Você vai ir contra o senso comum.
+
+376
+00:37:10,100 --> 00:37:11,820
+Isso tudo vai alimentar a curiosidade.
+
+377
+00:37:12,000 --> 00:37:13,880
+Ir contra o senso comum é uma ótima.
+
+378
+00:37:13,880 --> 00:37:38,720
+E isso é um exercício, tá? Hoje eu consigo fazer isso com naturalidade, mas sabe como que eu desenvolvi isso? No dia a dia. Eu pegava ideias que eram muito fortes das pessoas e eu defendia o contrário. Então, por exemplo, eu chegava, minha mãe é uma pessoa muito certa no sentido de que pra ela existe o jeito certo de fazer as coisas. E aí eu lembro que eu chegava pra ela assim e falava assim, mãe, eu cheguei na conclusão de que eu gosto de errar. Como assim você gosta de errar? Ninguém gosta de errar.
+
+379
+00:37:38,720 --> 00:37:41,860
+Aí eu observava, olha só, agora ela tá prestando atenção em mim.
+
+380
+00:37:42,000 --> 00:37:45,740
+Eu consegui saciar essa curiosidade, agora ela quer que eu fale mais sobre isso.
+
+381
+00:37:45,920 --> 00:37:48,920
+Legal, isso é uma técnica. Usei o... fui contra o senso comum.
+
+382
+00:37:49,120 --> 00:37:56,040
+Então, no dia a dia, vocês podem começar a pegar ideias muito fortes e tentar defender o oposto delas só pra ver o que vai acontecer, entendeu?
+
+383
+00:37:56,260 --> 00:37:58,540
+E vocês vão começar desenvolvendo essa habilidade, assim.
+
+384
+00:37:58,700 --> 00:38:04,740
+A contrapartida disso é que vocês vão começar a perceber que existem muito menos verdades absolutas do que a gente imagina.
+
+385
+00:38:04,740 --> 00:38:11,780
+E às vezes vocês vão começar a ver que há verdades que às vezes até vocês mesmos acreditavam, dá para defender o oposto dela e acreditar também.
+
+386
+00:38:11,940 --> 00:38:14,900
+Esse é um exercício muito massa, mas fica aqui como técnica para vocês.
+
+387
+00:38:15,120 --> 00:38:20,020
+Ou seja, no início você tem que saciar uma curiosidade, é um momento bom para isso.
+
+388
+00:38:20,220 --> 00:38:23,140
+Aí você falou aqui, o problema não é achar o cliente, é dar conta.
+
+389
+00:38:23,240 --> 00:38:25,560
+Eu só fui entender isso lá no meio do pitch.
+
+390
+00:38:25,800 --> 00:38:27,520
+Lá no meio do pitch você soltou isso aqui.
+
+391
+00:38:27,680 --> 00:38:32,280
+Aí eu falei, eu pensei, você começou a construir uma tese, começou a trazer números,
+
+392
+00:38:32,280 --> 00:38:36,420
+Números, esses números eu entendo que seu objetivo era tentar mostrar uma oportunidade, né?
+
+393
+00:38:36,480 --> 00:38:43,600
+E só, eu só fui entender sua intenção lá no meio, porque no início eu tava, o que ficava na minha cabeça era assim, as perguntas.
+
+394
+00:38:43,620 --> 00:38:48,900
+O que que, qual tipo de oportunidade que o Nicolas tá querendo construir aqui pra mim?
+
+395
+00:38:49,020 --> 00:38:52,160
+Ele tá querendo me mostrar que ele tem um negócio e tá procurando investidor?
+
+396
+00:38:52,380 --> 00:38:57,020
+Ele, ele, esse negócio dele, inclusive, é um negócio que já tá funcionando ou não tá?
+
+397
+00:38:57,140 --> 00:38:59,480
+Lá no meio você falou, o problema não é achar o cliente.
+
+398
+00:38:59,480 --> 00:39:04,920
+Opa, eu achei que era isso que você estava querendo mostrar, que você precisa de alguém para expandir mais, que você estava soando isso.
+
+399
+00:39:05,120 --> 00:39:06,100
+Aí você falou, é dar conta.
+
+400
+00:39:06,360 --> 00:39:09,120
+Ah não, então peraí, o problema dele é operacional, talvez.
+
+401
+00:39:09,380 --> 00:39:12,240
+Aí, mais gasto de energia para entender onde você quer chegar.
+
+402
+00:39:12,440 --> 00:39:14,900
+Aí você trouxe números, são números interessantes.
+
+403
+00:39:14,980 --> 00:39:21,800
+Eu tenho um negócio com 74 % de margem, eu tenho em média 10 mil por projeto, e isso aqui mostra oportunidade.
+
+404
+00:39:21,920 --> 00:39:26,280
+Talvez se você está procurando aqui por um comercial, eu ia trazer isso bem mais na frente.
+
+405
+00:39:26,280 --> 00:39:32,480
+Eu não iria falar tanto só de mercado, porque o mercado parece muito fictício quando você não construiu o contexto.
+
+406
+00:39:32,800 --> 00:39:34,920
+Vou pegar de exemplo um caso real, que é o do Emanuel.
+
+407
+00:39:35,160 --> 00:39:40,560
+O do Emanuel não pareceu fictício porque, no caso dele, ele já tinha o lastro, ele já tinha o histórico.
+
+408
+00:39:40,600 --> 00:39:44,200
+Então ele falou de muitos números dele e aí com isso ele falou do mercado também.
+
+409
+00:39:44,280 --> 00:39:48,680
+Isso torna mais fácil de acreditar nos dados de mercado porque ele trouxe os dados dele.
+
+410
+00:39:48,800 --> 00:39:50,420
+É algo que você pode fazer aqui também.
+
+411
+00:39:50,639 --> 00:39:53,819
+Beleza, aí você falou que é problema de tempo, prospecção eficiente,
+
+412
+00:39:53,819 --> 00:40:21,799
+E aí, eu fecho essa análise toda pra você hoje, principalmente falando sobre a oportunidade, com quem você tá falando, aqui focando no pitch, né, então, com quem você tá falando, deixa isso claro, deixa clara a oportunidade desde o começo, use mais bullet points, imagens do que texto, pra não se embolar ali e ficar mais tenso na hora.
+
+413
+00:40:21,799 --> 00:40:32,559
+E eu acho que com isso aqui você já vai conseguir estruturar seu pitch, vai ficar mais tranquilo pra você apresentar também, vai te ajudar a gastar menos tempo, né, do que os 13 minutos pra poder apresentar e a gente consegue fechar um pitch interessante.
+
+414
+00:40:33,000 --> 00:40:43,539
+Você tem uma oportunidade aí, ela é boa. Além de ter uma oportunidade boa, você já tem resultado. Então não é nenhum desses problemas, tá bom? É só uma questão de organizar a maneira como você apresenta eles, beleza?
+
+415
+00:40:43,539 --> 00:40:53,239
+Beleza? Agora eu estou, inclusive, ansioso para ver como que vai ser quando você apresentar ele de novo, porque eu acredito que vai ficar bem legal agora você aplicando essas melhorias nele.
+
+416
+00:40:53,399 --> 00:40:53,919
+Muito obrigado.
+
+417
+00:40:54,159 --> 00:40:54,199
+Boa.
+

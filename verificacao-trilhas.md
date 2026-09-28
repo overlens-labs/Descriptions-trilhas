@@ -9,9 +9,30 @@ Objetivo: criar uma planilha CSV por trilha com a sequência completa e correta 
 | Trilha | Planilha criada | Exercícios confirmados | Exercícios inferidos |
 |--------|----------------|----------------------|----------------------|
 | Arquivo Legado | `planilha-arquivo-legado.csv` | 4 | 6 |
-| CHROME (Fundamento das Cores) | `planilha-chrome-fundamento-das-cores.csv` | 0 | 5 |
+| CHROME (Fundamento das Cores) | `planilha-chrome-fundamento-das-cores.csv` | 5 | 0 |
 | DeepZoom | `planilha-deepzoom.csv` | 0 | 5 |
+| Design Thinking | `planilha-design-thinking.csv` | 0 | 0 |
+| Engenharia de Prompt | `planilha-engenharia-de-prompt.csv` | 0 | 0 |
+| Expedição Global | `planilha-expedicao-global.csv` | 0 | 3 |
+| Atlas 2ª Edição | `planilha-atlas-2a-edicao.csv` | 0 | 0 |
+| GENOMA | `planilha-genoma.csv` | 0 | 4 |
+| Gestalt (Fundamento das Formas) | `planilha-gestalt-fundamento-das-formas.csv` | 1 | 6 |
+| GUIDELINES (Universo Visual) | `planilha-guidelines-universo-visual.csv` | 1 | 7 |
+| Idéa (Ideias Fundamentais) | `planilha-idea.csv` | 2 | 3 |
+| Layout (Fundamento da Composição) | `planilha-layout-fundamento-da-composicao.csv` | 1 | 3 |
+| LLMs | `planilha-llms.csv` | 0 | 0 |
+| SandBox (Princípios Básicos do Design) | `planilha-sandbox-principios-basicos-do-design.csv` | 0 | 0 |
+| Maestro | `planilha-maestro.csv` | 0 | 0 |
+| NexGen | `planilha-nexgen.csv` | 0 | 0 |
+| Spectrum | `planilha-spectrum.csv` | 1 | 2 |
+| Signals (Fundamento da Mensagem) | `planilha-signals-fundamento-da-mensagem.csv` | 1 | 4 |
+| Sintropia (Bootcamp Sintrópico) | `planilha-sintropia.csv` | 0 | 2 |
+| Standout (Estratégia - Identificando a Verdade da Marca) | `planilha-standout-estrategia-identificando-a-verdade-da-marca.csv` | 0 | 4 |
+| Syntax | `planilha-syntax.csv` | 7 | 3 |
 | Synthetic | `planilha-synthetic.csv` | 0 | 0 |
+| Projetos Internacionais | `planilha-projetos-internacionais.csv` | 2 | 0 |
+| Verbarium (Identidade Verbal) | `planilha-verbarium.csv` | 3 | 1 |
+| Fit - Perfil Ideal de Cliente | `planilha-fit-perfil-ideal-de-cliente.csv` | 0 | 0 |
 | Demais trilhas | pendente | — | — |
 
 ---

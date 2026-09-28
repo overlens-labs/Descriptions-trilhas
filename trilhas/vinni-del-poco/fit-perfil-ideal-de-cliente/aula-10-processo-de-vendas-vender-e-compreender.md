@@ -1,4 +1,4 @@
-# Processo de Vendas: Vender é Compreender
+# Processo de Vendas - Vender é Compreender
 
 **Tempo estimado de leitura:** 6 minutos
 

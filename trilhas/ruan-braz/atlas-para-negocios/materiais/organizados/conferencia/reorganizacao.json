@@ -1,0 +1,476 @@
+{
+  "moves": [
+    {
+      "source": "[B] [TRILHA] [Atlas para Negócios] [2026] A01 - Abertura e enquadramento de aprendizagem.txt",
+      "target": "Transcrições/Dia 01/[B] [TRILHA] [Atlas para Negócios] [2026] A01 - Abertura e enquadramento de aprendizagem.txt",
+      "sha256": "f1de85a8b4cab8404f2d32cdfbe34843476ad73370e8b6e790d651eb400e68c5"
+    },
+    {
+      "source": "[B] [TRILHA] [Atlas para Negócios] [2026] A02 - Um site publicado em 10 minutos com Claude Code e Codex.txt",
+      "target": "Transcrições/Dia 01/[B] [TRILHA] [Atlas para Negócios] [2026] A02 - Um site publicado em 10 minutos com Claude Code e Codex.txt",
+      "sha256": "80805acad913448551fb58363f56df4f71b93e2adf3413e848d5d6a047f2f817"
+    },
+    {
+      "source": "[B] [TRILHA] [Atlas para Negócios] [2026] A03 - Energia no lugar certo - dos comos aos porquês.txt",
+      "target": "Transcrições/Dia 01/[B] [TRILHA] [Atlas para Negócios] [2026] A03 - Energia no lugar certo - dos comos aos porquês.txt",
+      "sha256": "1438985dfcf051b62b70fc554dbd926b38965ce138008874c5ef0cffbfee37cf"
+    },
+    {
+      "source": "[B] [TRILHA] [Atlas para Negócios] [2026] A04 - As camadas da IA e o ambiente de trabalho.txt",
+      "target": "Transcrições/Dia 01/[B] [TRILHA] [Atlas para Negócios] [2026] A04 - As camadas da IA e o ambiente de trabalho.txt",
+      "sha256": "5e4c855c904fa7a7125e0f90a9148f7190273160725646cc8a863bdf9baa1a10"
+    },
+    {
+      "source": "[B] [TRILHA] [Atlas para Negócios] [2026] A05 - Hipótese de negócio - briefing por áudio e as seis hipóteses.txt",
+      "target": "Transcrições/Dia 01/[B] [TRILHA] [Atlas para Negócios] [2026] A05 - Hipótese de negócio - briefing por áudio e as seis hipóteses.txt",
+      "sha256": "23d49cf30f188faad910b570bc6a23e371891ce37db02710e7b29db0cd961370"
+    },
+    {
+      "source": "[B] [TRILHA] [Atlas para Negócios] [2026] A06 - Business Model Canvas - do Markdown ao painel interativo.txt",
+      "target": "Transcrições/Dia 01/[B] [TRILHA] [Atlas para Negócios] [2026] A06 - Business Model Canvas - do Markdown ao painel interativo.txt",
+      "sha256": "eb6f89d9bfacf89f1eb6fe59113a06b81c3f942ba721ede37fb51871d2f570e4"
+    },
+    {
+      "source": "[B] [TRILHA] [Atlas para Negócios] [2026] A07 - Por que validar e o prompt de pesquisa profunda.txt",
+      "target": "Transcrições/Dia 01/[B] [TRILHA] [Atlas para Negócios] [2026] A07 - Por que validar e o prompt de pesquisa profunda.txt",
+      "sha256": "35b04ab2c7aa6a4969407a598c67dabc7f34444178a5f2645210582e250993db"
+    },
+    {
+      "source": "[B] [TRILHA] [Atlas para Negócios] [2026] A08 - O mercado é um jogo, e pensamento sistêmico.txt",
+      "target": "Transcrições/Dia 01/[B] [TRILHA] [Atlas para Negócios] [2026] A08 - O mercado é um jogo, e pensamento sistêmico.txt",
+      "sha256": "a483b45ce61d665b5070661e4dfdada853205ca91c940c353e67a3bd88432fe5"
+    },
+    {
+      "source": "[B] [TRILHA] [Atlas para Negócios] [2026] A09 - Lendo a pesquisa e fazendo as contas do negócio.txt",
+      "target": "Transcrições/Dia 01/[B] [TRILHA] [Atlas para Negócios] [2026] A09 - Lendo a pesquisa e fazendo as contas do negócio.txt",
+      "sha256": "db53b0854c6257706ccb487829f576b27a61b627eeae16dc274a5f01714ca446"
+    },
+    {
+      "source": "[B] [TRILHA] [Atlas para Negócios] [2026] A10 - Funil de validação e unit economics.txt",
+      "target": "Transcrições/Dia 01/[B] [TRILHA] [Atlas para Negócios] [2026] A10 - Funil de validação e unit economics.txt",
+      "sha256": "3abb45d73a6db040a2577b69814c538b8748c2e7a689f26e8062aaf27ea96261"
+    },
+    {
+      "source": "[B] [TRILHA] [Atlas para Negócios] [2026] A11 - Construindo e abrindo o sistema de gestão.txt",
+      "target": "Transcrições/Dia 01/[B] [TRILHA] [Atlas para Negócios] [2026] A11 - Construindo e abrindo o sistema de gestão.txt",
+      "sha256": "3a4e94f522bcf7e70506c12b12a0ea93ac16e015656a95c5fd6d4fed645a51d9"
+    },
+    {
+      "source": "[B] [TRILHA] [Atlas para Negócios] [2026] A12 - Fundamentos, anatomia do prompt e o peso do início.txt",
+      "target": "Transcrições/Dia 01/[B] [TRILHA] [Atlas para Negócios] [2026] A12 - Fundamentos, anatomia do prompt e o peso do início.txt",
+      "sha256": "ea004777be62495f37f287a4dbf3cd6053dd79c6fdd478f542521b5ed070550b"
+    },
+    {
+      "source": "[B] [TRILHA] [Atlas para Negócios] [2026] A13 - Rodando o sistema e melhorando a interface.txt",
+      "target": "Transcrições/Dia 02/[B] [TRILHA] [Atlas para Negócios] [2026] A13 - Rodando o sistema e melhorando a interface.txt",
+      "sha256": "3ab54c2dd0379605d1731fe1465d0c69fdd758c9724d5f4803f7137ee0aeae1c"
+    },
+    {
+      "source": "[B] [TRILHA] [Atlas para Negócios] [2026] A14 - Infraestrutura - arquivos, banco de dados e publicação.txt",
+      "target": "Transcrições/Dia 02/[B] [TRILHA] [Atlas para Negócios] [2026] A14 - Infraestrutura - arquivos, banco de dados e publicação.txt",
+      "sha256": "d7a17ea38a0625375b794579b5d4e0135f0a7554b1d79d7341fb0c2eeaa54d01"
+    },
+    {
+      "source": "[B] [TRILHA] [Atlas para Negócios] [2026] A15 - Loop de autoaprimoramento - o sistema se melhorando sozinho.txt",
+      "target": "Transcrições/Dia 02/[B] [TRILHA] [Atlas para Negócios] [2026] A15 - Loop de autoaprimoramento - o sistema se melhorando sozinho.txt",
+      "sha256": "8adb7bfc7ae58f1acd1358d3feb756acaf8a5d675607fce62204d1ec6ea75227"
+    },
+    {
+      "source": "[B] [TRILHA] [Atlas para Negócios] [2026] A16 - Validando o modelo - a conta, o excesso de plano e o produto certo.txt",
+      "target": "Transcrições/Dia 02/[B] [TRILHA] [Atlas para Negócios] [2026] A16 - Validando o modelo - a conta, o excesso de plano e o produto certo.txt",
+      "sha256": "1ae46c3e9620260adb23901f640be32f99753b4ef992e7059c5759eb355b2b48"
+    },
+    {
+      "source": "[B] [TRILHA] [Atlas para Negócios] [2026] A17 - Perfil ideal de cliente e o gargalo da lista.txt",
+      "target": "Transcrições/Dia 02/[B] [TRILHA] [Atlas para Negócios] [2026] A17 - Perfil ideal de cliente e o gargalo da lista.txt",
+      "sha256": "dacbedcef625d56bf4f7bf8bb6925b4b5d322ceddcdca6e68253204c9299bb00"
+    },
+    {
+      "source": "[B] [TRILHA] [Atlas para Negócios] [2026] A18 - Os três planos de aquisição.txt",
+      "target": "Transcrições/Dia 02/[B] [TRILHA] [Atlas para Negócios] [2026] A18 - Os três planos de aquisição.txt",
+      "sha256": "b049860a7e84b29d43234c029603704029f5e8aec51e7646f7a4431695647b48"
+    },
+    {
+      "source": "[B] [TRILHA] [Atlas para Negócios] [2026] A19 - Seiscentos leads e a lista limpa.txt",
+      "target": "Transcrições/Dia 02/[B] [TRILHA] [Atlas para Negócios] [2026] A19 - Seiscentos leads e a lista limpa.txt",
+      "sha256": "164117b490106c0874be42d3df5ebee70cbfdf2c9d53f76d3b038fc268efad75"
+    },
+    {
+      "source": "[B] [TRILHA] [Atlas para Negócios] [2026] A20 - Cold mail - da lista ao disparo.txt",
+      "target": "Transcrições/Dia 02/[B] [TRILHA] [Atlas para Negócios] [2026] A20 - Cold mail - da lista ao disparo.txt",
+      "sha256": "721519d42576307a4e0eb4c70a03f3100caf374e680f95f84f78b8462da08a21"
+    },
+    {
+      "source": "[B] [TRILHA] [Atlas para Negócios] [2026] A21 - A landing page - do prompt ao primeiro lead na planilha.txt",
+      "target": "Transcrições/Dia 02/[B] [TRILHA] [Atlas para Negócios] [2026] A21 - A landing page - do prompt ao primeiro lead na planilha.txt",
+      "sha256": "c1b2011eb3fb2451873ca72e527f923c59b0e36e546ef504389c11d5494d6d2e"
+    },
+    {
+      "source": "[B] [TRILHA] [Atlas para Negócios] [2026] A22 - Criativos - da referência às dez imagens.txt",
+      "target": "Transcrições/Dia 02/[B] [TRILHA] [Atlas para Negócios] [2026] A22 - Criativos - da referência às dez imagens.txt",
+      "sha256": "2507f341b9dec0234b3f350a3496cea2a67bed8be396b41881f8998fb63d98fd"
+    },
+    {
+      "source": "[B] [TRILHA] [Atlas para Negócios] [2026] A23 - Publicando o anúncio e o balanço do fim de semana.txt",
+      "target": "Transcrições/Dia 02/[B] [TRILHA] [Atlas para Negócios] [2026] A23 - Publicando o anúncio e o balanço do fim de semana.txt",
+      "sha256": "1c293fbe51c78d0f7e88e36174ae25a70c11485196c77f3d1b462dd140793113"
+    },
+    {
+      "source": "[B] [TRILHA] [Atlas para Negócios] [2026] A24 - Subindo o projeto no GitHub e encerramento.txt",
+      "target": "Transcrições/Dia 02/[B] [TRILHA] [Atlas para Negócios] [2026] A24 - Subindo o projeto no GitHub e encerramento.txt",
+      "sha256": "7b402e49681d47e49453711a18bf283c0ce2b658e0cfa4b538f5a1ceac100a4e"
+    },
+    {
+      "source": "[B] [TRILHA] [Atlas para Negócios] [2026] A25 - Perguntas e Respostas.txt",
+      "target": "Transcrições/Complementares/[B] [TRILHA] [Atlas para Negócios] [2026] A25 - Perguntas e Respostas.txt",
+      "sha256": "a42f7d954b2050bd310025e99677fa199f5f3bda68f1233306fa7e754959e1d8"
+    },
+    {
+      "source": "materiais/materiais dia 01/aula 01 Atlas para Negócios Enquadramento de aprendizagem.txt",
+      "target": "materiais/Fontes originais/Dia 01/aula 01 Atlas para Negócios Enquadramento de aprendizagem.txt",
+      "sha256": "2ffeb9956b21386a813e74c402194c1603dda63c9cc1e58e0696e14cf23b2757"
+    },
+    {
+      "source": "materiais/materiais dia 01/dia 01 chat.txt",
+      "target": "materiais/Fontes originais/Dia 01/dia 01 chat.txt",
+      "sha256": "2f0c4be583d0a3c745bbd2fca9a9edc573089c92419fbb29fa353c51620c17b3"
+    },
+    {
+      "source": "materiais/materiais dia 02/dia 02 chat.txt",
+      "target": "materiais/Fontes originais/Dia 02/dia 02 chat.txt",
+      "sha256": "1141049cd216b6738e8780741bf2c4840645890b73524d8313debd944115a2bf"
+    }
+  ],
+  "txtPairs": [
+    {
+      "md": "materiais/organizados/00 - LEIA-ME.md",
+      "txt": "materiais/organizados/00 - LEIA-ME.txt"
+    },
+    {
+      "md": "materiais/organizados/Complementares/MD/A25 - Materiais.md",
+      "txt": "materiais/organizados/Complementares/TXT/A25 - Materiais.txt"
+    },
+    {
+      "md": "materiais/organizados/Dia 01/MD/00 - Indice.md",
+      "txt": "materiais/organizados/Dia 01/TXT/00 - Indice.txt"
+    },
+    {
+      "md": "materiais/organizados/Dia 01/MD/A01 - Materiais.md",
+      "txt": "materiais/organizados/Dia 01/TXT/A01 - Materiais.txt"
+    },
+    {
+      "md": "materiais/organizados/Dia 01/MD/A02 - Materiais.md",
+      "txt": "materiais/organizados/Dia 01/TXT/A02 - Materiais.txt"
+    },
+    {
+      "md": "materiais/organizados/Dia 01/MD/A03 - Materiais.md",
+      "txt": "materiais/organizados/Dia 01/TXT/A03 - Materiais.txt"
+    },
+    {
+      "md": "materiais/organizados/Dia 01/MD/A04 - Materiais.md",
+      "txt": "materiais/organizados/Dia 01/TXT/A04 - Materiais.txt"
+    },
+    {
+      "md": "materiais/organizados/Dia 01/MD/A05 - Materiais.md",
+      "txt": "materiais/organizados/Dia 01/TXT/A05 - Materiais.txt"
+    },
+    {
+      "md": "materiais/organizados/Dia 01/MD/A06 - Materiais.md",
+      "txt": "materiais/organizados/Dia 01/TXT/A06 - Materiais.txt"
+    },
+    {
+      "md": "materiais/organizados/Dia 01/MD/A07 - Materiais.md",
+      "txt": "materiais/organizados/Dia 01/TXT/A07 - Materiais.txt"
+    },
+    {
+      "md": "materiais/organizados/Dia 01/MD/A08 - Materiais.md",
+      "txt": "materiais/organizados/Dia 01/TXT/A08 - Materiais.txt"
+    },
+    {
+      "md": "materiais/organizados/Dia 01/MD/A09 - Materiais.md",
+      "txt": "materiais/organizados/Dia 01/TXT/A09 - Materiais.txt"
+    },
+    {
+      "md": "materiais/organizados/Dia 01/MD/A10 - Materiais.md",
+      "txt": "materiais/organizados/Dia 01/TXT/A10 - Materiais.txt"
+    },
+    {
+      "md": "materiais/organizados/Dia 01/MD/A11 - Materiais.md",
+      "txt": "materiais/organizados/Dia 01/TXT/A11 - Materiais.txt"
+    },
+    {
+      "md": "materiais/organizados/Dia 01/MD/A12 - Materiais.md",
+      "txt": "materiais/organizados/Dia 01/TXT/A12 - Materiais.txt"
+    },
+    {
+      "md": "materiais/organizados/Dia 01/MD/Prompts/A02 - Prompt do site - copia de participante.md",
+      "txt": "materiais/organizados/Dia 01/TXT/Prompts/A02 - Prompt do site - copia de participante.txt"
+    },
+    {
+      "md": "materiais/organizados/Dia 01/MD/Prompts/A05 - Briefing - trecho ditado.md",
+      "txt": "materiais/organizados/Dia 01/TXT/Prompts/A05 - Briefing - trecho ditado.txt"
+    },
+    {
+      "md": "materiais/organizados/Dia 01/MD/Prompts/A06 - Prompt BMC - original do Ruan.md",
+      "txt": "materiais/organizados/Dia 01/TXT/Prompts/A06 - Prompt BMC - original do Ruan.txt"
+    },
+    {
+      "md": "materiais/organizados/Dia 01/MD/Prompts/A07 - Pesquisa de mercado - copia do chat.md",
+      "txt": "materiais/organizados/Dia 01/TXT/Prompts/A07 - Pesquisa de mercado - copia do chat.txt"
+    },
+    {
+      "md": "materiais/organizados/Dia 01/MD/Prompts/A07 - Pesquisa de mercado - trecho ditado.md",
+      "txt": "materiais/organizados/Dia 01/TXT/Prompts/A07 - Pesquisa de mercado - trecho ditado.txt"
+    },
+    {
+      "md": "materiais/organizados/Dia 01/MD/Prompts/A11 - Sistema de gestao - trecho ditado.md",
+      "txt": "materiais/organizados/Dia 01/TXT/Prompts/A11 - Sistema de gestao - trecho ditado.txt"
+    },
+    {
+      "md": "materiais/organizados/Dia 02/MD/00 - Indice.md",
+      "txt": "materiais/organizados/Dia 02/TXT/00 - Indice.txt"
+    },
+    {
+      "md": "materiais/organizados/Dia 02/MD/A13 - Materiais.md",
+      "txt": "materiais/organizados/Dia 02/TXT/A13 - Materiais.txt"
+    },
+    {
+      "md": "materiais/organizados/Dia 02/MD/A14 - Materiais.md",
+      "txt": "materiais/organizados/Dia 02/TXT/A14 - Materiais.txt"
+    },
+    {
+      "md": "materiais/organizados/Dia 02/MD/A15 - Materiais.md",
+      "txt": "materiais/organizados/Dia 02/TXT/A15 - Materiais.txt"
+    },
+    {
+      "md": "materiais/organizados/Dia 02/MD/A16 - Materiais.md",
+      "txt": "materiais/organizados/Dia 02/TXT/A16 - Materiais.txt"
+    },
+    {
+      "md": "materiais/organizados/Dia 02/MD/A17 - Materiais.md",
+      "txt": "materiais/organizados/Dia 02/TXT/A17 - Materiais.txt"
+    },
+    {
+      "md": "materiais/organizados/Dia 02/MD/A18 - Materiais.md",
+      "txt": "materiais/organizados/Dia 02/TXT/A18 - Materiais.txt"
+    },
+    {
+      "md": "materiais/organizados/Dia 02/MD/A19 - Materiais.md",
+      "txt": "materiais/organizados/Dia 02/TXT/A19 - Materiais.txt"
+    },
+    {
+      "md": "materiais/organizados/Dia 02/MD/A20 - Materiais.md",
+      "txt": "materiais/organizados/Dia 02/TXT/A20 - Materiais.txt"
+    },
+    {
+      "md": "materiais/organizados/Dia 02/MD/A21 - Materiais.md",
+      "txt": "materiais/organizados/Dia 02/TXT/A21 - Materiais.txt"
+    },
+    {
+      "md": "materiais/organizados/Dia 02/MD/A22 - Materiais.md",
+      "txt": "materiais/organizados/Dia 02/TXT/A22 - Materiais.txt"
+    },
+    {
+      "md": "materiais/organizados/Dia 02/MD/A23 - Materiais.md",
+      "txt": "materiais/organizados/Dia 02/TXT/A23 - Materiais.txt"
+    },
+    {
+      "md": "materiais/organizados/Dia 02/MD/A24 - Materiais.md",
+      "txt": "materiais/organizados/Dia 02/TXT/A24 - Materiais.txt"
+    },
+    {
+      "md": "materiais/organizados/Dia 02/MD/Prompts/A15 - Autoaprimoramento - copia do chat.md",
+      "txt": "materiais/organizados/Dia 02/TXT/Prompts/A15 - Autoaprimoramento - copia do chat.txt"
+    },
+    {
+      "md": "materiais/organizados/Dia 02/MD/Prompts/A18-A19 - Busca de leads - recuperacao do chat.md",
+      "txt": "materiais/organizados/Dia 02/TXT/Prompts/A18-A19 - Busca de leads - recuperacao do chat.txt"
+    },
+    {
+      "md": "materiais/organizados/Dia 02/MD/Prompts/A21 - Landing page - trecho ditado.md",
+      "txt": "materiais/organizados/Dia 02/TXT/Prompts/A21 - Landing page - trecho ditado.txt"
+    },
+    {
+      "md": "materiais/organizados/Dia 02/MD/Prompts/A22 - Dez criativos - trecho ditado.md",
+      "txt": "materiais/organizados/Dia 02/TXT/Prompts/A22 - Dez criativos - trecho ditado.txt"
+    },
+    {
+      "md": "materiais/organizados/Referencias/Links administrativos.md",
+      "txt": "materiais/organizados/Referencias/Links administrativos.txt"
+    },
+    {
+      "md": "materiais/organizados/Referencias/Materiais compartilhados.md",
+      "txt": "materiais/organizados/Referencias/Materiais compartilhados.txt"
+    },
+    {
+      "md": "materiais/organizados/Referencias/Pendencias.md",
+      "txt": "materiais/organizados/Referencias/Pendencias.txt"
+    }
+  ],
+  "materialMoves": [
+    {
+      "source": "materiais/organizados/Catalogo de links.csv",
+      "target": "materiais/organizados/Referencias/Catalogo de links.csv"
+    },
+    {
+      "source": "materiais/organizados/Complementares/A25 - Materiais.md",
+      "target": "materiais/organizados/Complementares/MD/A25 - Materiais.md"
+    },
+    {
+      "source": "materiais/organizados/Dia 01/00 - Indice.md",
+      "target": "materiais/organizados/Dia 01/MD/00 - Indice.md"
+    },
+    {
+      "source": "materiais/organizados/Dia 01/A01 - Materiais.md",
+      "target": "materiais/organizados/Dia 01/MD/A01 - Materiais.md"
+    },
+    {
+      "source": "materiais/organizados/Dia 01/A02 - Materiais.md",
+      "target": "materiais/organizados/Dia 01/MD/A02 - Materiais.md"
+    },
+    {
+      "source": "materiais/organizados/Dia 01/A03 - Materiais.md",
+      "target": "materiais/organizados/Dia 01/MD/A03 - Materiais.md"
+    },
+    {
+      "source": "materiais/organizados/Dia 01/A04 - Materiais.md",
+      "target": "materiais/organizados/Dia 01/MD/A04 - Materiais.md"
+    },
+    {
+      "source": "materiais/organizados/Dia 01/A05 - Materiais.md",
+      "target": "materiais/organizados/Dia 01/MD/A05 - Materiais.md"
+    },
+    {
+      "source": "materiais/organizados/Dia 01/A06 - Materiais.md",
+      "target": "materiais/organizados/Dia 01/MD/A06 - Materiais.md"
+    },
+    {
+      "source": "materiais/organizados/Dia 01/A07 - Materiais.md",
+      "target": "materiais/organizados/Dia 01/MD/A07 - Materiais.md"
+    },
+    {
+      "source": "materiais/organizados/Dia 01/A08 - Materiais.md",
+      "target": "materiais/organizados/Dia 01/MD/A08 - Materiais.md"
+    },
+    {
+      "source": "materiais/organizados/Dia 01/A09 - Materiais.md",
+      "target": "materiais/organizados/Dia 01/MD/A09 - Materiais.md"
+    },
+    {
+      "source": "materiais/organizados/Dia 01/A10 - Materiais.md",
+      "target": "materiais/organizados/Dia 01/MD/A10 - Materiais.md"
+    },
+    {
+      "source": "materiais/organizados/Dia 01/A11 - Materiais.md",
+      "target": "materiais/organizados/Dia 01/MD/A11 - Materiais.md"
+    },
+    {
+      "source": "materiais/organizados/Dia 01/A12 - Materiais.md",
+      "target": "materiais/organizados/Dia 01/MD/A12 - Materiais.md"
+    },
+    {
+      "source": "materiais/organizados/Dia 01/Prompts/A02 - Prompt do site - copia de participante.md",
+      "target": "materiais/organizados/Dia 01/MD/Prompts/A02 - Prompt do site - copia de participante.md"
+    },
+    {
+      "source": "materiais/organizados/Dia 01/Prompts/A05 - Briefing - trecho ditado.md",
+      "target": "materiais/organizados/Dia 01/MD/Prompts/A05 - Briefing - trecho ditado.md"
+    },
+    {
+      "source": "materiais/organizados/Dia 01/Prompts/A06 - Prompt BMC - original do Ruan.md",
+      "target": "materiais/organizados/Dia 01/MD/Prompts/A06 - Prompt BMC - original do Ruan.md"
+    },
+    {
+      "source": "materiais/organizados/Dia 01/Prompts/A07 - Pesquisa de mercado - copia do chat.md",
+      "target": "materiais/organizados/Dia 01/MD/Prompts/A07 - Pesquisa de mercado - copia do chat.md"
+    },
+    {
+      "source": "materiais/organizados/Dia 01/Prompts/A07 - Pesquisa de mercado - trecho ditado.md",
+      "target": "materiais/organizados/Dia 01/MD/Prompts/A07 - Pesquisa de mercado - trecho ditado.md"
+    },
+    {
+      "source": "materiais/organizados/Dia 01/Prompts/A11 - Sistema de gestao - trecho ditado.md",
+      "target": "materiais/organizados/Dia 01/MD/Prompts/A11 - Sistema de gestao - trecho ditado.md"
+    },
+    {
+      "source": "materiais/organizados/Dia 02/00 - Indice.md",
+      "target": "materiais/organizados/Dia 02/MD/00 - Indice.md"
+    },
+    {
+      "source": "materiais/organizados/Dia 02/A13 - Materiais.md",
+      "target": "materiais/organizados/Dia 02/MD/A13 - Materiais.md"
+    },
+    {
+      "source": "materiais/organizados/Dia 02/A14 - Materiais.md",
+      "target": "materiais/organizados/Dia 02/MD/A14 - Materiais.md"
+    },
+    {
+      "source": "materiais/organizados/Dia 02/A15 - Materiais.md",
+      "target": "materiais/organizados/Dia 02/MD/A15 - Materiais.md"
+    },
+    {
+      "source": "materiais/organizados/Dia 02/A16 - Materiais.md",
+      "target": "materiais/organizados/Dia 02/MD/A16 - Materiais.md"
+    },
+    {
+      "source": "materiais/organizados/Dia 02/A17 - Materiais.md",
+      "target": "materiais/organizados/Dia 02/MD/A17 - Materiais.md"
+    },
+    {
+      "source": "materiais/organizados/Dia 02/A18 - Materiais.md",
+      "target": "materiais/organizados/Dia 02/MD/A18 - Materiais.md"
+    },
+    {
+      "source": "materiais/organizados/Dia 02/A19 - Materiais.md",
+      "target": "materiais/organizados/Dia 02/MD/A19 - Materiais.md"
+    },
+    {
+      "source": "materiais/organizados/Dia 02/A20 - Materiais.md",
+      "target": "materiais/organizados/Dia 02/MD/A20 - Materiais.md"
+    },
+    {
+      "source": "materiais/organizados/Dia 02/A21 - Materiais.md",
+      "target": "materiais/organizados/Dia 02/MD/A21 - Materiais.md"
+    },
+    {
+      "source": "materiais/organizados/Dia 02/A22 - Materiais.md",
+      "target": "materiais/organizados/Dia 02/MD/A22 - Materiais.md"
+    },
+    {
+      "source": "materiais/organizados/Dia 02/A23 - Materiais.md",
+      "target": "materiais/organizados/Dia 02/MD/A23 - Materiais.md"
+    },
+    {
+      "source": "materiais/organizados/Dia 02/A24 - Materiais.md",
+      "target": "materiais/organizados/Dia 02/MD/A24 - Materiais.md"
+    },
+    {
+      "source": "materiais/organizados/Dia 02/Prompts/A15 - Autoaprimoramento - copia do chat.md",
+      "target": "materiais/organizados/Dia 02/MD/Prompts/A15 - Autoaprimoramento - copia do chat.md"
+    },
+    {
+      "source": "materiais/organizados/Dia 02/Prompts/A18-A19 - Busca de leads - recuperacao do chat.md",
+      "target": "materiais/organizados/Dia 02/MD/Prompts/A18-A19 - Busca de leads - recuperacao do chat.md"
+    },
+    {
+      "source": "materiais/organizados/Dia 02/Prompts/A21 - Landing page - trecho ditado.md",
+      "target": "materiais/organizados/Dia 02/MD/Prompts/A21 - Landing page - trecho ditado.md"
+    },
+    {
+      "source": "materiais/organizados/Dia 02/Prompts/A22 - Dez criativos - trecho ditado.md",
+      "target": "materiais/organizados/Dia 02/MD/Prompts/A22 - Dez criativos - trecho ditado.md"
+    },
+    {
+      "source": "materiais/organizados/Links administrativos.md",
+      "target": "materiais/organizados/Referencias/Links administrativos.md"
+    },
+    {
+      "source": "materiais/organizados/Materiais compartilhados.md",
+      "target": "materiais/organizados/Referencias/Materiais compartilhados.md"
+    },
+    {
+      "source": "materiais/organizados/Pendencias.md",
+      "target": "materiais/organizados/Referencias/Pendencias.md"
+    }
+  ]
+}

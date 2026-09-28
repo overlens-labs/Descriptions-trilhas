@@ -1,0 +1,864 @@
+00:00:16	Will Fernandes:	bom dia
+00:00:32	Elenice Veiga Ortiz:	Bom dia 😃 🚀
+00:00:36	Ana Carol:	Bom dia, bom dia, bom diiia, galerinha
+00:00:52	Klara Kopi:	Bom dia :)
+00:00:53	Alisson Duarte:	Bom dia
+00:00:56	Bruno Stefan de Macedo Moura:	Bom dia
+00:01:11	Denise de Maio:	bom dia! ☀️
+00:01:17	Gisa Ferreira:	Bom dia turma
+00:01:31	Nelly Miranda:	Boooooom dia !!
+00:01:39	ozana:	bom dia
+00:02:06	Denise de Maio:	como passou rápido essas quatro semanas!
+00:02:52	ozana:	voou
+00:02:58	Elenice Veiga Ortiz:	Hoje é dia de derreter o cérebro 😂😂😂
+00:03:21	Mônica Lourenço:	eu pisquei e já estamos na 4ª aula
+00:03:30	Mônica Lourenço:	:O
+00:03:33	Mara Aguiar:	Bom diaaaaa 🤩
+00:04:34	Denise de Maio:	hoje é #over atrás de #over!
+00:05:29	Caio R Alves:	Buenas
+00:05:30	Leliane:	Bom diaaa!!
+00:05:32	Denise de Maio:	preparada, mas não para o fim!
+00:05:37	Jailson Rodrigues:	Bom Dia
+00:05:42	Mônica Lourenço:	to não :( quero mais
+00:05:57	Mônica Lourenço:	Olá, estou transcrevendo esta chamada com minha extensão Tactiq AI. https://tactiq.io/r/transcribing
+00:06:03	Ana Carol:	Olá, estou transcrevendo esta chamada com minha extensão Tactiq AI. https://tactiq.io/r/transcribing
+00:06:18	Ed Goularth:	Bom dia abeiada!
+00:06:31	Miguel Cutri:	Abrindo meu CNPJ, quero muito essa api oficial da meta kkkk
+00:06:32	Phael Marchetti:	Fiz um sistema legal e outro que não deu certo ainda hahahaah
+00:06:34	Nuno da Typemedia®:	Usei a API do Cora para pagamento, API DO CEP e API DO CNPJ..
+00:06:44	Miguel Cutri:	Olá, estou transcrevendo esta chamada com minha extensão Tactiq AI. https://tactiq.io/r/transcribing
+00:06:57	Nuno da Typemedia®:	Eu vi.. rsrs
+00:06:59	Nuno da Typemedia®:	vai dar certo
+00:07:08	Ana Carol:	NunoAI
+00:07:11	Emanuel Santana:	01 - Pesquisa e Geração de Contéudo
+02 - Mapa de Clientes
+00:07:12	Vera Medina:	Finalizei minha plataforma completa :-) iniciando já as imersoes em Setembro ...
+00:07:16	Ed Goularth:	Terminei a trilha da sintropia e pedi pro claude me ajudar a organizar meu projeto por tempo energia gasta e clareza que o claude trouxe
+00:07:22	Miguel Cutri:	Fiz uma pancada de scrap com apify
+00:07:25	Vera Medina:	Hi, I'm transcribing this call with my Tactiq AI Extension. https://tactiq.io/r/transcribing
+00:07:33	Bianca Ramos:	Eu praticamente automatizei toda minha vida e trabalho. Estava com problemas para enxergar o que seria a minha própria empresa, agora tenho sistema de crm, criação de materiais para social media, análise de projetos, criação de identidades visuais e tenho uma plataforma completa como assistente.
+00:08:11	Ana Carol:	Reacted to "Eu praticamente au..." with 👏
+00:08:16	Will Fernandes:	rodei análise perfil com scrapper de instagram do apify pra gerar relatório gerencial e insights que uma plataforma de 9k não entregava
+00:08:19	Camila Mendes:	Fechei uma sociedade, quando apresentei uma solução de SGI para meus sócios
+00:08:37	Ana Carol:	Reacted to "rodei análise per..." with ⚡
+00:08:54	Denise de Maio:	o que é scraper?
+00:09:02	Bianca Ramos:	e agora estou aplicando o que aprendi dentro da agencia que estou trabalhando.
+00:09:17	Will Fernandes:	Replying to "o que é scraper?"
+
+ferramenta que puxa dados de alguma pagina
+00:09:23	Ana Carol:	Reacted to "ferramenta que pux..." with ⚡
+00:09:39	Ana Carol:	Replying to "rodei análise per..."
+
+to precisando usar isso... vou pesquisar
+00:09:40	Mônica Lourenço:	eu ainda estou meio enrolada, mas eu fiz aquele das pesquisas e o reultado está muito bom, falta eu publicar rsrsrs; estou criando um sistema para as médicas usarem para inspiração de conteúdo nos stories delas; ajustei o meu Business OS com tudo da minha marca
+00:09:43	Miguel Cutri:	Ruan, sobre aqueles ranges da api oficial: Dá pra fazer até 1000 abordagens fria por dia, eu entendi certo?
+00:09:46	Denise de Maio:	Não tinha como não ver essa aula ao vivo!
+00:09:46	Mara Aguiar:	coloquei 3 sites no ar, sucesso total...Sem contar o universo de possibilidades que agora tenho para explorar 🤩
+00:09:46	Mônica Lourenço:	terminei meu site
+00:09:53	Bruno Lujan:	Aulão ontem, que isso…. Alugou um triplex na mente
+00:09:55	Nuno da Typemedia®:	Replying to "NunoAI"
+
+rsrsrsrs
+00:10:01	Gustavo Henrique Yanetzky:	Replying to "o que é scraper?"
+
+Como no meu caso, que tenho ecomm, é bom pra puxar dados de produtos, concorrentes e afins.
+00:10:15	Phael Marchetti:	Eu estudei bastante hahahaha
+00:10:19	Bianca Ramos:	Reacted to "Eu estudei bastante hahahaha" with 😂
+00:10:22	Phael Marchetti:	Mais estudei que criei
+00:10:23	Bianca Ramos:	Replying to "Eu estudei bastante hahahaha"
+
+eu tbm
+00:10:29	Miguel Cutri:	isso, de whatsapp
+00:10:31	Phael Marchetti:	Reacted to "Eu estudei bastante hahahaha" with 😂
+00:10:31	Gustavo Henrique Yanetzky:	Replying to "o que é scraper?"
+
+Eu queria muito um bom do Mercado Livre, mas com ele é difícil fazer, eles tem uns anti boots que impedem
+00:10:42	Ana Carol:	Reacted to "coloquei 3 sites n..." with ❤️
+00:10:43	Miguel Cutri:	da pra fazer prospecção de até 1000+  leads por dia?
+00:11:12	Ana Carol:	Replying to "Aulão ontem, que ..."
+
+não consegui ver ao vivo... fiquei triste... meu chefe deixa td pra última hora e me encheu de trabalho ontem rs
+00:11:17	Ana Carol:	Reacted to "Eu estudei bastant..." with 😂
+00:11:24	Guilherme Castro:	qual a ferramenta , que vc usa para pesquisa de concorrente s
+00:11:29	Vinícius Nunes Azevedo:	Estou finalizando um sistema zero-knowledge para registro, guarda e uso ubiquo em qualquer dispositivo em tempo real.
+Agora estou acoplando IA para tagueamento e GraphRAG diretamente no navegador, client-side-only.
+00:11:32	Mônica Lourenço:	sim, tem uma outra coisa que fiz que foi mapear todos os meus processos, para identificar o que de fato posso automarizar
+00:11:35	Graziela Peres:	Eu. minha pesquisa esta funcional.uso apify e outras APIs, mas eu fiz alguns agentes em paralelo, tenho uma automação no Cowork e outra na routines. Fiz cowork pq na época não tinha routines. Vc acha que devo mudar para routines
+00:12:08	Mônica Lourenço:	Replying to "sim, tem uma outra..."
+
+ai minha parede está cheia de post it, precisei pra visualizar a operação
+00:12:09	ozana:	O claude depois de uma auditoria me fez voltar para trás no meu projeto ... não consegui aplicar ... mas dei uma boa estudada
+00:12:26	Vera Medina:	qual seria uma substituição ao Supabase para quem tem muitos projetos?
+00:12:39	Bianca Ramos:	Ruan, tem algum lugar seu que funcionaria como um blog? Com as novidades de mercado, o que você tem pensado, etc etc...
+00:12:42	Ana Carol:	Replying to "sim, tem uma outra..."
+
+eu fiz isso na primeira aula e fiquei com medo do tanto de coisa hahahaha
+00:13:29	Alessandro Paris:	Jun to com um outro participante aqui do curso, desenvolvemos uma automação para Leitura de informações no Monday.com que vai me permitir criar comunicados rápidos e pertinentes para meus clientes
+00:13:36	Ruan Braz:	ruanbraz.com
+00:14:09	Will Fernandes:	Replying to "rodei análise perfil com scrapper de instagram do apify pra gerar relatório gerencial e insights que uma plataforma de 9k não entregava"
+
+só precisa pedir pra ele ler a documentação antes. por aqui eu fui rodar pra um mês e ele gastou quase todo o saldo pra puxar todos os quase 1000 posts do perfil
+00:14:26	Gisa Ferreira:	Apanhei pra configurar o Hermes na VPS, mas finalmente consegui automatizar com APIs os emails, agenda, pesquisas, comandos via telegrama e até meu spotify ;)
+00:14:30	Ana Carol:	Reacted to "só precisa pedir ..." with 🤣
+00:14:43	Ana Paula Castro:	Replying to "rodei análise perfil..."
+
+Desenvolvi um hub centralizado para unificar a identidade de marca e os recursos visuais das nossas plataformas LMS. A ferramenta elimina gargalos de comunicação e garante autonomia de produção
+00:14:44	Gisa Ferreira:	Fiquei um dia, mas deu certo
+00:15:17	Will Fernandes:	Replying to "Apanhei pra configurar o Hermes na VPS, mas finalmente consegui automatizar com APIs os emails, agenda, pesquisas, comandos via telegrama e até meu spotify ;)"
+
+eu aqui no console tentando configurar desde cedo haha
+00:15:35	Gustavo Henrique Yanetzky:	Eu tenho uma automação via API pra finalizar que vai ser top. Eu já criei a API com meu ERP e com o Mercado Livre, ai eu preciso finalizar um agente que atualize o preço do anúncio de acordo com a dinâmica de concorrência.
+
+Já criei a API e já criei ua tela de controle, mas ainda não automatizei essas mudança de preço dentro do ML, dá um pouco de medo dele fazer M
+00:15:36	ozana:	na minha abre galaxias
+00:15:45	Gisa Ferreira:	Reacted to "eu aqui no console t..." with 😂
+00:16:46	Gisa Ferreira:	Replying to "Apanhei pra configur..."
+
+@Will Fernandes vale a pena
+00:17:06	Denise de Maio:	peguei essse post que alguém falou aqui que fez do strapper para análise do Instagram e coloquei no Claude Code e pedi para ele me ajudar a fazer aqui tb : ) Já está trabalhando.
+00:17:10	ozana:	e de vez em quando caio em uns buracos negros tbem
+00:17:16	Ana Carol:	Reacted to "peguei essse post ..." with ⚡
+00:17:24	Ana Carol:	Reacted to "rsrsrsrs" with ⚡
+00:18:32	Denise de Maio:	o conceito de degraus, blocos, alavancas e gargalos foi o que mais me destravou.
+00:19:17	Will Fernandes:	Reacted to "peguei essse post que alguém falou aqui que fez do strapper para análise do Instagram e coloquei no Claude Code e pedi para ele me ajudar a fazer aqui tb : ) Já está trabalhando." with ⚡
+00:23:12	Ed Goularth:	Replying to "Eu praticamente au..."
+
+Vou transformar seu coment num prompt. Preciso fazer isso que vc fez urgente. E nao sei como fazer!
+00:24:37	Denise de Maio:	Replying to "Eu praticamente automatizei toda minha vida e trabalho. Estava com problemas para enxergar o que seria a minha própria empresa, agora tenho sistema de crm, criação de materiais para social media, análise de projetos, criação de identidades visuais e tenho uma plataforma completa como assistente."
+
+Ed. começa por partes. Não pensa no todo, mas em cada tijolo para alcançar o que vc precisa. A 2a aula destrava demais, vale rever com tempo.
+00:24:56	Will Fernandes:	Reacted to "Eu praticamente automatizei toda minha vida e trabalho. Estava com problemas para enxergar o que seria a minha própria empresa, agora tenho sistema de crm, criação de materiais para social media, análise de projetos, criação de identidades visuais e tenho uma plataforma completa como assistente." with 👏
+00:25:30	Gustavo Henrique Yanetzky:	Reacted to "Ed. começa por partes. Não pensa no todo, mas em cada tijolo para alcançar o que vc precisa. A 2a aula destrava demais, vale rever com tempo." with ❤️
+00:25:41	Gustavo Henrique Yanetzky:	Reacted to "o conceito de degraus, blocos, alavancas e gargalos foi o que mais me destravou." with ❤️
+00:27:24	Denise de Maio:	#over
+00:27:24	Will Fernandes:	#over
+00:27:24	ozana:	#over
+00:27:25	Gisa Ferreira:	#OVER
+00:27:25	Ana Carol:	#over
+00:27:25	Bianca Ramos:	#over
+00:27:26	Cristian Cunha:	#over
+00:27:26	Mônica Lourenço:	#over
+00:27:30	Jailson Rodrigues:	#over
+00:27:32	Brenda Araujo:	#over
+00:27:37	Klara Kopi:	#over
+00:28:31	ozana:	bom mesmo é o SOS da Nanda
+00:31:09	Denise de Maio:	link do figma pessoal: https://www.figma.com/board/pWajXLautZ6pMWOUcQ7t3O/Bootcamp---Swarm?node-id=613-121&p=f
+00:33:41	Ana Carol:	Eu tive q deletar do meu computador a automação de research pq tava ocupando um espaço absurdo... agora preciso configurar meu hd externo aqui no mac
+00:34:26	Jaaairo:	Baixei o gemma mais fraquinho e ainda assim meu note não tankou
+00:35:06	ozana:	custa uns 50 paus ...
+00:35:32	Denise de Maio:	Reacted to "Eu tive q deletar do meu computador a automação de research pq tava acupando um espaço absurdo... agora preciso configurar meu hd externo aqui no mac" with 😯
+00:35:36	Denise de Maio:	Reacted to "Baixei o gemma mais fraquinho e ainda assim meu note não tankou" with 😯
+00:36:55	Denise de Maio:	mas na VPS o Claude tb não guarda os dados?
+00:37:14	Denise de Maio:	entendi
+00:37:39	Gustavo Henrique Yanetzky:	Pessoal, alguém que usa o Hermes, dá pra conectar minha assinatura do Claude nele? Ou é só via API? E usa no plano gratuito do Hermes?
+00:38:03	Denise de Maio:	mas dá para confiar nesses modelos opensource? tenho sempre receio...
+00:38:24	Cristian Cunha:	e quanto à qualidade dos resultados? uma vez que cada modelo pode variar muito
+00:43:27	Will Fernandes:	Replying to "Pessoal, alguém que usa o Hermes, dá pra conectar minha assinatura do Claude nele? Ou é só via API? E usa no plano gratuito do Hermes?"
+
+o Ruan tem um video falando sobre, acho que claude no hermes só via API
+00:44:55	Emanuel Santana:	Ruan, o que é aquilo ao lado do seu modelo no Claude (web)?
+00:45:43	Emanuel Santana:	Além das manuteção e atualizações dos sistemas.
+00:47:33	Bruno Tortelli:	Replying to "Pessoal, alguém que usa o Hermes, dá pra conectar minha assinatura do Claude nele? Ou é só via API? E usa no plano gratuito do Hermes?"
+
+no hermes free pelo que entendi, só modelos free, assinando com eles ai libera modelos pagos.
+00:49:31	Denise de Maio:	Demais essa explicação!
+00:49:35	Gisa Ferreira:	Como é bom enxergar como funciona!!!
+00:51:05	Gustavo Henrique Yanetzky:	Reacted to "no hermes free pelo que entendi, só modelos free, assinando com eles ai libera modelos pagos." with 🫡
+00:51:07	Gustavo Henrique Yanetzky:	Reacted to "o Ruan tem um video falando sobre, acho que claude no hermes só via API" with 🫡
+00:51:20	jose alves:	E o sistema Ubuntu?
+00:57:16	Marcelo Gomes:	Vixi, vou ter resetar
+00:59:19	Denise de Maio:	Reacted to "Vixi, vou ter resetar" with 😅
+00:59:33	Emanuel Santana:	Também vou ter que resetar.
+00:59:51	Gustavo Henrique Yanetzky:	Reacted to "Vixi, vou ter resetar" with 😂
+00:59:52	Gisa Ferreira:	tá explicado porque me custou 1 dia 😂
+01:00:15	Denise de Maio:	mas o Ruan indicou instalar já com o Hermes...não entendi
+01:00:37	Emanuel Santana:	Quem já iniciou, faz o rebuild agora?
+01:00:39	Denise de Maio:	blz
+01:02:27	Raquel | Valiante Produções:	Replying to "mas o Ruan indicou instalar já com o Hermes...não entendi"
+
+Simm, como faz Ruan?
+01:02:32	Raquel | Valiante Produções:	Reacted to "mas o Ruan indicou instalar já com o Hermes...não entendi" with 👆
+01:04:54	Denise de Maio:	o meu ta aparecendo dois... será que fiz duas assinaturas sem perceber? 😯
+01:05:03	ozana:	passei por isso no paperclip
+01:06:45	Renato Stegun:	/exit
+01:09:47	Denise de Maio:	paguei sim!
+01:09:57	Denise de Maio:	ah ok
+01:10:00	Will Fernandes:	tava apanhando aqui, vou seguir do zero de novo 😅
+01:10:00	Denise de Maio:	entendi
+01:10:09	Emanuel Santana:	Ruan, o que é aquilo ao lado do seu modelo no Claude (web)?
+01:10:19	Vera Medina:	eu usei hostinger...criei no gerenciador do docker, pode ser? para nao perder as outras coisas que eu tinha na VPS
+01:10:32	Vera Medina:	Hi, I'm transcribing this call with my Tactiq AI Extension. https://tactiq.io/r/transcribing
+01:10:35	gustavenric:	Aconteceu aqui, tenho 2 pendencias com chamado aberto com o suporte deles, aguardando…
+01:10:37	Emanuel Santana:	kkkkkk
+01:11:14	Diego Santana:	Olá, estou transcrevendo esta chamada com minha extensão Tactiq AI. https://tactiq.io/r/transcribing
+01:11:14	Maria Eduarda Moraes:	Olá, estou transcrevendo esta chamada com minha extensão Tactiq AI. https://tactiq.io/r/transcribing
+01:11:14	Michele:	Olá, estou transcrevendo esta chamada com minha extensão Tactiq AI. https://tactiq.io/r/transcribing
+01:11:15	Daniel Almeida:	Olá, estou transcrevendo esta chamada com minha extensão Tactiq AI. https://tactiq.io/r/transcribing
+01:11:43	Graziela Peres:	Eu fiz SO, que  foi a recomendação do Claude. Ubuntu
+01:11:44	Renato Stegun:	Eu tinha configurado com o Hermes e estava funcionando com o Telegram até. Mas vou de rebuild tb. :) Vamos aprender mais. :)
+01:12:01	Patrick Paraguassú:	@Ruan Braz qualquer um desses é bom?
+01:12:04	Denise de Maio:	ele demora um pouco para atualizar para o ubuntu?
+01:12:16	Patrick Paraguassú:	Sim
+01:12:22	Gisa Ferreira:	o Hermes não roda no Ubuntu, certo Ruan?
+01:12:55	Denise de Maio:	Reacted to "o Hermes não roda no Ubuntu, certo Ruan?" with 😯
+01:13:04	Patrick Paraguassú:	Ah perfeito! obg
+01:13:04	Vera Medina:	eu usei com o hostinger com gerenciador do docker, mas fiz tudo a mão , pode ser ?
+01:13:17	Gisa Ferreira:	o sistema recusou quando tentei instalar o Hermes no Ubuntu, disse que precisava ser Alma LInux
+01:14:14	Denise de Maio:	comigo aconteceu isso. e eu não avancei.
+01:14:38	Denise de Maio:	ebaaaa
+01:14:38	Rogerio Chinen:	Buzz?
+01:14:43	Bianca Ramos:	o claude ta recusando o hermes, ele pede pra usar créditos extras. Perguntei para o claude e ele disse que a partir de agora materiais de terceiros eles cobram a parte.
+01:14:46	Renato Stegun:	Vambora kkkkk Dá para usar com o OpenRouter?
+01:14:57	Denise de Maio:	mais seguro?
+01:15:08	Vera Medina:	eu estou usando o Claude
+01:15:09	Mariana Lussari:	Ruan, vc acha o Buzz melhor que o Hermes?
+01:15:14	Rogerio Chinen:	Faz sentido usar o hermes + buzz?
+01:15:48	Mariana Lussari:	Obrigada
+01:15:58	Mariana Lussari:	E pode instalar o Buzz e o Hermes na mesma VPS?
+01:16:01	Denise de Maio:	o meu ainda não atualizou
+01:16:03	Bruno Tortelli:	aqui já rebuildou
+01:16:09	Gisa Ferreira:	anthropic fechou tudo, não dá pra usar nenhuma assinatura no hermes, isso me custou U$ 20 até descobrir 😂
+01:16:20	Vera Medina:	Ruan, o docker faz o que, pois usei no hostinger...só par entender
+01:16:42	Mariana Lussari:	E pode instalar o Buzz e o Hermes na mesma VPS?
+01:19:45	jose alves:	Pra ssh o termius é bom?
+01:20:09	Camila Sarmento:	Eu uso Termius
+01:20:52	Renato Stegun:	O meu ainda não voltou do rebuild kkk
+01:21:03	Elenice Veiga Ortiz:	O meu também não
+01:21:12	Woney Malian:	O meu tb nao 🙁
+01:21:21	Graziela Peres:	Pera....
+01:21:38	Graziela Peres:	Qual o comando para abrir o terminal? Estava trocando a sengha e perdi
+01:21:53	Camila Sarmento:	Replying to "Qual o comando para ..."
+
+O seu é windows?
+01:22:04	Miguel Cutri:	é só pedir pro claude se tiverem dúvida galera
+01:22:40	Miguel Cutri:	mas fiquem a vontade para perguntarem asudhasudha
+01:23:36	Will Fernandes:	o meu gritou que tá sob ataque haha
+01:24:29	Mônica Lourenço:	ok
+01:24:31	Miguel Cutri:	ok
+01:24:31	Bianca Ramos:	ouk
+01:24:31	Maria Eduarda Moraes:	ok
+01:24:32	Cristian Cunha:	esse passo a passo é coisa linda de deus
+01:24:32	Renato Stegun:	ok
+01:24:32	Denise de Maio:	ok
+01:24:32	Bruno Stefan de Macedo Moura:	OK
+01:24:33	Gustavo Henrique Yanetzky:	ok
+01:24:33	Renan Ramires:	ok
+01:24:35	Jailson Rodrigues:	ok
+01:24:37	Emanuel Santana:	ok
+01:25:54	Woney Malian:	Reacted to "esse passo a passo é coisa linda de deus" with 👍
+01:26:36	Bianca Ramos:	#over
+01:26:37	Bianca Ramos:	kkkk
+01:26:52	Elenice Veiga Ortiz:	A gravação da aula fica pronta hoje, kkkk já tô perdida
+01:27:03	Renato Stegun:	Reacted to "A gravação da au..." with 😂
+01:27:09	Leliane:	sopa de letrinhas... ahaha
+01:27:47	Denise de Maio:	como abre mesmo o terminal? kkkk
+01:28:05	Renato Stegun:	ainda não
+01:28:05	Marina Ficcio:	o meu ainda não
+01:28:06	Elenice Veiga Ortiz:	Agora terminou huhuuu
+01:28:06	Graziela Peres:	Eu me perdi, onde abro o terminal, 😅
+01:28:07	Mariana Lussari:	Vc clicou em console na tela do hostgator para abrir a tela do terminal?
+01:28:27	Gustavo Henrique Yanetzky:	Replying to "como abre mesmo o te..."
+
+No Mac é cmd + space e digita terminal
+01:28:31	Bianca Ramos:	o meu terminou, já abri o terminal, já acessei o servidor e já fechei tbm .... brincando desiga o mestre kkkk
+01:28:41	Woney Malian:	O meu ainda não terminou, esse corno!
+01:28:43	ozana:	power shell
+01:29:03	Bruno Lujan:	Reacted to "O meu ainda não term..." with 😂
+01:29:10	Bianca Ramos:	#time Windows pq dá pra fazer um pc mais potente com o mesmo valor de um mac s2
+01:29:24	Mônica Lourenço:	Replying to "#time Windows pq d..."
+
+também gostaria de saber
+01:29:36	Phael Marchetti:	Eu tenho os dois mas anos trabalhando com Windows não dá certo… Me perco no cópia e cola…
+01:29:43	Woney Malian:	Ruan, clico no “Reiniciar servidor (reboot)”??
+01:30:07	Woney Malian:	O meu mizeravi ainda nao rebuildou
+01:30:13	Marina Ficcio:	kkkkry ta lento aqui
+[Full message cannot be displayed on this version]
+01:30:23	Renato Stegun:	kkk aqui tb não Woney
+01:30:23	Woney Malian:	Reacted to "kkkkry ta lento aqui" with 👍
+01:30:29	Woney Malian:	Reacted to "kkk aqui tb não Woney" with 🫠
+01:31:00	Camila Sarmento:	Peguei um bolinho com café pra fixar melhor as informações
+01:31:07	Denise de Maio:	o meu não deixou seguir
+01:31:17	Ed Goularth:	o meu nao rolou isso
+01:31:22	Graziela Peres:	Deu certooooo
+01:31:30	Gisa Ferreira:	esse terminal não mostra a digitação, isso dá a impressão de que não liberou e não avançou
+01:31:37	Raquel | Valiante Produções:	Meu tá dando erro:This key is not known by any other names.Are you sure you want to continue connecting (yes/no/[fingerprint])?Host key verification faile
+01:31:39	Gisa Ferreira:	@Denise de Maio
+01:31:41	Renato Stegun:	Hostgator deve estar checando se foi atacado com tanto rebuild solicitado ao mesmo tempo kkkk
+01:32:00	ozana:	ED25519 key fingerprint is SHA256:rOojWu7V/jAdeQSPgNesPDCS0u8UUfkwUDUhzbPeDEs.This key is not known by any other names.Are you sure you want to continue connecting (yes/no/[fingerprint])?
+01:32:21	Mônica Lourenço:	como faz pra digitar a senha?
+01:32:24	Emanuel Santana:	precisa dar espaço depois do -p também
+01:32:26	Gisa Ferreira:	dá a sensação de que não está avançando, é pq a senha não aparece
+01:32:35	Ana Carol:	Replying to "ED25519 key finger..."
+
+yes
+01:32:37	Camila Sarmento:	Reacted to "precisa dar espaço depois do -p também" with ❤️
+01:32:42	Emanuel Santana:	Reacted to "ED25519 key finger..." with 👍
+01:32:54	Mônica Lourenço:	precisa digitar algo antes da senha?
+01:32:58	ozana:	é a senha do hermes?
+01:32:59	Gisa Ferreira:	a claude disse que é por segurança kkkk
+01:33:08	Woney Malian:	O meu deu o rebuild só agora… vou esperar, faz um passo a passo com os ratardatarios depois?
+01:33:09	Cristian Cunha:	é assim porque o linux tenta economizar em todos os tipos de recursos.
+01:33:24	Raquel | Valiante Produções:	Meu tá dando erro:This key is not known by any other names.Are you sure you want to continue connecting (yes/no/[fingerprint])?Host key verification faile
+01:33:37	Ana Carol:	Replying to "Meu tá dando erro..."
+
+digita yes
+01:33:44	Claudia Dumont:	Isso não é erro. Escreve yes
+01:33:46	Bianca Ramos:	xinga o Alan Turing, criou o computador do jeito errado kkkk
+01:33:52	Woney Malian:	Reacted to "xinga o Alan Turing, criou o computador do jeito errado kkkk" with 😅
+01:33:54	Ed Goularth:	meu ta dando permissoao negada
+01:33:55	Ana Carol:	Reacted to "xinga o Alan Turin..." with 😅
+01:34:01	Gustavo Henrique Yanetzky:	Reacted to "xinga o Alan Turing, criou o computador do jeito errado kkkk" with 😂
+01:34:13	Gustavo Henrique Yanetzky:	Replying to "xinga o Alan Turing,..."
+
+Baita referência hein
+01:34:15	Gisa Ferreira:	print —> claude
+01:34:30	Cristian Cunha:	o terminal tem um conceito bem legal: se funcionou, não fala nada. Se deu erro, ele vai avisar. Pegue o erro, printa e pergunta pro claude sobre o que fazer
+01:34:42	Denise de Maio:	o meu agora deu isso...
+[Full message cannot be displayed on this version]
+01:35:00	Denise de Maio:	uhuuul!
+01:35:02	Raquel | Valiante Produções:	Valeu, gente!
+01:35:17	Mônica Lourenço:	ainda não consegui acertar a senha :'(
+01:35:26	Ana Carol:	Replying to "o terminal tem um ..."
+
+mas não mto intuitivo atualmente hahaha
+01:35:43	Camila Sarmento:	Venham pra Vanguarda, a gente sai com a mente fritando e querendo abrir uma sala virtual pra nos ajudarmos heheheh
+01:35:44	ozana:	as vezes qdo a gente põe a senha ela não parece qdo digita ... como resolve?
+01:36:00	Denise de Maio:	Ruan, vc é um dos melhores professores, pq vc nos ensina a pensar e a agir!
+01:36:05	Patrick Paraguassú:	Eu sou personal trainer e estou no propósito haha
+01:36:12	Ed Goularth:	consegui baralho
+01:36:19	Bianca Ramos:	EU QUERO A VANGUARDAAAA
+01:36:27	Ana Carol:	Replying to "as vezes qdo a gen..."
+
+dá enter... ela não vai aparecer rs
+01:36:27	Bianca Ramos:	baixa o preço ruan, por favor
+01:36:29	Bianca Ramos:	u.u
+01:36:45	Will Fernandes:	senha: raivadolinux123 😂
+01:36:54	Camila Sarmento:	Reacted to "senha: raivadolinux123 😂" with 😂
+01:36:57	Nuno da Typemedia®:	Replying to "senha: raivadolinux123 😂"
+
+kkkkkkkkkkkkkkkkkk
+01:37:00	Ana Carol:	Reacted to "senha: raivadolinu..." with 😂
+01:37:07	Mônica Lourenço:	eu vou chorar :'(
+01:37:09	Camila Sarmento:	Boa, Michele! É isso!
+01:37:20	Woney Malian:	Recaptula por favor Ruan! Ja troquei a senha, agora vou no Abrir Console, é isso?
+01:37:23	Gisa Ferreira:	por curiosidade perguntei ao claude, ontem foram 18 ciclos de tentativa e 60 verificações até conseguir configurar e deixar tudo certo
+01:37:26	Cristian Cunha:	é muito possivel mesmo. Confuso no começo, mas quando entende o fluxo, tudo fica mais tranquilo
+01:37:36	Denise de Maio:	Replying to "eu vou chorar :'("
+
+chora não baby. muda a senha e faz o passo a passo de novo.
+01:37:44	Bianca Ramos:	gente, vou colocar esse passo a passo la no whats, um min
+01:38:00	Gisa Ferreira:	Replying to "por curiosidade perg..."
+
+mas aprendi muito!
+01:38:01	Denise de Maio:	Replying to "Recaptula por favor Ruan! Ja troquei a senha, agora vou no Abrir Console, é isso?"
+
+isso. abre o terminal
+01:38:08	Woney Malian:	Reacted to "isso. abre o terminal" with 🫡
+01:38:21	Tais Malheiro:	não estou mais vendo a tela do ruan…
+01:38:32	ozana:	as vezes a senha não aparece qdo a gente põe ... só escrever e dar enter
+01:38:36	Denise de Maio:	Replying to "não estou mais vendo a tela do ruan…"
+
+esta aparecendo sim
+01:38:43	Cristian Cunha:	Replying to "não estou mais vendo a tela do ruan…"
+
+troca a aba dentro do zoom
+01:39:30	Bianca Ramos:	windows+r: powershellabriu o terminal, digita: ssh [nome do usuario]@[ip do server] -p [o numero da porta]vai aparecer o terminal pedindo a senha: digita a senha (ela não aparece, não se preocupe) Terminou de digitar a senha, ele abre o servidor DENTRO DO TERMINAL mesmo.
+01:39:45	Claudia Dumont:	Ruan, sua didática é espetacular! Incrível como você transmite um conteúdo complexo de forma tão suave! Obrigada!
+01:40:09	Bianca Ramos:	coloquei no whats tbm
+01:40:16	Denise de Maio:	Reacted to "coloquei no whats tbm" with 💛
+01:42:00	Mônica Lourenço:	vou chorar mas não, consegui
+01:42:05	Woney Malian:	Replying to "Recaptula por favor ..."
+
+Rolou! Benzadeus
+01:42:20	Denise de Maio:	Replying to "Recaptula por favor Ruan! Ja troquei a senha, agora vou no Abrir Console, é isso?"
+
+😎 parabéns!
+01:42:34	ozana:	o SO era Ubuntu ?
+01:42:38	Woney Malian:	Reacted to "😎 parabéns!" with 💙
+01:42:47	Denise de Maio:	Replying to "o SO era Ubuntu ?"
+
+sim
+01:43:01	ozana:	putz vou ter q mudar
+01:43:06	Denise de Maio:	Reacted to "vou chorar mas não, consegui" with 💛
+01:43:18	ozana:	coloquei ALmaLinux
+01:43:34	Cristian Cunha:	não precisa OZana., o conceito é o mesmo
+01:43:35	Denise de Maio:	ele disse que pode usar essa tb
+01:43:37	Michele:	Colegas, esse tutorial da VPS, alguém tem o link para enviar, fico grata.
+01:43:57	Denise de Maio:	Replying to "Colegas, esse tutorial da VPS, alguém tem o link para enviar, fico grata."
+
+file:///D:/CLAUDE%20CODE/BOOTCAMP/vps-ssh.html
+01:44:09	Denise de Maio:	Replying to "Colegas, esse tutorial da VPS, alguém tem o link para enviar, fico grata."
+
+mas acho que vc precisa do arquivo... kkkk
+01:44:12	Bianca Ramos:	Replying to "Colegas, esse tutorial da VPS, alguém tem o link para enviar, fico grata."
+
+kkkkkkkkkkkkkkkkkkkkkkkkkk
+01:44:13	Ana Carol:	Replying to "Colegas, esse tuto..."
+
+tem no whats
+01:44:15	Denise de Maio:	Replying to "Colegas, esse tutorial da VPS, alguém tem o link para enviar, fico grata."
+
+vdde! hahahah
+01:44:21	Cristian Cunha:	Reacted to "vps-ssh.html" with 👏
+01:44:40	Denise de Maio:	não sei qual é essa piada! kkkk
+01:44:50	Cristian Cunha:	no final vira um bom tutorial de acesso
+01:45:10	Denise de Maio:	hahahaha
+01:45:16	Renato Stegun:	mais alguém ainda esperando o rebuild? Eu dei play praticamente junto com o Ruan.. não liberou aqui ainda.
+01:45:22	Patrick Paraguassú:	Feito, rodou aqui
+01:45:36	Denise de Maio:	Replying to "mais alguém ainda esperando o rebuild? Eu dei play praticamente junto com o Ruan.. não liberou aqui ainda."
+
+atualiza a página.
+01:45:54	Mariana Lussari:	Ruan, deu : This key is not known by any other names.
+Are you sure you want to continue connecting (yes/no/[fingerprint])?
+01:46:04	Denise de Maio:	digita yes
+01:46:05	Daniel Almeida:	ainda aguardando meu rebuild... xD~
+01:46:16	Renato Stegun:	Replying to "mais alguém ainda..."
+
+Já até gastei o F5 aqui kkkkkkk
+01:46:19	Nuno da Typemedia®:	Eu falei que era um ambiente de teste e aprendizado para ele executar e me explicar passo a passo.. Aí ele digitou a senha, mas toda hora envia alerta para trocar a senha.
+01:46:23	Bianca Ramos:	eu quero o claude code pra ser meu hermes kkkkkk ainda não consegui fazer ele criar imagens, ele diz que não faz, maior tristeza.
+01:46:27	Ana Carol:	Replying to "Ruan, deu : This k..."
+
+digita yes
+01:46:37	Tais Malheiro:	Reacted to "Eu falei que era um ambiente de teste e aprendizado para ele executar e me explicar passo a passo.. Aí ele digitou a senha, mas toda hora envia alerta para trocar a senha." with 😂
+01:46:52	ozana:	rebuild ... comi bola no OS
+01:47:09	Bruno Lujan:	Replying to "eu quero o claude co..."
+
+Conecta com o higsfield
+01:47:36	Bianca Ramos:	Replying to "eu quero o claude code pra ser meu hermes kkkkkk ainda não consegui fazer ele criar imagens, ele diz que não faz, maior tristeza."
+
+como conector mesmo?
+01:47:44	Renato Stegun:	Reacted to "ainda aguardando m..." with ☝️
+01:48:19	Denise de Maio:	eu quero aprender.
+01:48:45	Bruno Lujan:	Replying to "eu quero o claude co..."
+
+https://higgsfield.ai/mcp
+01:49:52	Denise de Maio:	Rua, me perdi agora... onde seguimos pelo doc ?
+01:50:44	Graziela Peres:	E vc não pode chamar o claude na janela do terminal?
+01:53:11	Mônica Lourenço:	Replying to "eu quero o claude ..."
+
+gosta muitos tokes?
+01:53:15	Mônica Lourenço:	Replying to "eu quero o claude ..."
+
+gasta*
+01:55:19	Cristian Cunha:	hahaha. .otimo
+01:55:53	Bruno Tortelli:	a titulo de curiosidade e o mesmo processo se for com o Cursor ou com o Gemini?
+01:56:22	Miguel Cutri:	Se pegarmos o arquivo que ele disponibilizou e colarmos no claude ele ensina o passo a passo.
+01:56:50	Miguel Cutri:	Segue o arquivo
+01:58:10	Klara Kopi:	tem um SOS do Bootcamp?
+01:58:28	Renato Stegun:	agora entendi pq meu build não volta kkkkk tem bug na hostgator kkk
+01:59:04	Leliane:	Estou com um problema sério na hospedagem da Hostgator. Já tenho há anos, e na última semana simplesmente perdi todos os sites e e-mails. Até agora não resolveram...
+01:59:15	Denise de Maio:	Reacted to "Estou com um problema sério na hospedagem da Hostgator. Já tenho há anos, e na última semana simplesmente perdi todos os sites e e-mails. Até agora não resolveram..." with 😯
+01:59:18	Mariana Lussari:	Meu Deus.
+01:59:46	Leliane:	Espero que a VPS seja confiável
+01:59:49	Renato Stegun:	Replying to "Estou com um probl..."
+
+Eita. mas alegaram o que? Como foi isso?
+02:00:59	Denise de Maio:	então é como se estivéssemos configurando um novo computador. entendi.
+02:01:27	Leliane:	Replying to "Estou com um problema sério na hospedagem da Hostgator. Já tenho há anos, e na última semana simplesmente perdi todos os sites e e-mails. Até agora não resolveram..."
+
+A princípio disseram que o site (o meu) havia sido hackeado. Começaram a fazer alguns procedimentos e derrubaram mais três sites. Tentaram restaurar os backups e os e-mails sumiram. O suporte não sabe o que aconteceu e não deram uma resposta aceitável até agora. Ontem os e-mails voltaram, mas perdi uma janela de 5 dias de mensagens
+02:01:28	Denise de Maio:	e usa os comandos para Linux
+02:02:44	Cristian Cunha:	Replying to "Espero que a VPS seja confiável"
+
+Leliane, a lógica é que o usuario que torna a VPS confiável.
+02:02:59	Daniel Almeida:	é normal ainda tá aguardando pelo rebuild? rs
+02:03:20	Renato Stegun:	Replying to "é normal ainda t..."
+
+aqui tb ainda voltou Daniel kkkk
+02:03:25	Cristian Cunha:	Replying to "Espero que a VPS seja confiável"
+
+uma primeira camada de segurança vem do Host Gator, os outros aspectos é o usuario que determina
+02:03:34	Denise de Maio:	Claudinho
+02:03:46	Denise de Maio:	Replying to "é normal ainda tá aguardando pelo rebuild? rs"
+
+vc atualizou sua página?
+02:03:46	Renato Stegun:	Replying to "é normal ainda t..."
+
+Devem executar em lotes... ficamos para trás..
+02:03:52	Renato Stegun:	Reacted to "vc atualizou sua p..." with 👍
+02:03:55	Daniel Almeida:	Replying to "é normal ainda t..."
+
+fico mais tranqui então... kkk
+02:03:58	Woney Malian:	Isso, que tou fazendo, Claudinho tá arrepiando aqui pra mim 🫶
+02:04:46	Gisa Ferreira:	na minha instalação, o claude também encontrou alguns conflitos na forma como a aplicação (hermes) está instalada, alguma coisa estava rodando no docker errado da VPS… mas percebi que até pra IA diagnosticar leva tempo, tentativa e erro… até acertar 🙏🏼
+02:05:45	Leliane:	Replying to "Espero que a VPS seja confiável"
+
+Eu ainda não havia contratado a VPS esta hospedagem eu já havia contratado há anos e os sites estavam em wordpress.. Algo aconteceu do lado deles, mas não souberam explicar...
+02:05:46	Woney Malian:	Reacted to "na minha instalação, o claude também encontrou alguns conflitos na forma como a aplicação (hermes) está instalada, alguma coisa estava rodando no docker errado da VPS… mas percebi que até pra IA diagnosticar leva tempo, tentativa e erro… até acertar 🙏🏼" with 👍
+02:05:54	Ana Carol:	meudeus... eu preciso da gravação de hj logo, pq to completamente perdida aqui
+02:06:03	Woney Malian:	Reacted to "meudeus... eu preciso da gravação de hj logo, pq to completamente perdida aqui" with 😅
+02:07:24	Renato Stegun:	Replying to "Estou com um probl..."
+
+nossa. que estrago. Eu tinha meu site tb na HostGator e nunca tive problema, mas recentemente transferi p/ Vercel. Os e-mails estavam já no UOL.
+02:08:36	Woney Malian:	Show demais!!
+02:08:41	Tais Malheiro:	#over!
+02:08:52	Ana Carol:	agora eu to me sentindo um pouco burra hahahahaha
+02:08:53	Bianca Ramos:	#over
+02:09:07	Leliane:	Replying to "Estou com um problema sério na hospedagem da Hostgator. Já tenho há anos, e na última semana simplesmente perdi todos os sites e e-mails. Até agora não resolveram..."
+
+Sim... Ainda cobraram R$ 100,00 para puxar um backup e mesmo assim não conseguiram resolver ou explicar o que houve e meu site segue fora do ar (e de três clientes também). Vou criar outro com o que aprendi aqui no curso e contratar a hospedagem da  Hostinger
+02:09:08	Bruno Tortelli:	Replying to "Estou com um problema sério na hospedagem da Hostgator. Já tenho há anos, e na última semana simplesmente perdi todos os sites e e-mails. Até agora não resolveram..."
+
+hospedagem compartilhada tem grandes chances de dar problema, tive um problemão anos atras com a locaweb. Eu ate acredito que as equipes que cuidam disso dentro das empresas de hospedagens são menos especializadas dos que a que cuidam de coisas dedicadas.
+02:09:10	Woney Malian:	Replying to "agora eu to me senti..."
+
+Calma!! No replay vc faz facinho!
+02:09:14	Denise de Maio:	eu to até emocionada!
+02:09:17	Ana Carol:	Reacted to "Calma!! No replay ..." with ⚡
+02:09:24	Milton Tawamba:	Fiquei com uma duvida aqui… Se a Anthropic está barrando Hermes, paperclip etc… como que estão fazendo? Usam CHatGPT?
+02:09:27	Woney Malian:	Replying to "agora eu to me senti..."
+
+Eu tb tava perdidinho, é facil
+02:10:19	Leliane:	Replying to "Estou com um problema sério na hospedagem da Hostgator. Já tenho há anos, e na última semana simplesmente perdi todos os sites e e-mails. Até agora não resolveram..."
+
+@Bruno Tortelli é possível mesmo, não tinha pensado nisso
+02:10:34	Bianca Ramos:	usa o claude mesmo
+02:10:37	Bianca Ramos:	o claude code
+02:10:48	Ana Carol:	Replying to "agora eu to me sen..."
+
+tomara... pq ó, dá vontade de sentar no chão e chorar aquihahaha
+02:12:44	Gisa Ferreira:	o processo pede paciência, mas quem poderia imaginar que faríamos isso sem nunca ter escrito 1 linha de código num computador… 🤓
+02:15:00	Renato Stegun:	São as coisas que precisamos fazer uma primeira vez. Depois só alegria.
+02:16:08	Denise de Maio:	demais!
+02:17:20	Denise de Maio:	uau!
+02:17:28	Graziela Peres:	Ruan e pro Codex? A mesma coisa. Vamos perguntando passo a passo para ele e instamos o Codex...
+02:17:50	Woney Malian:	Podemos fazer um atalho pra ele né? Tipo “entrar na VPS” e só entrarmos com a senha certo?
+02:17:55	Denise de Maio:	peguei. mas medo de me perder no momento de trabalhar com tantas coisas kkkk
+02:18:43	Graziela Peres:	ótimo
+02:18:56	Graziela Peres:	Git e node! E Docker.
+02:20:26	Marina Ficcio:	podemos abrir a pasta das automações que criamos na segunda aula e rodar o ssh nela, correto? mas como fazemos para que essas automoções rodem lá na vps e não pelo pc nosso?
+02:21:14	Brenda Araujo:	Podemos ficar alternando entre gpt e claude na vps?
+02:21:50	Renato Stegun:	Replying to "Podemos ficar alte..."
+
+Sim. Inclusive pode abrir dois terminais e abir os dois ao mesmo tempo.
+02:21:56	Graziela Peres:	sim
+02:21:59	Vera Medina:	eu coloquei para alternar entre modelos
+02:22:02	Bianca Ramos:	sim
+02:22:07	Bruno Tortelli:	mindblowing
+02:22:09	Graziela Peres:	Claríssimo.
+02:22:16	Jailson Rodrigues:	sim
+02:22:21	Bianca Ramos:	só volta na parte que a gente pega o código pra instalar o claude lá no claude documentation?
+02:22:34	Will Fernandes:	depois de algumas horas, finalmente meu hermes ta respondendo no telegram
+02:22:40	Will Fernandes:	tô até cansado
+02:23:19	Bianca Ramos:	esse barulho de whatsapp é do pc do ruan?
+02:24:03	Bruno Tortelli:	Replying to "esse barulho de whatsapp é do pc do ruan?"
+
+acho que não
+02:24:13	Renan Ramires:	Replying to "esse barulho de what..."
+
+nao
+02:24:17	Renato Stegun:	os bots do HostGator entraram em greve bem na minha vez do rebuild.... kkkkkkkkk
+02:24:59	Brenda Araujo:	Reacted to "Sim. Inclusive pode abrir dois terminais e abir os dois ao mesmo tempo." with 👍
+02:25:37	ozana:	não é tão complicado qto parecia ... consegui rapidão
+02:25:40	Elenice Veiga Ortiz:	Este arquivo que o Ruan está usando agora, onde fica?
+02:26:10	Cristian Cunha:	VPS é o Nosso Lar com o Claude rodando sozinho
+02:26:28	Renato Stegun:	Replying to "Este arquivo que o..."
+
+Qual arquivo?
+02:26:29	Ana Carol:	Reacted to "VPS é o Nosso Lar..." with 😂
+02:26:46	ozana:	Reacted to "VPS é o Nosso Lar com o Claude rodando sozinho" with 😂
+02:26:59	Fernando Ostlund:	Mas as /routines já não funcionam no servidor da Anthropic? Em tese não precisam do seu computador ligado. Ou não é assim que as rotinas funcionam?
+02:27:28	Milton Tawamba:	Os arquivos da automação vão ficar hospedados na VPS? Não dá para trabalhar com Github? Ou seja esse claude code q está na VPS atuando em repositório no GitHub?
+02:27:57	Ana Carol:	Replying to "Mas as /routines j..."
+
+qdo criei a minha de research, ele criou local... nem ficava aparecendo no app do claude...
+02:27:59	Woney Malian:	Reacted to "VPS é o Nosso Lar com o Claude rodando sozinho" with 😅
+02:28:33	Elenice Veiga Ortiz:	Replying to "Este arquivo que o Ruan está usando agora, onde fica?"
+
+O que ele estava alimentando, em tela branca
+02:28:36	Camila Sarmento:	Se alguém tiver mais paciência pra aprender o Termius, pesquisem pra usar que o IP já fica salvo a gente só clica para abrir o terminal selecionado nosso servidor. (Abrir Termius > escolher servidor > Abriu o terminal da vps > só alegria!)
+02:28:53	Elenice Veiga Ortiz:	Replying to "Este arquivo que o Ruan está usando agora, onde fica?"
+
+Não era o Code, era?😵‍💫
+02:29:25	Elenice Veiga Ortiz:	Replying to "Este arquivo que o Ruan está usando agora, onde fica?"
+
+Perfeito
+02:29:28	Elenice Veiga Ortiz:	Replying to "Este arquivo que o Ruan está usando agora, onde fica?"
+
+Obrigada
+02:29:44	Graziela Peres:	Ruan dá a 5 aula, rs
+02:29:52	Ana Carol:	Vou rever todo o bootcamp, pra criar a automação de novo e usar na vps...
+02:29:57	Ana Carol:	Reacted to "Ruan dá a 5 aula,..." with 🤣
+02:30:01	Will Fernandes:	Reacted to "Ruan dá a 5 aula, rs" with 🤣
+02:30:02	Ana Carol:	Replying to "Ruan dá a 5 aula,..."
+
+justo
+02:30:10	Woney Malian:	Reacted to "Ruan dá a 5 aula, rs" with 👍
+02:30:13	Will Fernandes:	Replying to "Ruan dá a 5 aula, rs"
+
+aula pós créditos +1
+02:30:26	Gisa Ferreira:	um verdadeiro SWARM de conteúdo, Ruan!
+02:30:57	Denise de Maio:	Eita! kkkk nem precisa de VPS? kkkk
+02:31:04	Pedro Hirakawa (VSPR):	Buzz é legal
+02:31:24	Denise de Maio:	show!
+02:31:55	Fernando Ostlund:	Reacted to "qdo criei a minha ..." with ⚡
+02:32:28	Denise de Maio:	qual é a url? aparceu vários buzz aqui
+02:32:38	Bruno Lujan:	https://buzz.xyz/
+02:34:23	Gustavo Henrique Yanetzky:	Ruan, eu já comecei a criar meus agentes no Paperclip, vale a pena migrar para o Buzz, sendo que tenho uma equipe humana também no meu negócio?
+02:34:44	Denise de Maio:	Reacted to "https://buzz.xyz/" with 💛
+02:34:51	Gustavo Henrique Yanetzky:	Reacted to "Ruan, eu já comecei a criar meus agentes no Paperclip, vale a pena migrar para o Buzz, sendo que tenho uma equipe humana também no meu negócio?" with 🛹
+02:35:26	Graziela Peres:	Ruan dá para ter os 2 ? Claude e codex? No Buzz
+02:35:52	Gustavo Henrique Yanetzky:	Replying to "Ruan, eu já comecei ..."
+
+Giphy [ID:pUVOeIagS1rrqsYQJe]
+[A mensagem completa não pode ser exibida nesta versão]
+02:36:04	Gustavo Henrique Yanetzky:	Reacted to "Ruan dá para ter os 2 ? Claude e codex? No Buzz" with ❤️
+02:36:10	Gustavo Henrique Yanetzky:	Replying to "Ruan dá para ter os ..."
+
+Baaaita pergunta
+02:36:27	Thiago Gruber:	Reacted to "Ruan dá para ter os 2 ? Claude e codex? No Buzz" with ❤️
+02:38:15	Denise de Maio:	quando tentei instal...
+[Full message cannot be displayed on this version]
+02:38:39	Vera Medina:	muito bom
+02:39:07	Denise de Maio:	o buzz não ficaria dentro da VPS?
+02:39:14	Pedro Hirakawa (VSPR):	Replying to "Ruan dá para ter os ..."
+
+Sim
+[A mensagem completa não pode ser exibida nesta versão]
+02:40:33	Denise de Maio:	pessoal, pode seguir naquele aviso de segurança então?
+02:40:33	Pedro Hirakawa (VSPR):	Reacted to "Captura de Tela 2026-08-08 às 11.45.36.png" with ⚡
+02:41:11	Gustavo Henrique Yanetzky:	Replying to "pessoal, pode seguir..."
+
+Pode sim, é normal bloquearem esses apps assim
+02:41:37	Denise de Maio:	então ele fica instalado no computador e não no VPS?
+02:42:33	Graziela Peres:	Vou precisar sair! Obrigada Ruan. Muito bom esse Boot Camp.
+02:44:33	Vera Medina:	O meu tá funcionando okay em inlges
+02:44:55	Fernando Ostlund:	Reacted to "Isso, que tou faze..." with 😂
+02:46:46	Gustavo Henrique Yanetzky:	Replying to "Ruan, eu já comecei ..."
+
+Pior que não entendi a indicação ainda, se vale o retrabalho. Alguém da turma está usando o Buzz já?
+02:48:54	Gisa Ferreira:	wss://gisasilva.communities.buzz.xyz/
+02:49:46	Ed Goularth:	kkkk
+02:49:57	Ed Goularth:	ve appletv é muito melhor
+02:50:14	Bianca Ramos:	o claude não vai bloquear? pedir pagamento extra fora do plano?
+02:50:17	Tais Malheiro:	os meus não respondem e nem dão erro…
+02:51:14	Camila Mendes:	Cara eu tinha feito um chat com ia no sistema da minha empresa, mas era muito chatgptzão. Agora quero criar um role assim para o pessoal, muito mais interativo para a equipe
+02:51:16	ozana:	o claude está me pedindo dinheiro para funcionar na VPS ... será q fiz algo errado?
+02:52:16	ozana:	esse buzz tem para mobile tbem
+02:52:53	Ana Carol:	Replying to "os meus não respo..."
+
+aqui tb
+02:54:02	Tais Malheiro:	Reacted to "aqui tb" with 🥺
+02:54:21	Denise de Maio:	vc ta achando mais bacana do que o hermes?
+02:54:38	Bruno Lujan:	Mostra o https://www.themaestri.app/pt-br  pra galera ai Ruan
+02:54:43	Bianca Ramos:	ruan chega eu não tenho mais dinheiro....
+02:54:46	Bianca Ramos:	kkkkkkkkkkkkkkkk
+02:54:52	Woney Malian:	Reacted to "ruan chega eu não tenho mais dinheiro...." with 😅
+02:54:55	Denise de Maio:	pao de queijo!
+02:54:56	Ana Carol:	Reacted to "ruan chega eu não..." with 😅
+02:55:07	Pedro Hirakawa (VSPR):	Reacted to "Mostra o https://www.themaestri.app/pt-br  pra galera ai Ruan" with ⚡
+02:55:11	Bianca Ramos:	sensacional!
+02:55:13	Cristian Cunha:	foi ótimo < Ruan
+02:55:19	Bianca Ramos:	parece que fiz uma faculdade em quatro semanas
+02:55:20	Nuno da Typemedia®:	foi show!!!!!!!!!!!!!!!!!!!!!!!!
+02:55:20	Ana Carol:	queria mais tempo hahahaha
+02:55:22	Jaaairo:	Informação a jato
+02:55:23	Bianca Ramos:	to chocada
+02:55:24	Ana Carol:	mas foi incrível
+02:55:24	Gisa Ferreira:	Valeu cada minuto e cada centavo investido
+02:55:25	Vera Medina:	excelente pela praticidade
+02:55:27	Patrick Paraguassú:	Por mais que é no modo express, abriu muito a mente!
+02:55:31	Kamila Loebens:	maravilhoso
+02:55:33	ozana:	para mim consolidou conhecimento
+02:55:34	Jailson Rodrigues:	foi muito bom
+02:55:35	Maria Eduarda Moraes:	foi incrível! #over
+02:55:38	Tais Malheiro:	Gostei muito! Achei mais fácil de acompanhar que o ultimo Atlas ;)
+02:55:38	Nuno da Typemedia®:	pronto para o modo avançado..
+02:55:40	Denise de Maio:	Eu gostei muito, informação e conhecimento extremo. Mas senti falta de exercitar mais os conhecimentos e sair com mais coisas.
+02:55:41	Ed Goularth:	Senti que foi muito rapido e nao consegui aplicar no que eu preciso
+02:55:41	Will Fernandes:	sensacional e ainda bem que ja to na vanguarda amém
+02:55:41	Emanuel Santana:	Gostei muito, eu queria mais tempo para poder fazer WhatsApp.
+02:55:46	Bianca Ramos:	ativou em mim o mega brain!
+02:55:49	Mara Aguiar:	eu amei....comecei do Zero e muita coisa faz sentido pra mim!
+02:56:09	Denise de Maio:	abre a cabeça demais!
+02:56:22	Denise de Maio:	e mostra que todos podem!
+02:56:27	Gustavo Henrique Yanetzky:	Eu achei bem legal, aprendi muito, mas o que senti falta foi ter um projeto base para construirmos juntos. Talvez eu esteja viajando, mas talvez seja um ponto pra ponderar.
+02:56:35	Ana Carol:	Reacted to "Eu achei bem legal..." with ⚡
+02:56:37	Tais Malheiro:	muito a explorar as possibilidades
+02:56:40	Mara Aguiar:	superou minhas expectativas
+02:56:48	Denise de Maio:	Replying to "Eu achei bem legal, aprendi muito, mas o que senti falta foi ter um projeto base para construirmos juntos. Talvez eu esteja viajando, mas talvez seja um ponto pra ponderar."
+
+isso! acho que seria legal um projeto para seguirmos juntos.
+02:56:50	Vinícius Nunes Azevedo:	Você é um excelente professor! 
+Tem uma didática incrível. 
+Confesso que minhas dúvidas e dificuldades estão em outro nível ou domínio de problemas e estão mais correlacionados a fechamento dos produtos, com confiança na segurança, principalmente.
+02:57:25	Denise de Maio:	Replying to "Eu achei bem legal, aprendi muito, mas o que senti falta foi ter um projeto base para construirmos juntos. Talvez eu esteja viajando, mas talvez seja um ponto pra ponderar."
+
+acho que isso ajuda a consolidar mais o conhecimento para todos tb.
+02:57:28	Mônica Lourenço:	eu gostei, foi tudo novo pra mim, então está sendo difícil a execução. eu gostei muito pra atualizar meu trabalho, meus serviços e evoluir profissionalmente, quero continuar estudando pra ter uma jornada de trabalho mais atualizada
+02:57:54	Tais Malheiro:	#vanguarda ;)
+02:58:25	ozana:	qdo o Ruan diz que desvendamos universos ... eu digo q fomos além ... temos instrumentos para desvendar galaxias ... com direito de cair em buracos negros e ter o Claude para tirar a gente de dentro...
+02:58:51	Michele:	Eu achei muito produtivo, aprendi bastante, criei uma maior autonomia, a única contribuição que faço é que penso que se tivéssemos esses tutoriais antes e já chegássemos na mentoria com itens instalados, poderíamos aproveitar mais da sua expertise Ruan, como nosso mentor. É muito edificante ver você executar a I.A e  qualquer minuto que temos com você é muito rico.
+03:00:03	Bruno Flores:	Eu acho que foi excelente! Foram quatro dias em que vocês nos transformaram em Over. Abriram nossos horizontes para nos tornarmos desenvolvedores dos nossos sonhos e trabalhos, ampliando nossos potenciais de nexialistas e catalizando a evolução do que estamos trazendo para o mundo. Eu tô de cara, que só agora eu estou realmente entendendo a Missão e a Visão da Overlens 😱
+03:00:49	Vinícius Nunes Azevedo:	Fale em condições de pagamento
+03:00:54	Ed Goularth:	entao falta pagar 6 mil?
+03:01:05	Milton Tawamba:	Eu gostei bastante do conteúdo. Como sempre, vc é muito didático.
+03:01:05	Ana Carol:	crediário em 24x 🤣
+03:01:14	Iphone Account Br:	É R$ 9.000,00 por ano ou na renovação do próximo ano tem desconto pra renovar? Se sim, de quanto deve ser o desconto?
+03:01:26	Bruno Lujan:	Replying to "É R$ 9.000,00 por an..."
+
+Espero que tenha kkkkkk
+03:02:12	Vera Medina:	preção
+03:02:14	Tais Malheiro:	quero puxar meu irmão pra Vanguarda!!!
+consigo este valor especial dele como sócio?
+03:02:14	Denise de Maio:	conta mais o que tem na vanguarda dos encontros e processo.
+03:02:25	Vinícius Nunes Azevedo:	Quais os horários?
+03:02:37	Bianca Ramos:	eu vu ter que deixar para o ano que vem infelizmente
+03:02:37	Vera Medina:	tá excelente, obrigada!
+03:02:38	Bianca Ramos:	u.u
+03:03:24	ozana:	Nanda cadê o SOS?
+03:03:45	Tais Malheiro:	#over
+03:04:12	Vinícius Nunes Azevedo:	Poderíamos fechar mas passar o cartão quando ele virar? Rsrsrsrs
+03:04:14	Michele:	e o do codex Ruan
+03:04:22	Ana Carol:	Reacted to "Poderíamos fechar..." with 😂
+03:04:38	Michele:	eu tenho
+03:04:44	Ed Goularth:	traiu a paçoquinha, naaaao
+03:05:05	Denise de Maio:	Eu nem sabia do suporte premium! kkk
+03:05:07	Brenda Araujo:	Sobrou vps das 50?
+03:05:12	Ed Goularth:	eu tbm nao sabia
+03:05:32	Tais Malheiro:	suporte premium!! 🤩
+03:05:36	Iphone Account Br:	É R$ 9.000,00 por ano ou na renovação do próximo ano tem desconto pra renovar? Se sim, de quanto deve ser o desconto?
+03:06:10	Brenda Araujo:	Fala sobre o que tem na vanguarda… eu to iniciando ainda organização de um negócio próprio… queria entender como pode me ajudar
+03:08:28	Denise de Maio:	Ruan, vc é sensacional! Parabéns pelo trabalho, pela didática e pela devoção por ensinar de um jeito tão generoso e que permite que cada um possa evoluir e abrir a cabeça, independente do nosso estágio. Isso é realmente transformador e vc está fazendo a diferença na vida de muitas pessoas! 👏🏼👏🏼💛💛 #over
+03:08:36	Woney Malian:	Ruan é fera demais… o rei dos fundamentos
+03:09:01	Bruno Tortelli:	Esse bootcamp deu muita clareza do todo.
+03:09:56	Maria Eduarda Moraes:	Reacted to "Poderíamos fechar..." with 😂
+03:09:58	Mara Aguiar:	Verdade Ruan!! O volume de informações que recebi e absorvi, nem parece que só foram 4 semanas!!
+03:11:40	ozana:	O que me encanta na Academia Overlens é a liberdade de buscar os conhecimentos sem um programa fixo ... e a consolidação de aprendizado ser na prática com produtos úteis para o nosso dia a dia.
+03:13:26	ozana:	... tarefa q ele chama de "missão" da empresa para os desavisados
+03:15:17	Denise de Maio:	meu link do figma não está atualizando com a aula de hoje... será que mudou o link? alguém tem?
+03:15:50	Marina Ficcio:	Replying to "meu link do figma não está atualizando com a aula de hoje... será que mudou o link? alguém tem?"
+
+mudou para "quarto encontro" ?
+03:17:16	Denise de Maio:	Replying to "meu link do figma não está atualizando com a aula de hoje... será que mudou o link? alguém tem?"
+
+ops! kkk
+03:17:45	Denise de Maio:	Replying to "meu link do figma não está atualizando com a aula de hoje... será que mudou o link? alguém tem?"
+
+era isso mesmo! Valeu : )
+03:17:57	Tais Malheiro:	esta camada de dados vivos pra mim está dificil até de entender como juntar tudo e tornar em dados…
+na minha empresa perdemos estas informações importantes diariamente…
+03:21:03	Vera Medina:	teria também um modelo econômico?
+03:21:04	Denise de Maio:	estamos na fase das partes separadas....
+03:21:25	ozana:	... para mim, depois dessa aula, resolvi refazer o Brand System, o Design System pq percebi q não entendia o neócio como imaginava.
+03:21:25	Denise de Maio:	mas ter a visão do todo para chegar lá é fundamental.
+03:22:13	Denise de Maio:	os modelos operacionais são o CRM, financeiro etc?
+03:22:21	Renato Stegun:	Uma amostrinha da Vanguarda para turma. :)
+03:22:40	Michele:	A dúvida do Gustavo comunga com uma que tenho: Eu já tenho o conhecimento fixo, tenho que lincar isso com meu o Business OS,  crio o workflow (e onde?), aciono o Google Drive ou banco de dados para as minhas pastas de Auditoria (qual?) e uso o N8n? Como decidir onde salvar (Supabase do BusinessOS ou outro lugar)? O que você me sugere?
+03:23:19	Carolina:	Quem dera fosse 4 meses kkkkkkk
+03:23:26	Brenda Araujo:	né
+03:23:44	Nuno da Typemedia®:	bIAnca ramos.. rsrsrs
+03:24:20	Carolina:	MULHER
+03:24:23	Carolina:	kkkkkkkkkkkkkkkkk
+03:24:29	Carolina:	Profetizando os 4 meses
+03:24:32	Denise de Maio:	4 semanas! kkkk
+03:24:56	Brenda Araujo:	O anúncio do Ruan: mais 4 meses de Boot Camp
+03:25:02	Fernando Ostlund:	Reacted to "4 semanas! kkkk" with 😂
+03:25:07	Bianca Ramos:	kkkkkkkkkkkkkkkkkkkkk
+03:25:08	Cristian Cunha:	com direito a torrone e pao de queijo
+03:25:13	Bianca Ramos:	affe falei errado kkkk
+03:25:17	Denise de Maio:	e paçoquinha!
+03:25:21	Carolina:	Reacted to "affe falei errado kkkk" with 🤣
+03:25:25	Bianca Ramos:	Reacted to "bIAnca ramos.. rsrsrs" with 😂
+03:25:26	Fernando Ostlund:	imagina daqui a 4 meses kkk
+03:25:32	Denise de Maio:	Bianca é pq foi muito intenso! parece que foram 4 meses mesmo!
+03:25:32	Carolina:	Reacted to "imagina daqui a 4 meses kkk" with 👏
+03:25:56	Carolina:	Replying to "Bianca é pq foi muito intenso! parece que foram 4 meses mesmo!"
+
+Exatamente kkkkk
+03:26:19	ozana:	... a paçoquinha já era ... a onda agora é torrone ... bem mais fashion
+03:27:52	Tais Malheiro:	Ruan, genial! Que vc consiga cada vez mais concretizar seus objetivos!
+03:27:53	ozana:	... tem o dom ... ainda bem q não foi trabalhar na universidade .... fora dela vc cresce mais
+03:28:24	Renato Stegun:	Esse formato da Overlens é fantástico. Bora divulgar/espalhar essa forma de olhar para a educação!!!!
+03:28:35	Tais Malheiro:	gente só a agradecer! mas preciso ir… 😢
+03:29:38	ozana:	Replying to "gente só a agradecer! mas preciso ir… 😢"
+
+foi o q me fisgou ... além de ser notória a competência dos meninos ... q equipe !
+03:31:58	Gisa Ferreira:	a proposta da Overlens mostra que é urgente rever o conceito universitário de formação e aprendizado
+03:32:27	Maria Eduarda Moraes:	Reacted to "a proposta da Over..." with 👍
+03:32:34	Bianca Ramos:	Reacted to "a proposta da Overlens mostra que é urgente rever o conceito universitário de formação e aprendizado" with 👏
+03:32:53	Denise de Maio:	Reacted to "a proposta da Overlens mostra que é urgente rever o conceito universitário de formação e aprendizado" with 💛
+03:33:06	Denise de Maio:	Replying to "a proposta da Overlens mostra que é urgente rever o conceito universitário de formação e aprendizado"
+
+exatamente
+03:33:36	ozana:	Confesso q esses meses de convivência com vcs me devolveram a esperança ... não consigo ver em nosso país gente se movendo para poder competir com profissionais de outros países q investem e direcionam a educação para melhores caminhos. Ver jovens q se envolvem e viram a noite estudando em vez de estar se divertindo na balada ... me comove e faz acreditar
+03:34:09	Ed Goularth:	Reacted to "Confesso q esses m..." with ❤️
+03:34:20	Denise de Maio:	Reacted to "Confesso q esses meses de convivência com vcs me devolveram a esperança ... não consigo ver em nosso país gente se movendo para poder competir com profissionais de outros países q investem e direcionam a educação para melhores caminhos. Ver jovens q se envolvem e viram a noite estudando em vez de estar se divertindo na balada ... me comove e faz acreditar" with 💛
+03:34:22	Renato Stegun:	Reacted to "a proposta da Over..." with 👍
+03:35:11	Mara Aguiar:	Reacted to "Confesso q esses meses de convivência com vcs me devolveram a esperança ... não consigo ver em nosso país gente se movendo para poder competir com profissionais de outros países q investem e direcionam a educação para melhores caminhos. Ver jovens q se envolvem e viram a noite estudando em vez de estar se divertindo na balada ... me comove e faz acreditar" with ❤️
+03:35:35	Denise de Maio:	Replying to "Confesso q esses meses de convivência com vcs me devolveram a esperança ... não consigo ver em nosso país gente se movendo para poder competir com profissionais de outros países q investem e direcionam a educação para melhores caminhos. Ver jovens q se envolvem e viram a noite estudando em vez de estar se divertindo na balada ... me comove e faz acreditar"
+
+vdde Ozana! e ver tb pessoas mais maduras, como vc e muitos (inclusive eu 🙂 ) de áreas completamente diferentes, querendo começar de novo, aprender, se desafiar, interagir, é lindo demais! isso é #overleans
+03:35:45	Bianca Ramos:	Reacted to "vdde Ozana! e ver tb pessoas mais maduras, como vc e muitos (inclusive eu 🙂 ) de áreas completamente diferentes, querendo começar de novo, aprender, se desafiar, interagir, é lindo demais! isso é #overleans" with 👏
+03:35:47	Bianca Ramos:	Reacted to "Confesso q esses meses de convivência com vcs me devolveram a esperança ... não consigo ver em nosso país gente se movendo para poder competir com profissionais de outros países q investem e direcionam a educação para melhores caminhos. Ver jovens q se envolvem e viram a noite estudando em vez de estar se divertindo na balada ... me comove e faz acreditar" with ❤️
+03:35:51	Renato Stegun:	Reacted to "vdde Ozana! e ver ..." with ☝️
+03:35:53	Renato Stegun:	Reacted to "Confesso q esses m..." with ❤️
+03:36:16	ozana:	Reacted to "vdde Ozana! e ver tb pessoas mais maduras, como vc e muitos (inclusive eu 🙂 ) de áreas completamente diferentes, querendo começar de novo, aprender, se desafiar, interagir, é lindo demais! isso é #overleans" with ❤️
+03:37:44	ozana:	A Overlens nos oferece um "biscoito" muito fino que infelizmente poucos conseguem degustar.
+03:38:33	Gisa Ferreira:	Reacted to "Confesso q esses mes..." with ❤️
+03:38:47	Gisa Ferreira:	Reacted to "vdde Ozana! e ver tb..." with ❤️
+03:39:43	Gisa Ferreira:	Replying to "Confesso q esses mes..."
+
+a maturidade da turma faz muita diferença, também senti isso.. o rendimento é outro, a turma se interessa e se apoia
+03:39:57	Gisa Ferreira:	Reacted to "A Overlens nos ofere..." with 👏
+03:40:07	Patrick Paraguassú:	Preciso sair, gratidão @Ruan Braz seguirei firme nos estudos e quem sabe subir o nível para a vanguarda! Tmj #over....
+03:40:33	Renato Stegun:	Reacted to "a maturidade da tu..." with ⭐
+03:40:39	Renato Stegun:	Reacted to "A Overlens nos ofe..." with ⚡
+03:42:54	Mara Aguiar:	Muitooo obrigada Ruan e equipe! Eu estou muitooo feliz e grata! Eu estou passando por um processo muito delicado (luto, tratamento oncológico, quase me aposentando) e essas semanas deram um upgrade na minha mente...rs. Vários insights e possibilidades 🤩
+03:43:19	Denise de Maio:	Reacted to "Muitooo obrigada Ruan e equipe! Eu estou muitooo feliz e grata! Eu estou passando por um processo muito delicado (luto, tratamento oncológico, quase me aposentando) e essas semanas deram um upgrade na minha mente...rs. Vários insights e possibilidades 🤩" with ❤️
+03:43:20	Will Fernandes:	Reacted to "Muitooo obrigada Ruan e equipe! Eu estou muitooo feliz e grata! Eu estou passando por um processo muito delicado (luto, tratamento oncológico, quase me aposentando) e essas semanas deram um upgrade na minha mente...rs. Vários insights e possibilidades 🤩" with ❤️
+03:43:21	Bruno Tortelli:	Reacted to "Muitooo obrigada Ruan e equipe! Eu estou muitooo feliz e grata! Eu estou passando por um processo muito delicado (luto, tratamento oncológico, quase me aposentando) e essas semanas deram um upgrade na minha mente...rs. Vários insights e possibilidades 🤩" with ❤️
+03:43:29	Woney Malian:	Reacted to "Muitooo obrigada Ruan e equipe! Eu estou muitooo feliz e grata! Eu estou passando por um processo muito delicado (luto, tratamento oncológico, quase me aposentando) e essas semanas deram um upgrade na minha mente...rs. Vários insights e possibilidades 🤩" with 🫶
+03:43:31	Renato Stegun:	Reacted to "Muitooo obrigada R..." with 🫂
+03:44:06	Ana Carol:	Reacted to "Muitooo obrigada R..." with ❤️
+03:44:06	Ana Carol:	Reacted to "Muitooo obrigada R..." with 🫂
+03:44:41	ozana:	Reacted to "a maturidade da turma faz muita diferença, também senti isso.. o rendimento é outro, a turma se interessa e se apoia" with 👍
+03:45:27	ozana:	Reacted to "Muitooo obrigada Ruan e equipe! Eu estou muitooo feliz e grata! Eu estou passando por um processo muito delicado (luto, tratamento oncológico, quase me aposentando) e essas semanas deram um upgrade na minha mente...rs. Vários insights e possibilidades 🤩" with ❤️
+03:46:25	Maria Eduarda Moraes:	Reacted to "Muitooo obrigada R..." with ❤️
+03:48:14	Denise de Maio:	que legal sua pergunta Vera!
+03:48:25	Michele:	Replying to "Colegas, esse tuto..."
+
+Obrigada Denise! Abraço.
+03:48:39	Bianca Ramos:	Reacted to "Muitooo obrigada Ruan e equipe! Eu estou muitooo feliz e grata! Eu estou passando por um processo muito delicado (luto, tratamento oncológico, quase me aposentando) e essas semanas deram um upgrade na minha mente...rs. Vários insights e possibilidades 🤩" with 🫂
+03:48:49	Denise de Maio:	boa pergunta para fechar o encontro, Vera!
+03:49:22	ozana:	.... me interessa saber no futuro o efeito multiplicador disso tudo ... entendo q somos um pouco agentes, responsáveis por levar à frente tudo isso q vivenciamos aqui.
+03:50:23	Mara Aguiar:	Reacted to ".... me interessa saber no futuro o efeito multiplicador disso tudo ... entendo q somos um pouco agentes, responsáveis por levar à frente tudo isso q vivenciamos aqui." with ❤️
+03:50:30	Denise de Maio:	A gente vê a devoção do Ruan pelo conhecimento aplicado com fundamento e seu desejo genuíno de ver as pessoas evoluírem. isso é propósito real. muito bonito mesmo. Obrigada querido Ruan! #
+03:50:35	Renan Ramires:	Obrigado por tudo…nos vemos
+03:51:01	Mara Aguiar:	Reacted to "A gente vê a devoção do Ruan pelo conhecimento aplicado com fundamento e seu desejo genuíno de ver as pessoas evoluírem. isso é propósito real. muito bonito mesmo. Obrigada querido Ruan! #" with ❤️
+03:51:14	Vera Medina:	Reacted to "boa pergunta para fechar o encontro, Vera!" with ❤️
+03:51:30	ozana:	... os resultados não vem pq cortam etapas
+03:51:41	Maria Eduarda Moraes:	Reacted to "A gente vê a devo..." with 👍
+03:52:36	Bruno Tortelli:	Essa questão da Vera não é só individual, ela também está afligindo as empresas, pq tudo está mudando e as regras estão mudando.
+03:53:38	Caio R Alves:	Valeu Ruan... fica a tentação do Vanguarda e todas as possibilidades contidas nele...
+03:53:43	Will Fernandes:	seria como apagar a biblioteca de alexandria
+03:54:15	Elenice Veiga Ortiz:	Alguém pode me atualizar o valor para participar da Vanguarda? Acabei escutando pela metade.
+03:54:15	ozana:	... observo na minha cidade negócios convencionais fechando, gente falindo e não vejo tentativas dessas pessoas em mudar a concepção de mundo ... estão sendo dizimados e não param para entender o cenário e criar alternativas.
+03:54:55	Bianca Ramos:	conversa onliiiine kkkk
+03:55:15	Bianca Ramos:	veraaa abre uma reunião com ele online pra gente prestigiar
+03:55:16	Tais Malheiro:	obrigada por tudo gente!!!
+03:55:30	Mara Aguiar:	Reacted to "obrigada por tudo gente!!!" with ❤️
+03:55:36	Will Fernandes:	e bora rever a aula 1
+03:55:39	Michele:	Obrigada Ruan, Nanda, toda a equipe e foi um prazer estar com todos os colegas. Forte abraço.
+03:55:43	Vera Medina:	Reacted to "veraaa abre uma reunião com ele online pra gente prestigiar" with ❤️
+03:55:54	Bianca Ramos:	Obrigada genteeeeeeee!!!! Foi sensacional!
+03:56:00	Mara Aguiar:	Reacted to "Obrigada Ruan, Nanda, toda a equipe e foi um prazer estar com todos os colegas. Forte abraço." with ❤️
+03:56:02	ozana:	Ruan a vida tem q ter propósito ... se não tiver não vale a pena ...
+03:56:38	ozana:	e o propósito tem q transcender o "eu"
+03:56:54	Mara Aguiar:	Foi ótimo estar com todos vcs nessas últimas semanas 😍
+03:56:57	Denise de Maio:	o caminho sem caminho! Pq é voltar para a base fundamental e, a partir dele, acessar todas as possibilidades. O ser humano é uma potencia em si mesmo. A gente só precisar acessar essa inteligência interna e colocar ela para agir no mundo.
+03:57:10	Michele:	Reacted to "Foi ótimo estar c..." with 😘
+03:57:22	Michele:	Reacted to "Obrigada genteeeee..." with 😘
+03:57:39	Denise de Maio:	eu acredito nisso tb!
+03:57:53	Thiago Gruber:	#over
+03:58:01	Ana Carol:	Reacted to "Foi ótimo estar c..." with 😘
+03:58:04	Ana Carol:	Reacted to "o caminho sem cami..." with ❤️
+03:58:07	Bruno Tortelli:	Replying to "Alguém pode me atualizar o valor para participar da Vanguarda? Acabei escutando pela metade."
+
+parece que uns 6k, é 9mil menos o que vc pagou no bootcamp
+03:58:10	Maria Eduarda Moraes:	#over
+03:58:11	Mara Aguiar:	#over and #over and #over
+03:58:11	Ed Goularth:	valeu  ruan te econtro no hacjkton
+03:58:12	Michele:	#over😘
+03:58:13	Leliane:	Obrigada, Ruan e equipe!!

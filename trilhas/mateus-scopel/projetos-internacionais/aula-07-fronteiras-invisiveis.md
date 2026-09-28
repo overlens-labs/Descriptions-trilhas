@@ -1,4 +1,4 @@
-# Fronteiras invisíveis
+# Fronteiras invisíveis: navegando por diferenças culturais
 
 **Tempo estimado de leitura:** 13 minutos
 

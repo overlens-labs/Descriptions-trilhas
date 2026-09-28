@@ -1,4 +1,4 @@
-# Teste do Problema: Validação de Dores Reais
+# Teste do Problema - Validação de Dores Reais
 
 **Tempo estimado de leitura:** 7 minutos
 

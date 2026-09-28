@@ -1,0 +1,43 @@
+# A14 — Infraestrutura - arquivos, banco de dados e publicação
+
+Dia 02 · Materiais da aula
+
+Quadro de infraestrutura: arquivos, repositório, banco de dados e publicação.
+
+## Links associados à aula
+
+### Quadro branco do Atlas — Figma
+
+[Abrir material](https://www.figma.com/board/PbpEXh5DAKTWuT0njBQnqb/Atlas-para-Negocios?node-id=12-4&t=uyMxKRiZiB2EoOXN-1) · Equipe
+
+Quadro branco compartilhado por Ruan no dia 02. As aulas mostram seu uso nos dois dias; Gabriela Werneck aponta a aba do Dia 1 no chat do dia 02, às 07:10:08–07:10:16. O vínculo por assunto não confirma cada desenho no estado atual do quadro.
+
+Fontes: [dia 02 · 07:07:38 · Ruan Braz · linha 2572](../../../Fontes%20originais/Dia%2002/dia%2002%20chat.txt).
+
+## Complementos de participantes
+
+### Glossário do Ruan Braz
+
+[Abrir material](https://glossario-do-ruan-braz.vercel.app/) · Participante
+
+Link enviado por Daniel Silva durante a explicação de infraestrutura. Serve como complemento de termos, sem atribuir o envio a Ruan ou Nanda.
+
+Fontes: [dia 02 · 01:02:53 · Daniel Silva · linha 619](../../../Fontes%20originais/Dia%2002/dia%2002%20chat.txt).
+
+## Apoio geral
+
+- [SOS Atlas — central de apoio](https://sosatlasnegocios.vercel.app) — Apoio geral.
+
+Esses endereços são compartilhados entre aulas. Eles não representam um novo material exclusivo desta aula.
+
+## Conferência e observações
+
+Ferramentas citadas: GitHub, Infisical, Supabase e Vercel. Nanda diz que colocará a explicação de Infisical no SOS às 00:59:45 (linha 595), mas não envia URL específico para essa explicação.
+
+Relação com a transcrição: 00:01:39: repositório; 00:07:24–00:08:21: gestão de variáveis; 00:08:42–00:13:25: banco, storage e autenticação; 00:14:14: publicação.
+
+Fonte: [[B] [TRILHA] [Atlas para Negócios] [2026] A14 - Infraestrutura - arquivos, banco de dados e publicação.txt](../../../../Transcri%C3%A7%C3%B5es/Dia%2002/%5BB%5D%20%5BTRILHA%5D%20%5BAtlas%20para%20Neg%C3%B3cios%5D%20%5B2026%5D%20A14%20-%20Infraestrutura%20-%20arquivos%2C%20banco%20de%20dados%20e%20publica%C3%A7%C3%A3o.txt).
+
+[Voltar ao índice](../../00%20-%20LEIA-ME.md) · [Ver pendências](../../Referencias/Pendencias.md)
+
+[Versão em TXT](../TXT/A14%20-%20Materiais.txt)

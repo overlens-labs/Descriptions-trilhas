@@ -1,0 +1,200 @@
+Aula 13 · Pontos de contato, gargalos e alavancas
+
+[00:00] Uma vez que a gente chegou aqui agora, o que a gente vai fazer é entender agora os pontos de contato.
+[00:06] Isso é muito importante, porque cada modelo aqui tem um ponto de contato diferente.
+[00:10] Então a gente precisa entender os pontos de contato de cada funil, às vezes a palavra foge, né?
+[00:17] Os pontos de contato de cada funil, e aí a partir disso vocês vão entender melhor onde falar com esse cliente
+[00:23] pra que a gente aí sim possa trabalhar os roteiros e scripts, tá certo?
+[00:26] Então, o que eu vou fazer aqui primeiro? Deixa eu até ver, porque eu tentei puxar e ele não puxou. Ah, agora ele puxou. O que eu quero fazer aqui primeiro? Eu vou puxar isso pra cá, eu posso até fazer melhor, quer ver? Vamos por partes.
+[00:37] Aí, pegar essas três aqui, podia ter segurado o shift, né? Opa, por isso que eu não seguro o shift. Vamos pegar os mesmos funis aqui e a gente tem que separar isso.
+[00:45] O que eu vou fazer pra simplificar aqui e atender mais pessoas nesse momento? Eu não vou falar desses fluxos aqui mais complexos agora, tá bom?
+[00:52] Mas a lógica é a mesma, para quem está nesse nível aqui, o que vocês vão fazer aqui agora é mapear os touchpoints.
+[00:59] Isso aqui é interessante, porque se você já está nos níveis mais avançados, você também sabe mapear os touchpoints,
+[01:04] que basicamente é você colocar todo o fluxo aqui, o blueprint de serviço, na verdade o blueprint de serviço é depois,
+[01:12] é o blueprint de vendas aqui, o fluxo de vendas, cada ponto de contato em que você tem um relacionamento com o seu cliente.
+[01:19] Isso vai apontar os canais todos aqui.
+[01:21] Começa no WhatsApp, depois do WhatsApp eu agendo uma call, depois da call eu apresento meu site com todas as definições,
+[01:29] depois do site tem o contrato, depois do contrato tem os pagamentos, você vai colocar aqui todos os pontos de contato.
+[01:35] Só que antes disso, como é que você, nesses níveis aqui, como que você chegou no WhatsApp da pessoa?
+[01:39] Antes do WhatsApp da pessoa, muitas vezes tem um LinkedIn, antes do LinkedIn muitas vezes tem uma indicação,
+[01:43] Ação. Então, o seu ponto de contato é outra pessoa que te indicou para aquela pessoa, te indicou para aquela empresa e por aí vai.
+[01:50] Então, quem está nesses níveis aqui já está mais avançado.
+[01:52] E aí, a tarefa que eu tenho aqui para vocês, se você ainda não fez, é mapear todos os pontos de contato dentro do seu fluxo de venda complexo aqui.
+[02:00] Beleza? Esse é o objetivo.
+[02:02] E aí, para quem ainda não tem experiência com isso, eu vou fazer aqui o exemplo com vocês de como a gente pode mapear os touchpoints.
+[02:08] Então vamos pegar aqui, por exemplo, eu vou começar o funil, aí eu tenho aqui awareness, beleza?
+[02:12] Então é o nível de conscientização da marca, de conscientização, é, daria pra chamar de conscientização, é.
+[02:18] É como você torna as pessoas conscientes da sua marca.
+[02:21] Awareness.
+[02:21] Quais são os pontos de contato?
+[02:23] Você pode falar, eu torno elas conscientes no Instagram, Creators, barra Influencers,
+[02:28] eu torno ela consciente em Google Ads, vou chamar aqui de Meta Ads, anúncio, conteúdo
+[02:35] orgânico, e aí você vai mapeando.
+[02:36] Todos os seus pontos de contato aqui, cuidado para quem está começando agora, para não
+[02:40] fazer uma lista muito extensa, escolhe um indicado para começar, vou dar um exemplo
+[02:44] aqui para quem está começando.
+[02:46] Então eu falo assim, eu vou focar em Google Ads, Meta Ads e Creators, barra Influencers.
+[02:52] Ou seja, isso aqui são os meus canais de consciência da marca.
+[02:56] Como que eu faço as pessoas conhecerem minha marca, tornar minha marca visível.
+[03:00] Aí eu venho para o segundo, sign up, individual, cadastro.
+[03:02] Depois que eu venho para o segundo, qual que é meu ponto de contato?
+[03:05] Meu ponto de contato se torna, por exemplo, minha página, tela de login.
+[03:09] Vou colocar, a tela é criar conta.
+[03:10] Tela, criar conta.
+[03:12] Ou, isso é, opa, deixa eu só colocar aqui, sign up, individual.
+[03:16] Aí eu coloco aqui, ó, tela de criar conta, website do negócio, beleza?
+[03:20] Esse é o segundo ponto de contato.
+[03:22] O que é importante aqui?
+[03:23] Ruan, e se eu for fazer PLG, mas eu não for fazer com conta gratuita?
+[03:28] Eu quero fazer um PLG com algum material gratuito e tal?
+[03:31] Aí você não necessariamente vai ter um PLG, né?
+[03:34] Você vai ter aqui um one stage, porque o PLG precisa que o próprio produto se venda.
+[03:37] E pra isso você tem que dar uma demonstração, geralmente é a estratégia que mais funciona.
+[03:41] Tem como agendar demonstração também, mas aí se torna um one stage aqui, tá?
+[03:44] Ou um two stage.
+[03:46] aí vem ativação, Ahamoment, você pode colocar aqui, Ahamoment, ativação
+[03:50] pode ser por exemplo um pop -up, pop -up na tela de Ahamoment
+[03:54] assim que você conseguir alguma coisa, pum, assine a ferramenta aqui agora
+[03:58] eu posso fazer aqui também pop -ups em início de sessão
+[04:02] então sempre que você logou de novo, eu faço um pop -up de início de sessão aqui
+[04:06] eu posso colocar aqui também dentro de ativação, botões de ativação mesmo, vou chamar de botões de ativação
+[04:11] Então sabe, aqui ó, vou dar exemplos pra vocês disso. Tem um nome técnico, mas eu não tô lembrando agora.
+[04:16] Você vem aqui no chat de EPT, ó, vou pegar o chat de EPT porque o meu tá no gratuito.
+[04:21] Aí tá vendo aqui, ó, promoção gratuita. Isso aqui é um touchpoint de ativação.
+[04:25] Aqui vem, ó, teste o plus grátis. Isso aqui é outro botão de ativação, entendeu? Aí você coloca aqui.
+[04:30] Aí vem uso recorrente, hábito formado, aí você pode colocar aqui, por exemplo, um feedback, feedback de hábito pra pessoa, uso recorrente.
+[04:39] Viraliza... aí, na verdade, feedback de hábito tem que estar como touchpoint, aqui é o uso recorrente, uso recorrente, nossa, escrevi errado, aí você coloca aqui no seu produto um feedback de hábito, parabéns, você já logou X vezes, né, tem os streaks, você pode colocar aqui, o Duolingo faz isso, coloca streaks, quanto mais você loga seguido, mais streaks você vai ganhando ali, né, e aí isso é bom porque forma hábito, é bom porque vira aqui ferramenta essencial no dia a dia.
+[05:04] Aí você vem em viralização interna.
+[05:06] Na viralização interna, você coloca aqui, por exemplo, indique um amigo.
+[05:10] Então, dentro do funil, você indica um amigo e ganha prêmios.
+[05:13] Uma viralização interna.
+[05:15] Compartilhe seu resultado com amigos.
+[05:17] Então, conseguiu uma coisa legal na plataforma?
+[05:19] Compartilhe nas redes sociais.
+[05:20] Isso vai depender muito da plataforma, né?
+[05:22] Tem um outro jeito de viralização que é convide alguém do seu time.
+[05:27] É outro touchpoint também, que na verdade a gente poderia até chamar aqui de expansão.
+[05:31] Só que dentro desses aqui, você pode trazer mais coisas.
+[05:34] Por exemplo, eu estou aqui em, eu ativei a pessoa usando aqui o próprio produto, só que aqui em viralização interna, ou então quando a pessoa adquiriu um uso recorrente, ela se qualificou, isso aqui é um critério de qualificação dentro da minha plataforma, ela se tornou aqui agora a ICP da minha próxima solução, aí eu posso fazer duas coisas com ela, posso agendar uma call para conversar com essa pessoa, vou trazê -la para um outro produto meu de um outro funil, eu posso trazer isso para dentro, então construir aqui os pontos de contato serve para que vocês entendam
+[06:04] Onde as vendas vão acontecer em cada canal?
+[06:06] E isso é muito importante, tá?
+[06:08] Eu
+[06:08] vocês,
+[06:09] Mas é importante vocês fazerem esse exercício que eu acabei de fazer, que é o exercício de você mesmo pensar quais são os pontos de contato dentro do seu funil.
+[06:17] Então você vai escolher o funil que faz mais sentido aqui e vai pensar nos pontos de contato desse funil.
+[06:21] Onde que existe uma relação do cliente com você? É daqui que começa o seu plano de vendas.
+[06:26] Muitas vezes as pessoas acham que já tem que sair mandando mensagem, marcando calls, mas às vezes você tem pontos de contato inteligentes que você poderia estar aproveitando e está deixando passar.
+[06:36] Por isso que essa visão macro aqui é importante.
+[06:38] a gente vai construir, vocês vão construir de vocês baseado nele.
+[06:40] Então, o que vocês têm que entender aqui? A lógica por trás do playbook.
+[06:43] Primeiro, por que criar um playbook?
+[06:45] Antes de sair contratando pessoas para a sua equipe, é legal você entender duas coisas.
+[06:49] Gargalos da sua empresa, então eu vou puxar isso para cá mais como um negócio aqui para vocês entenderem.
+[06:54] Então você tem que entender quais são os gargalos e quais são as alavancas.
+[06:57] Aqui existe uma relação muito forte entre os dois.
+[07:00] Quando você foca só nas alavancas, você cria novos gargalos.
+[07:04] E quando você resolve os gargalos, você abre espaço para poder investir em mais alavancas.
+[07:09] Geralmente a gente tem aqui gargalos no produto e no CS, são os principais gargalos de negócios.
+[07:15] A entrega, posso colocar aqui produto e serviço, vou chamar de entrega e o CS, beleza?
+[07:20] E a alavanca, geralmente, a alavanca de um negócio são vendas, marketing e branding, isso aqui são alavancas.
+[07:27] Erro que muita gente comete, e vocês também já cometeram muitas vezes,
+[07:31] ah, eu vou fazer meu portfólio, ah, eu vou fazer meu site para ficar bonito, ah, eu vou montar meu produto.
+[07:36] Aí você fica aqui falando muito de você, você, você, você, você, você, você, você.
+[07:39] Isso tudo aqui te ajuda a diminuir gargalo.
+[07:42] Por quê? Se eu tenho um site que explica o que eu faço, se eu tenho um portfólio que explica o que eu faço,
+[07:46] eu diminuo o gargalo de ter que fazer isso tudo ali na pressão, na hora.
+[07:49] Só que isso aqui não é a venda. Isso aqui não é venda.
+[07:52] Isso aqui tudo é material interno, é institucional.
+[07:54] Se eu fico um tempão criando o meu produto antes de vender ele,
+[07:58] você, além de investir muito tempo, pode acabar também investindo muito dinheiro e falindo.
+[08:02] É o que acontece com muita gente. É o que quase aconteceu com a Overlens.
+[08:04] Aí a gente precisa trabalhar as alavancas, que isso aqui é chamado de distribuição.
+[08:08] Então, pessoas inteligentes, quando vão criar um negócio, querem definir, querem validar uma tese de valor.
+[08:14] E vocês são pessoas inteligentes, então o caminho ideal é começar nas alavancas e depois ir para os gargalos.
+[08:21] Ou seja, você tem uma tese de valor e você vai validar ela no mercado fazendo as primeiras vendas.
+[08:26] Depois que você vendeu, aí você começa a melhorar o produto.
+[08:30] O que você precisa ter aqui pra fazer a alavanca rodar é um MVP ou um roadmap do MVP.
+[08:37] Como assim um roadmap?
+[08:38] Você não precisa ter nem um MVP pronto pra validar uma ideia.
+[08:41] Você tem ali o roadmap, você tem o plano de execução dele, você tem a promessa dele
+[08:44] e o período que você vai levar pra fazê -lo.
+[08:46] O que você precisa é de uma tese de valor e de uma oferta pra poder começar uma alavanca.
+[08:51] E aí dentro dessa lógica de vendas, então, a recomendação que eu tenho pra vocês é,
+[08:56] geralmente as pessoas perguntam, quem que eu contrato primeiro, onde que eu começo um negócio?
+[08:59] Vendas. Eu comecei a equipe da Overlens contratando pra gargalo. E hoje eu posso falar pra vocês, um ano depois, que o mais inteligente teria sido eu começar contratando pra alavanca.
+[09:11] Hoje a gente tá lidando com isso, e a gente tá resolvendo alavancas. Mas aí agora, com um pouco mais de experiência, eu posso falar pra você.
+[09:17] Ainda não tem ninguém na sua equipe? Você vai começar aqui com vendas. Porque se você vende, você tem demanda, se tem demanda, nem que você contrate alguém pra fazer pra você,
+[09:24] E aí quando a gente vai contratar vendas, o erro que as pessoas cometem é
+[09:30] vou chamar um vendedor experiente, que aí ele monta o processo pra mim.
+[09:34] Errado. Ele não conhece o seu negócio, você vai criar dependência nele,
+[09:37] vendedor experiente.
+[09:38] Então eu não posso contratar um vendedor experiente?
+[09:41] Não, você pode, só que o erro é chamar isso aqui de solução.
+[09:45] A solução é, antes de contratar um vendedor experiente, desenhar o processo.
+[09:49] Só que desenhar o processo, dependendo do seu extrato cognitivo atual,
+[10:07] E aí, como que funciona?
+[10:24] Você, você, tem que ser a primeira pessoa a passar por esse processo, pelo menos uma vez.
+[10:29] E aí, depois que você passou e entendeu o processo, aí sim, você vai contratar alguém
+[10:34] para trabalhar dentro do processo que você desenhou.
+[10:37] Essa pessoa pode aprimorar o processo? Pode, com certeza, isso é maravilhoso.
+[10:40] Mas você vai entregar para ela o processo, como o negócio funciona.
+[10:44] E é aqui que entram os playbooks e os workflows.
+[10:48] Então, você passa pelo processo uma vez, valida tudo,
+[10:51] Depois que passou, você vai ter os seus playbooks e os seus workflows do processo inteiro
+[10:55] pra poder delegar isso pra alguém fazer por você.
+[10:58] Esse é o caminho inteligente.
+[10:59] Ué, eu não tenho tempo pra fazer isso.
+[11:01] Então arruma um sócio ou uma parceria que vai fazer isso pra você,
+[11:04] senão o seu negócio não vai funcionar.
+[11:06] Simplesmente não vai funcionar.
+[11:07] Você pode ter o melhor produto.
+[11:09] Vários produtos ruins vão vender mais do que você.
+[11:11] Aí sim, no momento que você estruturou isso aqui e contratou,
+[11:14] aí você vai pro próximo, que é CS.
+[11:16] Aí o que você vai fazer?
+[11:17] Você vai vir aqui pro CS, desenhar o processo,
+[11:19] processo, passar pelo processo você e depois colocar aqui, aí depende do negócio. Inclusive aqui muitas vezes você pode trazer um SDR ao invés do closer, porque aí você vai ter que investir menos ali, 3 mil reais de fixo já é algo legal, às vezes também tem pessoas que vão querer 100 % variável com uma comissão maior, enfim, vocês tem que aprender a conversar com as pessoas e fazer propostas, ouvir o que elas têm a dizer e mostrar o que você tem a oferecer. Eventualmente as pessoas vão falar, olha, eu vendo pra você, eu quero uma comissão inicial de 40%, é muito alta, mas você não precisa me pagar nenhum fixo, às vezes é um
+[11:49] Caminha, né? Depende também do produto que você vai oferecer. Mas aí, uma vez que você passou por vendas, aí você vai desenhar o processo de CS. E por aí vai, é assim que você vai desenhando um processo de cada vez, ao invés de tentar desenhar todo o negócio de uma vez só, esse é um erro crítico, tá bom? Então,
+[12:03] vamos lá, vou fazer rapidinho aqui, vocês vão pegar comigo.
+[12:05] Topo de funil, inbound marketing e outbound.
+[12:08] Então o que isso significa? A gente vai colocar aqui, topo de funil.
+[12:10] Aí vocês vão pensar nos pontos de contato de topo de funil.
+[12:13] Os mais clássicos aqui, vou colocar ele em Medium.
+[12:15] Os mais clássicos que eu posso colocar é Instagram, YouTube, LinkedIn.
+[12:20] E aí eu coloco aqui como parte também, vou colocar também TikTok, não pode esquecer TikTok mais não.
+[12:27] Então redes sociais.
+[12:28] Mas eu posso colocar aqui também, além de redes sociais, creators barra influencers.
+[12:33] Eu posso colocar aqui também e -mail, listas de WhatsApp.
+[12:39] Lista de WhatsApp já entra embaixo, né? E -mail e lista já entra embaixo.
+[12:42] Eu vou separar eles aqui, vai ficar melhor.
+[12:44] Então aqui vem lead e prospect.
+[12:47] Aí quais são os pontos de contato aqui? Acabei de falar.
+[12:49] E -mail, lista de WhatsApp, seguidores com ressalva, tá?
+[12:53] Quando você tem seguidores, você está construindo o seu negócio no terreno dos outros, então você não tem a lista toda ali, né?
+[13:01] A lista é do Instagram, por exemplo, só que ele te deixa usar a lista ali.
+[13:04] Aí ele colocou aqui também, ó, telefone, LinkedIn, pode ser também o lead direto no LinkedIn, mas aqui eu trouxe alguns para vocês.
+[13:11] Outras coisas que podem estar no topo de funil aqui, eventos, eventos online, eventos presenciais.
+[13:18] Aí eu quero que vocês pensem um pouco sobre isso, né?
+[13:20] Da onde que os clientes vão ficar sabendo de vocês?
+[13:22] Aí vira o lead. E -mail, lista de WhatsApp, seguidores, esses são os principais pontos de contato que a gente pode colocar aqui.
+[13:28] Aí vem aqui, Discovery. O Discovery clássico é uma ligação. Ligação rápida, 10 minutinhos. Então, telefone, barra, ligação.
+[13:37] Mas o Discovery aqui também pode ser no WhatsApp, caso a pessoa não queira falar.
+[13:40] Isso aqui é o que o SDR vai fazer, ele vai fazer perguntas aqui pra poder qualificar o lead.
+[13:45] E esses são os principais pontos de contato dessas perguntas aqui, tá?
+[13:48] A gente evita de fazer chamada de vídeo, chamada de vídeo geralmente a gente trabalha com o executivo de contas aqui, que é o closer.
+[13:54] Aí nós temos aqui esse SQL handoff, que na verdade é uma etapa interna, então não é um ponto de contato com os clientes.
+[14:01] Aí a gente passa do discovery para o demo. O demo aqui acontece no Zoom, ou Google Meet, ou o Teams da Microsoft, esse é o ponto de contato aqui da demo.
+[14:12] Aí vem a proposta. A proposta, ela usa esse ponto de contato aqui também, mas pode ser o seu website, pode ser um documento, PDF, PPTX, PPT, né, no caso, e por aí vai.
+[14:23] Depois, aqui nesse Closed One, a gente tem outro ponto de contato, o contrato. Só que aqui também, na proposta, você usa WhatsApp, você usa e -mail.
+[14:32] Quais são os pontos de contato aqui para continuar conversando com o cliente nessa etapa?
+[14:36] Aqui também usa o WhatsApp e -mail, porque às vezes manda o link aqui, por exemplo, tem o calendar, é um outro ponto de contato.
+[14:41] Todos os pontos de contato que o cliente tem ali, tudo isso faz parte da jornada de compra dele aqui.
+[14:46] Aí vem a proposta, a proposta vai via contrato, muitas vezes por e -mail, tem também gente que usa no WhatsApp, e por aí vai.
+[14:53] Então, coloquei aqui os principais para vocês.
+[14:56] Expansão vira CS, tá? Aí CS tem os seus próprios pontos de contato ali.
+[14:59] Entenderam a lógica? O da IA ficou fraquinho, a IA até colocou um aqui que eu não tinha colocado, que é bom de colocar aqui.
+[15:05] SEO e DO. As pessoas te encontrarem porque uma IA te indicou, por exemplo, o Google te indicou e por aí vai. Boca a boca também, aqui ó, creator, influencers e boca a boca, beleza.
+[15:16] Aí ele colocou aqui, olha, sign up grátis, sem cartão, só que isso aqui pra mim não é two stages, né, tem onboarding, NUDs, ah, isso aqui que é NUDs, NUDs que são os botões de ativação lá.
+[15:26] Convite de colegas, isso tudo aqui ó, isso aqui não é two stages não, ele quer aqui também, ele fez errado.
+[15:31] E aí eu vou deixar aqui, eu mesmo montei junto com vocês, vocês conseguem pegar a ideia, beleza?
+[15:36] Curtiram

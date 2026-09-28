@@ -1,0 +1,19 @@
+Neste exercício, você desenvolverá uma escala tipográfica de H1 a H6, utilizando uma ou mais famílias tipográficas, e aplicará essa escala na criação de uma página informativa. O objetivo é praticar os conceitos de composição tipográfica aprendidos em aula, como hierarquia, legibilidade e harmonia, para estruturar informações de maneira clara e eficaz.
+
+1. Seleção: Escolha um tema para a sua página informativa, em seguida selecione uma ou mais famílias tipográficas que se complementem e sejam adequadas para o conteúdo da sua página informativa. Considere a legibilidade, o estilo e o caráter das fontes.
+
+2. Definição: Estabeleça uma escala tipográfica clara para os cabeçalhos (H1 a H6), onde cada nível hierárquico é representado por diferentes tamanhos, pesos ou estilos da fonte escolhida. Assegure que a escala reflita a importância e a função de cada nível de cabeçalho na organização do conteúdo.
+
+3. Criação: Desenvolva o conteúdo para a sua página informativa. O texto deve ter elementos suficientes para aplicar todos os níveis da sua escala tipográfica, incluindo títulos, subtítulos, corpo de texto, citações, legendas, etc. Você pode utilizar o ChatGPT para gerar o conteúdo ou pegar um conteúdo já pronto na internet.
+
+4. Aplicação: Utilize a escala tipográfica definida para organizar o conteúdo da página informativa. Aplique os diferentes níveis de cabeçalhos (H1 a H6) para estruturar o conteúdo de forma hierárquica, facilitando a navegação e a compreensão das informações.
+
+5. Composição: Componha a página informativa, considerando o alinhamento, o espaçamento entre linhas e letras (leading e kerning), e o uso de cor ou elementos gráficos adicionais para melhorar a legibilidade e o apelo visual. Você também pode utilizar o grid modular para te orientar na composição da página.
+
+6. Revisão: Revise a composição tipográfica, certificando-se de que a hierarquia, o contraste e o ritmo visual estejam bem estabelecidos e que a página seja visualmente atraente e fácil de ler.
+
+7. Finalização: Após ajustar e refinar o design, finalize a página informativa, garantindo que todos os elementos tipográficos e visuais estejam harmoniosos e eficazes na comunicação da mensagem.
+
+Apresente a página informativa finalizada, discutindo como você utilizou a escala tipográfica para organizar e apresentar o conteúdo. Este exercício permite aplicar na prática os princípios da composição tipográfica, desenvolvendo habilidades para criar documentos informativos claros, hierárquicos e visualmente coerentes.
+
+Não publique links! Eles podem quebrar e assim perdemos a informação. Publique as imagens e textos direto na plataforma a partir do botão abaixo.

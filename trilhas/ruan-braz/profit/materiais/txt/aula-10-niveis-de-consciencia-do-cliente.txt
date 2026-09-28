@@ -1,0 +1,144 @@
+Níveis de consciência do cliente
+
+Tempo estimado de leitura: 7 minutos
+
+Objetivos de aprendizado
+
+Ao final desta aula, você será capaz de:
+
+- Identificar o nível de consciência de um cliente por meio de perguntas
+- Distinguir valor real de valor percebido
+- Aplicar SPIN Selling para mover a conversa entre os níveis
+- Estruturar marketing e conteúdo como mecanismos de sintonização
+
+A pergunta que orienta a abordagem
+
+Antes de vender, pergunte: o que o cliente já sabe? Essa pergunta evita oferecer aquilo que ele não quer ou explicar de forma insistente algo que já domina.
+
+Vender não é despejar benefícios nem demonstrar todos os conhecimentos do fornecedor. Bons vendedores reconhecem o problema que resolvem, quem enfrenta esse problema e o nível de consciência de cada pessoa.
+
+O modelo é atribuído a Eugene Schwartz, copywriter conhecido por estudar vendas por meio de palavras e textos persuasivos.
+
+A regra contra a inconveniência
+
+Quanto mais consciente o cliente estiver, mais direta deve ser a abordagem. Uma pessoa experiente não precisa receber uma aula introdutória antes de conhecer a proposta.
+
+No outro extremo, alguém inconsciente do problema ainda não percebe valor. Apresentar preço e oferta cedo demais produz rejeição porque o cliente não compreende por que deveria comprar.
+
+A abordagem precisa começar no ponto em que a pessoa está e avançar somente o necessário.
+
+Valor real e valor percebido
+
+Valor real é o impacto que a solução pode produzir. Valor percebido é aquilo que o cliente consegue enxergar naquele momento. Uma solução valiosa não vende quando essa percepção ainda não foi construída.
+
+Profissionais cometem esse erro ao usar termos técnicos e assumir que o cliente conhece branding, design ou o efeito dessas áreas no negócio.
+
+Também existe o erro oposto: explicar fundamentos para quem já os domina. Quanto mais experiente for a pessoa, maior a chance de uma explicação desnecessária expor discordâncias e diminuir a credibilidade do vendedor.
+
+A proposta de R$ 10 mil que não encontrou valor percebido
+
+Em 2018, Ruan apresentou uma proposta de R$ 10 mil a um empresário de estética automotiva, parceiro da Ao Raboni. A conversa ocorreu na garagem de Igor Raboni, fundador da empresa da qual Ruan foi sócio.
+
+O possível cliente faturava aproximadamente R$ 40 mil a R$ 50 mil mensais e havia visto o trabalho de redesign e rebranding feito para a empresa Ao Raboni. Mesmo assim, riu ao ouvir o preço e encerrou a possibilidade.
+
+Para Ruan, o valor real era evidente: a entrega poderia melhorar preço, percepção e qualificação de clientes. Como ele pulou etapas, o comprador não estava sintonizado com essa leitura. A solução estava em um nível alto de valor real, mas em um nível baixo de valor percebido.
+
+Perguntar antes de ensinar
+
+Uma pessoa que administra uma empresa de R$ 500 milhões não precisa receber uma aula genérica de alguém com experiência empresarial menor. Isso não significa que ela não tenha problemas compatíveis com uma solução específica.
+
+O caminho é perguntar e ouvir. Empresas grandes possuem problemas de muitos tamanhos, distribuídos entre tecnologia, pessoas, operação, limpeza e outras áreas.
+
+Durante a conversa, o cliente revela desafios. Em algum momento pode aparecer um problema do tamanho do fornecedor e que ele sabe resolver. A oportunidade é capturada por escuta, não por uma apresentação longa.
+
+Os cinco níveis de consciência
+
+No primeiro nível, a pessoa está inconsciente e nem sabe que possui o problema. Essa é a maior parte do mercado, representada pela base de um iceberg. A abordagem é indireta e começa abrindo contexto.
+
+No segundo nível, ela se torna consciente do problema. A conversa identifica a dor e suas consequências, sem apresentar o produto cedo demais.
+
+No terceiro, conhece soluções existentes no mercado. É possível mostrar por que alternativas comuns são incompletas ou criam novos problemas.
+
+No quarto, está consciente do produto ou serviço específico. O vendedor apresenta sua solução e sua diferença em relação às opções disponíveis.
+
+No quinto, está totalmente consciente. Objeções foram antecipadas e a pessoa está pronta para conhecer oferta, preço, entregáveis e garantias.
+
+Contexto antes do problema
+
+Para quem está inconsciente, a comunicação abre o contexto com mudanças de mercado, dados e fatos relevantes. Em seguida, conecta esse cenário a um problema concreto.
+
+Depois que a dor foi compreendida, aparecem implicações: quanto custa não resolver, quais consequências aumentam e por que a situação exige ação.
+
+Somente então a conversa apresenta soluções disponíveis, necessidade de uma alternativa melhor, solução própria e oferta.
+
+SPIN Selling dentro da curva
+
+SPIN Selling organiza perguntas de situação, problema, implicação e necessidade da solução. Situação estabelece contexto. Problema identifica a dificuldade. Implicação desenvolve custo e consequência. Necessidade conecta o cliente ao valor de resolver.
+
+A sequência acompanha os níveis de consciência. Ela evita saltar do contexto diretamente para o preço e também impede explicar demais a quem já conhece a situação.
+
+Oferta e solução são coisas diferentes. A solução explica como o problema será resolvido. A oferta define a troca: preço, entregáveis, condições e garantias.
+
+Vendas são perguntas
+
+Não é possível adivinhar o nível do cliente. Perguntas revelam situação atual, tentativas anteriores, resultados, desafios e consequências.
+
+Exemplos incluem: o que você tem feito, quais são suas conquistas, quais são os maiores desafios, o que tentou, por que não funcionou e o que acontecerá se o problema continuar.
+
+Quanto mais a pessoa fala, mais dados oferece para ajustar a conversa ao próprio contexto.
+
+Qualificação por marketing em PLG
+
+Em um funil de Product Led Growth, ou PLG, parte das perguntas acontece por marketing e dentro do produto. Uma versão gratuita pode gerar o aha moment e coletar dados no cadastro.
+
+Cargo, tamanho da equipe, empresa, região, e-mail e telefone ajudam a qualificar o lead. Em B2B, saber que alguém é CMO ou líder de vendas indica maturidade e permite começar a conversa em outro nível.
+
+Um lead magnet, como relatório ou material gratuito, também coleta informações e aumenta consciência ao mesmo tempo.
+
+Salesforce e RD Station
+
+A página da Salesforce pede nome, cargo, empresa, porte, região, e-mail e telefone antes da demonstração. Esses campos não são burocracia aleatória: ajudam a estimar perfil e maturidade.
+
+Enquanto coleta os dados, a página apresenta promessa, problema, automação e agentes de IA. O visitante fornece sinais de interesse e avança na compreensão da solução.
+
+A RD Station oferece teste grátis, vídeos e demonstrações. O marketing qualifica e move o público antes de uma conversa comercial direta.
+
+Conteúdo desloca a consciência
+
+Conteúdo torna pessoas conscientes do problema, das soluções existentes e da solução da empresa. Isso pode acontecer sem conversa individual.
+
+Ruan exemplifica com vídeos sobre IA e Claude Code. A pessoa conhece a mudança, percebe a dificuldade de aprender a ferramenta e encontra Overpass, Vanguarda ou Atlas como caminhos possíveis.
+
+SPIN também pode orientar conteúdo, relatórios e materiais gratuitos. A estrutura não se limita a reuniões frente a frente.
+
+Ethos, pathos e logos
+
+Uma argumentação evita parecer opinião quando apresenta contexto, dados e raciocínio. Na retórica, ethos sustenta credibilidade, pathos trata da experiência emocional e logos organiza o argumento lógico.
+
+Roupa, cenário, postura, voz e confiança influenciam ethos e pathos. A sequência de premissas e conclusões pertence ao logos.
+
+Antes de construir o argumento, o vendedor escuta. O contexto do cliente determina quais informações serão úteis e quais seriam apenas repetição.
+
+Sintonizar em vez de educar
+
+Ruan evita a expressão "educar o cliente" porque ela sugere que o vendedor sabe e o cliente não. O objetivo é sintonizar percepções.
+
+Sintonização significa fazer as duas partes enxergarem valor na mesma direção. Não é apenas alinhar expectativas, pois em muitos casos a expectativa ainda nem foi criada.
+
+Quando o cliente já está consciente, a conversa avança diretamente. Quando ainda não está, contexto, problema e implicações constroem a percepção necessária antes da oferta.
+
+Materiais da aula
+
+- Quadro Workshop de Vendas no Figma (https://www.figma.com/design/XypLMeo7RQ8uN0YmLzQJ50/Workshop-de-Vendas?node-id=4-33&p=f): arquivo utilizado para representar os níveis de consciência e os modelos comerciais.
+
+Coloque em prática
+
+Liste o que seu cliente já sabe antes de preparar a abordagem.
+
+Crie perguntas de situação, problema, implicação e necessidade.
+
+Separe claramente solução e oferta no seu processo comercial.
+
+Revise formulários e conteúdos para identificar quais dados qualificam o lead.
+
+Adapte a extensão da conversa ao nível de consciência observado.

@@ -1,0 +1,295 @@
+Aula 5 · Opinião não é prova
+
+[00:00] Em 1943, durante a Segunda Guerra Mundial, os aviões americanos chegavam desse jeito aqui, danificados, cheios de furos da munição.
+[00:09] Então eles chamaram um matemático chamado Abraham Wald para responder uma pergunta.
+[00:14] Quais áreas desse avião deveriam receber mais blindagem?
+[00:17] A resposta pode parecer um pouco óbvia no começo, mas não para Abraham Wald.
+[00:22] Ele trabalhava no grupo de pesquisa estatística da Columbia University e ele percebeu uma coisa muito interessante.
+[00:30] Talvez a maioria das pessoas diria que as áreas que levaram mais tiros deveriam ser as áreas mais blindadas.
+[00:35] Mas o que o Alde percebeu? Ele percebeu que os aviões que voltavam da guerra eram os aviões que haviam tomado tiros naquelas regiões.
+[00:43] Ou seja, os tiros ali não impediram os aviões de voltar.
+[00:47] O verdadeiro problema estava onde não haviam tiros, porque os aviões que eram acertados naquelas regiões não estavam voltando.
+[00:55] o nome disso é viés de sobrevivência e nós cometemos esse erro o tempo inteiro
+[01:00] você já deve ter pensado sobre um empresário que apostou em uma ideia e ficou bilionário
+[01:05] ou uma pessoa que abandonou a faculdade e construiu uma empresa gigante
+[01:09] um criador que produz conteúdo de um jeito completamente diferente e viralizou na internet
+[01:13] nós olhamos pra isso e pensamos, tem que fazer a mesma coisa
+[01:17] mas você está olhando pros aviões que voltaram
+[01:20] quantas pessoas fizeram exatamente a mesma coisa e ficaram pelo caminho
+[01:24] Manda esse vídeo pra alguém que você conhece e que talvez esteja olhando pra direção errada.
+[01:29] A gente olha para o resultado de alguém e o mais intuitivo de se pensar é de focar naquilo que parece que foi o que deu certo.
+[01:38] Mas esse modelo mental, viés de sobrevivência, ele faz a gente cometer muitos erros.
+[01:44] Não o modelo mental, mas o viés.
+[01:46] E se a gente não tem esse modelo mental de perceber e se interpretar isso, nós acabamos tomando muitas decisões ruins.
+[01:52] E isso aconteceu comigo, na verdade.
+[01:56] Porque lá em 2019, quando eu comecei a produzir conteúdo, eu via como que as pessoas produziam conteúdo e tentavam fazer igual.
+[02:05] E eu fiquei um tempão assim, tentando copiar outras pessoas, tentando olhar ali, fulano tá fazendo isso, então isso deve estar certo.
+[02:13] Fulano tá fazendo isso, então isso deve estar certo. E sempre tentando copiar as outras pessoas. E não dava certo.
+[02:18] Foi aí que eu parei pra pensar algo parecido com isso, que é, o que que as pessoas, o que que eu não tô vendo ali, o que que as pessoas que conseguiram, fizeram, que muitas outras que tentaram também não fizeram, quais são as áreas do avião ali que não levaram tiros, né?
+[02:35] E foi quando eu percebi duas coisas. A primeira delas é, no caso da produção de conteúdo, se expor e treinar até você encontrar o seu próprio modelo, e depois que você encontrar seu modelo, focar nele e mandar ver.
+[02:50] E aí foi assim que eu construí o Overlens primeiro, naquele modelo de vídeo de cima, assim, eu gravava o papel e ia escrevendo e ensinando.
+[02:58] e agora eu estou repetindo essa mesma coisa na minha produção de conteúdo
+[03:02] e deu duas semanas, duas semanas, e já começaram a vir resultados bem interessantes
+[03:07] e aí tem que manter fazendo e fazendo e fazendo e fazendo
+[03:11] até entender ali o que está funcionando, o que é interessante e replicar aquele processo
+[03:17] e isso funciona também com negócios, às vezes a gente vê alguém tem um modelo específico
+[03:23] testou esse modelo, deu certo, a gente fala vou copiar
+[03:26] Mas,
+[03:27] sabe que o jeito mais inteligente é testar rápido e descobrir o que dá certo pra você, o seu negócio, o seu contexto.
+[03:35] direção se torna um problema
+[03:37] quando você demora pra perceber
+[03:39] que você tá na direção errada
+[03:40] mas se você percebe rápido, tá tudo bem
+[03:43] o problema é ficar muito tempo na direção errada
+[03:45] porque quando a gente tá começando
+[03:47] não tem como ter certeza absoluta
+[03:49] de que você tá na direção certa
+[03:50] e aí pra isso você precisa
+[03:53] validar rápido
+[03:54] sua tese, e se não validar
+[03:57] joga ela fora
+[03:58] e vai pra próxima tese
+[04:00] Então, validar a tese de valor é onde eu vejo que a maioria das pessoas trava.
+[04:08] O pessoal falou de distribuição, falou ali de visibilidade, mas tem uma coisa interessante, visibilidade no lugar errado também é um problema, talvez um problema muito maior.
+[04:17] E distribuição também, do jeito errado, também é um problema grande.
+[04:22] Eu já contei a história do açaí pra vocês, né?
+[04:24] Uma empresa que vende açaí, que era aqui da região, cliente da minha mãe, minha mãe é contadora,
+[04:29] e ela me contou essa história, que foi uma lojinha de açaí que faliu porque teve cliente demais.
+[04:36] A distribuição funcionou, mas eles não estavam prontos pra atender.
+[04:39] Começou a ter muita reclamação, deu errado, faliu.
+[04:42] Então, o problema não é necessariamente distribuição, o problema não é necessariamente visibilidade,
+[04:47] Porque se você tem distribuição no momento errado, ou se você tem visibilidade onde não era para ter visibilidade, isso também é um problema.
+[04:54] Logo, o problema é o problema de validação.
+[04:56] Você precisa validar -se dentro do seu contexto, com a direção que você escolheu.
+[05:01] Essa é uma boa ideia para investir.
+[05:02] E aí, depois disso, o que vem?
+[05:05] Distribuição, visibilidade e todos os outros passos.
+[05:09] Então, o dia que a Anitta fez um dono de marca, de boa para falir.
+[05:13] A mesma história acontecendo de novo, né?
+[05:14] Então, validação é um grande problema.
+[05:16] E
+[05:16] Importante, tá? Validação precisa de velocidade.
+[05:20] Quando a gente fala nos mundos dos negócios, velocidade importa muito na fase de validação.
+[05:25] Depois, as coisas ficam um pouco leves.
+[05:28] Depois, vamos colocar em ordem aqui, né?
+[05:31] Entendeu a direção do negócio, validou ela, construiu caixa e construiu previsibilidade,
+[05:37] essas quatro fases aqui, depois que você conseguiu isso,
+[05:40] meio que as coisas se encaixam e ficam um pouco mais tranquilos.
+[05:42] E aí o problema passa a ser outro, que é a zona de conforto e o risco de você ser eclipsado por mudanças do mercado.
+[05:48] Você acha que está tudo bem, que nada vai mudar, estou bem, está tudo funcionando, estou com o cliente.
+[05:53] Aí o mercado muda e você se desespera de novo.
+[05:56] Então são outros problemas, não é que acabou os problemas.
+[05:59] Mas esse problema de corrida dos ratos, sabe, esse problema de, meu Deus, preciso ser rápido,
+[06:06] ele depende principalmente do tipo de negócio que você decidiu construir, isso conta muito,
+[06:11] E também da fase que você está no negócio, tá bom?
+[06:13] Então
+[06:14] o que a gente tem que entender aqui então? É muito importante.
+[06:17] Existem vários tipos de validação, tem validação de produto, por exemplo, e tem muita gente que fica preso aqui.
+[06:23] Não é o melhor lugar para começar validando, tem validação de produto.
+[06:27] Tem validação de tese de valor, tem validação de mercado, tem validação de oferta, tem validação de preço.
+[06:34] O que é isso? Aqui é uma validação de entrega, né?
+[06:37] Entrega. Tem vários tipos de validações, certo?
+[06:40] O problema é pular etapas, ou ir para uma validação que não era para você ir agora.
+[06:45] Por exemplo, validação de entrega.
+[06:47] Isso aqui você tem que fazer depois que você já resolveu o teste de valor,
+[06:52] resolveu o mercado, resolveu a oferta, né?
+[06:54] Que aqui é para trabalhar juntos.
+[06:56] Aí você vai para a validação da entrega.
+[06:58] Assim você ganha tempo, beleza?
+[07:00] Beleza? Você tem que ter o escopo no início, só o escopo. E o escopo é o que faz muita gente travar, porque você acha que o escopo tem que ser detalhadamente tudo que você vai entregar, preciso, e não tem que ser assim.
+[07:12] Na verdade, se for assim, é um problema, porque tem até uma frase que fala, né? Se você lançou um produto perfeito, então você demorou muito para lançar ele.
+[07:19] Está lançando ele fora do timing. Não existe isso.
+[07:23] Então, o que é escopo?
+[07:25] O escopo é um roadmap, ou seja, a rota de por onde você vai passar.
+[07:31] Mas não é o caminho exato que você vai passar, não são todos os desafios que você vai viver lá.
+[07:35] É a rota. Eu sei que eu vou passar por esse caminho.
+[07:38] Eu quero chegar aqui, beleza?
+[07:40] Quero chegar aqui e eu estou aqui.
+[07:43] Ok, eu faço uma rota, planejo onde eu vou parar.
+[07:47] São todas essas etapas aqui, beleza?
+[07:49] Mas eu não sei dos desafios que tem pelo caminho, eu não vou tentar antecipar tudo, isso tem até um nome, overengineering, e esse nome aqui eu já vivi muito, vocês estão vendo de uma pessoa que passou 4 anos nisso, e o ganho que eu tive com isso foi o aprendizado, mas o preço que eu paguei para esse aprendizado foi muito caro, vocês não precisam pagar esse preço, então um roadmap é suficiente, eu vou fazer isso, isso, isso, isso,
+[08:16] Pronto. Porque a pessoa que vai validar sua oferta aqui precisa saber quais são os entregáveis. Mas é isso. É basicamente isso. Nada mais do que isso. Então, o que a gente quer validar? Primeiro, nós queremos validar uma tese de valor. E uma tese de valor é uma moeda de dois lados. Problema, solução. Temos aulas disso aqui, vocês podem assistir depois. Uma tese de valor é uma moeda de dois lados. Problema, solução. Então, você precisa identificar um problema,
+[08:50] A partir dessa hipótese, você vai dar os seus próximos passos, porém, é uma hipótese que precisa ser validada.
+[09:03] Você precisa entender que existe um...
+[09:07] Aqui eu estou colocando product, tá? Mas talvez dá para a gente mudar o nome.
+[09:12] Solution Market Fit.
+[09:16] Por que solution e não product?
+[09:18] Product, porque product faz você entender que você tem que, às vezes, ter o produto pronto para fazer isso.
+[09:23] E não é ideia, você tem que ter uma solução para poder fazer isso.
+[09:26] Então, o Solution Market Fit, eu vou até, às vezes, meu inglês me deixando na dúvida, cara.
+[09:32] Uma coisa boba, né? Será que é solution? Acho que é, isso aí.
+[09:37] Então, criamos o conceito aqui agora, Solution Market Fit.
+[09:40] Não sei se alguém já criou antes, enfim.
+[09:41] Se criou, eu nunca vi com esse nome, estou usando ele aqui para a gente entender o conceito.
+[09:46] A gente precisa, o que é o Fit? Fit é o ajuste, Fit é você conseguir conectar duas coisas, conectar um mercado existente com uma solução existente, é isso que a gente precisa fazer, então nós vamos trabalhar em cima desse Solution Market Fit, beleza? Então tudo que a gente vai ver aqui agora, que a gente vai construir junto aqui com a IA, é baseado em encontrar maneiras rápidas de ter convicção de que você encontrou uma Solution Market Fit.
+[10:16] Um ajuste de mercado com uma solução específica, beleza?
+[10:19] detalhe, validar uma tese é diferente de encontrar tração pro negócio, tá?
+[10:24] Então o que a gente vai fazer aqui não é necessariamente encontrar tração, não é necess...
+[10:27] Olha, foi na Y Combinator aqui, que é uma aceleradora maior do mundo, mas tração você coloca depois que você tem direção,
+[10:34] Pensa igual um carro. Você não vai pisar fundo no acelerador se você não colocou o carro na direção certa, né?
+[10:41] Senão você vai bater num muro, vazar a curva, direção primeiro, velocidade depois.
+[10:45] Então as pessoas se enganam aqui. Ah, já tenho uma ideia. Onde que eu começo? Começa na tração.
+[10:50] Não, você não começa na tração, você começa na direção, ok?
+[10:53] Então vamos lá. Você já fez a parte intelectual da tese. Olha, filho da mãe.
+[10:58] Quero ver o raciocínio dele.
+[10:59] Agora o jogo muda, em vez de refinar mais a hipótese, você precisa forçar o mercado a reagir a ela.
+[11:05] Interessante ele colocar dessa forma, eu gosto da palavra movimento, você precisa colocar sua tese em movimento,
+[11:12] você precisa ver como ela vai se comportar no mercado.
+[11:15] Vou organizar isso como um sistema de validação rápida, do sinal mais fraco ao mais forte,
+[11:20] para você conseguir ganhar convicção sem precisar construir o negócio inteiro.
+[11:24] É o que a gente quer exatamente, beleza?
+[11:27] construiu o negócio inteiro, vem depois, é onde as pessoas perdem tempo
+[11:30] a distinção que eu faria é importante, não tente validar a ideia inteira
+[11:35] interessante, quebre ela em crenças que precisam ser verdadeiras
+[11:39] e mate primeiro as mais arriscadas
+[11:41] é exatamente a lógica de assumption testing
+[11:43] testar pressupostos específicos é mais rápido e barato do que construir o produto inteiro
+[11:49] lembra que eu estava falando exatamente disso aqui também?
+[11:51] por isso que às vezes a gente fala, ah, product market fit
+[11:53] E aí você acha que tem que ter o produto inteiro construído para fazer o fit dele com o mercado.
+[11:57] E não, não necessariamente.
+[11:59] E eu colocaria uma regra acima de todas as outras.
+[12:02] Opinião gera informação, comportamento gera evidência.
+[12:06] Excelente.
+[12:07] Então, alguém falar, eu compraria, isso gera informação.
+[12:11] Não quer dizer que é inútil, é uma informação, pode ser interessante.
+[12:15] Agora, comportamento, aí sim você tem evidência.
+[12:18] São coisas diferentes.
+[12:20] Ele mesmo, olha, nem tinha lido ainda, mas é o mesmo exemplo que ele está dando aqui.
+[12:23] eu usaria, vale pouco, clicar, marcar uma reunião, abandonar a solução atual, colocar o cartão, pagar um depósito, assinar um piloto, vale muito mais, é isso que nós estamos querendo aqui
+[12:36] Solution Market Fit, exatamente nesse sentido, você escolheu um mercado, escolheu um perfil ideal de cliente, um problema e formulou uma tese de valor, agora precisa produzir evidência suficiente de que aquela solução específica é uma boa direção para aquele mercado, antes de investir pesado na construção.
+[12:57] Quem
+[12:57] Na literatura de produto, isso fica muito próximo do Problem Solution Fit, ou Product Discovery.
+[13:04] O objetivo do Discovery é justamente conseguir evidência de que uma solução é valiosa,
+[13:08] utilizável, tecnicamente possível e viável para o negócio
+[13:12] Antes de gastar energia construindo a solução, no caso.
+[13:15] E tem uma ideia que eu transformaria quase em uma lei.
+[13:19] Convicção não deve vir da quantidade de pessoas que disseram que gostaram.
+[13:23] Deve vir do custo de comportamento.
+[13:25] A gente já falou disso.
+[13:26] Beleza, vamos assumir então que essa é a nossa lei aqui, ok?
+[13:29] Você não tem um negócio validado se algumas pessoas falaram que comprariam, usariam.
+[13:35] Se não teve comportamento, não é evidência.
+[13:37] Alguém dizer legal custa zero, dar WhatsApp custa pouco, marcar uma reunião custa um pouco mais, trocar ferramenta atual custa mais ainda, colocar 500 reais custa muito.
+[13:48] Inclusive, a nossa validação aqui são três pessoas que pagam pela solução, tá?
+[13:52] Usar durante quatro semanas e continuar usando custa mais ainda.
+[13:57] É por isso que a evidência comportamental é muito mais forte que a intenção declarada.
+[14:01] ó.
+[14:01] A ideia de não testar tudo de uma vez é importante.
+[14:04] Tereza Torres, esse site aqui é bem legal, tá? Depois acesse esse site aqui, ó, Strategizer.
+[14:09] Ele tem um conjunto de ferramentas de design thinking que você pode utilizar.
+[14:15] Então, eu gosto muito dele, já acessei várias vezes, tem aqui, deixa eu ver, aqui ó, Tools.
+[14:19] Aí tem o Business Model Canvas, que eles são os detentores dos direitos do Business Model Canvas.
+[14:25] Aí tem aqui o Value Proposition Canvas, também muito bom, e muitos outros.
+[14:30] Tem Charter, Soft, Great Value Proposition, e muitos outros diferentes aí, várias ferramentinhas.
+[14:36] É um site bem antigo também, com muitos canvas interessantes aí para vocês explorarem, beleza?
+[14:42] Beleza? Então, beleza. Tereza Torres, Strategizer e SVPG convergem numa lógica parecida.
+[14:49] Explicite as hipóteses críticas e teste primeiro aquilo que apresenta o maior risco.
+[14:55] Eu criaria uma escala de evidência.
+[14:57] Para você, isso poderia virar um framework bem simples.
+[14:59] Então, existe aqui um nível de pontuação e aí vamos ver então.
+[15:03] Nível 0, evidência, opinião, achei legal.
+[15:07] Nível 1, reconhecimento, eu tenho esse problema, essa informação.
+[15:11] A pessoa falou, eu vivo esse problema? É uma informação que já é um nível 1, já subiu aqui, já é algo interessante.
+[15:16] Isso é interessante também, galera, porque muitas vezes vocês vêm até mim ou na nossa equipe e falam assim,
+[15:23] ah, eu rodei essa semana vários testes de validação, marquei reuniões, mas não fechei com ninguém,
+[15:28] e fica com aquela sensação de derrota, mas não é derrota.
+[15:31] Se você pontuar aqui, você fala, ah, eu entrevistei 10 pessoas e nenhuma comprou,
+[15:35] Mas uma falou que achou legal, outra falou, quatro falaram que tem esse problema, duas falaram que tentaram resolver já e não conseguiram, duas clicaram, entende?
+[15:45] Você vai subindo os níveis aqui, aí você tem que entender, se eu parei aqui, por exemplo, entrou na lista, pediu uma demo, parei aqui, beleza, eu sei que eu tenho que correr atrás agora do próximo nível, os de baixo eu já cumpri, faz sentido?
+[15:58] Então, é isso aqui que está sendo proposto aqui. Então, exemplo, tem um problema histórico, já tentei resolver, atenção, clicou, respondeu, visitou, intenção, entrou na lista, pediu uma demonstração, compromisso, marcou uma reunião, enviou dados.
+[16:12] Eu tava
+[16:13] ver se a pessoa, depois que pagou, utilizou o que ela pagou ali também.
+[16:16] Ok?
+[16:17] Então, compromisso.
+[16:18] Marcou reunião, enviou dados.
+[16:20] Sacrifício.
+[16:21] Mudou o processo.
+[16:22] Dedicou uma parte da equipe.
+[16:24] Dinheiro.
+[16:24] Pagou.
+[16:25] Fez depósito.
+[16:26] Uso.
+[16:26] Utilizou e teve resultado.
+[16:28] Retenção.
+[16:29] Voltou e continuou usando.
+[16:30] E nível 10.
+[16:30] Propagação. Indicou espontaneamente. Se você passou nesses níveis todos, você tem algo validado. E agora você entra num momento de escala e previsibilidade.
+[16:44] Vamos entender então isso dentro do que está acontecendo aqui na Overlens. A
+[16:48] Lá atrás eu precisei validar tudo isso aqui na
+[16:50] Fui validando um passo de cada vez, fiz entrevistas, identifiquei o problema, vi pessoas o que elas já tinham tentado fazer, vi se elas estavam interessadas, gerou lista, marquei uma live, falei que eles iam precisar se comprometer e as primeiras pessoas pagaram, fiz uma oferta ali, validei até aqui.
+[17:09] Depois que eu validei até aqui, eu entrei num processo aqui no nível 8, eu fiquei um ano e meio, quase dois, eu fiquei quase dois anos no nível 8, pivotando, mudando a entrega, até ajustar uma entrega que fazia sentido pra gente, vamos colocar aí uns dois anos pra ficar azeitado mesmo, e aí entrou nisso aqui, retenção, aí a gente começou a olhar pra retenção, quantas pessoas continuam, quantas pessoas renovam, e o mais importante, as pessoas indicam que quando a gente chegou nesse nível aqui, perfeito, tá validado, é uma excelente solução,
+[17:39] As pessoas estão indicando pra outras, as pessoas estão trazendo outras pessoas que elas se importam pra
+[17:44] pronto, validei.
+[17:45] Agora que eu validei, eu posso começar a escalar. E aí quando você começa a escalar, você volta, tá?
+[17:50] Você volta o processo todo pra ver agora se dentro de uma escala você consegue manter aquilo também.
+[17:56] Aí entra numa fase de processo mais orbital, assim, beleza?
+[18:00] Então isso aqui já dá muita clareza pra vocês, esses níveis aqui em relação a sentir que o sucesso começa desde cedo,
+[18:08] Não quer dizer que você não vendeu, então fracassou.
+[18:11] Você só tem que saber ler os sinais.
+[18:12] Então, você não diria mais, validei minha hipótese porque conversei com 20 pessoas.
+[18:16] Errado.
+[18:17] Você diria, tenho evidência nível 7, falei com 37 empresas do ICP, 11 aceitaram uma reunião,
+[18:23] 6 quiseram o piloto e 3 pagaram R $2 .000 antes do produto existir.
+[18:27] Excelente, validou.
+[18:28] Bora agora transformar isso em um negócio real.
+[18:32] Ou em um produto real, uma solução real para o mercado.
+[18:34] Isso é convicção.
+[18:35] E eu faria uma coisa ainda mais importante.
+[18:38] Antes do experimento, escreva o critério de aprovação e de morte da hipótese.
+[18:42] Então, antes de ir validar, escreva quando eu vou considerar que isso está validado
+[18:49] e quando eu vou considerar que essa hipótese morreu.
+[18:51] Isso é importante porque se você passou da linha ali onde o negócio morreu,
+[18:55] volta, revisa a hipótese rápido e entra na validação de novo, nesse ciclo.
+[19:01] Só que tem que ser rápido, porque se você demora demais aqui,
+[19:04] Quando você olhar para trás, você vai falar, cara, eu não precisava ter gastado tanto tempo ali, porque eu ainda estava validando, gastando energia onde eu não devia.
+[19:11] Então, lembre -se disso.
+[19:12] Depois que você se apaixona pela ideia, seu cérebro começa a reinterpretar qualquer resultado de sucesso.
+[19:18] Esse viés aqui é um dos mais perigosos.
+[19:22] eu falo isso porque as pessoas se apaixonam
+[19:23] e cuidado não só de vocês se apaixonarem
+[19:26] mas dos clientes de vocês se apaixonarem também
+[19:29] porque eles vão falar
+[19:30] não muda isso, eu gostei disso, vai ser muito ruim se tirar
+[19:32] mas às vezes é necessário
+[19:34] tirar uma coisa, colocar outra
+[19:35] porque você está num processo de validação, beleza?
+[19:38] então ter dados é sempre muito importante
+[19:40] e aí a estrutura que ele está propondo aqui
+[19:42] O que seria então? Campo, hipótese. Ele criou um exemplo aqui de como estruturar isso rápido.
+[19:48] Hipótese, clínicas pequenas têm dificuldade em recuperar leads perdidos.
+[19:52] Identificou um problema aqui. A nossa hipótese é um pouco melhor do que essa, né?
+[19:56] Nossa hipótese é, clínicas pequenas têm dificuldade em recuperar leads perdidos
+[20:00] e ainda não sabem que existe uma solução para isso.
+[20:03] Aí a gente escreve a solução em uma linha também.
+[20:05] Eu gosto de pensar na hipótese como uma moeda de dois lados, problema e solução.
+[20:09] Crença crítica, o problema é suficientemente doloroso para pagar por uma solução.
+[20:14] Isso aqui é uma crença crítica no sentido de, eu acredito que esse é um problema que as pessoas pagariam por ele.
+[20:19] É isso que eu quero validar.
+[20:21] Experimento, oferecer piloto manual para 30 clínicas.
+[20:24] Evidência necessária, pagamento.
+[20:26] Critério de sucesso, 3 pilotos pagos.
+[20:29] Critério de alerta, muito interesse, mas nenhum pagamento.
+[20:33] Critério de morte, 30 ICPs abordados, nenhuma reunião.
+[20:37] Não é nenhuma venda, é nenhuma reunião que ele tá propondo aqui.
+[20:41] Prazo, sete dias, beleza?
+[20:42] eu tô reforçando isso porque nós chegamos nesse número com dados da própria Vanguarda.
+[20:47] A
+[20:47] A gente identificou que sete dias é suficiente pra fazer uma rodada de validação.
+[20:52] A gente identificou isso aqui.
+[20:54] E identificou que quando passa de sete dias, sem dados, né, demorando pra executar a rodada de validação, o experimento,
+[21:01] Se você não tem dados depois de sete dias, você já está lento, já está demorando.
+[21:05] E aqui, feio também, né? Ele colocou sete dias aqui também de prazo, bem conectado.
+[21:11] Outra coisa, critério de sucesso, três ou mais pilotos pagos.
+[21:15] Esse é exatamente o critério de sucesso para sair da etapa de validação.
+[21:18] Então, olha que interessante, muita coisa alinhada e a IA é mais estatística no mundo, né?
+[21:22] A gente tem dados da própria Vanguarda, a
+[21:25] IA tem dados do mundo,
+[21:26] mas os dados
+[21:26] estão bem alinhados com os dados do mundo.
+[21:28] A gente pode trazer nessa direção.
+[21:30] Isso é muito próximo da lógica de test card do strategizer.
+[21:34] Declarar hipótese, teste, métrica e critério antes de rodar experimento.
+[21:39] Isso é o clássico, né?
+[21:40] Método Lean, construir, mensurar, aprender.
+[21:42] Método Lean.

@@ -1,0 +1,887 @@
+00:02:43	Ana Carol:	bom diiiia, galerinha! 💫
+00:02:51	Bruno Stefan:	Bom dia
+00:03:01	Marcelo Vieira:	Bom dia pessoal!
+00:03:38	Ana Carol:	Olá, estou transcrevendo esta chamada com minha extensão Tactiq AI. https://tactiq.io/r/transcribing
+00:03:41	Tais Malheiro:	bom dia ;)
+00:03:42	Michele:	Bom dia a todos.
+00:03:42	Nahila:	bom dia!
+00:03:44	Emanuel Santana:	Eu fiz uma agenda de produção de conteúdo semanal
+00:03:45	Renan Ramires:	Bom dia bom dia
+00:03:46	Brenda Araujo:	Bom dia
+00:03:49	Ed Goularth:	bom diaaa, hackaton ai vou eu
+00:03:52	Claudia Dumont:	bom dia turma
+00:03:54	Mara Aguiar:	bom dia a todos!!!!
+00:03:55	Gustavo Henrique Yanetzky:	buenas
+00:03:57	Elenice Veiga Ortiz:	Bom dia 😃
+00:03:59	Michael Meneses:	Bom diaaa
+00:03:59	Carolina:	Bom dia!!
+00:04:04	Emanuel Santana:	Eu!
+00:04:12	Renan Ramires:	Eu
+00:04:28	Mara Aguiar:	eu não fiz automação, mas subi meu primeiro site!!!
+00:04:29	Ed Goularth:	nao consegui nem a de ler o email
+00:04:33	Ed Goularth:	nao deu certo
+00:04:36	Ana Carol:	eu to querendo criar automação pra organizar uns processos no meu trabalho... pq tá complicado lá pra algumas pessoas entenderem os fluxos hahahaha
+00:04:38	Eduardo Zanini:	Sistema automação de conteúdos
+00:04:48	Nelly Miranda:	Boom dia meu povo !!!
+00:04:50	Michele:	Eu iniciei as instalações GIT, Antigravity, já estou usando routines, estou camimnhando, desejando ampliar tudo aqui.
+00:04:58	Diego Santana:	Olá, estou transcrevendo esta chamada com minha extensão Tactiq AI. https://tactiq.io/r/transcribing
+00:04:58	Mônica Lourenço:	eu fiz o meu site Olá, estou transcrevendo esta chamada com minha extensão Tactiq AI. https://tactiq.io/r/transcribing
+00:05:09	Caio R Alves:	Fiz um app pra minha esposa administrar o consultório de psicologia dela e hospedei na cloudflare
+00:05:30	Ed Goularth:	que massa isso Emanuel
+00:05:31	Mônica Lourenço:	eu fiz o meu site <3  e fiz aquele de pesquisa e copy que você ensinou
+00:05:36	Gustavo Henrique Yanetzky:	Estou terminando, fazendo agente de cadastro de produto na minha base e criação de copy deles pelo paperclip, e estou fazendo a criação das imagens
+00:05:37	Tais Malheiro:	que legal Emanuel!!
+00:05:56	Ana Carol:	Reacted to "Fiz um app pra min..." with ❤️
+00:06:05	Ana Carol:	Reacted to "Sistema automaçã..." with ❤️
+00:06:17	Mônica Lourenço:	https://monicalourenco.com.br/ o meu site <3
+00:06:27	ozana:	Eu estudei mas não apliquei ... mas estou com muitas ideias ... o claude fez uma auditoria no meu projeto e tive q começar algumas coisas do zero
+00:06:53	Leliane:	Bom dia!!! Estou quase finalizando meu site
+00:06:53	Bianca Ramos:	automatizei o canva para fazer os posts da minha cliente dos EUA.
+00:07:05	Phael Marchetti:	Eu estava perdido e fiz um OS life para orgazinar minha vida na regra de pareto...
+00:07:09	Ana Carol:	exato! o povo não lê hahahaha
+00:07:18	Ed Goularth:	nao consegui terminar a automacao de ler email do ultimo bootcamp. O claude nao conseguiu terminar, ficou em loop
+00:07:33	Mara Aguiar:	fiquei tão feliz com o resultado do site, ficou lindo e meus laços com o Claude se entrelaçam cada dia mais...rs
+00:07:47	Renan Ramires:	Automatizei Noticias do mundo da IA, e me gera Carrossel para publicar e também dentro de meu outro perfil , automatizei  frases celebres de filósofos.
+00:07:58	ozana:	eu assisti ... show de bola ... as rotinas
+00:07:59	Camila Mendes:	Fiz uma automação de curadoria de conteudos, criei um portal interno para minhas colaboradoras conseguirem se informar durante a semana e estou treinando uma IA para responder com conhecimento desses conteudos, processos documentados e documentos externos dos clientes
+00:08:15	Gustavo Henrique Yanetzky:	isso
+00:08:26	Camila Mendes:	O intuito é virar uma SGI completo para gestão de todo o conhecimento da empresa
+00:08:27	Gisa Ferreira:	excelente o vídeo das rotinas! automatizei pesquisas e organização dos meus arquivos.
+00:08:31	Renan Ramires:	Tambien criei  um organizador de pastas, do meu drive rs …tudo em um so lugar.
+00:08:39	Tais Malheiro:	estou assistindo as aulas de skills, ainda não fiz as automações…🫣
+00:08:45	Mara Aguiar:	agora estou trabalhando no site e outras automações da Pousada Ecológica do Meu cunhado. essas reuniões me dão vários insights.
+00:09:15	ozana:	união estável
+00:09:30	Nahila:	Já uso rotinas de notícias, fiz pesquisa de mercado auditada pra um projeto, gerei os 3 caminhos de acordo com o que precisava e ainda gerei 3 landing pages apresentando os 3 caminhos pro cliente
+00:10:51	Michele:	Ruan, uma dúvida, fiz o investimento no VPS, e consta até o momento, que meu seridor está sendo configurado, poderia informar se procede?
+00:11:07	Ruan Braz:	https://www.figma.com/board/pWajXLautZ6pMWOUcQ7t3O/Bootcamp---Swarm?node-id=0-1&t=RxnIk759kJaYUfvT-1
+00:11:10	Phael Marchetti:	Olha que eu ainda nem reiniciei o meu projeto! Na verdade, eu já tinha dado os primeiros passos, mas percebi que precisava me preparar melhor antes de continuar. Minha meta agora é transformar esse sistema em algo incrível para a minha área de atuação. Não penso apenas em um pequeno software, mas sim em criar um verdadeiro ecossistema.
+00:11:45	Denise de Maio:	Gente, quanta coisa vcs fizeram! Parabéns! Eu estou atrasada aqui nos conteúdos e nas tarefas pq fiquei em evento a samana toda.... vou acelerar essa semana.
+00:12:02	Brenda Araujo:	Me dá, que eu quero
+00:12:04	Brenda Araujo:	kkkk
+00:12:07	ozana:	dá pra mim q eu aciono
+00:12:09	Jaaairo:	Opa, se eles não querem entro na fila
+00:12:15	Tais Malheiro:	tbm quero!!! ;)
+00:12:20	Bianca Ramos:	Eu não peguei ainda por que recebo no primeiro dia do mês!!!!
+00:12:20	Márcio Modonezi:	eu querooo
+00:12:23	Renan Ramires:	aaa me da de presente rsrs….
+00:12:27	João Marcos:	Eu já tenho uma VPS, posso dar o meu
+00:12:30	Phael Marchetti:	Eu estava com problema de saúde... E eu não consegui...
+00:12:33	Phael Marchetti:	vou fazer hj
+00:12:40	Mara Aguiar:	resgatei o meu bônus ontem! mas confesso que não sei como iniciar
+00:12:41	Ed Goularth:	Replying to "Eu já tenho uma V..."
+
+eu queroooo
+00:13:00	Leliane:	Eu ainda não fiz por realmente não ter tido tempo... farei isso até amanhã
+00:13:11	Camila Mendes:	Eu uso um VPS da Oracle, mas vou resgatar para seguir com voces
+00:13:16	Ana Carol:	nessas horas é bom ser ansiosa hahahaha já resgatei no dia q a Nanda mandou a msg hahahha
+00:13:26	Carolina:	Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+00:13:51	ozana:	Nanda manda uma msg pra mim q eu resgato
+00:14:19	Ana Carol:	eu preciso comprar a hospedagem agora... só não sei qual é a melhor opção lá na hostgator
+00:14:32	Claudia Dumont:	já ate levantei a mao!!
+00:14:33	Denise de Maio:	tem que comprar hospedagem?
+00:14:36	Caio R Alves:	resgata em 5 minutos
+00:15:08	Ana Carol:	Replying to "tem que comprar ho..."
+
+não necessariamente... eu quero comprar pra já montar meu site...
+00:15:11	Mariana Lussari:	Ruan, vc acredita que o tamanho mínimo que temos que contratar é de 4GB?
+00:15:23	Ed Goularth:	mas todo mundo que ta no bootcamp recebeu?
+00:15:55	Gustavo Henrique Yanetzky:	Nao ed, só os 50 primeiros
+00:16:35	Ed Goularth:	Reacted to "Nao ed, só os 50 ..." with 👍
+00:17:07	Bianca Ramos:	#over
+00:17:07	Ana Carol:	#over
+00:17:07	Renan Ramires:	#over
+00:17:08	Marina Ficcio:	#over
+00:17:09	Gustavo Henrique Yanetzky:	#over
+00:17:12	Claudia Dumont:	#over
+00:17:12	ozana:	#over
+00:17:12	Will Fernandes:	#over
+00:17:20	Mara Aguiar:	#over 😍
+00:17:23	Emanuel Santana:	Ruan, você falou que mandaria um material depois do link do Figma.
+00:17:24	Mônica Lourenço:	#over
+00:17:39	Tais Malheiro:	estou ansiosa para esta conexão com o WhatsApp… rsrs
+00:18:31	Denise de Maio:	Esse link do Figma nós tivemos acesso?
+00:18:46	Denise de Maio:	não lembro de ter visto no grupo
+00:18:48	Brenda Araujo:	sim
+00:18:52	Mônica Lourenço:	https://www.figma.com/board/pWajXLautZ6pMWOUcQ7t3O/Bootcamp---Swarm?node-id=0-1&t=RxnIk759kJaYUfvT-1
+00:19:05	Denise de Maio:	obrigada Monica!
+00:19:14	Mônica Lourenço:	Reacted to "obrigada Monica!" with ❤️
+00:23:23	Jaaairo:	Estou lendo esse cara aí
+00:23:28	Eduardo Zanini:	Já chegou  o livro para mim
+00:23:44	Gustavo Henrique Yanetzky:	Meu problema maior é isso, complicar demais em nome da perfeição :/
+00:23:54	Denise de Maio:	pq será que nossa mente acaba gerando tanta complexidade né?
+00:24:08	Gustavo Henrique Yanetzky:	Reacted to "pq será que nossa mente acaba gerando tanta complexidade né?" with 🥲
+00:24:17	Gustavo Henrique Yanetzky:	Replying to "pq será que nossa me..."
+
+Boa questao
+00:25:43	Ed Goularth:	muito loko esse ep
+00:27:17	Carolina:	O exemplo ruim é a representação do meu cérebro kkkkkkkk
+00:27:57	Tais Malheiro:	Reacted to "O exemplo ruim é a representação do meu cérebro kkkkkkkk" with 😂
+00:30:35	Denise de Maio:	isso pode estar conectado do Business OS?
+00:30:57	ozana:	Faltou o SoS da Nanda dessa aula
+00:31:11	Denise de Maio:	Replying to "Faltou o SoS da Nanda dessa aula"
+
+quero muito isso, Ozana!
+00:31:29	ozana:	Replying to "Faltou o SoS da Nanda dessa aula"
+
+ajuda muito, tbem quero
+00:31:33	Eduardo Zanini:	Criei um kanban da produção de copy. Ficou bem legal
+00:31:55	Gustavo Henrique Yanetzky:	Reacted to "Criei um kanban da produção de copy. Ficou bem legal" with ❤️
+00:32:06	Gustavo Henrique Yanetzky:	Replying to "Criei um kanban da p..."
+
+Compartilha se puder
+00:32:48	Ana Carol:	Reacted to "Criei um kanban da..." with ❤️
+00:36:18	Ana Carol:	Reacted to "Compartilha se pud..." with ⚡
+00:38:19	Mônica Lourenço:	Reacted to "{A9960301-CEC3-401..." with 😮
+00:38:26	Denise de Maio:	Tem um bebezinho embalado com a aula do Ruan. Que fofura @Gustavo Henrique!
+00:38:31	Ana Carol:	Reacted to "{A9960301-CEC3-401..." with ⚡
+00:38:44	Nahila:	API é o paraíso na terra rs
+00:38:49	Mônica Lourenço:	Replying to "Tem um bebezinho e..."
+
+aluna mais nova de ruanzito
+00:38:49	Brenda Araujo:	500 anos buscando algo que sirva perfeitamente e acabando fazendo do zero
+00:38:53	Ana Carol:	Replying to "Tem um bebezinho e..."
+
+em neném com bochechas mto mordíveis, né? <3
+00:38:59	Ana Carol:	Reacted to "Tem um bebezinho e..." with ❤️
+00:39:06	Gustavo Henrique Yanetzky:	Reacted to "Tem um bebezinho embalado com a aula do Ruan. Que fofura @Gustavo Henrique!" with ❤️
+00:39:09	Denise de Maio:	Reacted to "{A9960301-CEC3-4014-A7C6-EDB1EA0D672D}.png" with ❤️
+00:39:12	Gustavo Henrique Yanetzky:	Reacted to "em neném com bochechas mto mordíveis, né? <3" with ❤️
+00:39:15	Gustavo Henrique Yanetzky:	Reacted to "aluna mais nova de ruanzito" with ❤️
+00:39:26	Gustavo Henrique Yanetzky:	Reacted to "{A9960301-CEC3-4014-A7C6-EDB1EA0D672D}.png" with ❤️
+00:39:43	Mônica Lourenço:	Reacted to "em neném com boch..." with ❤️
+00:40:11	Gustavo Henrique Yanetzky:	Replying to "Tem um bebezinho emb..."
+
+Dormiu na aula, absurdo isso kkkk
+00:41:18	Márcio Modonezi:	Reacted to "Dormiu na aula, absurdo isso kkkk" with ❤️
+00:41:40	Denise de Maio:	Então a API é uma conexão?
+00:42:13	Emanuel Santana:	WhatsApp 🙏🙏
+00:45:48	Jaaairo:	Pepe! Já tirei a vela!
+00:46:19	Ed Goularth:	Reacted to "Pepe! Já tirei a ..." with 😮
+00:51:55	Elenice Veiga Ortiz:	Ruan, e para api do WhatsApp, melhor o normal ou o Business?
+00:55:46	Denise de Maio:	Ruan, usando APIs publicas podemos tb colocar nosso sistema em risco, dependendo da origem da API?
+00:56:03	Bruno Tortelli:	so essa do IMDB já da para fazer uns 3 5 projetos
+00:57:12	Gustavo Henrique Yanetzky:	Tem api pra descobrir contato de cliente pelo nome e cpf?
+00:57:49	Denise de Maio:	Só de olhar as APIs surgem várias ideias!
+00:57:55	Tais Malheiro:	genial este de verificar o que os políticos estão falando rsrs
+00:58:00	Daniel Almeida:	Replying to "Tem api pra descobrir contato de cliente pelo nome e cpf?"
+
+também gostaria
+00:58:07	Jaaairo:	Agora meu cérebro está igual o emaranhado que o Ruan desenhou!
+00:58:14	Denise de Maio:	Reacted to "Agora meu cérebro está igual o emaranhado que o Ruan desenhou!" with 🤣
+00:58:29	Mônica Lourenço:	tem um que fez pra pesquisar os gastos públicos por cada político
+00:58:50	Ed Goularth:	uma api pra entrar no gov.br na primeira vez, rs
+00:59:09	Gustavo Henrique Yanetzky:	Replying to "Tem api pra descobri..."
+
+Eu faço a venda mas mercado livre nao deixa eu ver whats e email :/
+00:59:38	Gustavo Henrique Yanetzky:	Replying to "Tem api pra descobri..."
+
+Tem plataforma vendendo isso, mas queria saber como fazem
+00:59:47	Raquel | Valiante Produções:	Qual é o interesse de uma empresa e principalmente governo, de ter APIs? É obrigatório ter?
+00:59:50	Ana Carol:	Reacted to "Agora meu cérebro..." with 🤣
+00:59:52	Bruno Tortelli:	Replying to "Tem api pra descobrir contato de cliente pelo nome e cpf?"
+
+isso e pra evitar golpes, o golpe mais comum que o povo aplica é ir por contato direto e acabar sumindo
+01:00:17	Gustavo Henrique Yanetzky:	Replying to "Tem api pra descobri..."
+
+boa
+01:01:25	Gustavo Henrique Yanetzky:	Reacted to "uma api pra entrar no gov.br na primeira vez, rs" with 😂
+01:02:36	João Paganardi:	reset
+01:02:37	Elenice Veiga Ortiz:	Janela
+01:02:38	Renato Stegun:	reset
+01:02:38	Pedro Hirakawa (VSPR):	Janela de uso
+01:03:52	Bruno Tortelli:	precisa manter o PC ligado pra isso funcionar?
+01:03:52	Ed Goularth:	pode repetir o primeira parte do pormpt?
+01:04:10	ozana:	e se deixar na VPS rodando?
+01:04:13	Mariana Lussari:	Quando eu deixo o pc trabalhando a tela entra em descanso. Como fazer para não parar?
+01:04:28	Pedro Hirakawa (VSPR):	Replying to "precisa manter o PC ..."
+
+Sim
+01:04:57	Ed Goularth:	Replying to "Quando eu deixo o ..."
+
+desliga o no power energy. Pra ficar sem entrar em descanso
+01:05:21	Ed Goularth:	alguem escreveu o primeiro prompt?
+01:05:21	Bruno Tortelli:	Replying to "e se deixar na VPS rodando?"
+
+Acho que acaba token da mesma forma, mas tendo VPS ele não pararia, iria seguir assim direto
+01:05:23	Mariana Lussari:	Replying to "Quando eu deixo o pc..."
+
+Muito obrigada, Ed
+01:05:45	Gustavo Henrique Yanetzky:	Replying to "alguem escreveu o pr..."
+
+nop
+01:05:58	Gustavo Henrique Yanetzky:	Reacted to "ata ave m (chittitas to orie.png" with 🫡
+01:06:11	Renato Stegun:	Replying to "Quando eu deixo o pc trabalhando a tela entra em descanso. Como fazer para não parar?"
+
+Vai nas configurações do Win > Sistema > Energia
+01:06:30	Mariana Lussari:	Replying to "Quando eu deixo o pc..."
+
+Muito obrigada, Renato
+01:06:43	Renato Stegun:	Reacted to "Muito obrigada, Renato" with 👍
+01:06:48	Ed Goularth:	Replying to "ata ave m (chittit..."
+
+esse eu peguei, perdi vc fique 8 horas bla bla, rs
+01:06:54	Raquel | Valiante Produções:	Qual é o interesse de uma empresa e principalmente governo, de ter APIs? É obrigatório ter?
+01:07:59	Denise de Maio:	Faz a de SDR!
+01:08:07	Mariana Lussari:	Siiim
+01:08:09	Gustavo Henrique Yanetzky:	Replying to "Qual é o interesse d..."
+
+Dados. Governo usa muito pra parte fiscal, ate onde sei
+01:08:15	Mariana Lussari:	please
+01:08:20	Pedro Hirakawa (VSPR):	Replying to "Quando eu deixo o pc..."
+
+Pelo App do Claude tmbm da certo se ativar essa opção
+[A mensagem completa não pode ser exibida nesta versão]
+01:08:38	Gustavo Henrique Yanetzky:	Replying to "Qual é o interesse d..."
+
+Mas do portal da transparencia é lei
+01:08:51	Bruno Tortelli:	Replying to "Qual é o interesse de uma empresa e principalmente governo, de ter APIs? É obrigatório ter?"
+
+Falando de empresas privadas, é como se você disponibilizasse o serviço para uso via dados e não apenas via interface, exemplo se seu serviço tem um cadastro, com muitos dados, disponibilizar eles via api e uma forma de cadastrar em lote coisas sem que seja necessário fazer isso na mao.
+01:08:51	Mariana Lussari:	Replying to "Quando eu deixo o pc..."
+
+Mesmo trabalhando pelo terminal, Pedro?
+01:09:10	João Paganardi:	Replying to "ata ave m (chittit..."
+
+Basicamente ele falou pra IA ficar até x horas buscando por APIs que seriam úteis pro sistema (que a IA ja conhece)
+01:09:18	Gustavo Henrique Yanetzky:	Replying to "Qual é o interesse d..."
+
+Empresas é pra ter dados extras ou pra usar outros serviços/plataformas
+01:09:39	Bruno Tortelli:	Replying to "Qual é o interesse de uma empresa e principalmente governo, de ter APIs? É obrigatório ter?"
+
+e como se fossem os dados em forma crua, tudo que integra ou trabalha com outros serviços, geralmente faz sentido ter APIs
+01:10:10	Pedro Hirakawa (VSPR):	Replying to "Quando eu deixo o pc..."
+
+Não testei só com o terminal aberto, mas se deixar o aplicativo do Claude aberto ele não desliga o computador
+01:10:50	Felipe T.:	145x mais tokens do que The Great Gatsby deve ser bastante coisa
+01:11:17	Mariana Lussari:	Replying to "Quando eu deixo o pc..."
+
+Perfeito. Muito obrigada, Pedro
+01:11:25	ozana:	Great Gatsby é um filme
+01:11:30	Raquel | Valiante Produções:	Replying to "Qual é o interesse de uma empresa e principalmente governo, de ter APIs? É obrigatório ter?"
+
+Obrigada, pessoal!!!
+01:11:37	Pedro Hirakawa (VSPR):	Reacted to "Perfeito. Muito obrigada, Pedro" with ✌️
+01:11:43	Bruno Lujan:	quero criar uma automacao que puxa dados de APIs publicas e cruza esses dados para obter padroes. inicialmente, para teste pensei em cruzar dados das empresas de uma regiao com o comportamento de compra da regiao. liste pra mim APIs publicas e pagas tbm que podem me fornecer esses dados, estou no brasil e quero fazer isso em sao paulo. Analise tambem a minha ideia e apresente pontos cegos e oportunidades.
+01:11:59	Bruno Tortelli:	offtopic, alguém testou o hermes?
+01:12:01	Bruno Lujan:	Kkkkk nao, é o prompt pra galera
+01:12:04	Ana Carol:	Reacted to "quero criar uma au..." with ⚡
+01:12:19	Felipe T.:	Reacted to "Great Gatsby é um..." with ❤️
+01:12:46	Daniel Almeida:	@Ruan Braz, você não consegue compartilhar essa conversa com o Claude não? Daí ficaria mais fácil para acompanhar e pegar os prompts...
+01:12:56	Felipe T.:	Replying to "Great Gatsby é um..."
+
+DiCaprio manda bem demais nesse
+01:13:15	Tais Malheiro:	Reacted to "quero criar uma automacao que puxa dados de APIs publicas e cruza esses dados para obter padroes. inicialmente, para teste pensei em cruzar dados das empresas de uma regiao com o comportamento de compra da regiao. liste pra mim APIs publicas e pagas tbm que podem me fornecer esses dados, estou no brasil e quero fazer isso em sao paulo. Analise tambem a minha ideia e apresente pontos cegos e oportunidades." with ❤️
+01:13:20	Bruno Tortelli:	Replying to "Qual é o interesse de uma empresa e principalmente governo, de ter APIs? É obrigatório ter?"
+
+Exemplo Raquel, a gente usa o Jira na empresa, o da Atlassian, usando a API deles, a gente conseguiu desenvolver uma ferramenta interna, com a interface que a gente necessita. ai a gente usa o Jira, sem ser no domínio deles.
+01:13:30	Pedro Hirakawa (VSPR):	Reacted to "quero criar uma automacao que puxa dados de APIs publicas e cruza esses dados para obter padroes. inicialmente, para teste pensei em cruzar dados das empresas de uma regiao com o comportamento de compra da regiao. liste pra mim APIs publicas e pagas tbm que podem me fornecer esses dados, estou no brasil e quero fazer isso em sao paulo. Analise tambem a minha ideia e apresente pontos cegos e oportunidades." with ⚡
+01:13:32	Ed Goularth:	Replying to "@Ruan Braz, você n..."
+
+boa, a gente fica tirando o print e perde o bonde
+01:14:08	ozana:	tbem deixando a população sem cultura para saber usar API
+01:14:08	Rose Tesche:	regra básica de qualquer ditadura
+01:14:10	Felipe T.:	Reacted to "quero criar uma au..." with ⚡
+01:14:13	Pedro Hirakawa (VSPR):	Replying to "offtopic, alguém tes..."
+
+Usando aqui em algumas coisas
+01:14:21	Rose Tesche:	Olá, estou transcrevendo esta chamada com minha extensão Tactiq AI. https://tactiq.io/r/transcribing
+01:15:03	Raquel | Valiante Produções:	Reacted to "Exemplo Raquel, a gente usa o Jira na empresa, o da Atlassian, usando a API deles, a gente conseguiu desenvolver uma ferramenta interna, com a interface que a gente necessita. ai a gente usa o Jira, sem ser no domínio deles." with 😯
+01:15:37	Ed Goularth:	o meu trouxe uma parada bem diferente, rs
+01:16:27	Gustavo Henrique Yanetzky:	Vish, sou lucro real em um dos CNPJ mas sou minúsculo kkk
+01:16:42	Mariana Lussari:	O que acha de OpenRouter?
+01:16:48	Gustavo Henrique Yanetzky:	Reacted to "O que acha de OpenRouter?" with ❤️
+01:17:04	Gustavo Henrique Yanetzky:	Replying to "O que acha de OpenRo..."
+
+Top pra certas sitiações
+01:17:12	Mariana Lussari:	Reacted to "Top pra certas sitiações" with ❤️
+01:17:19	Gustavo Henrique Yanetzky:	Replying to "O que acha de OpenRo..."
+
+O Ruan ja falou dela em algumas ocasioes
+01:17:47	Mariana Lussari:	Reacted to "O Ruan ja falou dela em algumas ocasioes" with ❤️
+01:18:40	Gustavo Henrique Yanetzky:	Ruan, isso é top, exemplo, eu vendo ferramentas e quero partir pra distribuição direto pra pequenas empresas, então daria pra eu pesquisar empresas na região dentro do meu segmento, certo?
+01:19:35	Ruan Braz:	https://www.jstor.org/stable/1879431
+01:21:32	Nelly Miranda:	qual seria a API para criar Notas fiscais ?
+01:22:01	Gustavo Henrique Yanetzky:	Replying to "qual seria a API par..."
+
+Depende, se for serviço é com tua cidade
+01:22:35	Nelly Miranda:	Seria API por cidade ou estado ?
+01:22:42	Raquel | Valiante Produções:	Peguei a API do Salic que pega arrecadação da Lei Rouanet. Mostra os projetos e suas informações, valor captado, patrocinadores... para mim que trabalho em produtora é ouro! Posso pensar em algum projeto...
+01:23:05	Ana Carol:	Reacted to "Peguei a API do Sa..." with ❤️
+01:23:21	Gustavo Henrique Yanetzky:	Reacted to "Peguei a API do Salic que pega arrecadação da Lei Rouanet. Mostra os projetos e suas informações, valor captado, patrocinadores... para mim que trabalho em produtora é ouro! Posso pensar em algum projeto..." with 🫡
+01:23:22	Vera Medina:	Obrigada pela dica !
+01:23:35	Vera Medina:	Hi, I'm transcribing this call with my Tactiq AI Extension. https://tactiq.io/r/transcribing
+01:24:47	Ed Goularth:	Replying to "Peguei a API do Sa..."
+
+Tem o FAT fundo de assitencia ao trabalhador que financia projetos de interesse social. Como montar um curso de Ia para pessoas de baixa renda
+01:27:44	Ana Carol:	faça oq eu digo, não faça oq eu faço
+01:28:06	Maia Duarte:	Ladino que pega de ladino rs
+01:28:18	Raquel | Valiante Produções:	Replying to "Peguei a API do Salic que pega arrecadação da Lei Rouanet. Mostra os projetos e suas informações, valor captado, patrocinadores... para mim que trabalho em produtora é ouro! Posso pensar em algum projeto..."
+
+Ed, não entendi a pergunta. Mas se quiser podemos trocar!
+01:28:20	Maia Duarte:	Pois é
+01:28:50	Felipe T.:	Reacted to "Ladino que pega de..." with ❤️
+01:29:01	Maia Duarte:	A maioria dos hackers são “benignos”
+01:29:33	Ed Goularth:	Replying to "Peguei a API do Sa..."
+
+sim, falando isso me veio a ideia de um projeto. Foi um acrescimo, imagina ter uma API ligada ao FAT que te permite criar projetos e criar cursos com recurso do fat
+01:30:10	Maia Duarte:	ops, errei! ah, quer saber? queria errar mesmo
+01:30:39	Ed Goularth:	Replying to "Peguei a API do Sa..."
+
+ter dados sobre isso, quem vence essa burocracia consegue os recursos. Dai a ideia de obter dados do FAT como se pode obter da lei rouanet. Um pra cultura outro pro Social
+01:31:05	Raquel | Valiante Produções:	Replying to "Peguei a API do Salic que pega arrecadação da Lei Rouanet. Mostra os projetos e suas informações, valor captado, patrocinadores... para mim que trabalho em produtora é ouro! Posso pensar em algum projeto..."
+
+Boa!!! Vamos nos jogar!!
+01:31:33	Ed Goularth:	Replying to "Peguei a API do Sa..."
+
+depois te chamo la no zap do boot
+01:31:43	Raquel | Valiante Produções:	Reacted to "depois te chamo la no zap do boot" with 👍
+01:35:28	Ed Goularth:	alguem tem o link do pix?
+01:35:34	Ed Goularth:	nao achei essa tela na pagina
+01:36:29	Ed Goularth:	passa o link do bcb @ruan
+01:36:36	Bruno Lujan:	Quero que você crie uma tela simples (siga o mesmo design dos outros projetos na pasta onde esta pasta está: preto e branco, button pill etc.) de consulta dessa API. Ou seja, conecte a API aqui no sistema para que eu possa testar essa API, colocando o nome de uma região e, então, gerando dados sobre ela.
+01:36:52	Mariana Lussari:	Reacted to "Quero que você crie uma tela simples (siga o mesmo design dos outros projetos na pasta onde esta pasta está: preto e branco, button pill etc.) de consulta dessa API. Ou seja, conecte a API aqui no sistema para que eu possa testar essa API, colocando o nome de uma região e, então, gerando dados sobre ela." with ❤️
+01:36:54	Mônica Lourenço:	Reacted to "Quero que você cr..." with 😍
+01:37:05	Vera Medina:	eu uso já assim :-)
+01:37:10	Denise de Maio:	Precisamos do SOS Bootcamp com todos esse passo a passo. Please, @Fernanda Gervasio 🙏🏼
+01:37:15	Ed Goularth:	Replying to "Quero que você cr..."
+
+nao consegui achar a tela da documentacao brunao
+01:37:20	Vera Medina:	Reacted to "Precisamos do SOS ..." with ❤️
+01:37:20	Mariana Lussari:	Siim
+01:37:29	Felipe Gomes:	E usa o API do googlemaps que está no APIFY?
+01:38:05	Ed Goularth:	https://dadosabertos.bcb.gov.br/dataset/estatisticas-meios-pagamentos
+01:38:08	Ed Goularth:	achei, rs
+01:38:18	Ed Goularth:	Reacted to "Precisamos do SOS ..." with 👍
+01:38:32	Vera Medina:	https://developers.google.com/maps/apis-by-platform
+01:39:12	Vera Medina:	essa página tem as apis do maps
+01:39:54	Vera Medina:	Usamos muito isso nos programas de questões climáticas...
+01:41:19	Daniel Almeida:	Reacted to "Precisamos do SOS Bootcamp com todos esse passo a passo. Please, @Fernanda Gervasio 🙏🏼" with 👍
+01:41:23	Tais Malheiro:	Reacted to "Precisamos do SOS Bootcamp com todos esse passo a passo. Please, @Fernanda Gervasio 🙏🏼" with 🙏
+01:41:53	Felipe T.:	a gente que treinou esses modelos que identificam placas de pare com os CAPTCHA aí da vida
+01:42:01	Felipe Gomes:	obrigado. Qual a diferença entre usar essa API do maps e o scraping do google maps?
+01:42:16	Vera Medina:	melhorar um leads generator que fiz com mais apis...
+01:42:18	Gustavo Henrique Yanetzky:	eu vendo ferramentas e quero partir pra distribuição direto pra pequenas empresas, então daria pra eu pesquisar empresas na região dentro do meu segmento, certo?
+01:42:18	Leliane:	Ruan, você abriu um mundo na minha cabeça hoje!
+01:42:41	Mara Aguiar:	Reacted to "Ruan, você abriu ..." with 👍
+01:42:44	Felipe Gomes:	Entendi, obrigado
+01:42:46	Bruno Tortelli:	fazer uma interface que puxe o salario de todo mundo que eu conheço que é concursado haha
+01:42:49	Eduardo Zanini:	Ele me indicou essas aqui para o meu projeto|: Explorium para descobrir e sinalizar → BrasilAPI para validar → IBGE/BCB para contexto. Tudo dentro do que o projeto já suporta hoje. CAGED e Base dos Dados entram quando o VPS entrar.
+01:42:52	Ana Carol:	Reacted to "fazer uma interfac..." with 😂
+01:42:55	João Paganardi:	Replying to "eu vendo ferrament..."
+
+isso, essa é a ideia
+01:42:56	Vera Medina:	Replying to "eu vendo ferrament..."
+
+Depois te passo o que eu fiz de leads generator...
+01:43:04	Gustavo Henrique Yanetzky:	Reacted to "Depois te passo o que eu fiz de leads generator..." with ❤️
+01:43:10	Gustavo Henrique Yanetzky:	Replying to "eu vendo ferramentas..."
+
+Obrigado Vera
+01:43:11	Elenice Veiga Ortiz:	No caso do LinkedIn não tem o que fazer né? Não tem api só fazendo scraping mesmo, isso?
+01:43:12	João Paganardi:	Reacted to "fazer uma interfac..." with 😂
+01:43:15	Gustavo Henrique Yanetzky:	Reacted to "isso, essa é a ideia" with 🫡
+01:43:21	ozana:	... 27 impostos novos só esse ano ... com certeza são essas APIs q estão ajudando isso acontecer
+01:43:23	Vera Medina:	Replying to "eu vendo ferrament..."
+
+me procura que eu compartilho com vc...
+01:43:31	Michael Meneses:	Tenho um pesquisador de CNPJ, mas ele tá bem fraquinho, com essas APIs as possibilidades são outras. Meu maior problema é conseguir o contato do decisor.
+01:43:50	Gustavo Henrique Yanetzky:	Reacted to "me procura que eu compartilho com vc..." with ❤️
+01:43:53	Bruno Tortelli:	Replying to "No caso do LinkedIn não tem o que fazer né? Não tem api só fazendo scraping mesmo, isso?"
+
+LinkedIn tem uma ferramenta pra busca avançada, vi em um curso de LinkedIn que to fazendo
+01:43:59	Vera Medina:	compartilho sim!!!
+01:44:02	Bruno Tortelli:	Replying to "No caso do LinkedIn não tem o que fazer né? Não tem api só fazendo scraping mesmo, isso?"
+
+oficial e fora da plataforma
+01:44:07	Vera Medina:	eu compartilho tudo kkkk
+01:44:15	Mara Aguiar:	Reacted to "eu compartilho tud..." with ❤️
+01:44:18	Elenice Veiga Ortiz:	Replying to "No caso do LinkedIn não tem o que fazer né? Não tem api só fazendo scraping mesmo, isso?"
+
+Que legal, Bruno 🙋🏻‍♀️
+01:44:33	Elenice Veiga Ortiz:	Replying to "No caso do LinkedIn não tem o que fazer né? Não tem api só fazendo scraping mesmo, isso?"
+
+Vamos trocar?
+01:44:50	Bruno Tortelli:	Replying to "No caso do LinkedIn não tem o que fazer né? Não tem api só fazendo scraping mesmo, isso?"
+
+O nome é Recruiter Lite se não me engano
+01:44:56	Pedro Hirakawa (VSPR):	Tenho um aqui de scrap  no Maps, ligado a um classificador de leads pro meu ICP, ajuda bem legal
+01:45:00	Elenice Veiga Ortiz:	Replying to "No caso do LinkedIn não tem o que fazer né? Não tem api só fazendo scraping mesmo, isso?"
+
+Já pesquisei muito e já usei as oficiais
+01:45:14	Mônica Lourenço:	jezuis, eu to endoidando pra tentar visualizar isso na minha rotina de trabalho
+01:45:18	Mariana Lussari:	Reacted to "Tenho um aqui de scrap  no Maps, ligado a um classificador de leads pro meu ICP, ajuda bem legal" with ❤️
+01:45:21	Denise de Maio:	gerador de leads é mais para lead PJ?
+01:45:23	Renato Stegun:	Reacted to "Tenho um aqui de scrap  no Maps, ligado a um classificador de leads pro meu ICP, ajuda bem legal" with ❤️
+01:45:28	ozana:	será q tem alguma API do Siscomex?
+01:45:51	Emanuel Santana:	Esse é legal em @Pedro Hirakawa (VSPR)
+01:45:55	Emanuel Santana:	Reacted to "Tenho um aqui de s..." with ❤️
+01:46:18	Bruno Tortelli:	Replying to "será q tem alguma API do Siscomex?"
+
+eu dei um google aqui e tem sim pelo jeito
+01:46:19	Ana Carol:	Reacted to "... 27 impostos no..." with 🤣
+01:46:23	Bruno Tortelli:	Replying to "será q tem alguma API do Siscomex?"
+
+documentada
+01:47:03	Pedro Hirakawa (VSPR):	Reacted to "Esse é legal em @Pedro Hirakawa (VSPR)" with ❤️
+01:47:19	ozana:	Reacted to "documentada" with ❤️
+01:48:05	Ed Goularth:	Existe um API para TEMPO ENERGIA CLAREZA?
+01:48:54	Gustavo Henrique Yanetzky:	Reacted to "... 27 impostos novos só esse ano ... com certeza são essas APIs q estão ajudando isso acontecer" with 😂
+01:49:10	Mônica Lourenço:	eu tempo uma dúvida besta
+01:49:25	ozana:	E a veracidade dessas info ... se a gente usar os dados o q garante q não estaremos disseminando mentiras?
+01:49:28	Gustavo Henrique Yanetzky:	Reacted to "eu compartilho tudo kkkk" with ❤️
+01:49:42	Mônica Lourenço:	como eu faço pra abrir essas páginas que ele cria? (essa local)
+01:49:48	Gustavo Henrique Yanetzky:	Reacted to "Tenho um aqui de scrap  no Maps, ligado a um classificador de leads pro meu ICP, ajuda bem legal" with 🫡
+01:49:53	Ana Carol:	Replying to "E a veracidade des..."
+
+é por isso q o mais seguro é usar APIs oficiais
+01:50:18	Denise de Maio:	Replying to "como eu faço pra abrir essas páginas que ele cria? (essa local)"
+
+acho que ele pediu no prompt para criar um sistema
+01:50:39	Brenda Araujo:	A receita tá só esperando a volta do anzol
+01:50:45	Gustavo Henrique Yanetzky:	Reacted to "será q tem alguma API do Siscomex?" with ❤️
+01:50:51	Rose Tesche:	Ruan, o que épreciso para construir um sistema que procure os melhores investimentos financeiros?
+01:50:56	Renato Stegun:	Replying to "como eu faço pra abrir essas páginas que ele cria? (essa local)"
+
+Está rodando localmente no PC
+01:50:57	Gustavo Henrique Yanetzky:	Replying to "será q tem alguma AP..."
+
+Nossa, ai é top também hein
+01:51:04	Felipe T.:	Reacted to "A receita tá só ..." with ❤️
+01:51:10	Mônica Lourenço:	Replying to "como eu faço pra ..."
+
+toda vez eu faço o pedido pra abrir e o claude coisa o link, mas tem outra forma? tipo selecionar algum arquivo na pasta?
+01:51:14	Felipe T.:	Replying to "A receita tá só ..."
+
+salve-se quem puder
+01:52:26	Rose Tesche:	sim, sim...
+01:52:32	ozana:	dizem q 9 estados do nordeste tem mais pessoas com bolsas do q com carteira assinada ... interessante checar essa info
+01:52:49	Felipe T.:	Reacted to "dizem q 9 estados ..." with ❤️
+01:53:08	Mariana Lussari:	Ruan, vc usa o openrouter?
+01:53:16	ozana:	mas o q garante q a fonte está falando a verdade?
+01:53:23	Gustavo Henrique Yanetzky:	Replying to "como eu faço pra abr..."
+
+Monica, se fizer algo local, na pasta, pode pedir para criar uma visão em HTML
+01:53:28	Denise de Maio:	o que é mesmo o openrouter?
+01:53:39	Gustavo Henrique Yanetzky:	Replying to "como eu faço pra abr..."
+
+Ai ele cria tipo um site, mas é só na tua maquina
+01:53:53	Ana Carol:	Replying to "dizem q 9 estados ..."
+
+mais interessante é checar as regras das bolsas, q daí fica mais fácil de saber a veracidade da informação... mas em ano eleitoral, vai achar bastante besteira dependendo de onde for buscar a info...
+01:54:07	ozana:	no Brand System usamos o openrouter
+01:55:34	Gustavo Henrique Yanetzky:	Replying to "mas o q garante q a ..."
+
+Precisa ter um filtro teu da fonte, se a fonte é baseada em dados ou em especulação. Tipo, essa API com o BCB, são dados que eles tem na base.
+01:55:40	Caio R Alves:	Replying to "dizem q 9 estados do..."
+
+https://nilc-fakenews.herokuapp.com/esse site do CNPQ criado em parceria com o instituto de matemática e computação da USP de São Carlos, checa se as notícias são verídicas ou não, se vem de fontes confiáveis ec... basta entrar nele e colar a notícia...
+01:55:51	Ana Carol:	Reacted to "Precisa ter um fil..." with ⚡
+01:55:55	Maia Duarte:	Reacted to "mais interessante é checar as regras das bolsas, q daí fica mais fácil de saber a veracidade da informação... mas em ano eleitoral, vai achar bastante besteira dependendo de onde for buscar a info..." with 🙏🏻
+01:55:58	João Marcos:	PIUMHI
+01:56:08	Ana Carol:	Reacted to "https://nilc-faken..." with ❤️
+01:56:18	Maia Duarte:	Reacted to "https://nilc-fakenews.herokuapp.com/
+esse site do CNPQ criado em parceria com o instituto de matemática e computação da USP de São Carlos, checa se as notícias são verídicas ou não, se vem de fontes confiáveis ec... basta entrar nele e colar a notícia..." with 🙏🏻
+01:56:48	Maia Duarte:	Replying to "dizem q 9 estados do..."
+
+Muito obrigada Caio
+01:57:14	Raquel | Valiante Produções:	Reacted to "Precisa ter um filtro teu da fonte, se a fonte é baseada em dados ou em especulação. Tipo, essa API com o BCB, são dados que eles tem na base." with ⚡
+01:57:14	Mônica Lourenço:	coloca campina grandeeeeeeeeee
+01:57:29	Raquel | Valiante Produções:	Reacted to "mas o q garante q a fonte está falando a verdade?" with 👆
+01:57:41	Ana Carol:	Replying to "mas o q garante q ..."
+
+mas daí entra tb se a pessoa acredita nas fontes oficiais, né? pq tem gente q vai falar q a fonte mente de acordo com oq ela própria acredita... o filtro pessoal acaba meio enviesado às vezes...
+01:57:54	Nahila:	a parte mais difícil é essa confiança
+01:58:07	Gustavo Henrique Yanetzky:	Reacted to "mas daí entra tb se a pessoa acredita nas fontes oficiais, né? pq tem gente q vai falar q a fonte mente de acordo com oq ela própria acredita... o filtro pessoal acaba meio enviesado às vezes..." with ❤️
+01:58:23	Maia Duarte:	Reacted to "mas daí entra tb se a pessoa acredita nas fontes oficiais, né? pq tem gente q vai falar q a fonte mente de acordo com oq ela própria acredita... o filtro pessoal acaba meio enviesado às vezes..." with ❤️
+01:58:31	Mônica Lourenço:	caraca
+01:58:35	Denise de Maio:	Ruan, hoje ainda vamos fazer o exercício da API da Meta para criar um SDR?
+01:58:39	Felipe T.:	coloca brasília haha
+01:58:42	João Marcos:	Balneário
+01:58:46	Maia Duarte:	É nessa que descobrimos que a gente alucina mais que a máquina rs
+01:58:48	Mônica Lourenço:	ve goianiaaaa
+01:58:51	Emanuel Santana:	Vinhedo
+01:59:04	Nelly Miranda:	Aqui em BSB a gente tá quebraaado.
+01:59:18	Ana Carol:	Reacted to "É nessa descobrim..." with 🤣
+01:59:25	Ana Carol:	Replying to "mas o q garante q ..."
+
+exatamente!
+02:00:02	ozana:	essa coisa da "confiança" é muito importante ... imagina a situação de vc colocar uma info financeira q coletou de uma API do governo e dar ruim ... a gente consegue provar q retirou o dado daquela fonte?
+02:00:25	Gustavo Henrique Yanetzky:	Eu sou de SC e não conheço Aguas Frias kkk
+02:00:29	Ana Carol:	Replying to "essa coisa da "con..."
+
+acho q a LGPD taí pra isso
+02:00:30	Marina Ficcio:	cristais paulista, pesquisei, tem 10 mil habitantes
+02:00:43	Maia Duarte:	Reacted to "acho q a LGPD taí pra isso" with ⚡
+02:00:44	Renato Stegun:	2.839 habitantes Aguas Frias
+02:00:49	Maia Duarte:	Replying to "essa coisa da "confi..."
+
+Sim /\
+02:00:59	Ed Goularth:	Alguma empresa de chuveiros quentinhos
+02:01:05	Rose Tesche:	as águas estão ficando quentes por la
+02:01:08	Phael Marchetti:	eu sou de aguas frias... brincadeira mas estou em SC.
+02:01:08	Ana Carol:	Reacted to "Alguma empresa de ..." with 😂
+02:01:10	Pedro Hirakawa (VSPR):	Reacted to "Alguma empresa de chuveiros quentinhos" with 😆
+02:01:14	João Paganardi:	Reacted to "Alguma empresa de ..." with 😂
+02:01:19	Gustavo Henrique Yanetzky:	Reacted to "as águas estão ficando quentes por la" with 😂
+02:01:22	Ana Carol:	Reacted to "Sim /\" with ❤️
+02:01:29	Renato Stegun:	minúscula
+02:01:32	ozana:	com toda essa grana dá para construir uma terma
+02:01:34	Ed Goularth:	never
+02:01:39	Nahila:	definitivamente não
+02:01:41	Rose Tesche:	não
+02:01:44	Ana Carol:	nunca
+02:01:47	Tais Malheiro:	nunca
+02:01:49	Mônica Lourenço:	nops
+02:01:56	Maia Duarte:	Agua né
+02:02:15	Rose Tesche:	kkkkkkkkkkk
+02:02:18	Ana Carol:	Reacted to "Agua né" with 🤣
+02:02:18	Gustavo Henrique Yanetzky:	Opaa, faz esse pix pr amim Ruan
+02:02:42	ozana:	e água vai ser muito cara no futuro
+02:03:53	Ed Goularth:	Seria interessante criar um app com esse modelinho ai conectado ao clode e ir preenchendo essas lacunas na ordem que vc criou
+02:04:37	Daniel Almeida:	Reacted to "https://nilc-fakenews.herokuapp.com/
+esse site do CNPQ criado em parceria com o instituto de matemática e computação da USP de São Carlos, checa se as notícias são verídicas ou não, se vem de fontes confiáveis ec... basta entrar nele e colar a notícia..." with 🙏🏻
+02:05:54	Renato Stegun:	Legal esse doc Meta Setup Ruan. Vai ajudar muito. 🙏
+02:07:29	Ed Goularth:	fabrica de trols na russia
+02:09:39	João Marcos:	Quero substituir minha ferramenta de mensagem que pago hoje
+02:09:45	Ana Carol:	1 semana? vc cria o mei em 1 dia rs
+02:10:05	Maia Duarte:	Replying to "1 semana? vc cria o ..."
+
+Era isso que eu ia falar. Da mais trabalho abrir a conta PJ doq abrir o CNPJ em si
+02:10:09	Gustavo Henrique Yanetzky:	Replying to "1 semana? vc cria o ..."
+
+Ia falar isso. É questão de horas/minutos kkk
+02:10:17	Gustavo Henrique Yanetzky:	Reacted to "Era isso que eu ia falar. Da mais trabalho abrir a conta PJ doq abrir o CNPJ em si" with 😂
+02:10:21	Ana Carol:	eu quero comprar o meu domínio... na Hostgator, qual o plano ideal?
+02:10:32	Pedro Hirakawa (VSPR):	Reacted to "Era isso que eu ia falar. Da mais trabalho abrir a conta PJ doq abrir o CNPJ em si" with 😂
+02:10:38	Mônica Lourenço:	vocês têm indicação de hospedagem de e-mail corporativo?
+02:11:04	Ana Carol:	Replying to "eu quero comprar o..."
+
+hospedagem, domínio em comprei já rs
+02:11:38	Maia Duarte:	Meio dia eu te conto
+02:11:48	Michele:	Se precisarem de ajuda para abrir MEI, gerir o MEI, ou regularizar empresas com débitos, ou empresa do simples,, lucro presumodo ou lucro real mensalmente com investimento justo, entrem em contato comigo 71996179300, use a palavra chave OVERLANS, que fiz uns planos especiais.
+02:12:13	Michele:	Olá a todos, esta é uma mensagem automática para avisar que minha extensão Tactiq: https://tactiq.io/r/transcribing está transcrevendo esta reunião para mim, para que eu possa dar toda a minha atenção a vocês.
+02:12:45	Caio R Alves:	Replying to "vocês têm indicação ..."
+
+você pode criar um grátis na cloudflare (cloudflare email routing), ele serve como um redirecionador e vai coletar as mensagens e mandar pro seu gmail (ex.), mas o endereço dele fica contato@seudominio.com por exemplo
+02:13:34	Leliane:	Há um tempo eu criei um agente para minha cliente, usei o GPTMaker, não demorou meia hora para que o WhatsApp fosse bloqueado.
+02:13:36	Bruno Tortelli:	Replying to "vocês têm indicação de hospedagem de e-mail corporativo?"
+
+da uma olhada na hostinger também
+02:14:00	Bruno Tortelli:	Replying to "vocês têm indicação de hospedagem de e-mail corporativo?"
+
+quando eu estava pensando em ter um pareceu uma boa.
+02:14:18	Ana Carol:	Reacted to "Era isso que eu ia..." with 😂
+02:14:59	Maia Duarte:	Meta-trauma
+02:15:20	Rose Tesche:	kkkkkkkkkkk
+02:15:41	Bruno Tortelli:	essas coisas ai na época de agencia eram uma desgraça
+02:15:47	Ed Goularth:	Atingir a meta e depois dobrar a meta, kkkk
+02:15:47	Raquel | Valiante Produções:	Gente, cruzes.
+02:16:07	Jaaairo:	Já tive conta do Facebook bloqueada, e eu usava trabalhando para a Meta 🤣. Tive que criar uma nova e ficar usando ela um tempo antes de logar nos serviços que eu precisava.
+02:16:14	Denise de Maio:	Jesus!
+02:16:15	Raquel | Valiante Produções:	Como o cliente vai aceitar fazer tudo isso para trabalhar com ele?
+02:16:15	Brenda Araujo:	Trabalho com trafego pago… isso é um sofrimento
+02:16:28	João Marcos:	Vai ter um evento do WhatsApp agora em Agosto
+02:17:01	Leliane:	Replying to "Vai ter um evento do WhatsApp agora em Agosto"
+
+Super interessante! Como consigo informações?
+02:17:24	João Marcos:	Eles tem divulgado isso na Instagram deles
+02:17:25	Daniel Almeida:	seria bom um agent/skill pra fazer tudo isso aí no facebook/instagram... rs
+02:17:50	Pedro Hirakawa (VSPR):	Replying to "Trabalho com trafego..."
+
+E a galera ainda reclama quando cobra do valor do setup. Fala pra fazer sozinho pra ver se faz?
+02:18:01	Ana Carol:	Reacted to "E a galera ainda r..." with ⚡
+02:18:21	Maia Duarte:	ESSA PARTE É DETESTÁVEL
+02:18:28	Mônica Lourenço:	Replying to "ESSA PARTE É DETE..."
+
+demais
+02:18:35	Leliane:	Reacted to "Eles tem divulgado isso na Instagram deles" with ❤️
+02:18:36	Maia Duarte:	As pessoas reclamam do .gov
+02:18:37	Rose Tesche:	Lembro disso! que sofrimento
+02:18:38	Maia Duarte:	Olha isso
+02:18:58	Pedro Hirakawa (VSPR):	é ai que o filho chora
+02:19:06	Maia Duarte:	Replying to "é ai que o filho cho..."
+
+E a mãe tbm
+02:19:06	Bruno Tortelli:	e ainda esta na metade hahahaha
+02:19:14	Pedro Hirakawa (VSPR):	Reacted to "E a mãe tbm" with 😆
+02:19:15	Denise de Maio:	sempre tem que ter um app?
+02:19:45	Maia Duarte:	Bem sabemos quantos workshops foram necessários para concluir isso
+02:20:00	Rose Tesche:	boa ideia!! hahahaha
+02:20:08	Denise de Maio:	hahahaha
+02:20:11	Bruno Tortelli:	me convenceu, vou usar o telegram kkkkkkk
+02:20:22	Maia Duarte:	Telegram sempre maior e melhor
+02:20:35	Renato Stegun:	Reacted to "me convenceu, vou usar o telegram kkkkkkk" with 😂
+02:20:41	Pedro Hirakawa (VSPR):	Reacted to "me convenceu, vou usar o telegram kkkkkkk" with 😂
+02:20:42	Bruno Tortelli:	Replying to "me convenceu, vou usar o telegram kkkkkkk"
+
+Always
+02:20:45	Denise de Maio:	mas as pessoas não usam : /
+02:20:46	Mônica Lourenço:	Replying to "me convenceu, vou ..."
+
+eu amo o telegram desde 2017
+02:21:07	Maia Duarte:	Que tistreza
+02:21:36	Pedro Hirakawa (VSPR):	Replying to "me convenceu, vou us..."
+
+WhatsApp inclusive copia várias funções do Telegram
+02:21:38	Gustavo Henrique Yanetzky:	Reacted to "Que tistreza" with 😂
+02:21:46	Gustavo Henrique Yanetzky:	Reacted to "me convenceu, vou usar o telegram kkkkkkk" with 😂
+02:21:47	Tais Malheiro:	Giphy [ID:QALemZ1kKdjeVgHX43]
+[Full message cannot be displayed on this version]
+02:21:47	Carolina:	Reacted to "E a mãe tbm" with 🤣
+02:22:01	Gisa Ferreira:	Reacted to "Que tistreza" with 😂
+02:22:16	Pedro Hirakawa (VSPR):	Reacted to "Que tistreza" with 😂
+02:22:17	Gustavo Henrique Yanetzky:	Reacted to "Giphy [ID:QALemZ1kKdjeVgHX43]" with 😂
+02:22:23	Pedro Hirakawa (VSPR):	Reacted to "Giphy [ID:QALemZ1kKdjeVgHX43]" with 😂
+02:22:26	Denise de Maio:	Esse doc vale ouro!
+02:23:08	Leliane:	Quando meu cliente teve o WhatsApp bloqueado foi exatamente isso... Usei a API não oficial
+02:23:40	Gustavo Henrique:	Galera, perdi essa documentação… foi enviado aquii no chat pra cadastrar no Meta? O passo a passo?
+02:24:03	Denise de Maio:	Replying to "Galera, perdi essa documentação… foi enviado aquii no chat pra cadastrar no Meta? O passo a passo?"
+
+file:///D:/CLAUDE%20CODE/BOOTCAMP/AULA%20APIs/index.html
+02:24:06	Bruno Tortelli:	Replying to "index.html"
+
+@Gustavo Henrique aqui
+02:24:22	Bruno Tortelli:	Replying to "Galera, perdi essa documentação… foi enviado aquii no chat pra cadastrar no Meta? O passo a passo?"
+
+te marquei la
+02:24:32	Gustavo Henrique Yanetzky:	Reacted to "index.html" with ❤️
+02:24:41	Marina Ficcio:	o restaurante do meu pai tem o zamper, mas foi o pessoal que criou o app/site que disponibiliza e não sabia que era "ilegal" kkkk
+02:24:46	Bianca Ramos:	ruan, vc ta travando.
+02:24:51	Gustavo Henrique:	Replying to "Galera, perdi essa d..."
+
+@Bruno Tortelli Valeeeu Brunao 👊
+02:24:55	Ana Carol:	tá travando
+02:24:55	Gisa Ferreira:	travou aqui
+02:24:56	Felipe T.:	aqtbm
+02:24:56	Denise de Maio:	travou
+02:24:58	Carolina:	Deu umas travadinhas
+02:24:58	Felipe Gomes:	travou aqui mas ja ficou bom
+02:24:58	Rose Tesche:	tá travando
+02:24:58	Will Fernandes:	deu umas cortadas
+02:24:59	Gustavo Henrique Yanetzky:	Aqui também travou um pouco
+02:24:59	Nahila:	foi e voltou
+02:25:00	Maia Duarte:	Aqui da uns engasgos tbm
+02:25:00	Eduardo Zanini:	Travou
+02:25:04	Gisa Ferreira:	voltou
+02:25:04	Tais Malheiro:	pra mim tbm , mas volta rapidinho
+02:25:06	Pedro Hirakawa (VSPR):	A camera tá parando
+02:25:07	Bianca Ramos:	ele trava uns segundos e voltadepois
+02:25:13	Ana Carol:	ele fica piscando e o audio as vezes fica mudo tb
+02:25:23	Gustavo Henrique:	É que oc onteúdo é mto PESADO!
+02:25:32	Pedro Hirakawa (VSPR):	Reacted to "É que oc onteúdo é mto PESADO!" with 😆
+02:25:34	Ana Carol:	Reacted to "É que oc onteúdo ..." with 😆
+02:25:34	Bruno Tortelli:	Reacted to "É que oc onteúdo é mto PESADO!" with 😆
+02:25:35	Renato Stegun:	Reacted to "É que oc onteúdo é mto PESADO!" with 😆
+02:25:36	Felipe T.:	Reacted to "É que oc onteúdo ..." with 😆
+02:25:37	Tais Malheiro:	Reacted to "É que oc onteúdo é mto PESADO!" with 😂
+02:25:39	Gustavo Henrique Yanetzky:	Reacted to "É que oc onteúdo é mto PESADO!" with 😂
+02:25:41	Evelyn Abreu:	Reacted to "É que oc onteúdo é mto PESADO!" with 😂
+02:25:49	Maia Duarte:	Vc abre a meta e até o zoom começa a bugar
+02:25:53	Vinícius Nunes Azevedo:	Pergunta pro Claude
+Ele responde
+02:25:56	Ana Carol:	Reacted to "Vc abre a meta e at..." with 😂
+02:26:10	Leliane:	Replying to "Galera, perdi essa documentação… foi enviado aquii no chat pra cadastrar no Meta? O passo a passo?"
+
+@Denise de Maio não abriu pra mim
+02:26:39	Vinícius Nunes Azevedo:	Existe uma forma de contratar empresas parceiras da meta para conectar, certo?
+02:27:03	Denise de Maio:	Replying to "Galera, perdi essa documentação… foi enviado aquii no chat pra cadastrar no Meta? O passo a passo?"
+
+@Leliane o Bruno colocou acima o arquivo para baixar
+02:27:08	Gustavo Henrique Yanetzky:	Replying to "index.html"
+
+@Leliane baixa aqui
+02:27:29	Bruno Tortelli:	Replying to "index.html"
+
+baixa e abre no navegador
+02:27:30	Leliane:	Replying to "index.html"
+
+@Gustavo Henrique Yanetzky deu certo agora, obrigada!
+02:27:36	Felipe T.:	Reacted to "Vc abre a meta e at..." with 😂
+02:27:48	Gustavo Henrique Yanetzky:	Reacted to "@Gustavo Henrique Yanetzky deu certo agora, obrigada!" with 🫡
+02:29:13	Tais Malheiro:	não vou dormir mais buscando APIs… kkk
+02:29:31	Maia Duarte:	Tem API que trás a pessoa amada em 3 dias
+02:29:31	Rose Tesche:	kkkkkkkkk
+02:29:38	Rose Tesche:	kkkkkkkk
+02:29:41	Tais Malheiro:	Reacted to "Tem API que trás a pessoa amada em 3 dias" with 😂
+02:29:42	Gustavo Henrique Yanetzky:	Reacted to "Tem API que trás a pessoa amada em 3 dias" with 😂
+02:29:47	Denise de Maio:	https://whatsappbusiness.com/pt-br/products/business-app-ai-agent/  essa forma de conectar é mais simples. Tem muita gente já usando. E sempre aparece uma msg avisando que a pessoa está falando com um agente de IA.
+02:30:08	Evelyn Abreu:	Reacted to "Tem API que trás a pessoa amada em 3 dias" with 😂
+02:30:38	Gisa Ferreira:	Replying to "Tem API que trás a p..."
+
+e ainda faz a amarração
+02:31:01	Denise de Maio:	Reacted to "Tem API que trás a pessoa amada em 3 dias" with 🤣
+02:31:05	Maia Duarte:	Replying to "Tem API que trás a p..."
+
+E nem é meme
+02:31:47	Maia Duarte:	.inveja
+02:32:32	Ana Carol:	Reacted to ".inveja" with ⚡
+02:33:16	Maia Duarte:	let's get infisical
+02:33:28	Bruno Tortelli:	o  free da conta de projetos médios?
+02:33:37	Tais Malheiro:	infisical, serve para todos os tipos de senhas?
+02:34:19	Maria Eduarda Moraes:	Olá, estou transcrevendo esta chamada com minha extensão Tactiq AI. https://tactiq.io/r/transcribing
+02:34:35	Daniel Almeida:	Olá a todos, esta é uma mensagem automática para avisar que minha extensão Tactiq: https://tactiq.io/r/transcribing está transcrevendo esta reunião para mim, para que eu possa dar toda a minha atenção a vocês.
+02:34:35	Mara Aguiar:	Olá a todos, esta é uma mensagem automática para avisar que minha extensão Tactiq: https://tactiq.io/r/transcribing está transcrevendo esta reunião para mim, para que eu possa dar toda a minha atenção a vocês.
+02:34:46	Denise de Maio:	Eu achei que a gente fosse ver uma automação completa de SDR.
+02:36:46	Maia Duarte:	Vai acabar com o sábado do Tio do Código
+02:37:09	Gustavo Henrique Yanetzky:	Replying to "o  free da conta de ..."
+
+Fique com essa dúvida também. Já estou com 500 assinaturas, não aguento mais outra kkk
+02:39:19	Bruno Tortelli:	Replying to "o  free da conta de projetos médios?"
+
+kkkk
+02:39:29	Vera Medina:	eu fiz algo similar para coletar todas as chaves...aí eu uso pra tudo :-)
+02:42:19	João Marcos:	Da pra mostrar o Astro? Ou é só um agente?
+02:43:12	Pedro Hirakawa (VSPR):	Reacted to "eu fiz algo similar para coletar todas as chaves...aí eu uso pra tudo :-)" with ⚡
+02:43:34	Mariana Lussari:	Desculpe se ja falou, mas qual API vcs usam na Overlens para o WhatsApp?
+02:44:12	ozana:	Reacted to "Tem API que trás a pessoa amada em 3 dias" with 😂
+02:44:26	Tais Malheiro:	tá mudo…
+02:44:27	Mariana Lussari:	Ele está falando
+02:44:30	Tais Malheiro:	o emanual
+02:44:33	Mariana Lussari:	Mas sem som
+02:44:35	Renato Stegun:	Precisa liberar o som
+02:44:36	João Marcos:	Ta mutado
+02:44:36	Felipe T.:	culpa da meta
+02:44:46	Mariana Lussari:	Desculpe se ja falou, mas qual API vcs usam na Overlens para o WhatsApp?
+02:45:54	ozana:	o processo na meta dura uns 15-20 dias até aprovação?
+02:46:27	Tais Malheiro:	tbm ia perguntar isso do Telgram...
+02:47:16	Tais Malheiro:	isso que eu quero, um agente pessoal meu
+02:48:09	Mariana Lussari:	Reacted to "Vai ter um evento do WhatsApp agora em Agosto" with ❤️
+02:49:24	Denise:	para o agente pessoal com o Claude não seria apenas ativar o Despach?
+02:50:01	Elenice Veiga Ortiz:	Já fizeram alguma integração do Telegram e WhatsApp, tipo entrada no WhatsApp tratamento no Telegram e output de saída no WhatsApp, seria um sonho 🫠😂
+02:50:01	Mariana Lussari:	Reacted to "É nessa que descobrimos que a gente alucina mais que a máquina rs" with 🤣
+02:50:07	Tais Malheiro:	#over
+02:50:30	ozana:	Replying to "Já fizeram alguma integração do Telegram e WhatsApp, tipo entrada no WhatsApp tratamento no Telegram e output de saída no WhatsApp, seria um sonho 🫠😂"
+
+interessante
+02:50:54	Elenice Veiga Ortiz:	Replying to "Já fizeram alguma integração do Telegram e WhatsApp, tipo entrada no WhatsApp tratamento no Telegram e output de saída no WhatsApp, seria um sonho 🫠😂"
+
+Vamos juntas ver possibilidades?
+02:51:32	Tais Malheiro:	agora travou mesmo… rsrs
+perdão foi aqui em casa… rsrs
+02:51:42	ozana:	muito em breve faremos essas conexões por telepatia... isso é só treinamento
+02:51:58	Mariana Lussari:	Reacted to "muito em breve faremos essas conexões por telepatia... isso é só treinamento" with ❤️
+02:52:21	Elenice Veiga Ortiz:	Reacted to "muito em breve faremos essas conexões por telepatia... isso é só treinamento" with 😂
+02:53:48	ozana:	... começaram a fabricar a maquinha q lê as veias da mão da gente pela empresa Positivo ... pix n esquerda e debito na direita
+02:55:06	ozana:	e essa semana demos um enorme passo para a singularidade ... conseguiram rejuvenescer in vitro uma célula neuronal em 30 anos ...
+02:55:31	Elenice Veiga Ortiz:	Replying to "e essa semana demos um enorme passo para a singularidade ... conseguiram rejuvenescer in vitro uma célula neuronal em 30 anos ..."
+
+Que notícia maravilhosa 🎉🥰
+02:55:58	ozana:	as disrupções estão dando saltos quânticos com a IA
+02:56:27	Denise:	Reacted to "e essa semana demos um enorme passo para a singularidade ... conseguiram rejuvenescer in vitro uma célula neuronal em 30 anos ..." with 😯
+02:57:41	Gustavo Henrique:	boaaaaaa
+02:59:01	ozana:	... tem segurança de regulatórios de produtos tbem[
+03:03:15	Tais Malheiro:	Ruan, dá uma dica de cofre para guardar as senhas que vc gosta ;)
+03:03:34	Mônica Lourenço:	Replying to "Ruan, dá uma dica..."
+
+simmmm, pf
+03:04:02	ozana:	No Brand System ele abordou ... pega o SOS
+03:04:07	Bruno Tortelli:	Replying to "Ruan, dá uma dica de cofre para guardar as senhas que vc gosta ;)"
+
+Nordpass e legal e a versão paga e barata
+03:04:37	Tais Malheiro:	Reacted to "No Brand System ele abordou ... pega o SOS" with 👍
+03:04:41	João Marcos:	Uso o senhas do Iphone e funciona bem aqui
+03:04:50	Tais Malheiro:	Reacted to "Nordpass e legal e a versão paga e barata" with ❤️
+03:05:01	Gustavo Henrique Yanetzky:	Reacted to "Uso o senhas do Iphone e funciona bem aqui" with ❤️
+03:05:04	Gustavo Henrique:	Notes com notas bloqueadas hahaha
+03:05:16	Gustavo Henrique:	10
+03:05:17	Bruno Lujan:	#over
+03:05:18	Renato Stegun:	10
+03:05:18	Tais Malheiro:	10!!!
+03:05:21	Tais Malheiro:	#over
+03:05:21	Nahila:	100000
+03:05:22	Emanuel Santana:	10
+03:05:22	Elenice Veiga Ortiz:	11
+03:05:23	Leliane:	1000
+03:05:24	ozana:	1000000
+03:05:25	Bruno Tortelli:	10
+03:05:28	Phael Marchetti:	milhõessssss
+03:05:28	Marcus:	10
+03:05:30	Mara Aguiar:	10 #over
+03:05:31	Jaaairo:	10 não cabe
+03:05:39	Guilherme Castro:	1000000000000
+03:05:50	Elenice Veiga Ortiz:	Já tô triste 😞
+03:05:50	João Marcos:	Qual é o endereço do Hackaton?
+03:05:51	ozana:	snifff
+03:05:54	Ana Carol:	Reacted to "nota-mil.png" with ❤️
+03:05:54	Gustavo Henrique:	Reacted to "nota-mil.png" with 😂
+03:05:55	Tais Malheiro:	Reacted to "nota-mil.png" with 😂
+03:06:04	Felipe T.:	9,5 (coloca mais hate na meta que eu dou nota 10)
+03:06:08	Nahila:	semana que vem não poderei participar 😭
+03:06:15	Mônica Lourenço:	ruan, essas chamadas aqui, a gente vai ter acesso até quando?
+03:06:24	Gustavo Henrique:	Boa pergunta, Monica
+03:06:37	João Marcos:	kkkk
+03:07:01	João Marcos:	Agendar hospedagem
+03:07:04	João Marcos:	Do jeito que é Ruan vai ser em Nova Lima
+03:07:25	Ed Goularth:	me da um bonus tio?
+03:07:29	Nanda Gervasio:	Replying to "Qual é o endereço do Hackaton?"
+
+Bom dia João, é na Das Haus em Bh
+03:07:32	Ana Carol:	Replying to "Do jeito que é Ru..."
+
+é BH
+03:07:34	ozana:	torresmo, couve, bisteca de porco, virado e arroz
+03:07:50	Ed Goularth:	Ruan o homem bicentenario! nao é possivel que tenha só 30 anos
+03:07:59	João Marcos:	Reacted to "Bom dia João, é na Das Haus em Bh" with 👏
+03:08:11	Ed Goularth:	vai ter paçoca free?
+03:08:14	Jaaairo:	Vai ser em Águas Frias
+03:08:21	Denise:	Ruan, na aula da semana que vem que a gente via ver essa automação completa de SDR e criação e publicação no instagram?
+03:08:22	Ed Goularth:	VPS
+03:08:27	Ana Carol:	ih,..,. travou
+03:08:33	Gustavo Henrique Yanetzky:	Ruan, tenho um MacMini dando sopa, estou pensando em focar nele ao invés de usar a VPS, faz sentido? Pra reduzir custo
+03:08:46	Mônica Lourenço:	eu queriaaaaa irrrrrrrrr
+03:08:47	Will Fernandes:	camarão e paçoca
+03:09:05	Gustavo Henrique Yanetzky:	Reacted to "Vai ser em Águas Frias" with 😂
+03:09:27	Elenice Veiga Ortiz:	Ruan, já viu algo sobre ou sabe se fizeram alguma integração do Telegram e WhatsApp, tipo entrada no WhatsApp tratamento no Telegram e output de saída no WhatsApp, seria um sonho 🫠😂
+03:09:43	ozana:	https://atraca.com.br/lista-de-apis-publicas/
+03:10:17	Evelyn Abreu:	Replying to "Ruan, já viu algo so..."
+
+Elenice, vamos fuçar isso essa semana? Isso me ajudaria mto tbm. Podemos falar pelo wpp
+03:10:36	João Marcos:	O pior que isso aconteceu
+03:10:44	Ed Goularth:	ruan pode passar o primeiro prompt pra pesquisar APIs?
+03:10:47	João Marcos:	Esgotaram os MacMinis
+03:10:49	Denise:	Entendi. Talvez para mim está faltando entender como juntar as peças...
+03:10:50	Ed Goularth:	perdi
+03:11:07	Ed Goularth:	blz
+03:11:08	Michele:	Turma, alguém pode colocar os links iniciais que o ruan postou aqui?
+03:11:13	ozana:	essa deve ser legal: HuggingFace Inference API — milhares de modelos open source de linguagem, visão e áudio, sem você precisar manter a infraestrutura.
+03:11:18	Gustavo Henrique Yanetzky:	Replying to "Ruan, tenho um MacMi..."
+
+Top, então vou deixar meu 1 ano de VPS pra outro colega.
+03:11:21	Bruno Lujan:	Fui escrevendo junto com ele, mas: 
+
+quais são os tipos de API’s que existem? Tem apis de informação, apis de ferramentas, etc. quero entender na verdade, tipos de aplicações de API. Para o que elas podem ser utilizadas? Enviar informações, usar ferramentas, etc.. Liste pra mim 50 API’s de informação que são publicas e poderosas.
+Qual o nome das APIs brasileiras mais famosas?
+03:11:36	Denise:	Foi a aula que perdi. Então é isso. Vou ver. Valeu!
+03:11:36	Carolina:	Replying to "Ruan, tenho um MacMini dando sopa, estou pensando em focar nele ao invés de usar a VPS, faz sentido? Pra reduzir custo"
+
+👀
+03:11:37	Gustavo Henrique:	Replying to "Ruan, tenho um MacMi..."
+
+Nobre, chará
+03:11:42	Bruno Lujan:	Varios etc kkkkk
+03:11:43	Tais Malheiro:	Reacted to "Fui escrevendo junto com ele, mas: 
+
+quais são os tipos de API’s que existem? Tem apis de informação, apis de ferramentas, etc. quero entender na verdade, tipos de aplicações de API. Para o que elas podem ser utilizadas? Enviar informações, usar ferramentas, etc.. Liste pra mim 50 API’s de informação que são publicas e poderosas.
+Qual o nome das APIs brasileiras mais famosas?" with ❤️
+03:11:45	Denise:	hehehehehe
+03:11:46	Elenice Veiga Ortiz:	Replying to "Ruan, já viu algo sobre ou sabe se fizeram alguma integração do Telegram e WhatsApp, tipo entrada no WhatsApp tratamento no Telegram e output de saída no WhatsApp, seria um sonho 🫠😂"
+
+Vamos Evelyn
+03:12:01	Evelyn Abreu:	Reacted to "Vamos Evelyn" with ❤️
+03:12:07	Gustavo Henrique Yanetzky:	Reacted to "Nobre, chará" with 😂
+03:12:09	Gustavo Henrique Yanetzky:	Reacted to "👀" with 😂
+03:12:09	Maia Duarte:	Replying to "Fui escrevendo junto..."
+
+Bruno ta focado
+03:12:13	Evelyn Abreu:	Valeu pessoal
+03:12:15	Evelyn Abreu:	Bom fds
+03:12:16	Ed Goularth:	#over
+03:12:22	Mariana Lussari:	Reacted to "Ruan, já viu algo sobre ou sabe se fizeram alguma integração do Telegram e WhatsApp, tipo entrada no WhatsApp tratamento no Telegram e output de saída no WhatsApp, seria um sonho 🫠😂" with ❤️
+03:12:25	Mariana Lussari:	Reacted to "Elenice, vamos fuçar isso essa semana? Isso me ajudaria mto tbm. Podemos falar pelo wpp" with ❤️
+03:12:26	ozana:	#over
+03:12:27	Mônica Lourenço:	valheuuuuuuuu gente
+03:12:28	Gustavo Henrique:	Valeu galera!
+03:12:29	Gustavo Henrique Yanetzky:	Replying to "Ruan, tenho um MacMi..."
+
+Giphy [ID:xT9DPCJ1uw5uf56sGA]
+[A mensagem completa não pode ser exibida nesta versão]

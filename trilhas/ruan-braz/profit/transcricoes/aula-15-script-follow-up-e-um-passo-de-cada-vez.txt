@@ -1,0 +1,147 @@
+Aula 15 · Script, follow-up e um passo de cada vez
+
+[00:00] já fez.
+[00:00] Então vamos dar uma olhada, ó, script de ligação, olha que legal, hein?
+[00:04] Vamos ver se o script de ligação dele é bom.
+[00:06] Contexto, o lead chegou pelo WhatsApp, vindo do anúncio, a SDR ligou.
+[00:09] Primeira ou segunda tentativa e o lead atendeu.
+[00:11] Esse é o roteiro de ligação ao vivo, idioma português, brasileiro, consultivo, direto, sem cara de robô,
+[00:16] você está ajudando e não empurrando, gostei do ponto aqui.
+[00:20] Objetivo e duração. Objetivo único da ligação, qualificar, triagem, BANT, de forma natural e definir o próximo passo certo. Link de compra transacional ou call agendada para o closer.
+[00:30] A ligação não é para vender, é atender e direcionar. Concordo, tá certinho aqui, aí já sabe como é que um SDR funciona, né?
+[00:38] Duração ideal de 4 a 7 minutos, meta de tempo até a ligação, 5 minutos após a entrada do lead.
+[00:44] de mentalidade, ritmo de conversa, não de interrogatório, pergunta, escuta, reflete, próxima pergunta checklist de ligação, de 10 segundos tá com o nome do lead aí em mãos? de qual anúncio ele veio? última mensagem que ele mandou? caneta ou CRM aberto pra anotar o que ele vai falar? beleza, etapa 2, abertura oi, é o Ruan ah não, aqui é o Ruan, sou eu que falo, né? então vem, o nome do lead oi, é o Bruno? aqui é o Ruan, da Overlens, tudo bem?
+[01:14] Você falou com a gente agora há pouco aqui pelo WhatsApp sobre o Overpass e eu preferi te ligar rapidinho em vez de ficar trocando mensagem.
+[01:22] É bem mais rápido para eu te entender e já te ajudar direto.
+[01:26] Isso aqui legal é sempre ler também o roteiro antes de fazer a ligação, né?
+[01:28] Eu estou lendo e fazendo como se fosse ao mesmo tempo.
+[01:30] Te ajudar direto.
+[01:31] Você tem três minutinhos agora?
+[01:33] Observação para o operador.
+[01:34] A pergunta de permissão, três minutinhos, é obrigatória.
+[01:37] Reduz a sensação de invasão e aumenta a chance do lead engajar.
+[01:39] Se ele disser não posso agora, vá direto para o banco de objeções.
+[01:42] item 6, sem tempo, não força a conversa
+[01:45] engraçado que dá pra pedir pra ir
+[01:47] a criar o banco de objeções depois, tá
+[01:49] sorria ao falar, energia
+[01:51] alta, mas sem afobação
+[01:53] perfeito, só pra, aí aqui
+[01:55] o cara, a pessoa, né, o Bruno aqui
+[01:56] eu imaginei um Bruno aqui, ele falou
+[01:59] tenho, tenho três minutinhos, perfeito
+[02:01] só pra eu não te fazer repetir nada
+[02:03] você clicou no nosso anúncio
+[02:04] do Overpass, certo?
+[02:06] o que foi que te chamou a atenção
+[02:07] pra você parar e clicar? Observação
+[02:10] essa pergunta aberta faz o lead verbalizar
+[02:12] Ador, é ouro pra triagem, anote as palavras dele, se ele não lembrar bem, sem problema, não, sem problemas, esse anúncio falava de quem quer aprender sobre inteligência artificial, que não tá conseguindo aprender, acompanhar, tá sentindo fomo, faz sentido isso pro seu momento?
+[02:33] Fácil, faz sentido, tô vivendo isso e tal. Beleza.
+[02:36] Não pergunte qual o seu orçamento como num formulário.
+[02:39] Costure as perguntas na conversa. A ordem abaixo é sugerida, mas não é rígida.
+[02:42] Me conta uma coisa aqui, Bruno. Me conta um pouco.
+[02:45] Hoje, como que você lida com o fato de aprender inteligência artificial?
+[02:49] O que que tá mais te incomodando nisso? Aí deixa a pessoa falar e tal.
+[02:52] E por que que isso virou uma prioridade agora pra você, depois que a pessoa falou, né, no caso?
+[02:57] Aconteceu alguma coisa pra fazer você vir atrás e mandar essa mensagem?
+[03:00] Isso aqui, olha, ele tá seguindo o Bant, tá vendo?
+[03:03] necessidade, autoridade, budget, timing, só que pode inverter a ordem também de acordo com a conversa ali show, e essa decisão é mais sua mesmo, ou tem mais alguém que costuma decidir junto com você nesse tipo de coisa, é o que eu falei ali da vacina, né, antecipar uma objeção, budget aí vem orçamento, pra eu te indicar o caminho certo e não empurrar pra você nada fora de hora aí vem aqui você já tem uma ideia do quanto que você pensa em investir pra resolver esse problema, ou você
+[03:32] E pra quando que você quer ter isso resolvido? É algo pra já, semana que vem, ou você tá olhando com mais calma, quer entender melhor ainda? Deixa a pessoa falar também.
+[03:44] Olha só, tá muito bom esse script aqui, cara. Eu contratei, pra vocês terem noção, a gente contratou aqui pra Uberlens algumas consultorias de vendas, e a gente ficou uns 4 a 6 semanas ali, escrevendo, desenhando todo esse fluxo e escrevendo os roteiros com pessoas.
+[04:00] E eu tô achando esse aqui melhor do que foi feito pela empresa que eu contratei. Tá melhor e foi feito aqui agora. Claro que eu não puxei aqui o Overpass nem nada disso, é só eu puxar pra IA, com base nas informações ali do negócio.
+[04:16] Então, bifurcação, transacional complexa. Depois que a pessoa falou, eu já consegui entender. Hum, essa pessoa, ela tem uma dor muito latente, é algo que ela tá com mais calma pra resolver e tal.
+[04:25] Se a pessoa tem um investimento baixo, transacional, seu investimento é baixo, dentro do anunciado, complexa, seu investimento é alto, exige avaliação, consideração, se a consideração da pessoa é baixa, ela já quer resolver, às vezes a transacional resolve, se a consideração é alta, tem que pensar melhor, aí tem várias dúvidas e etapas, vale melhor a venda complexa, que aí vai agendar a ligação, decisão, vai decidir sozinho ou tem mais pessoas?
+[04:55] Se tem mais pessoas, às vezes vale a pena também agendar uma call.
+[04:58] Se é sozinho, é mais um ponto para transacional.
+[05:01] Necessidade, é clara e direta?
+[05:03] Ou ainda está nebuloso, tem várias necessidades diferentes,
+[05:06] precisa de algo mais personalizado?
+[05:07] Aí vai para a call.
+[05:08] Então, isso aqui tem que ser lido antes,
+[05:10] para a pessoa, na hora da ligação, já ficar com isso na mente.
+[05:13] Olha, se for uma pessoa com baixo orçamento,
+[05:16] já quer resolver rápido, está sozinha para decidir ali,
+[05:19] e é muito claro o objetivo dela, venda transacional.
+[05:22] Se é uma pessoa que tem um ticket mais alto,
+[05:25] que tem várias dúvidas e considerações, tem mais de uma pessoa decidindo e precisa de algo mais personalizado, vou mandar ela para uma call comigo, entendeu?
+[05:35] Na dúvida entre os dois, trate como complexa, agindo uma call, é mais uma heurística aqui, né?
+[05:41] Aí tem aqui, caminho A, transacional, aí ele está seguindo aqui, pelo que você me contou, o Overpass resolve exatamente isso e é bem direto, não precisa nem de reunião,
+[05:49] aqui, dependendo da escolha que você faz, né? Se for a escolha transacional, você vai falar isso com ele, olha,
+[05:54] Olha, pelo que você está me falando aqui, o Overpass resolve exatamente esse seu problema e ele é bem direto, você não precisa nem de reunião, você consegue fazer a assinatura aqui agora, eu te mando o link, você assina, experimenta, se não gostar, você pode pedir o reembolso na hora, bem mais tranquilo.
+[06:07] Posso mandar o link aqui para você, pode ser? O preço dele é 12x de R $200 ,00 e aí eu posso mandar aqui para você, certinho? Pode ser, beleza.
+[06:15] Fechado então, te mando aqui em seguida, qualquer dúvida na hora de fazer sua inscrição, é só me responder nessa mesma conversa que eu te ajudo na hora, beleza?
+[06:22] Beleza? Transacional, simples. Se a pessoa falar, ah, beleza, vou pensar aqui também, aí pode vir uma objeção, alguma coisa, o que que tá te incomodando, você tá preocupado com alguma coisa, fala comigo e tal. E aí vem o próximo passo, enviar o link, registrar o link como transacional no CRM, aguardar 24 horas, se não comprou, dispara a mensagem de confirmação. E tem o caminho B, venda complexa. Olha, pelo que você me trouxe aqui, o seu caso pede uma conversa um pouco mais dedicada, não pra te empurrar nada, mas pra eu entender uma solução certa pro seu cenário.
+[06:51] Quem faz isso com a gente aqui é o Matheus, que
+[06:54] quem faz esse tipo de ligação aqui é o Matheus ele é especialista nesse tipo de situação é uma call de 30 minutos, ele vai te explicar tudo em detalhes e mostrar as opções que nós temos pra você eu tenho dois horários bons aqui, um hoje às 15 horas ou na segunda -feira, 9 horas da manhã qual deles que funciona pra você? isso aqui é muito importante, você nunca pergunta pra pessoa que dia que você pode? não, você já escolhe dois horários e fala os dois horários e vê se os dois é melhor se a pessoa não puder nenhum dos dois, ela vai falar e aí marca o próximo ofereça duas opções fechadas de horário não quando você...
+[07:24] Acabei de falar, estava escrito aqui, está vendo?
+[07:25] Aí ela entende todas as técnicas de vendas, ela está alinhada.
+[07:29] Perfeito, vou bloquear aqui na agenda então, segunda -feira, 9 horas da manhã, beleza?
+[07:33] Com o Matheus.
+[07:35] Você vai receber um convite no seu e -mail, aí se não tiver e -mail tem que pedir.
+[07:39] Qual que é o seu e -mail para eu colocar aqui no invite?
+[07:40] Se não tiver, pede lá na hora.
+[07:42] Se já tiver, você confirma.
+[07:43] O seu e -mail é esse aqui mesmo?
+[07:44] Fala o e -mail, a pessoa fala, é isso mesmo, beleza.
+[07:47] Aí vem aqui um ponto.
+[07:48] Você vai receber um convite no e -mail e um lembrete aqui no WhatsApp.
+[07:51] WhatsApp, importante, ele vai chegar já sabendo do seu contexto, ah tá, só tava dando um detalhe, confirma a data hora e meia, registra o lead como complexo no CRM, prepara o SLA pra ele, envia o convite, pronto.
+[08:04] Banco de resposta e objeções no telefone, aí aqui ele tá criando várias objeções, se o cliente teve alguma dúvida, ah, eu tô sem tempo, aí você corre pra cá e vê, tô sem tempo, ah, entendi, eu te peguei de surpresa mesmo, né?
+[08:16] Mas olha, é literalmente dois minutinhos, só que se for melhor para você, eu te ligo de volta.
+[08:22] Hoje ainda funciona às 14 horas? Ou você prefere 16 horas ou mais tarde?
+[08:27] Isso aqui é mensagem, né? Se a pessoa não está podendo falar naquela hora, ou se ela está reforçando ali na mensagem.
+[08:35] Ou me manda no WhatsApp, prefiro por mensagem. Pode deixar, eu te mando sim.
+[08:39] Só que para eu te mandar a coisa certa e não te encher de mensagem, me responde duas coisas rapidinho aqui agora.
+[08:46] Enfim, tem várias aqui, achei bem legal, achei bem completo, e olha só, essa é a de ligação, aí tem o script de mensagem aqui, que ele já montou certinho, qual que é o script, então ligou duas vezes não atendeu, mensagem 1 após ligação, respondeu, quebra gelo, fluxo, flop, ele montou aqui, flop não né, fup, ele montou tudo aqui e vem as mensagens, primeira mensagem, variação dela, variação aqui também, ele fez três variações da mesma mensagem né, aí vem quebra gelo, aí tem as mensagens aqui,
+[09:14] literalmente copiar, trocar a variável e enviar
+[09:18] prontinho aqui o script
+[09:19] vou mostrar pra vocês o feito por seres humanos
+[09:21] eu deixei aqui justamente pra mostrar
+[09:23] então vamos lá, vamos
+[09:24] são os scripts e roteiros que ela precisa criar
+[09:26] e também, que eu não mostrei aqui, mas é legal mostrar, vai pedir para ela também criar para você aqui, olha,
+[09:33] os fluxos de follow -up, então ela criou dia 0, dia 2, dia 4, dia 6, dia 9, dia 12, dia 14, dia 18 e dia 21.
+[09:42] Ela fez então um fluxo de follow -up aqui, uma cadência de 21 dias, mapa rápido de cadência.
+[09:47] E ela ainda colocou aqui, ó, canal, WhatsApp, e -mail, WhatsApp, manda um e -mail, manda um WhatsApp, manda um WhatsApp, e -mail, manda um WhatsApp, pra cada dia, né? Primeiro dia, WhatsApp, e -mail, segundo dia, WhatsApp, dia 4, e -mail, dia 6, WhatsApp, dia 9, WhatsApp, mais e -mail, entendeu?
+[10:02] Ela colocou pra você já deixar pré -configurado isso aqui como automação, pra que aquela pessoa continue recebendo mensagens ali de relacionamento, tá?
+[10:10] E ela ainda colocou aqui o tipo de resultado esperado e o ângulo que você deve mandar essas mensagens.
+[10:15] Então, recapitulação, opa, recapitulação, reforço de retorno do investimento, apresenta um case, algum projeto ou depoimento, quebra uma objeção específica, depois apresenta uma condição especial com prazo, depois apresenta um lembrete dessa condição, depois uma chamada, uma última chamada, né, olha, isso aqui vai acabar hoje, depois um recurso ou insight de valor, sem pressão, e um breakup aqui, encerramento elegante, olha, eu vi que realmente você não está interessado, então a gente encerra por aqui, muito obrigado.
+[10:45] Tchau, tchau.
+[11:15] O horário sugerido ainda, o canal principal, o ângulo objetivo, cara, eu fico feliz demais de saber que a gente tem IA pra usar desse jeito, né?
+[11:24] Pena que a gente vai ficando dependente, mas é
+[11:26] Lei da parcimônia é um dos princípios fundamentais aqui na Overlens.
+[11:30] O que é a lei da parcimônia? Simplicidade.
+[11:32] Não tentem criar uma coisa complexa e hiperinterligada.
+[11:35] A gente gosta de fazer aqui clusters. Clusters são módulos. Então quebre as coisas em módulos menores e vai um de cada vez. Então, por exemplo, eu vou cuidar só do fluxo de SDR. Não vou cuidar nem do de closer. O da ligação eu faço depois. Eu vou cuidar aqui do fluxo de qualificar o lead. Só isso.
+[11:52] Cria todo o processo ali, os scripts, os roteiros, decide se vai ser um humano fazendo ou se vai ser a IA fazendo, tudo arrumadinho ali, ficou pronto, testa, coloca em prática então, vai lá, colocou em prática, viu, funcionou, tá dando certo, precisou de um ajuste aqui, outro ali, ajustou, lindo, aí vai pro próximo, agora eu vou cuidar do fluxo de closer, aí você vai lá, desenha, cuida dele, faz as automações, por aí vai.
+[12:16] um módulo de cada vez
+[12:19] lei da parcimônia, simplifica
+[12:21] ao mínimo e vai um passo
+[12:23] de cada vez, porque se vocês tentarem
+[12:25] ligar todas as operações de negócio
+[12:28] em um mapa só
+[12:29] é muito complexo
+[12:31] muito complexo mesmo, tá
+[12:33] e na maioria das vezes
+[12:35] vocês vão só se embolar e não vão
+[12:37] usar, não vão pra prática, vão ficar na teoria
+[12:39] demais, beleza?
+[12:40] então modulariza
+[12:42] ao invés de criar o fluxo todo pronto
+[12:44] até porque
+[12:45] porque esses fluxos mudam o tempo todo, então é mais fácil para você identificar onde que tem um problema, se você coloca tudo no mesmo fluxo vai virar um novelo de lã gigante e vai passar uma, duas, três semanas, nem vocês vão estar entendendo direito mais, vai precisar fazer um ajuste num processo, tem que caçar aquele processo no meio do novelo de lã, agora quando tem os módulos certinhos, vocês conseguem, ah, isso aqui é um problema de SDR, vou lá no módulo de SDR, corrijo só essa parte e por aí vai, tá
+[13:12] melhor seria modularizar, então, cada etapa pra ir depois otimizando?
+[13:18] Eu também não tentaria modularizar tudo de uma vez.
+[13:21] Pensa em necessidades separadas.
+[13:25] Então, por exemplo, você precisa qualificar o lead
+[13:27] pra saber quais leads que você vai fazer uma ligação.
+[13:31] Foca só nisso. Modulariza isso.
+[13:33] E aí você já coloca em prática a parte de qualificar o lead, ou seja, roda o anúncio, deixa cair, roda as mensagens, vê se tem algum ajuste pra fazer, coloca em prática aquele módulo, antes de criar qualquer outro. Validou? Funcionou? Se funcionou, você vai ter marcado uma call. Então você vai estar no cenário perfeito pra poder validar o segundo módulo, que é o módulo do closer. Aí você desenha ele, monta ele, faz a call, testa tudo nele, entendeu?
+[13:58] sempre alinhando teoria e prática no processo
+[14:02] falou, módulo fritou a cabeça, muita novidade
+[14:05] quando eu falo modularizar, é mental mesmo, é você dividir em blocos as etapas
+[14:11] pra ficar mais fácil ao invés de criar tudo junto de uma vez
+[14:13] e um jeito de dividir em blocos é no funil que eu mostrei pra vocês
+[14:18] aquele funil, ele já é meio que uma modularização
+[14:23] então escolhe uma etapa e foca nela, uma de cada vez

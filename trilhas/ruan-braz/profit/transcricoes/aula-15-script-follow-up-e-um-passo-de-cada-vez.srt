@@ -1,0 +1,580 @@
+1
+00:00:00,119 --> 00:00:00,500
+já fez.
+
+2
+00:00:00,619 --> 00:00:03,439
+Então vamos dar uma olhada, ó, script de ligação, olha que legal, hein?
+
+3
+00:00:04,519 --> 00:00:06,319
+Vamos ver se o script de ligação dele é bom.
+
+4
+00:00:06,600 --> 00:00:09,260
+Contexto, o lead chegou pelo WhatsApp, vindo do anúncio, a SDR ligou.
+
+5
+00:00:09,579 --> 00:00:11,479
+Primeira ou segunda tentativa e o lead atendeu.
+
+6
+00:00:11,760 --> 00:00:16,460
+Esse é o roteiro de ligação ao vivo, idioma português, brasileiro, consultivo, direto, sem cara de robô,
+
+7
+00:00:16,479 --> 00:00:19,380
+você está ajudando e não empurrando, gostei do ponto aqui.
+
+8
+00:00:20,239 --> 00:00:29,519
+Objetivo e duração. Objetivo único da ligação, qualificar, triagem, BANT, de forma natural e definir o próximo passo certo. Link de compra transacional ou call agendada para o closer.
+
+9
+00:00:30,220 --> 00:00:37,560
+A ligação não é para vender, é atender e direcionar. Concordo, tá certinho aqui, aí já sabe como é que um SDR funciona, né?
+
+10
+00:00:38,100 --> 00:00:44,340
+Duração ideal de 4 a 7 minutos, meta de tempo até a ligação, 5 minutos após a entrada do lead.
+
+11
+00:00:44,340 --> 00:01:13,640
+de mentalidade, ritmo de conversa, não de interrogatório, pergunta, escuta, reflete, próxima pergunta checklist de ligação, de 10 segundos tá com o nome do lead aí em mãos? de qual anúncio ele veio? última mensagem que ele mandou? caneta ou CRM aberto pra anotar o que ele vai falar? beleza, etapa 2, abertura oi, é o Ruan ah não, aqui é o Ruan, sou eu que falo, né? então vem, o nome do lead oi, é o Bruno? aqui é o Ruan, da Overlens, tudo bem?
+
+12
+00:01:14,479 --> 00:01:22,739
+Você falou com a gente agora há pouco aqui pelo WhatsApp sobre o Overpass e eu preferi te ligar rapidinho em vez de ficar trocando mensagem.
+
+13
+00:01:22,739 --> 00:01:26,079
+É bem mais rápido para eu te entender e já te ajudar direto.
+
+14
+00:01:26,140 --> 00:01:28,880
+Isso aqui legal é sempre ler também o roteiro antes de fazer a ligação, né?
+
+15
+00:01:28,899 --> 00:01:30,519
+Eu estou lendo e fazendo como se fosse ao mesmo tempo.
+
+16
+00:01:30,640 --> 00:01:31,359
+Te ajudar direto.
+
+17
+00:01:31,359 --> 00:01:32,479
+Você tem três minutinhos agora?
+
+18
+00:01:33,420 --> 00:01:34,260
+Observação para o operador.
+
+19
+00:01:34,340 --> 00:01:36,760
+A pergunta de permissão, três minutinhos, é obrigatória.
+
+20
+00:01:37,019 --> 00:01:39,779
+Reduz a sensação de invasão e aumenta a chance do lead engajar.
+
+21
+00:01:39,880 --> 00:01:42,979
+Se ele disser não posso agora, vá direto para o banco de objeções.
+
+22
+00:01:42,979 --> 00:01:45,680
+item 6, sem tempo, não força a conversa
+
+23
+00:01:45,680 --> 00:01:47,180
+engraçado que dá pra pedir pra ir
+
+24
+00:01:47,180 --> 00:01:48,819
+a criar o banco de objeções depois, tá
+
+25
+00:01:49,539 --> 00:01:51,019
+sorria ao falar, energia
+
+26
+00:01:51,019 --> 00:01:52,800
+alta, mas sem afobação
+
+27
+00:01:53,939 --> 00:01:55,159
+perfeito, só pra, aí aqui
+
+28
+00:01:55,159 --> 00:01:56,960
+o cara, a pessoa, né, o Bruno aqui
+
+29
+00:01:56,960 --> 00:01:59,180
+eu imaginei um Bruno aqui, ele falou
+
+30
+00:01:59,180 --> 00:02:01,019
+tenho, tenho três minutinhos, perfeito
+
+31
+00:02:01,019 --> 00:02:03,060
+só pra eu não te fazer repetir nada
+
+32
+00:02:03,060 --> 00:02:04,619
+você clicou no nosso anúncio
+
+33
+00:02:04,619 --> 00:02:06,100
+do Overpass, certo?
+
+34
+00:02:06,539 --> 00:02:07,920
+o que foi que te chamou a atenção
+
+35
+00:02:07,920 --> 00:02:10,300
+pra você parar e clicar? Observação
+
+36
+00:02:10,300 --> 00:02:12,340
+essa pergunta aberta faz o lead verbalizar
+
+37
+00:02:12,340 --> 00:02:32,720
+Ador, é ouro pra triagem, anote as palavras dele, se ele não lembrar bem, sem problema, não, sem problemas, esse anúncio falava de quem quer aprender sobre inteligência artificial, que não tá conseguindo aprender, acompanhar, tá sentindo fomo, faz sentido isso pro seu momento?
+
+38
+00:02:33,300 --> 00:02:35,739
+Fácil, faz sentido, tô vivendo isso e tal. Beleza.
+
+39
+00:02:36,279 --> 00:02:38,859
+Não pergunte qual o seu orçamento como num formulário.
+
+40
+00:02:39,019 --> 00:02:42,519
+Costure as perguntas na conversa. A ordem abaixo é sugerida, mas não é rígida.
+
+41
+00:02:42,760 --> 00:02:45,619
+Me conta uma coisa aqui, Bruno. Me conta um pouco.
+
+42
+00:02:45,859 --> 00:02:49,560
+Hoje, como que você lida com o fato de aprender inteligência artificial?
+
+43
+00:02:49,859 --> 00:02:52,199
+O que que tá mais te incomodando nisso? Aí deixa a pessoa falar e tal.
+
+44
+00:02:52,640 --> 00:02:56,659
+E por que que isso virou uma prioridade agora pra você, depois que a pessoa falou, né, no caso?
+
+45
+00:02:57,100 --> 00:03:00,119
+Aconteceu alguma coisa pra fazer você vir atrás e mandar essa mensagem?
+
+46
+00:03:00,359 --> 00:03:02,479
+Isso aqui, olha, ele tá seguindo o Bant, tá vendo?
+
+47
+00:03:03,920 --> 00:03:32,579
+necessidade, autoridade, budget, timing, só que pode inverter a ordem também de acordo com a conversa ali show, e essa decisão é mais sua mesmo, ou tem mais alguém que costuma decidir junto com você nesse tipo de coisa, é o que eu falei ali da vacina, né, antecipar uma objeção, budget aí vem orçamento, pra eu te indicar o caminho certo e não empurrar pra você nada fora de hora aí vem aqui você já tem uma ideia do quanto que você pensa em investir pra resolver esse problema, ou você
+
+48
+00:03:32,579 --> 00:03:44,319
+E pra quando que você quer ter isso resolvido? É algo pra já, semana que vem, ou você tá olhando com mais calma, quer entender melhor ainda? Deixa a pessoa falar também.
+
+49
+00:03:44,619 --> 00:04:00,920
+Olha só, tá muito bom esse script aqui, cara. Eu contratei, pra vocês terem noção, a gente contratou aqui pra Uberlens algumas consultorias de vendas, e a gente ficou uns 4 a 6 semanas ali, escrevendo, desenhando todo esse fluxo e escrevendo os roteiros com pessoas.
+
+50
+00:04:00,920 --> 00:04:15,460
+E eu tô achando esse aqui melhor do que foi feito pela empresa que eu contratei. Tá melhor e foi feito aqui agora. Claro que eu não puxei aqui o Overpass nem nada disso, é só eu puxar pra IA, com base nas informações ali do negócio.
+
+51
+00:04:16,199 --> 00:04:25,460
+Então, bifurcação, transacional complexa. Depois que a pessoa falou, eu já consegui entender. Hum, essa pessoa, ela tem uma dor muito latente, é algo que ela tá com mais calma pra resolver e tal.
+
+52
+00:04:25,460 --> 00:04:55,380
+Se a pessoa tem um investimento baixo, transacional, seu investimento é baixo, dentro do anunciado, complexa, seu investimento é alto, exige avaliação, consideração, se a consideração da pessoa é baixa, ela já quer resolver, às vezes a transacional resolve, se a consideração é alta, tem que pensar melhor, aí tem várias dúvidas e etapas, vale melhor a venda complexa, que aí vai agendar a ligação, decisão, vai decidir sozinho ou tem mais pessoas?
+
+53
+00:04:55,460 --> 00:04:58,539
+Se tem mais pessoas, às vezes vale a pena também agendar uma call.
+
+54
+00:04:58,619 --> 00:05:00,920
+Se é sozinho, é mais um ponto para transacional.
+
+55
+00:05:01,800 --> 00:05:03,140
+Necessidade, é clara e direta?
+
+56
+00:05:03,260 --> 00:05:06,159
+Ou ainda está nebuloso, tem várias necessidades diferentes,
+
+57
+00:05:06,340 --> 00:05:07,840
+precisa de algo mais personalizado?
+
+58
+00:05:07,979 --> 00:05:08,579
+Aí vai para a call.
+
+59
+00:05:08,819 --> 00:05:10,619
+Então, isso aqui tem que ser lido antes,
+
+60
+00:05:10,720 --> 00:05:13,359
+para a pessoa, na hora da ligação, já ficar com isso na mente.
+
+61
+00:05:13,460 --> 00:05:15,920
+Olha, se for uma pessoa com baixo orçamento,
+
+62
+00:05:16,319 --> 00:05:19,439
+já quer resolver rápido, está sozinha para decidir ali,
+
+63
+00:05:19,579 --> 00:05:22,079
+e é muito claro o objetivo dela, venda transacional.
+
+64
+00:05:22,319 --> 00:05:25,239
+Se é uma pessoa que tem um ticket mais alto,
+
+65
+00:05:25,460 --> 00:05:34,019
+que tem várias dúvidas e considerações, tem mais de uma pessoa decidindo e precisa de algo mais personalizado, vou mandar ela para uma call comigo, entendeu?
+
+66
+00:05:35,039 --> 00:05:40,199
+Na dúvida entre os dois, trate como complexa, agindo uma call, é mais uma heurística aqui, né?
+
+67
+00:05:41,039 --> 00:05:49,680
+Aí tem aqui, caminho A, transacional, aí ele está seguindo aqui, pelo que você me contou, o Overpass resolve exatamente isso e é bem direto, não precisa nem de reunião,
+
+68
+00:05:49,739 --> 00:05:54,460
+aqui, dependendo da escolha que você faz, né? Se for a escolha transacional, você vai falar isso com ele, olha,
+
+69
+00:05:54,460 --> 00:06:07,519
+Olha, pelo que você está me falando aqui, o Overpass resolve exatamente esse seu problema e ele é bem direto, você não precisa nem de reunião, você consegue fazer a assinatura aqui agora, eu te mando o link, você assina, experimenta, se não gostar, você pode pedir o reembolso na hora, bem mais tranquilo.
+
+70
+00:06:07,659 --> 00:06:15,720
+Posso mandar o link aqui para você, pode ser? O preço dele é 12x de R $200 ,00 e aí eu posso mandar aqui para você, certinho? Pode ser, beleza.
+
+71
+00:06:15,939 --> 00:06:22,199
+Fechado então, te mando aqui em seguida, qualquer dúvida na hora de fazer sua inscrição, é só me responder nessa mesma conversa que eu te ajudo na hora, beleza?
+
+72
+00:06:22,199 --> 00:06:51,420
+Beleza? Transacional, simples. Se a pessoa falar, ah, beleza, vou pensar aqui também, aí pode vir uma objeção, alguma coisa, o que que tá te incomodando, você tá preocupado com alguma coisa, fala comigo e tal. E aí vem o próximo passo, enviar o link, registrar o link como transacional no CRM, aguardar 24 horas, se não comprou, dispara a mensagem de confirmação. E tem o caminho B, venda complexa. Olha, pelo que você me trouxe aqui, o seu caso pede uma conversa um pouco mais dedicada, não pra te empurrar nada, mas pra eu entender uma solução certa pro seu cenário.
+
+73
+00:06:51,420 --> 00:06:54,600
+Quem faz isso com a gente aqui é o Matheus, que
+
+74
+00:06:54,619 --> 00:07:23,860
+quem faz esse tipo de ligação aqui é o Matheus ele é especialista nesse tipo de situação é uma call de 30 minutos, ele vai te explicar tudo em detalhes e mostrar as opções que nós temos pra você eu tenho dois horários bons aqui, um hoje às 15 horas ou na segunda -feira, 9 horas da manhã qual deles que funciona pra você? isso aqui é muito importante, você nunca pergunta pra pessoa que dia que você pode? não, você já escolhe dois horários e fala os dois horários e vê se os dois é melhor se a pessoa não puder nenhum dos dois, ela vai falar e aí marca o próximo ofereça duas opções fechadas de horário não quando você...
+
+75
+00:07:24,199 --> 00:07:25,619
+Acabei de falar, estava escrito aqui, está vendo?
+
+76
+00:07:25,699 --> 00:07:28,499
+Aí ela entende todas as técnicas de vendas, ela está alinhada.
+
+77
+00:07:29,100 --> 00:07:32,780
+Perfeito, vou bloquear aqui na agenda então, segunda -feira, 9 horas da manhã, beleza?
+
+78
+00:07:33,459 --> 00:07:34,499
+Com o Matheus.
+
+79
+00:07:35,079 --> 00:07:38,959
+Você vai receber um convite no seu e -mail, aí se não tiver e -mail tem que pedir.
+
+80
+00:07:39,119 --> 00:07:40,780
+Qual que é o seu e -mail para eu colocar aqui no invite?
+
+81
+00:07:40,959 --> 00:07:42,600
+Se não tiver, pede lá na hora.
+
+82
+00:07:42,659 --> 00:07:43,699
+Se já tiver, você confirma.
+
+83
+00:07:43,739 --> 00:07:44,759
+O seu e -mail é esse aqui mesmo?
+
+84
+00:07:44,900 --> 00:07:46,499
+Fala o e -mail, a pessoa fala, é isso mesmo, beleza.
+
+85
+00:07:47,239 --> 00:07:48,159
+Aí vem aqui um ponto.
+
+86
+00:07:48,639 --> 00:07:51,619
+Você vai receber um convite no e -mail e um lembrete aqui no WhatsApp.
+
+87
+00:07:51,619 --> 00:08:03,719
+WhatsApp, importante, ele vai chegar já sabendo do seu contexto, ah tá, só tava dando um detalhe, confirma a data hora e meia, registra o lead como complexo no CRM, prepara o SLA pra ele, envia o convite, pronto.
+
+88
+00:08:04,400 --> 00:08:16,179
+Banco de resposta e objeções no telefone, aí aqui ele tá criando várias objeções, se o cliente teve alguma dúvida, ah, eu tô sem tempo, aí você corre pra cá e vê, tô sem tempo, ah, entendi, eu te peguei de surpresa mesmo, né?
+
+89
+00:08:16,179 --> 00:08:22,139
+Mas olha, é literalmente dois minutinhos, só que se for melhor para você, eu te ligo de volta.
+
+90
+00:08:22,299 --> 00:08:27,639
+Hoje ainda funciona às 14 horas? Ou você prefere 16 horas ou mais tarde?
+
+91
+00:08:27,919 --> 00:08:35,100
+Isso aqui é mensagem, né? Se a pessoa não está podendo falar naquela hora, ou se ela está reforçando ali na mensagem.
+
+92
+00:08:35,459 --> 00:08:39,539
+Ou me manda no WhatsApp, prefiro por mensagem. Pode deixar, eu te mando sim.
+
+93
+00:08:39,659 --> 00:08:44,980
+Só que para eu te mandar a coisa certa e não te encher de mensagem, me responde duas coisas rapidinho aqui agora.
+
+94
+00:08:46,219 --> 00:09:14,959
+Enfim, tem várias aqui, achei bem legal, achei bem completo, e olha só, essa é a de ligação, aí tem o script de mensagem aqui, que ele já montou certinho, qual que é o script, então ligou duas vezes não atendeu, mensagem 1 após ligação, respondeu, quebra gelo, fluxo, flop, ele montou aqui, flop não né, fup, ele montou tudo aqui e vem as mensagens, primeira mensagem, variação dela, variação aqui também, ele fez três variações da mesma mensagem né, aí vem quebra gelo, aí tem as mensagens aqui,
+
+95
+00:09:14,980 --> 00:09:17,179
+literalmente copiar, trocar a variável e enviar
+
+96
+00:09:18,339 --> 00:09:19,259
+prontinho aqui o script
+
+97
+00:09:19,259 --> 00:09:21,659
+vou mostrar pra vocês o feito por seres humanos
+
+98
+00:09:21,659 --> 00:09:23,239
+eu deixei aqui justamente pra mostrar
+
+99
+00:09:23,239 --> 00:09:24,480
+então vamos lá, vamos
+
+100
+00:09:24,660 --> 00:09:26,640
+são os scripts e roteiros que ela precisa criar
+
+101
+00:09:26,640 --> 00:09:32,760
+e também, que eu não mostrei aqui, mas é legal mostrar, vai pedir para ela também criar para você aqui, olha,
+
+102
+00:09:33,320 --> 00:09:42,200
+os fluxos de follow -up, então ela criou dia 0, dia 2, dia 4, dia 6, dia 9, dia 12, dia 14, dia 18 e dia 21.
+
+103
+00:09:42,340 --> 00:09:47,600
+Ela fez então um fluxo de follow -up aqui, uma cadência de 21 dias, mapa rápido de cadência.
+
+104
+00:09:47,600 --> 00:10:02,200
+E ela ainda colocou aqui, ó, canal, WhatsApp, e -mail, WhatsApp, manda um e -mail, manda um WhatsApp, manda um WhatsApp, e -mail, manda um WhatsApp, pra cada dia, né? Primeiro dia, WhatsApp, e -mail, segundo dia, WhatsApp, dia 4, e -mail, dia 6, WhatsApp, dia 9, WhatsApp, mais e -mail, entendeu?
+
+105
+00:10:02,360 --> 00:10:10,840
+Ela colocou pra você já deixar pré -configurado isso aqui como automação, pra que aquela pessoa continue recebendo mensagens ali de relacionamento, tá?
+
+106
+00:10:10,900 --> 00:10:15,680
+E ela ainda colocou aqui o tipo de resultado esperado e o ângulo que você deve mandar essas mensagens.
+
+107
+00:10:15,680 --> 00:10:45,059
+Então, recapitulação, opa, recapitulação, reforço de retorno do investimento, apresenta um case, algum projeto ou depoimento, quebra uma objeção específica, depois apresenta uma condição especial com prazo, depois apresenta um lembrete dessa condição, depois uma chamada, uma última chamada, né, olha, isso aqui vai acabar hoje, depois um recurso ou insight de valor, sem pressão, e um breakup aqui, encerramento elegante, olha, eu vi que realmente você não está interessado, então a gente encerra por aqui, muito obrigado.
+
+108
+00:10:45,059 --> 00:10:56,519
+Tchau, tchau.
+
+109
+00:11:15,059 --> 00:11:24,080
+O horário sugerido ainda, o canal principal, o ângulo objetivo, cara, eu fico feliz demais de saber que a gente tem IA pra usar desse jeito, né?
+
+110
+00:11:24,100 --> 00:11:25,960
+Pena que a gente vai ficando dependente, mas é
+
+111
+00:11:26,140 --> 00:11:29,840
+Lei da parcimônia é um dos princípios fundamentais aqui na Overlens.
+
+112
+00:11:30,000 --> 00:11:31,920
+O que é a lei da parcimônia? Simplicidade.
+
+113
+00:11:32,420 --> 00:11:35,699
+Não tentem criar uma coisa complexa e hiperinterligada.
+
+114
+00:11:35,699 --> 00:11:52,180
+A gente gosta de fazer aqui clusters. Clusters são módulos. Então quebre as coisas em módulos menores e vai um de cada vez. Então, por exemplo, eu vou cuidar só do fluxo de SDR. Não vou cuidar nem do de closer. O da ligação eu faço depois. Eu vou cuidar aqui do fluxo de qualificar o lead. Só isso.
+
+115
+00:11:52,840 --> 00:12:16,860
+Cria todo o processo ali, os scripts, os roteiros, decide se vai ser um humano fazendo ou se vai ser a IA fazendo, tudo arrumadinho ali, ficou pronto, testa, coloca em prática então, vai lá, colocou em prática, viu, funcionou, tá dando certo, precisou de um ajuste aqui, outro ali, ajustou, lindo, aí vai pro próximo, agora eu vou cuidar do fluxo de closer, aí você vai lá, desenha, cuida dele, faz as automações, por aí vai.
+
+116
+00:12:16,860 --> 00:12:19,100
+um módulo de cada vez
+
+117
+00:12:19,100 --> 00:12:21,159
+lei da parcimônia, simplifica
+
+118
+00:12:21,159 --> 00:12:23,380
+ao mínimo e vai um passo
+
+119
+00:12:23,380 --> 00:12:25,220
+de cada vez, porque se vocês tentarem
+
+120
+00:12:25,220 --> 00:12:27,600
+ligar todas as operações de negócio
+
+121
+00:12:28,119 --> 00:12:29,340
+em um mapa só
+
+122
+00:12:29,340 --> 00:12:31,340
+é muito complexo
+
+123
+00:12:31,340 --> 00:12:33,079
+muito complexo mesmo, tá
+
+124
+00:12:33,079 --> 00:12:35,420
+e na maioria das vezes
+
+125
+00:12:35,420 --> 00:12:37,360
+vocês vão só se embolar e não vão
+
+126
+00:12:37,360 --> 00:12:39,279
+usar, não vão pra prática, vão ficar na teoria
+
+127
+00:12:39,279 --> 00:12:40,420
+demais, beleza?
+
+128
+00:12:40,880 --> 00:12:42,779
+então modulariza
+
+129
+00:12:42,779 --> 00:12:44,920
+ao invés de criar o fluxo todo pronto
+
+130
+00:12:44,920 --> 00:12:45,539
+até porque
+
+131
+00:12:45,539 --> 00:13:12,560
+porque esses fluxos mudam o tempo todo, então é mais fácil para você identificar onde que tem um problema, se você coloca tudo no mesmo fluxo vai virar um novelo de lã gigante e vai passar uma, duas, três semanas, nem vocês vão estar entendendo direito mais, vai precisar fazer um ajuste num processo, tem que caçar aquele processo no meio do novelo de lã, agora quando tem os módulos certinhos, vocês conseguem, ah, isso aqui é um problema de SDR, vou lá no módulo de SDR, corrijo só essa parte e por aí vai, tá
+
+132
+00:13:12,700 --> 00:13:16,959
+melhor seria modularizar, então, cada etapa pra ir depois otimizando?
+
+133
+00:13:18,160 --> 00:13:21,099
+Eu também não tentaria modularizar tudo de uma vez.
+
+134
+00:13:21,579 --> 00:13:25,240
+Pensa em necessidades separadas.
+
+135
+00:13:25,280 --> 00:13:27,900
+Então, por exemplo, você precisa qualificar o lead
+
+136
+00:13:27,900 --> 00:13:30,339
+pra saber quais leads que você vai fazer uma ligação.
+
+137
+00:13:31,400 --> 00:13:33,740
+Foca só nisso. Modulariza isso.
+
+138
+00:13:33,740 --> 00:13:58,480
+E aí você já coloca em prática a parte de qualificar o lead, ou seja, roda o anúncio, deixa cair, roda as mensagens, vê se tem algum ajuste pra fazer, coloca em prática aquele módulo, antes de criar qualquer outro. Validou? Funcionou? Se funcionou, você vai ter marcado uma call. Então você vai estar no cenário perfeito pra poder validar o segundo módulo, que é o módulo do closer. Aí você desenha ele, monta ele, faz a call, testa tudo nele, entendeu?
+
+139
+00:13:58,480 --> 00:14:01,879
+sempre alinhando teoria e prática no processo
+
+140
+00:14:02,520 --> 00:14:05,240
+falou, módulo fritou a cabeça, muita novidade
+
+141
+00:14:05,240 --> 00:14:11,320
+quando eu falo modularizar, é mental mesmo, é você dividir em blocos as etapas
+
+142
+00:14:11,320 --> 00:14:13,899
+pra ficar mais fácil ao invés de criar tudo junto de uma vez
+
+143
+00:14:13,899 --> 00:14:18,280
+e um jeito de dividir em blocos é no funil que eu mostrei pra vocês
+
+144
+00:14:18,960 --> 00:14:23,140
+aquele funil, ele já é meio que uma modularização
+
+145
+00:14:23,140 --> 00:14:25,860
+então escolhe uma etapa e foca nela, uma de cada vez
+

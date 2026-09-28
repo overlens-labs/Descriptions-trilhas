@@ -1,0 +1,106 @@
+00:00:41	Cássio de Lima:	Bom dia!
+00:02:19	Marcelo Gomes:	Bom dia, pessoal
+00:02:43	Renato Stegun:	Bom dia!!!!!
+00:02:56	Marcelo Gomes:	Tudo certinhoooo
+00:02:56	Daniel Silva:	Bom dia pessoal
+00:02:58	Alisson Duarte:	Bom dia
+00:03:00	Nícolas Godoy:	Bom dia, tudo bem por aqui
+00:03:13	Daniel Silva:	Acompanhado daqui do trabalho
+00:04:03	Bruno Flores:	Bom diaeee
+00:04:39	Bruno Chieza Caliman:	Qual é La Braba de hoje?
+00:04:41	Bruno Chieza Caliman:	Buongiorno!
+00:04:56	Woney Malian:	Bom dia! Bora
+00:05:09	Fernando Östlund:	diaaaaaa
+00:05:23	Fernando Östlund:	ruan, bonézin pra trás vai
+00:05:43	Nícolas Godoy:	Estilo Falcão
+00:12:18	Cássio Prates de Lima:	É "new agentes window"?
+00:13:31	FELIPE GOMES:	Olá a todos, esta é uma mensagem automática para avisar que minha extensão Tactiq: https://tactiq.io/r/transcribing está transcrevendo esta reunião para mim, para que eu possa dar toda a minha atenção a vocês.
+00:19:50	Fernando Östlund:	nossa é idêntico ao Antigravity
+00:21:21	Julia Coelho:	modo caseiro
+00:26:58	Julia Coelho:	obaa
+00:27:18	Cássio Prates de Lima:	Hahaha aí vai poder falar de Vercel?
+00:27:20	Fernando Östlund:	a Vercel nao tem?
+00:28:07	Bruno Chieza Caliman:	Replying to "a Vercel nao tem?"
+
+teeem, só que a HostGator tem soluções melhores (?)
+00:28:33	Fernando Östlund:	Hermes né
+00:29:14	Gabriela Werneck:	Nossa estou com um problemão com a HostGator num site de um cliente…
+00:29:29	Fernando Östlund:	Reacted to "Nossa estou com um p..." with 🤯
+00:30:15	Fernando Östlund:	Replying to "Nossa estou com um p..."
+
+eu tenho meu domínio por lá, só depois soube que a Vercel era melhor aqui na Vanguarda.
+00:30:52	Michael Meneses:	Eu por exemplo vim do 1º IA Lab rs
+00:32:09	Cássio Prates de Lima:	Canais = Touchpoints?Sou bem leigo nisso, só pra eu entender bem
+00:34:45	Fernando Östlund:	Replying to "Eu por exemplo vim d..."
+
+eu também conheci pelo Nexus.
+00:35:08	Pedro Hirakawa:	Da pra copiar a setinha do Figjam pro Design e usar lá. Faço isso geralmente pois lá tem mais recurso mas não tem a seta haha
+00:35:20	Woney Malian:	Reacted to "Eu por exemplo vim d..." with 👍
+00:35:22	Woney Malian:	Reacted to "eu também conheci pe..." with 👍
+00:36:57	Michael Meneses:	Reacted to "eu também conheci pelo Nexus." with 👍
+00:58:04	Julia Coelho:	lembro. ja mostrou umas 3x
+00:58:23	Maia Moon Duarte:	Corte rapido
+00:59:23	Julia Coelho:	se nao me engano compartilhou o link tb. eu copiei
+00:59:32	Julia Coelho:	se quiserem dps mando
+00:59:43	Julia Coelho:	so me lembrar dps do workshop
+01:01:19	João Paganardi:	Reacted to "se quiserem dps ma..." with ❤️
+01:09:19	Julia Coelho:	SIm
+01:09:23	Cássio Prates de Lima:	sim!
+01:23:29	Cássio Prates de Lima:	O que é o SLA mesmo? Confundi com lead response time
+01:25:34	Rogerio Chinen:	Replying to "O que é o SLA mesmo?..."
+
+É Service Level Agreement - doc que é passado para o closer com informações importantes.
+01:25:47	Cássio Prates de Lima:	Reacted to "É Service Level Agre..." with ❤️
+01:27:04	Julia Coelho:	revisa por favor a ultima parte antes disso
+01:27:10	Julia Coelho:	tive que atender ligacao de cliente
+01:27:14	Julia Coelho:	eu n escuteii
+01:27:53	Julia Coelho:	Ahh sim, entendi
+01:28:02	Woney Malian:	Eu tentei ir fazendo com o fluxo especifico pro meu publico (TARGET), mas não foi muito proveitoso, melhor eu acompanhar a sua lógica e depois tentar fazer sozinho
+01:28:12	Julia Coelho:	blz! sem duvidas nisso por enquanto. era so pq perdi mesmo pra aender a ligacao.
+01:29:44	Cássio Prates de Lima:	vc poderia compartilhar o figjam com a gente depois?
+01:35:03	Ruan Braz:	https://www.figma.com/board/OXUbXejVKFnFKhjdY08Y31/Drawflow?node-id=0-1&t=g5RJGsAiJc6u5YAl-1
+01:35:06	Fernando Östlund:	Reacted to " https://www.figma.c..." with ⚡
+01:35:08	Cássio Prates de Lima:	Reacted to " https://www.figma.c..." with ⚡
+01:45:51	Rogerio Chinen:	Gasta muito mais token este modo?
+01:50:01	Rafael Braz:	Não é que gasta mais usar o workflow, mas ele vai abrir mais instancias do claude code em paralelo, o que fará gastar mais rápido
+01:50:57	Renato Stegun:	Replying to "Não é que gasta ..."
+
+Praticamente fará a mesma coisa, mais rápido. O "gasto" em si será o mesmo.
+01:52:30	Rogerio Chinen:	Reacted to "Praticamente fará a ..." with 👍
+01:52:33	Rogerio Chinen:	Reacted to "Não é que gasta mais..." with 👍
+01:57:59	Bruno Flores:	Fala isso de novo Ruan rs
+02:01:50	Cássio Prates de Lima:	muito bom
+02:03:22	Woney Malian:	Fundamentos que valem ouro
+02:03:49	Nícolas Godoy:	Testa e valida, e segue neste ritmo. Boa 🙂
+02:03:58	Cássio Prates de Lima:	Ótima dica
+02:04:54	Bruno Flores:	Replying to "Fala isso de novo ..."
+
+Sobre o Chatsiena e a visualização melhorada?
+02:05:36	Pedro Hirakawa:	O melhor seria modularizar então cada etapa pra ir depois otimizando?
+02:05:36	Fernando Östlund:	módulo fritou a cabeça kkkk muita novidade
+02:05:38	Cássio Prates de Lima:	É bastante info, eu tô sem duvidas mas vou dar uma olhada d novo no material e fazer aos poucos
+02:05:49	Woney Malian:	Reacted to "módulo fritou a cabe..." with 👍
+02:06:24	Cássio Prates de Lima:	No meu caso SDR e Closer é tudo eu hahaha
+02:06:34	THIAGO HENRIQUE AMADIO:	Hi, I'm transcribing this call with my Tactiq AI Extension. https://tactiq.io/r/transcribing
+02:06:38	Fernando Östlund:	Ruan, não tem haver com o tema, mas é possível criar uma versão excluisva de website pro Mobile?
+02:07:13	Fernando Östlund:	isso faz sentido? ou o melhor é só responsividade do mesmo layout do desktop pro mobile?
+02:07:36	Pedro Hirakawa:	Boa
+02:08:03	Renato Stegun:	Fernando, em algumas situaçoes aqui eu já pedi no desenvolvimento para gerar versões otimizadas pra mobile. Ele detecta se é mobile e apresenta a versão específica se for mobile ou não.
+02:08:23	Fernando Östlund:	Reacted to "Fernando, em algumas..." with ❤️
+02:08:31	Fernando Östlund:	Replying to "Ruan, não tem haver ..."
+
+sim, acho que faz mais sentido mesmo.
+02:09:22	Renato Stegun:	Replying to "Ruan, não tem hav..."
+
+Na programação do BOt eu precisei que fizesse essa separação. Alguns recursos pesavam demais em mobile. Ele fez certinho.
+02:09:25	Nícolas Godoy:	Valeu muito
+02:09:27	Michael Meneses:	Com ctz!
+02:09:32	Woney Malian:	Falta de repertorio mesmo pra gerar duvidas kkkkk
+02:09:35	Rogerio Chinen:	Valeu sim.
+02:09:48	Nícolas Godoy:	É aplicando que a gente sente onde aperta mais
+02:09:57	Woney Malian:	Replying to "Falta de repertorio ..."
+
+No meu caso
+02:09:57	Pedro Hirakawa:	No meu caso, ficou muito bom, so tenho de terminar de colocar em pratica
+02:10:32	Cássio Prates de Lima:	Eu achei ótima e to feliz que aconteceu. Pra aprender bem vou ter que botar em prática, rever gravação, etc
+02:19:33	Maia Moon Duarte:	Foi chique
