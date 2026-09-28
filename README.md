@@ -11,9 +11,10 @@ Descrições e transcrições das aulas das trilhas da Overlens (Overpass). O Ov
 trilhas/
   <professor>/                         ruan-braz, mateus-scopel, vinni-del-poco
     <trilha>/                          minúsculo, sem acento, com hífen
-      aula-NN-<slug>.md                descrição publicada da aula (uma por aula)
       descricao-da-trilha.md           descrição da trilha (quando existe)
       README.md                        leia-me da trilha (quando existe)
+      descricoes/
+        aula-NN-<slug>.md              descrição publicada da aula (uma por aula)
       transcricoes/
         aula-NN-<slug>.<txt|srt|vtt|md>   transcrição da aula, com o MESMO nome da descrição
         exercicio-<slug>.<ext>            transcrição de exercício (não tem descrição própria)
@@ -29,8 +30,8 @@ docs/                                  scripts e registros (índice, padronizaç
 
 1. **Nomes de pasta e arquivo:** minúsculo, sem acento, sem espaço, com as palavras separadas por hífen.
 2. **Número da aula com 2 dígitos:** `aula-01`, `aula-02`... Uma aula "meio" fica `aula-00-5`.
-3. **Transcrição de uma aula:** tem o mesmo nome da descrição, só que dentro de `transcricoes/`. Por exemplo, `aula-07-x.md` vai com `transcricoes/aula-07-x.txt`. Uma aula pode ter a transcrição em mais de um formato (`.srt` e `.txt`), sempre com o mesmo nome.
-4. **A descrição da raiz é a versão publicada:** começa pelo título (`# ...`). Os rascunhos ficam em `materiais/`.
+3. **Descrição e transcrição de uma aula têm o mesmo nome.** A descrição fica em `descricoes/` e a transcrição em `transcricoes/`. Por exemplo, `descricoes/aula-07-x.md` vai com `transcricoes/aula-07-x.txt`. Uma aula pode ter a transcrição em mais de um formato (`.srt` e `.txt`), sempre com o mesmo nome.
+4. **O que está em `descricoes/` é a versão publicada:** começa pelo título (`# ...`). Os rascunhos ficam em `materiais/`.
 5. **Formatos de transcrição:** `.txt`, `.srt`, `.vtt` ou `.md`. Os `.srt` e `.vtt` guardam o tempo de cada fala.
 6. **Trilha nova:**
    - crie `trilhas/<professor>/<trilha>/` seguindo o padrão acima;
@@ -47,3 +48,4 @@ docs/                                  scripts e registros (índice, padronizaç
   - O repositório foi transferido para a overlens-labs e padronizado.
   - O de-para completo, com o caminho antigo e o novo de cada arquivo, está em [docs/padronizacao-2026-09-28/de-para.csv](docs/padronizacao-2026-09-28/de-para.csv).
   - Os scripts usados também estão nessa pasta.
+  - No mesmo dia, as descrições das aulas saíram da raiz de cada trilha e foram para uma pasta `descricoes/`. O de-para já mostra o caminho final.
