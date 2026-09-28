@@ -1,5 +1,3 @@
-Cálculo interno: [8 blocos] / [27 parágrafos totais] / [1318 palavras estimadas] / [1318 ÷ 200 = 7 minutos]
-
 # Um tijolinho de cada vez
 
 **Tempo estimado de leitura:** 7 minutos

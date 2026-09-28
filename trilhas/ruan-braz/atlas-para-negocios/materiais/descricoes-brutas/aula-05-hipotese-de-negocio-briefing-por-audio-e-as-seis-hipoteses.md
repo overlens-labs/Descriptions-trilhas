@@ -1,0 +1,339 @@
+Cálculo interno: [33 blocos] / [125 parágrafos totais] / [4207 palavras estimadas] / [4207 ÷ 200 = 22 minutos] / teto de 15 min aplicado no tempo exibido
+
+# Hipótese de negócio - briefing por áudio e as seis hipóteses
+
+**Tempo estimado de leitura:** 15 minutos
+
+## Objetivos de aprendizado
+
+Ao final desta aula, você será capaz de:
+
+- Estruturar a hipótese de um negócio a partir de um briefing ditado por áudio
+- Distinguir tese registrada de evidência de mercado
+- Identificar as seis hipóteses que precisam ser validadas antes de investir
+- Aplicar o ciclo de validação da hipótese, da entrevista à decisão de manter ou descartar
+
+## O primeiro erro: tratar uma ideia como algo já validado
+
+Com o ambiente pronto para desenvolver a infraestrutura, o passo seguinte é definir o que é o negócio e qualificar o mercado. O erro mais comum aparece antes disso: ter uma ideia, achar que ela é incrível e assumir que já está validada.
+
+A partir daí a pessoa começa a trabalhar no negócio, investe e tenta fazer acontecer. Construir negócio pede outra postura: uma abordagem científica, que na prática significa uma abordagem baseada em hipóteses.
+
+Definir a hipótese do que é o seu negócio e validá-la no mundo real tira a decisão do achismo e do que existe só na sua cabeça. O teste responde se o mundo real está de acordo com a hipótese que você formulou.
+
+## O aplicativo no lugar da IDE
+
+A demonstração começa com a tela compartilhada e o ambiente aberto, sem nada criado além do nome Maravilha, e o trabalho acontece dentro da pasta definida para isso.
+
+A escolha foi usar o aplicativo do Codex e minimizar a IDE. O motivo é prático: assim qualquer pessoa consegue acompanhar, inclusive quem ainda não configurou o ambiente direito. Quem usa Claude Code pode fazer o mesmo por lá.
+
+O passo seguinte não é digitar. É clicar no microfone do aplicativo e explicar para a IA, falando, qual é a hipótese do negócio.
+
+## O briefing por áudio começa pelo método, não pelo negócio
+
+Antes de descrever a ideia, o áudio declara o objetivo: construir a hipótese de um negócio que parece ter potencial, mas que precisa ser validado antes de receber força total e energia.
+
+O áudio também nomeia os métodos. A abordagem Lean, com o ciclo de construir, mensurar e aprender, mais design thinking e modelagem de negócios, para validar o negócio dentro do mercado e fazer o go to market dele.
+
+O pedido é formatar tudo dentro de um business model canvas, que é uma ferramenta de modelagem de negócios, e criar um arquivo com esse nome dentro da pasta de trabalho.
+
+Esse arquivo precisa ser registrado como versão um, porque a etapa seguinte é uma pesquisa de mercado para avaliar se a tese tem base.
+
+## A tese ditada: o que é a Maravilha
+
+O negócio se chama Maravilha, e o nome foi soletrado dentro do próprio áudio. A definição dada é de um negócio de consultoria e assessoria empresarial.
+
+A função declarada é ajudar outras empresas a modelar seus negócios de forma que eles fiquem mais preparados para o novo mundo em que estamos entrando.
+
+A tese também posiciona a empresa como um acelerador de outros negócios, um estúdio de inovação e aceleração. O objetivo é ajudar empresas e empreendedores a transformar problemas, oportunidades, ameaças e ideias em novos produtos, serviços e até no próprio modelo de negócio deles.
+
+## O problema que a tese pretende validar
+
+O problema identificado é que as pessoas começam a construir um negócio sem construir a estratégia em cima dele. Elas não sabem qual é a proposta de valor, não sabem o segmento de cliente, não sabem as fontes de receita e não têm uma oferta bem definida.
+
+O pior do quadro vem depois. Elas começam a investir na construção de um produto que ainda não foi validado, sem saber se o mercado está pronto para receber esse produto e se existem pessoas dispostas a comprar.
+
+## As formas de cobrar e o diferencial de tecnologia
+
+A monetização prevista tem várias formas: consultorias mais baratas para diagnóstico, consultorias mais profundas e também assessoria.
+
+O trabalho pode incluir desenhar o modelo de negócio para o cliente, desenhar a oferta junto com ele, definir todos os produtos, a arquitetura de custos e a arquitetura de fontes de receita.
+
+O diferencial declarado vai além. A empresa também faria toda a estruturação de inteligência artificial e tecnologia para criar um negócio emergente preparado para receber não só seres humanos, mas também agentes de IA.
+
+Na prática, é construir o sistema operacional do negócio e toda a base dele, para que o cliente chegue ao mercado já com robôs trabalhando em vários departamentos. O áudio termina pedindo a visão da IA antes da análise de mercado, e um arquivo de briefing na pasta.
+
+## Trabalhar por áudio virou hábito de trabalho
+
+Enquanto a IA processava o pedido, veio o contexto de como esse modo de trabalho se consolidou. O hábito de trabalho mudou muito por causa das IAs.
+
+São dois passeios por dia com o cachorro, um às seis da manhã e outro às dezessete horas. Em cada um deles o telefone fica no bolso, porque o microfone está no próprio fone de ouvido.
+
+O trabalho acontece por conversa. A IA gera materiais e documentos, coloca na pasta e deixa tudo organizado. Depois basta puxar o que já está pronto e utilizar. Tarefas também são criadas no ClickUp por esse caminho.
+
+O ponto que importa na demonstração é justamente esse: o prompt não foi escrito, foi ditado.
+
+## A primeira devolutiva da IA sobre o áudio
+
+A resposta inicial já organiza o trabalho. Ela registra a ideia em um briefing e em um business model canvas versão um, separando as hipóteses do que ainda precisa ser validado.
+
+Ela também avalia a proposta e os riscos de escopo para orientar a próxima etapa de pesquisa, usando a habilidade de análise de negócios.
+
+## Ter histórico ajuda, e não ter não trava nada
+
+A tese foi montada de propósito em cima de um negócio no qual o público da trilha seria cliente. Ter track record facilita muito na hora de explicar o negócio para a IA.
+
+O histórico citado é concreto: assessorias vendidas por cinquenta mil reais, consultorias vendidas por quinze mil reais e a Vanguarda, que é um programa de aceleração de negócios.
+
+Quem está começando do zero vai sentir dificuldade de explicar o negócio logo de cara, e isso não é impedimento. O caminho é abrir o microfone e falar tudo que sabe, inclusive dizer "eu acho que aqui é assim, mas não estou confiante".
+
+O objetivo é tirar a informação da sua cabeça e deixar a IA ciente do momento em que você está agora.
+
+## "Tem que nichar" é uma hipótese, não uma regra
+
+Uma dúvida do público perguntou se é preciso nichar. A resposta é que não necessariamente, e o raciocínio vale para qualquer certeza herdada.
+
+As pessoas assumem coisas como verdades absolutas. Alguém ouve na internet que tem que nichar e passa a tratar isso como obrigação para o próprio negócio.
+
+Tudo que você tem como certeza deve ser tratado como hipótese, e hipótese precisa ser validada. "Tenho que nichar" se valida pesquisando o seu mercado e construindo uma estratégia em cima disso. Às vezes nichar pode ser um grande problema, porque depende do seu contexto.
+
+## Por que esta etapa foi conduzida de forma didática
+
+A execução aqui não coloca os dois agentes trabalhando em paralelo. A paralelização seria desnecessária nesta etapa, e existe um segundo motivo: cada documento é explicado enquanto está sendo construído, para que a importância dele fique clara.
+
+Daqui para frente o "como" fica fácil, porque basta pedir. O que está sendo ensinado é o pensar e a tomada de decisão do negócio, e essa é a diferença desta edição do Atlas para todas as outras.
+
+## A avaliação da tese: potencial na conexão, risco na amplitude
+
+A devolutiva consolidada diz que a tese merece ser testada. O mérito está na conexão entre estratégia, validação e implementação: ajudar o cliente a decidir o que vale construir e depois dar condições para ele executar.
+
+O principal risco recebe um nome: amplitude. Modelar negócios, desenhar ofertas, validar demandas e implantar agentes em vários departamentos são entregas grandes.
+
+A sugestão é preservar a visão, mas começar com um público específico, um problema prioritário e uma entrega delimitada.
+
+## A tríade que precisa ser descoberta antes de seguir
+
+Quem está certo, a tese do fundador ou a leitura da IA? Depende, e é isso que a validação resolve. Três pontos precisam ser descobertos.
+
+O primeiro é como o cliente percebe o problema, e esse é o ponto que as pessoas ignoram por completo. Às vezes você acha que uma coisa é um problema e para o seu cliente ela não é.
+
+O cliente pode dizer "não consigo vender" ou "tenho receio de investir nesse lançamento" em vez de dizer "preciso de estratégia". Você não vai vender exatamente estratégia dentro da oferta.
+
+O segundo é pelo que ele está pagando: diagnóstico, desenho de oferta, implementação ou uma combinação delas. Qual dessas ofertas as pessoas estão dispostas a pagar precisa ser respondido antes de construir qualquer produto.
+
+O terceiro é se a entrega se sustenta. O preço precisa remunerar pesquisa, execução, tecnologia e acompanhamento, ou seja, o que você cobra precisa cobrir os custos e ainda gerar lucro.
+
+Essa é a tríade básica para decidir se vale colocar ainda mais energia no negócio. Se a sua execução devolveu pontos diferentes, dá para pedir de forma direta: "aponte para mim os três pontos que a gente precisa descobrir para validar essa hipótese".
+
+## A IA dentro da oferta também é uma hipótese
+
+O diferencial de tecnologia não escapa da mesma régua. A IA é tratada como hipótese de diferenciação, e é preciso verificar se ela influencia a contratação e se melhora o resultado.
+
+Construir toda a operação antes de testar a oferta pode reproduzir exatamente o investimento prematuro que o negócio se propõe a evitar.
+
+A conclusão prática é direta: não sair criando produto. Primeiro valida a oferta, depois valida a distribuição, que é descobrir se existem canais e pessoas interessadas.
+
+## Os dois arquivos gerados e como abrir sem IDE
+
+Ao final do processo, dois arquivos foram criados na pasta: o briefing e o business model canvas.
+
+Quem está sem IDE não fica travado. Basta escolher abrir com outro programa e usar o bloco de notas, ou abrir no Antigravity ou em outro editor de código já instalado.
+
+Na demonstração os arquivos foram abertos na IDE em que a conta já estava logada, o que permite ver o arquivo inteiro de uma vez, ao lado da conversa.
+
+## Markdown: o formato que a IA lê melhor
+
+Os caracteres especiais e as partes coloridas que aparecem no arquivo têm nome. Isso é markdown, uma extensão de arquivo que facilita a sua comunicação com a IA, porque ela lê esse arquivo com muito mais facilidade.
+
+Para você também é fácil. Os símbolos são marcações que dão pesos diferentes para a informação que a IA vai recuperar ali dentro, e o texto continua legível.
+
+Dentro de uma IDE, o markdown cria hierarquia, e isso permite ler bloco por bloco. O mesmo arquivo aberto no bloco de notas fica bem mais chato de ler, ainda que continue possível.
+
+A IDE ajuda a produtividade por outro motivo. Você encontra os arquivos com mais facilidade e pode pedir uma edição por linha, como "edite a linha noventa e oito", que ela edita exatamente aquela linha.
+
+*Para ver o resultado desta demonstração, assista a partir de [14:05] no vídeo.*
+
+## O que o briefing registrou logo na abertura
+
+O documento abre como versão um, com data de dois de setembro, e se apresenta como a tese inicial do negócio, a partir da visão apresentada pelo fundador naquela conversa. As sugestões de modelagem ficam identificadas como proposta.
+
+O nome foi adotado provisoriamente como Maravilha, conforme a soletração informada e o nome da pasta. A transcrição da fala trouxe a mesma grafia, e o naming já virou um ponto de atrito nessa etapa.
+
+O objetivo da etapa está escrito no arquivo: transformar a ideia em uma hipótese de negócio clara, registrando a primeira versão antes da pesquisa de mercado. A decisão a apoiar é se vale investir mais tempo e mais energia, e qual seria o público e a oferta inicial.
+
+## Tese organizada não é evidência de mercado
+
+O próprio briefing deixa o limite explícito. Ele e o business model canvas organizam a tese, mas não constituem evidência de demanda, de disposição a pagar ou de viabilidade econômica.
+
+A pesquisa de mercado é uma etapa posterior. O documento serve para registrar o ponto de partida, não para confirmar que ele está certo.
+
+A definição consolidada ficou assim: a Maravilha será uma empresa de consultoria e assessoria empresarial com atuação como estúdio de inovação e aceleração de negócios. Um áudio bastou para organizar todo esse raciocínio em uma tese inicial.
+
+## A hipótese do fundador e as consequências de não validar
+
+A hipótese do fundador ficou registrada com precisão: empresas e empreendedores começam a construir e a investir sem clareza sobre estratégia, cliente, proposta de valor, oferta, receita e custo, e sem evidência de que alguém vai comprar.
+
+Em seguida vêm as consequências possíveis, ainda a investigar. Investimento em produtos e serviços sem demanda, dificuldade para explicar a oferta e retrabalho ao descobrir tarde que o público ou a solução estava mal definida.
+
+A lista continua com operação e tecnologia construídas sem conexão com a proposta de valor, e decisão de investimento tomada com premissas pouco testadas. Tudo ali é tratado como hipótese até ser validado.
+
+## O problema do fundador não é o problema do comprador
+
+O briefing cria uma distinção específica para a pesquisa. "Falta de estratégia" é a explicação inicial do fundador, e não necessariamente a forma como o comprador enxerga a própria situação.
+
+O comprador pode perceber o problema como dificuldade para vender, incerteza sobre um lançamento, desperdício ou sobrecarga operacional.
+
+Por isso a pesquisa precisa descobrir duas coisas: como ele descreve a situação com as palavras dele e o que ele já faz hoje para resolver isso.
+
+## Público amplo, recorte inicial e quem decide a compra
+
+O público amplo mencionado na tese são empresas e empreendedores que desejam criar, estruturar ou transformar um negócio, produto ou serviço.
+
+O recorte inicial sugerido, ainda não escolhido pelo fundador, são pequenas empresas de serviços lideradas pelo dono, que já atendem clientes e pretendem lançar ou reformular uma oferta. Esse recorte dá acesso a experiências reais, clientes e uma operação existente.
+
+A atratividade comercial desse segmento ainda precisa ser comparada com a de outros. O segmento alternativo são empreendedores com uma ideia e capacidade de investimento antes de lançar, sem presumir a mesma urgência, orçamento ou necessidade.
+
+Esse segundo grupo ficou como secundário por um motivo: o risco maior de pessoas sem orçamento e sem maturidade para implementar esse tipo de solução. É melhor trabalhar com um ICP mais qualificado.
+
+O documento separa ainda quem decide de quem usa. O comprador a investigar é o fundador, sócio ou dirigente responsável pela decisão e pelo orçamento, e os usuários podem incluir gestores e equipes que vão adotar os processos e as ferramentas.
+
+## Gatilhos de compra: o que são e onde são usados
+
+O briefing lista gatilhos de compra que valem teste: decisão próxima de investir em um lançamento, oferta com baixa adesão e necessidade de reposicionamento.
+
+Gatilho de compra é um elemento que você usa no texto persuasivo, para influenciar a pessoa a entrar em contato, e também na sua call de vendas, para mostrar ao cliente que ele precisa daquilo por causa de um ponto específico.
+
+Esses gatilhos não são inventados na mesa. Eles saem dos próprios clientes durante a pesquisa. Vale reparar no volume de informação relevante que apareceu a partir de um único áudio.
+
+## A proposta de valor provisória e o que ela não é
+
+A proposta de valor provisória ficou assim: a Maravilha ajuda empresas e empreendedores a transformar ideias e desafios em ofertas testadas com clientes e operações estruturadas, conectando estratégia de negócio, experimentação e implementação de tecnologia.
+
+Como descrição de proposta de valor isso funciona bem, mas existe uma distinção importante. Proposta de valor não é a mesma coisa que uma promessa ou uma headline de site.
+
+O valor pretendido é dar ao cliente melhores condições para decidir onde investir, o que ajustar e como executar. Redução de desperdício, melhoria comercial e produtividade são benefícios a demonstrar, não resultado garantido.
+
+## O diferencial pretendido e o efeito no LTV
+
+O diferencial pretendido é a continuidade entre o desenho do negócio e a execução. Isso tem um efeito direto sobre a retenção de clientes.
+
+Quando o cliente compra um serviço, depois outro e depois outro, ele vai deixando mais valor com você. Esse é o LTV, ou lifetime value, que é o tempo de vida que um cliente fica com você.
+
+## A arquitetura de oferta com quatro modalidades
+
+O briefing também planejou uma arquitetura de oferta, que no preview do markdown aparece organizada em tabela. As modalidades organizam a visão do fundador, mas nomes e limites são sugestões iniciais, e preços e durações ainda não foram definidos.
+
+O primeiro serviço é o diagnóstico de entrada: entender a situação e o que investigar primeiro, com diagnóstico delimitado, hipóteses críticas e prioridades de ação, a preço fechado e acessível em relação aos projetos mais profundos.
+
+O segundo é a consultoria de modelagem e validação: decidir qual oferta desenvolver e para quem, e definir o modelo de negócio, em projetos e escopos com marcos definidos.
+
+O terceiro é a implementação de tecnologia: colocar os processos prioritários em funcionamento, com fluxo, integração e agentes com responsáveis, limites, testes e critérios de aceite, em projeto ou módulos de implantação.
+
+O quarto é a assessoria contínua: executar, acompanhar e ajustar, com acompanhamento de decisão, indicadores, experimentos e evolução da operação, em mensalidade com capacidade e escopos delimitados.
+
+São quatro possíveis serviços para oferecer nesse negócio. Vale lembrar que isso continua sendo um briefing: a IA organizou o que foi falado, e o resultado é a hipótese dela somada à do fundador.
+
+## As hipóteses de risco do modelo
+
+O que a IA considerou coerente na tese: a proposta enfrenta uma decisão concreta, que é investir em algo sob incerteza, e o diagnóstico pode criar uma primeira contratação delimitada antes de projetos maiores.
+
+Depois vêm as hipóteses de risco. Quem precisa de ajuda pode não reconhecer o problema ou não priorizar a contratação. Um diagnóstico barato pode exigir esforço demais ou atrair um perfil que não se sustenta economicamente.
+
+A IA pode despertar interesse sem aumentar a disposição a pagar. Projetos muito personalizados podem tornar a entrega dependente do fundador e limitar a margem.
+
+A assessoria pode virar suporte sem limites se não houver entregas e capacidades contratadas. E construir uma operação completa antes de testar a oferta pode reproduzir o investimento prematuro que a empresa pretende evitar.
+
+## A sugestão para o primeiro teste
+
+A recomendação é escolher um segmento e uma decisão de negócio, vender uma entrega delimitada e só então experimentar a implementação de um processo prioritário.
+
+A ambição do estúdio não é descartada. Ela fica preservada como direção de longo prazo, e não como ponto de partida.
+
+Na prática, no início você não precisa oferecer todos os serviços. Escolha um escopo reduzido e valide se as pessoas estão dispostas a pagar por esse tipo de solução.
+
+## O ciclo de validação, etapa por etapa
+
+O documento aplica o método pedido no áudio e detalha cada etapa.
+
+Compreender é conversar com potenciais clientes sobre situações recentes, decisões, perdas percebidas, alternativas usadas e gastos já realizados. A regra é evitar apresentar a solução de cara, porque você está entrevistando.
+
+Definir é escolher o problema, o segmento e a situação em que esse problema se torna prioritário.
+
+Idear e construir é formular alternativas e preparar o menor experimento capaz de testar a hipótese crítica. Para uma consultoria, isso pode ser uma oferta delimitada entregue manualmente.
+
+Mensurar é observar comportamento: acesso ao decisor, contratação, pagamento, uso das entregas e custo real da execução, além da opinião. Qual resultado foi alcançado, o que foi possível e o que não foi.
+
+Aprender é comparar o resultado com o critério registrado antes do teste e decidir se a hipótese se mantém, se é ajustada ou se é abandonada.
+
+## Do MVP para o MVO: a oferta mínima viável
+
+O que precisa ser criado nesta etapa não é um MVP de produto. É um MVO, a oferta mínima viável.
+
+Essa oferta mínima viável precisa ser colocada no mercado, porque é ela que permite validar as hipóteses críticas do negócio.
+
+## As seis hipóteses prioritárias e as evidências necessárias
+
+O briefing fecha com as hipóteses prioritárias. Para cada uma, ele registra o que precisa ser observado e o que enfraqueceria a tese.
+
+### Hipótese 1: o problema é relevante para um segmento identificável
+O que precisa ser observado são relatos de episódios recentes, as consequências desses episódios e as tentativas de solução já feitas. O que enfraquece a tese é interesse abstrato, sem exemplos ou sem prioridade.
+
+### Hipótese 2: existe comprador com urgência e orçamento, disponível a pagar agora
+As evidências são decisor identificado, prazo de decisão e verba para resolver o problema. Dor reconhecida, mas sem responsável, sem prazo ou sem orçamento, enfraquece a tese.
+
+### Hipótese 3: uma oferta delimitada gera disposição a pagar
+A evidência é contratação paga, com preço e escopo explícitos, que na prática é o MVO funcionando. Elogios e pedidos de ajuda gratuita sem avanço comercial enfraquecem a tese.
+
+A diferença entre as duas situações é grande. "Muito legal, vai em frente" ou "faz de graça comigo" é sinal de dificuldade de venda. "Estou disposto a pagar, faz o processo comigo" é completamente diferente.
+
+### Hipótese 4: a combinação de estratégia e execução influencia a escolha
+O que se observa é o cliente explicando por que contrata e com quais alternativas comparou. Se a implementação não pesa na decisão, ou se ela confunde a oferta, a hipótese enfraquece.
+
+Na prática: se falar de IA está confundindo o cliente e não faz sentido para ele, isso enfraquece a hipótese quatro. Se os clientes querem exatamente isso, a hipótese se fortalece.
+
+### Hipótese 5: a entrega é economicamente viável
+A evidência é a receita cobrindo horas, custos diretos, retrabalho e aquisição, com espaço para despesas fixas e remuneração. Se cada projeto exige um esforço incompatível com o preço aceito, a hipótese enfraquece e a entrega ainda precisa de ajustes.
+
+### Hipótese 6: a necessidade é recorrente e sustenta a assessoria
+A evidência é demanda contínua identificada e renovação paga, com escopo sustentável. O que enfraquece é a necessidade terminar no projeto ou o suporte consumir toda a capacidade contratada.
+
+Essas seis hipóteses saíram desse prompt específico. Vale conferir se a sua execução trouxe a mesma lista e, se não trouxe, pedir de forma direta: "liste para mim quais hipóteses a gente precisa validar".
+
+## A próxima etapa: pesquisa de mercado e capacidade de entrega
+
+A etapa seguinte registrada no documento é pesquisar o mercado a partir dessa visão, comparando possíveis segmentos, problemas, gatilhos de compra, alternativas e ofertas concorrentes. Isso precisa ser complementado com entrevistas e testes de contratação, para decidir o foco inicial.
+
+Existe ainda um levantamento que costuma ficar de fora: a capacidade atual do fundador. Experiência, acesso a potenciais clientes, disponibilidade, competências técnicas e parceiros entram nessa conta.
+
+A possibilidade de entregar toda a visão ainda não foi demonstrada, e isso também é hipótese. A pergunta a se fazer sobre o próprio negócio é direta: eu tenho capacidade de entregar tudo isso que estou prometendo?
+
+## Versionamento: a versão um vira ponto de partida
+
+A versão um é preservada como ponto de partida. Na versão dois, cada mudança é registrada com quatro informações: a hipótese anterior, a evidência obtida, a interpretação dessa evidência e a decisão tomada.
+
+As hipóteses são marcadas como mantidas, revisadas ou descartadas, sem transformar a sua posição em fato.
+
+É isso que dá nome ao que está sendo construído aqui: uma abordagem científica de construção de negócios.
+
+## Materiais da aula
+
+- [Briefing do negócio e BMC no SOS](https://sosatlasnegocios.vercel.app/#/dia-01/briefing-do-negocio): seção enviada por Nanda ao responder sobre o BMC; também apoia o briefing.
+- [Briefing ditado em aula](../materiais/organizados/Dia%2001/MD/Prompts/A05%20-%20Briefing%20-%20trecho%20ditado.md): recorte literal da transcrição.
+- [Banco de prompts do SOS](https://sosatlasnegocios.vercel.app/#/prompts): apoio geral.
+- [Wispr Flow](https://wisprflow.ai/): alternativa de ditado sugerida pela participante Kysa.
+
+Os arquivos finais de briefing e BMC gerados na demonstração não vieram anexados.
+
+## Coloque em prática
+
+Abra o microfone e dite o briefing do seu negócio. Fale o que você sabe e também o que você acha sem confiança.
+
+Peça dois arquivos na sua pasta: briefing e business model canvas, marcados como versão um.
+
+Peça a lista de hipóteses que precisam ser validadas. Confira se as seis aparecem.
+
+Escolha um escopo reduzido para a primeira oferta. Uma entrega delimitada, com preço e escopo explícitos.
+
+Anote as três perguntas antes de vender: como o cliente percebe o problema, pelo que ele paga e se a entrega se sustenta.
+
+Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.

@@ -1,5 +1,3 @@
-Cálculo interno: [17 blocos] / [67 parágrafos totais] / [2067 palavras estimadas] / [2067 ÷ 200 = 11 minutos]
-
 # Energia no lugar certo - dos comos aos porquês
 
 **Tempo estimado de leitura:** 11 minutos

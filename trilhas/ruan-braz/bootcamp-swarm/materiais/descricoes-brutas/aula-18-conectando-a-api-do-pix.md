@@ -1,0 +1,59 @@
+Cálculo interno: [5 blocos] / [17 parágrafos totais] / [772 palavras estimadas] / [772 ÷ 200 = 4 minutos]
+
+# Conectando a API do Pix
+
+**Tempo estimado de leitura:** 4 minutos
+
+## Objetivos de aprendizado
+
+Ao final desta aula, você será capaz de:
+
+- Aplicar a documentação de uma base pública a uma consulta de teste
+- Distinguir dados fornecidos por API de uma interpretação feita pelo painel
+- Reconhecer diferenças entre consultar uma API e coletar dados de uma página
+- Identificar quando uma fonte de dados melhora uma automação existente
+
+## Encontrar a documentação do Banco Central
+
+Ruan escolhe uma base de estatísticas do Pix do Banco Central para demonstrar a conexão. Ele abre a página de dados abertos, observa que há recursos para download e navega até a documentação do serviço, com sub-recursos, parâmetros e endereços de consulta. O site já apresenta informações ao público; a API permite levá-las a uma interface própria.
+
+O agente examina a documentação e testa como os parâmetros se comportam. Na gravação, ele encontra um detalhe de consulta que exigiu confirmação antes de construir a tela.
+
+Essa etapa mostra por que o pedido ao agente deve incluir o link da documentação e a exigência de testar a resposta real, em vez de presumir que um parâmetro faz o que seu nome sugere.
+
+## Construir uma consulta isolada
+
+Para manter o foco na conexão, Ruan não monta de novo a automação completa de pesquisa. Pede uma tela simples, em preto e branco, que permita escolher uma localidade e consultar dados do Pix. O agente implementa a consulta, cria a interface e testa a resposta.
+
+A demonstração inclui filtros de período, indicadores, gráficos, tabela mensal e opção de exportação em CSV.
+
+Ao trocar a cidade, o painel faz outra requisição e mostra os dados correspondentes. Ruan testa Belo Horizonte, municípios menores, São Paulo e outras localidades sugeridas pela turma. O interesse didático está na repetição: o projeto consegue consultar a fonte diretamente sem pedir ao modelo uma nova pesquisa manual para cada cidade.
+
+Os rótulos e cálculos apresentados pela interface também exigem revisão. Uma métrica de pagamentos por pessoa não equivale automaticamente a salário ou renda individual; um valor alto em uma cidade pequena não prova que houve migração de pessoas ricas. Ruan corrige uma leitura equivocada de rótulo durante a demonstração.
+
+Antes de usar os números para decisões comerciais, é preciso conferir definição, período, unidade, denominador e método de cálculo na fonte e no código do painel.
+
+## Outros mapas e camadas de dados
+
+Enquanto o agente trabalha, Ruan abre Google Maps e Google Earth para mostrar como mapas, negócios e camadas geográficas podem inspirar projetos. Ele cita localização de estabelecimentos, avaliações, dados de infraestrutura, população, vegetação, mobilidade e riscos ambientais como exemplos de informação que poderia apoiar uma solução.
+
+Nem toda camada vista numa interface está disponível em uma API com as mesmas condições. Parte pode exigir plano pago, área geográfica específica ou outra licença. O exercício é perguntar qual dado existe, como se acessa e se seu nível de detalhe responde ao problema escolhido.
+
+Ruan também compara API e scraping. Na consulta por API, o projeto solicita um recurso definido pelo serviço. No scraping, um programa lê uma página e extrai partes de sua apresentação. A API tende a entregar estrutura mais direta para o que foi documentado; ambas as formas dependem das regras de acesso e podem ter limites ou custos.
+
+## Usar uma fonte onde ela resolve um problema
+
+Uma automação não precisa chamar APIs em todas as etapas. As pesquisas e textos das aulas anteriores já funcionavam sem essa conexão.
+
+A API de dados passa a ser útil quando há uma fonte confiável para algo que o agente consultaria repetidamente, quando um script pode obter a informação com menos gasto ou quando a precisão do recurso documentado melhora a entrega.
+
+Ruan exemplifica que o painel é apenas uma maneira de mostrar a resposta. A mesma consulta poderia alimentar um agente que analisa uma região ou um relatório recorrente. Para isso, a pessoa deve definir quais dados entram, quais perguntas serão respondidas e onde a revisão humana se torna necessária.
+
+## Materiais da aula
+
+- [Base de estatísticas de meios de pagamento do Banco Central](https://dadosabertos.bcb.gov.br/dataset/estatisticas-meios-pagamentos), link compartilhado no chat do terceiro encontro para acompanhar a demonstração.
+- [Documentação das APIs do Google Maps](https://developers.google.com/maps/apis-by-platform): referência complementar compartilhada por uma participante no chat enquanto Ruan mostrava mapas e camadas de dados.
+
+## Coloque em prática
+
+Escolha uma base pública documentada e peça ao agente uma única consulta de teste. Compare o retorno bruto com o que a interface mostra. Anote a definição de cada indicador que pretende usar e teste duas localidades ou períodos antes de incorporar a fonte à sua automação.

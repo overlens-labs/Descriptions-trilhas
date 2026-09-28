@@ -1,5 +1,3 @@
-Cálculo interno: [9 blocos] / [23 parágrafos totais] / [1155 palavras estimadas] / [1155 ÷ 200 = 6 minutos]
-
 # Humanos, IAs ou scripts
 
 **Tempo estimado de leitura:** 6 minutos

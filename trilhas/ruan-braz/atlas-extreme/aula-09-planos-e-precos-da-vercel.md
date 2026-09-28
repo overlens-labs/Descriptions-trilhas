@@ -1,5 +1,3 @@
-Cálculo interno: 6 blocos / 14 parágrafos totais / 399 palavras estimadas / 399 ÷ 200 = 2 minutos
-
 # Planos e preços da Vercel
 
 **Tempo estimado de leitura:** 2 minutos

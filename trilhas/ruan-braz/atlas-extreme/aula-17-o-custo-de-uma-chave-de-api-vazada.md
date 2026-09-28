@@ -1,5 +1,3 @@
-Cálculo interno: 7 blocos / 17 parágrafos totais / 504 palavras estimadas / 504 ÷ 200 = 2,5 minutos
-
 # O custo de uma chave de API vazada
 
 **Tempo estimado de leitura:** 3 minutos

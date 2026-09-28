@@ -1,5 +1,3 @@
-Cálculo interno: [17 blocos] / [63 parágrafos totais] / [2130 palavras estimadas] / [2130 ÷ 200 = 11 minutos]
-
 # Por que validar e o prompt de pesquisa profunda
 
 **Tempo estimado de leitura:** 11 minutos

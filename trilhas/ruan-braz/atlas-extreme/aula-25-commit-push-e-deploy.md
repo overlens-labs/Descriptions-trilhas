@@ -1,5 +1,3 @@
-Cálculo interno: 12 blocos / 42 parágrafos totais / 1.098 palavras estimadas / 1.098 ÷ 200 = 5,5 minutos
-
 # Commit, push e deploy
 
 **Tempo estimado de leitura:** 6 minutos

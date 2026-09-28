@@ -1,5 +1,3 @@
-Cálculo interno: [17 blocos] / [64 parágrafos totais] / [2853 palavras estimadas] / [2853 ÷ 200 = 15 minutos]
-
 # Tira-dúvidas: agentes e segurança
 
 **Tempo estimado de leitura:** 15 minutos

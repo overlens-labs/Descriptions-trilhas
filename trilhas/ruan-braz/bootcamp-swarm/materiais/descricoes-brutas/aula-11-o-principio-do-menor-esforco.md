@@ -1,0 +1,80 @@
+Cálculo interno: [7 blocos] / [26 parágrafos totais] / [1354 palavras estimadas] / [1354 ÷ 200 = 7 minutos]
+
+# O princípio do menor esforço
+
+**Tempo estimado de leitura:** 7 minutos
+
+## Objetivos de aprendizado
+
+Ao final desta aula, você será capaz de:
+
+- Identificar quando uma rotina simples resolve o problema antes de um sistema completo
+- Estruturar um fluxo de pesquisa com fontes, critérios, entrega e memória
+- Distinguir o trabalho do agente das informações que a pessoa precisa fornecer
+- Reconhecer os custos de manter uma automação local em execução
+
+## Começar pelo caminho de menor esforço
+
+Ruan abre a construção do segundo encontro lembrando que o cérebro tende a buscar o caminho de menor esforço. A água que desce uma encosta é sua analogia para uma solução que segue o caminho disponível. Na automação, isso significa procurar a menor estrutura capaz de entregar o resultado desejado.
+
+Uma pesquisa diária para uso próprio não precisa nascer como aplicativo vendido por assinatura, com nome, cadastro, distribuição e toda a infraestrutura de um produto. Primeiro, ela deve resolver a pesquisa de quem a utiliza.
+
+Ruan relaciona esse cuidado à experiência inicial da Overlens: construir demais, antes de validar a distribuição e o retorno, consumiu tempo sem produzir o resultado esperado.
+
+O exercício vale para uma reunião, uma consulta a uma API ou outra tarefa recorrente. A pergunta inicial é qual trabalho precisa acontecer hoje e qual é a forma mais curta de fazê-lo funcionar. Se o processo passar a atender outras pessoas, sua estrutura pode crescer a partir do uso observado.
+
+## Experimentar rotinas prontas
+
+Ruan mostra a ideia de rotinas no agente de código. Uma rotina agenda um pedido para executar em horário definido, uma vez, por hora, por dia, por semana ou em uma configuração própria. Entre os exemplos estão o resumo da agenda pela manhã, a triagem de e-mails e tarefas e a verificação de saúde de um sistema.
+
+Para receber um briefing em dias úteis às 9h09, o agente precisa acessar as fontes correspondentes. Ao conectar o Google Calendar, a pessoa escolhe quais permissões concede. A configuração também pode enviar uma notificação ao celular. O comando de executar agora permite testar a rotina sem esperar pelo próximo horário agendado.
+
+Essa demonstração separa agendamento e acesso. Definir o horário cria o gatilho; conectar calendário, e-mail ou outras fontes fornece os dados. A rotina só é útil quando o pedido descreve o que deve ser lido, como resumir e onde entregar o resultado.
+
+## Desenhar a pesquisa antes da interface
+
+No Figma, Ruan desenha uma pesquisa recorrente. O gatilho é diário, às 7h. Entre as entradas estão o system prompt, a lista de fontes e as instruções para tratar as informações. O contexto é formado pelas novidades coletadas em cada execução.
+
+No processamento, o agente lê e organiza os dados. Na decisão, seleciona os assuntos relevantes e procura insights, pontos cegos, oportunidades e ameaças. A ação salva um relatório e atualiza um painel. A saída é uma dashboard de leitura; a memória registra o que já foi visto para orientar o próximo ciclo.
+
+Ruan indica como fontes possíveis Harvard Business School, Stanford, MIT News e Wired, além de temas ligados a negócios, tecnologia, economia criativa, nexialismo e engenharia de produto. O conjunto exato deve acompanhar os interesses de quem vai usar a automação. Em seu exemplo, ele pede dez notícias por dia e um painel minimalista em preto e branco.
+
+## Entregar ao agente o que ele não pode adivinhar
+
+No desenho, estrelas marcam as partes em que a pessoa precisa tomar decisões. A lista de fontes é a principal delas: o agente pode sugerir veículos, mas não conhece automaticamente as preferências editoriais de quem o usa. Também é preciso definir a quantidade de itens, os critérios de relevância e a forma de apresentação.
+
+Com o fluxo desenhado, Ruan envia uma captura ao Claude Code e pede que ele monte o projeto em uma pasta local chamada `research`. O agente pode propor o system prompt, instruções de tratamento, arquivos de memória e uma interface. O pedido inclui uma área para adicionar ou desativar fontes e editar instruções sem reescrever os arquivos à mão.
+
+Durante a construção, o agente considera alternativas de coleta. RSS pode ser econômico quando a fonte oferece feed; outras páginas exigem busca ou outro meio de acesso. O critério é obter a informação necessária com a menor complexidade adequada, sem presumir que toda fonte terá a mesma forma de consulta.
+
+## Um painel local antes de uma plataforma
+
+O projeto demonstrado usa scripts e arquivos locais para alimentar a dashboard. Ruan recusa, nessa fase, transformar a pesquisa em serviço com hospedagem na Vercel, banco de dados, login e uma API própria. O painel local já permite consultar os itens encontrados, as fontes, as pontuações e os insights.
+
+Ele pede ainda uma visualização do fluxo em canvas com React Flow e campos de edição para fontes e instruções. Essas adições ajudam a entender e ajustar o processo, mas a pesquisa diária é o primeiro módulo que precisa funcionar. O histórico fica em `memory.md`; se crescer demais, pode ser dividido por assunto.
+
+Como o processo roda no computador da pessoa, o equipamento precisa estar ligado no horário agendado. Uma VPS é uma possibilidade posterior para execução contínua. Ruan também compara essa construção direta com ferramentas de automação visual e com configurações de múltiplos agentes: essas opções têm lugar, mas podem acrescentar custo e manutenção antes de trazer benefício a uma pesquisa simples.
+
+## Preparar o próximo módulo
+
+Ao final, Ruan desenha uma extensão para copywriting. A chegada do relatório de pesquisa aciona outro fluxo. Esse módulo lê o resultado, a identidade verbal, um modelo de texto e instruções próprias; seleciona o assunto, define enquadramento e headline, desenvolve a copy, salva o arquivo em uma pasta separada e atualiza sua memória.
+
+A pesquisa continua útil sozinha, mesmo antes de a copy estar pronta. A conexão entre módulos aparece como próximo passo, sem impedir o uso do que já foi entregue.
+
+## Materiais da aula
+
+- [Quadro do Bootcamp Swarm no Figma](https://www.figma.com/board/pWajXLautZ6pMWOUcQ7t3O/Bootcamp%2D%2D%2DSwarm?node-id=0-1&t=FuFcgjYkuBsE8KKR-1), compartilhado por Ruan no chat do segundo encontro.
+
+**Pedido da pesquisa diária recuperado do chat:** Marina Ficcio publicou os três trechos abaixo durante a demonstração. A grafia original foi preservada. O esboço e a captura de tela citados no pedido não estão reproduzidos aqui; o desenho está no Figma acima.
+
+> Quero criar uma automacao que realize todos os dias uma pesquisa pra mim nas principais fontes que sao relevantes pra mim (Me interesso por negocios, tecnologia (principalmente IA) e economia criativa, tambem podemos incluir nexialismo e product engineer). Ja tenho algumas fontes que costumo acompanhar (HBS, Stanford, MIT, Wired), preciso de outras fontes tao boas ou ate melhores do que essas para me manter atualizado sobre o mundo.
+
+> Sobre a automacao, eu ja fiz um esboco. As etapas com estrelas sao as que eu preciso de orientar, como estou fazendo agora, as outras, acredito que voce consiga configurar por mim. Quero que voce escreva o system prompt com as intrucoes, e tambem as instrucoes de tratamento dos dados. O que eu quero e, alem das principais noticiais, ter acesso aos insights que voce vai gerar pra mim, como oportunidades, ameacas, pontos fortes, pontos fracos e pontos cegos. ou seja, uma lista das principais noticias do dias (10 por dia), junto com os insights. voce vai notar tambem que no final quero que voce publique em uma dashboard, essa dashboard vai ser importante para eu guardar o historico e tbm , caso eu queira, editar o memory e os system prompts. pode usar sidebar. design simples, minimalista, preto e branco, buttons redondos ok.
+
+> Tambem quero uma pagina de gestao das fontes, onde eu possa ativar e desativas fontes, bem como adicionar novas fontes ou excluir fontes.
+
+Fonte: mensagens de 01:27:20, 01:27:23 e 01:27:30 do chat do segundo encontro. Esta é uma recuperação publicada por uma participante, não um arquivo original enviado por Ruan.
+
+## Coloque em prática
+
+Escolha uma informação que você consulta repetidamente. Desenhe gatilho, fontes, critérios de seleção, entrega e memória. Marque o que só você pode decidir, passe o desenho ao agente e peça uma primeira versão local que já produza um relatório utilizável.

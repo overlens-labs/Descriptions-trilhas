@@ -1,5 +1,3 @@
-Cálculo interno: 10 blocos / 30 parágrafos totais / 816 palavras estimadas / 816 ÷ 200 = 4,1 minutos
-
 # Conclusão do Atlas Extreme
 
 **Tempo estimado de leitura:** 5 minutos

@@ -1,5 +1,3 @@
-Cálculo interno: 5 blocos / 11 parágrafos totais / 327 palavras estimadas / 327 ÷ 200 = 1,6 minutos
-
 # Cuidado com tokens e credenciais
 
 **Tempo estimado de leitura:** 2 minutos

@@ -1,5 +1,3 @@
-Cálculo interno: [7 blocos] / [24 parágrafos totais] / [1167 palavras estimadas] / [1167 ÷ 200 = 6 minutos]
-
 # Agentes no WhatsApp e Telegram
 
 **Tempo estimado de leitura:** 6 minutos

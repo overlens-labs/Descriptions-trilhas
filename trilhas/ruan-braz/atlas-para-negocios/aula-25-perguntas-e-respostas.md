@@ -1,5 +1,3 @@
-Cálculo interno: [53 blocos] / [160 parágrafos totais] / [4739 palavras estimadas] / [4739 ÷ 200 = 24 minutos] / teto de 15 min aplicado no tempo exibido
-
 # Perguntas e Respostas
 
 **Tempo estimado de leitura:** 15 minutos

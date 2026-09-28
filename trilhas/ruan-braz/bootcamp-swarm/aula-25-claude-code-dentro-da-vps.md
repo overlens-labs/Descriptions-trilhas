@@ -1,5 +1,3 @@
-Cálculo interno: [6 blocos] / [20 parágrafos totais] / [1011 palavras estimadas] / [1011 ÷ 200 = 6 minutos]
-
 # Claude Code dentro da VPS
 
 **Tempo estimado de leitura:** 6 minutos

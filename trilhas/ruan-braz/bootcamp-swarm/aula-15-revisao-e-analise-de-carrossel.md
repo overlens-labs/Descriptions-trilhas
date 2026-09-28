@@ -1,5 +1,3 @@
-Cálculo interno: [6 blocos] / [20 parágrafos totais] / [876 palavras estimadas] / [876 ÷ 200 = 5 minutos]
-
 # Revisão e análise de carrossel
 
 **Tempo estimado de leitura:** 5 minutos

@@ -1,0 +1,52 @@
+Cálculo interno: [4 blocos] / [16 parágrafos totais] / [680 palavras estimadas] / [680 ÷ 200 = 4 minutos]
+
+# Conectando automações via API
+
+**Tempo estimado de leitura:** 4 minutos
+
+## Objetivos de aprendizado
+
+Ao final desta aula, você será capaz de:
+
+- Identificar onde uma API pode entrar em uma automação
+- Distinguir endpoint, webhook e chave de acesso
+- Estruturar a conexão a partir da documentação do serviço
+- Aplicar uma separação básica entre configuração e segredo
+
+## Conectar o projeto a serviços externos
+
+No terceiro encontro, Ruan apresenta as APIs como meios de usar dados ou funções oferecidos por outro sistema. A automação local pode continuar funcionando por arquivos e scripts; a API acrescenta uma fonte de informação ou uma ação que depende de um serviço externo.
+
+Hospedagem em VPS e criação de um sistema com banco de dados ficam para uma etapa posterior.
+
+No fluxo de gatilho, entrada, contexto, processamento, decisão, ação, saída e memória, uma API pode aparecer em mais de um lugar. Uma consulta a dados públicos pode alimentar a entrada. A chamada a um modelo pode participar do processamento. Publicar no Instagram é uma ação. O lugar da conexão depende do trabalho que ela realiza.
+
+## Entender a chamada
+
+Ruan usa a imagem de um túnel entre dois ambientes e também a analogia do garçom que leva um pedido à cozinha e devolve a resposta. O objetivo é mostrar que o projeto envia uma solicitação a um serviço e recebe dados ou a confirmação de uma ação.
+
+O endpoint é o endereço para uma operação específica. Ruan inicialmente o chama de webhook e corrige o termo na própria fala. Um webhook é usado em outra direção: o serviço pode enviar um aviso a uma URL quando algo acontece.
+
+A chave de API, quando exigida, identifica ou autoriza quem faz a chamada; conhecer o endpoint, sozinho, não concede acesso.
+
+Cada serviço publica regras próprias. Sua documentação explica endereços, formatos de pedido e resposta, autenticação, limites e permissões. O agente pode ler essa documentação e implementar a conexão, mas a pessoa precisa criar a conta e conceder os acessos que o serviço exige.
+
+## Separar o segredo das instruções
+
+Ruan alerta para o risco de colar uma chave de API no diálogo com um modelo remoto. A chave pode dar acesso a uma conta, produzir gastos ou permitir ações em nome do titular.
+
+Em sua proposta de trabalho, a pessoa guarda a chave em um arquivo local `.env` ou `.env.local`; um arquivo `.env.example` contém apenas os nomes das variáveis, sem os valores.
+
+O agente recebe os nomes necessários para escrever o código, e um script lê os valores em tempo de execução. Esse arranjo também exige que o projeto não envie o `.env` ao modelo, não o inclua em compartilhamentos ou versionamento e não exponha valores em logs ou respostas. O arquivo de exemplo pode ser compartilhado porque não guarda as credenciais.
+
+Ruan relaciona esse cuidado à discussão anterior sobre dados sensíveis: uma informação processada por um modelo remoto pode chegar ao serviço do modelo. Não usar os dados para treinamento é uma questão diferente do envio necessário para processar a solicitação. Por isso, acesso a pastas, variáveis e saídas precisa ser considerado no desenho do fluxo.
+
+## Preparar uma integração real
+
+Para ligar um serviço à automação, o caminho proposto é localizar a documentação oficial, identificar a operação desejada, criar a credencial com as permissões necessárias, armazená-la separadamente e pedir ao agente que implemente e teste uma chamada limitada. Alguns serviços, como os produtos da Meta citados por Ruan, exigem também verificações e aprovações específicas.
+
+A existência de uma API não significa que ela deva entrar em todo fluxo. Pesquisa e copy foram construídas antes sem essa conexão. Ela passa a fazer sentido quando fornece um dado necessário, elimina uma coleta repetitiva ou permite uma ação que o projeto ainda não executa.
+
+## Coloque em prática
+
+Escolha uma ação externa para sua automação. Encontre na documentação do serviço o endpoint, a forma de autenticação, as permissões e o formato da resposta. Desenhe onde a chamada entra no fluxo e crie um `.env.example` apenas com os nomes das variáveis que o código vai usar.

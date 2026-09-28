@@ -1,5 +1,3 @@
-Cálculo interno: [5 blocos] / [14 parágrafos totais] / [659 palavras estimadas] / [659 ÷ 200 = 4 minutos]
-
 # Montando e testando a automação
 
 **Tempo estimado de leitura:** 4 minutos

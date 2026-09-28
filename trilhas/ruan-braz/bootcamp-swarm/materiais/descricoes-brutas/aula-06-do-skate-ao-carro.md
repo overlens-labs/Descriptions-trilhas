@@ -1,0 +1,66 @@
+Cálculo interno: [6 blocos] / [21 parágrafos totais] / [938 palavras estimadas] / [938 ÷ 200 = 5 minutos]
+
+# Do skate ao carro
+
+**Tempo estimado de leitura:** 5 minutos
+
+## Objetivos de aprendizado
+
+Ao final desta aula, você será capaz de:
+
+- Aplicar a lógica de começar pela solução mais simples que produz resultado
+- Distinguir um agente útil de um sistema complexo ainda sem uso
+- Identificar gargalos e alavancas para escolher as primeiras tarefas
+- Estruturar a evolução de um agente em etapas
+
+## O risco de construir antes de usar
+
+Com agentes de código disponíveis, fica fácil imaginar um CRM, um ERP, um sistema de conteúdo ou um produto SaaS inteiro. Ruan alerta para o esforço de desenvolver um software que nem o criador usa e que depois não consegue vender.
+
+O problema inicial não é a falta de capacidade técnica, mas começar pela solução mais pesada antes de confirmar qual trabalho precisa ser feito.
+
+O conselho é resolver um problema real do jeito mais simples possível. Falta cliente? Comece encontrando e contatando clientes. Falta conteúdo? Comece produzindo conteúdo. Cada entrega útil forma um degrau para uma infraestrutura maior, sem exigir que todo o ecossistema esteja pronto para haver resultado.
+
+## O exemplo do skate
+
+Ruan usa a imagem de alguém que decide construir um carro para ir de um ponto A a um ponto B. Se a necessidade real é se deslocar, começar por rodas, motor e carroceria adia o uso. Andar já resolve parte da necessidade; um skate melhora o deslocamento; depois vêm patinete, bicicleta, motor e, finalmente, carro.
+
+Cada versão intermediária funciona no momento em que é criada. Essa é a lógica dos primeiros princípios apresentada na aula: voltar à necessidade essencial e construir a menor solução capaz de atendê-la agora. O próximo componente é adicionado depois de observar o uso e identificar uma limitação concreta.
+
+## O agente como primeiro degrau
+
+Para automações de negócio, o primeiro degrau é pedir trabalho a um agente que já existe. Criar imediatamente um sistema com banco de dados, autenticação e interface consome tempo e tokens. Um agente pode gastar mais tokens por tarefa, mas permite comprar tempo e descobrir rapidamente se aquela atividade produz valor.
+
+Ruan chama de harness a estrutura que vai sendo acrescentada ao redor do agente: scripts para passos repetitivos, integrações, ferramentas, processos e bancos de dados. Ela torna a operação mais eficiente e reduz gasto de tokens, mas faz mais sentido quando o agente inicial já entrega algo que vale otimizar.
+
+No começo, o agente pode ser caro e pouco refinado, como o skate na metáfora. Ainda assim, executar uma tarefa real revela onde ele consome tokens demais, em quais pontos precisa de um script e quais dados devem ser guardados. Essa observação orienta a construção do harness.
+
+A eficiência é obtida a partir de trabalho já testado, e não apenas de uma arquitetura imaginada.
+
+## Prospecção sem esperar pelo CRM
+
+Um pedido inicial pode ser: encontrar clientes compatíveis com um perfil e salvar os dados em um kanban. Depois que a lista existe, o agente pode ajudar a preparar o contato e, com instrução e acesso adequados, executar outras etapas. O valor começa na lista trabalhável e no contato, não na quantidade de telas que o CRM teria.
+
+A mesma lógica evita ficar semanas projetando todo o sistema de vendas enquanto a empresa ainda não falou com os possíveis clientes. O agente oferece uma primeira versão funcional; a organização e as integrações podem crescer conforme a necessidade aparece.
+
+Ruan compara dois caminhos: desenhar autenticação, banco, telas e usuários de um CRM durante vários dias ou pedir ao agente que busque clientes adequados e registre a lista agora. A segunda opção não entrega um software pronto, mas permite iniciar o contato. A receita obtida com esse contato pode financiar a versão mais eficiente da automação.
+
+## Conteúdo produzido em etapas
+
+Na produção de conteúdo, Ruan propõe pedir carrosséis ou buscar fontes relevantes do setor antes de construir uma plataforma completa. O agente pode pesquisar notícias, classificar informações e preparar posts. A pessoa escolhe os melhores, ajusta e publica manualmente se a conexão com a rede social ainda não estiver pronta.
+
+Em outra etapa, o agente pode ser acessado por WhatsApp ou Telegram para receber um pedido sobre uma notícia específica e devolver imagens e descrição. A publicação automática pode vir depois. O trabalho já foi adiantado mesmo quando uma parte do fluxo continua humana.
+
+O conteúdo inicial também exige curadoria. Ruan imagina o agente produzindo várias peças e a pessoa escolhendo somente algumas para publicar. Essa revisão preserva o julgamento sobre o que representa a marca e oferece retorno para melhorar a geração seguinte.
+
+## Escolha por gargalo e alavanca
+
+Um gargalo é a tarefa que restringe o fluxo de trabalho, como uma rua estreita que segura o trânsito ou um cano que limita a passagem de água. Pode consumir tanto tempo que impede as demais atividades de avançar. Colocar um agente para reduzir esse bloqueio devolve capacidade ao negócio.
+
+Uma alavanca é a tarefa que facilita várias outras ou traz recursos para executá-las. Ruan destaca vendas como exemplo: gerar receita permite investir em ferramentas, pessoas e mais automações. O dinheiro produzido deve ser considerado também pelo que pode financiar depois.
+
+Revisar a lista feita no exercício anterior e marcar gargalos e alavancas ajuda a escolher onde usar tokens e atenção primeiro. A prioridade não é automatizar tudo, mas liberar o fluxo e ampliar o que produz resultado.
+
+## Coloque em prática
+
+Escolha um gargalo ou uma alavanca da sua lista. Peça a um agente uma primeira entrega utilizável ainda hoje. Registre o que funcionou, o que exigiu sua intervenção e qual melhoria deve vir no próximo degrau.

@@ -1,5 +1,3 @@
-Cálculo interno: [37 blocos] / [116 parágrafos totais] / [3787 palavras estimadas] / [3787 ÷ 200 = 19 minutos] / teto de 15 min aplicado no tempo exibido
-
 # Construindo e abrindo o sistema de gestão
 
 **Tempo estimado de leitura:** 15 minutos

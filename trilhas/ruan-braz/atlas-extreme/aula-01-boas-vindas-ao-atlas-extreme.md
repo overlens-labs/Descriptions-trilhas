@@ -1,5 +1,3 @@
-Cálculo interno: 7 blocos / 15 parágrafos totais / 508 palavras estimadas / 508 ÷ 200 = 2,5 minutos
-
 # Boas-vindas ao Atlas Extreme
 
 **Tempo estimado de leitura:** 3 minutos

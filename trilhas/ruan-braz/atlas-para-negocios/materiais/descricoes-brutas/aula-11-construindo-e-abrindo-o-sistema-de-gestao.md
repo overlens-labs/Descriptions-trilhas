@@ -1,0 +1,322 @@
+Cálculo interno: [37 blocos] / [116 parágrafos totais] / [3787 palavras estimadas] / [3787 ÷ 200 = 19 minutos] / teto de 15 min aplicado no tempo exibido
+
+# Construindo e abrindo o sistema de gestão
+
+**Tempo estimado de leitura:** 15 minutos
+
+## Objetivos de aprendizado
+
+Ao final desta aula, você será capaz de:
+
+- Estruturar um prompt único que descreve um sistema de gestão tela por tela
+- Aplicar a sequência de briefing, PRD, spec e workflow na construção de um sistema
+- Executar o sistema na sua máquina e revisar cada tela contra as metas do negócio
+- Distinguir o modo express de uma construção documento a documento com subagentes e skills
+
+## Da pesquisa de mercado para um sistema de acompanhamento
+
+Toda a pesquisa de mercado feita até aqui vira, nesta etapa, um sistema de acompanhamento de metas. Junto com ela entram as diretrizes de hipótese do negócio, aquelas que ainda precisam ser validadas.
+
+Esse sistema é o lugar onde os agentes vão ser colocados e onde o início do negócio fica registrado. É nele também que entram o Business Model Canvas e a pesquisa completa, e é dele que saem os primeiros leads para contato.
+
+Quem já tem um negócio rodando há mais tempo pode separar os sistemas, e essa é a prática adotada na própria empresa. Vários sistemas já construídos serão mostrados no dia seguinte, e um deles fica disponível para baixar e usar na máquina de quem acompanha o Atlas.
+
+## Resetar o ambiente antes de começar
+
+Os documentos produzidos até aqui já estão todos na pasta docs, que é o local recomendado. Antes de pedir qualquer coisa nova, as janelas de gestão do projeto são fechadas e um terminal novo é aberto, um gesto proposital de reiniciar o processo.
+
+O terminal é aberto no modo dangerously, que dispensa as confirmações de permissão a cada ação. Esse modo é exclusivo do terminal e não existe no aplicativo.
+
+Quem estiver trabalhando pelo aplicativo do Claude ou do Codex não fica de fora. Tudo que é enviado no terminal pode ser enviado no campo de prompt do aplicativo, e o trabalho fica até mais tranquilo.
+
+## A metodologia de quatro passos da Vanguarda
+
+A construção segue uma metodologia de sistemas e produtos ensinada dentro da Vanguarda, formada por quatro passos: briefing, PRD, spec e workflows. Com esses quatro documentos se constrói um sistema inteiro.
+
+Como o objetivo aqui é entregar a primeira fase do produto, os quatro passos são usados em versão simplificada. Cada um deles pode ser aprofundado depois.
+
+O briefing é o resumo do projeto que vai ser criado. O PRD, sigla de product requirement document, é o documento de requisitos de produto, onde fica tudo que o sistema precisa ter.
+
+A spec é o documento de especificação técnica, com a tecnologia que vai ser utilizada. Os workflows guardam a engenharia dos agentes: quando cada agente chama outro agente e como eles se invocam para a coisa acontecer.
+
+## O prompt ditado e o versionamento das hipóteses
+
+O pedido foi ditado de uma vez só, por voz, e descreve o sistema inteiro área por área. Ele começa pelo contexto: a documentação da hipótese de negócio já existe, com briefing, Business Model Canvas e toda a parte de pesquisa e validação.
+
+A partir daí vem o pedido central, construir um sistema de gestão desse projeto. O sistema precisa conter tudo que já foi construído e permitir editar o que for necessário ali dentro, criando uma espécie de versionamento das hipóteses.
+
+A seção principal foi definida no próprio prompt. Ela reúne métricas e objetivos: quais hipóteses precisam ser validadas, quais são as metas e os objetivos, e quanto tempo existe para cada meta.
+
+## O Canvas dentro do sistema, em versões
+
+O menu lateral recebe uma aba para acessar o Business Model Canvas. A versão em HTML já existe da etapa anterior e precisa ser adaptada para viver dentro do sistema.
+
+Um ajuste de interface entrou no mesmo pedido. O botão de adicionar nota vira um ícone, colocado ao lado do ícone que amplia o quadrante.
+
+A parte conceitual desse trecho é o versionamento. A aba precisa permitir criar versão um, versão dois e versão três, porque o Canvas vai sendo adaptado à medida que as hipóteses evoluem.
+
+## Pesquisa de mercado editável e plano de faturamento
+
+Outro campo do sistema guarda toda a pesquisa de mercado, e o pedido é explícito quanto à função dele. Não basta exibir: o campo precisa permitir modelar essas pesquisas, trazer novos dados e ajustar a informação que já está lá.
+
+Uma área separada recebe o plano de faturamento inicial. Ele é dividido em primeiro mês, primeiros seis meses e primeiros doze meses.
+
+## A calculadora de viabilidade e os três cenários
+
+Antes do faturamento existe uma etapa anterior, a de validação, mais focada em diagnóstico. Alguns documentos da própria documentação do projeto já tratam disso.
+
+A tela pedida reúne as informações principais do cenário conservador, do cenário base e do cenário agressivo. Os três precisam ser ajustáveis com números e porcentagens.
+
+O que essa tela faz é permitir analisar cada indicador e mexer nele para ver se o resultado é alcançado ou não. O nome dado a isso dentro do próprio prompt é calculadora de viabilidade financeira e econômica do negócio.
+
+## O funil com dados de mercado de um lado e os seus do outro
+
+A tela de funil foi pedida com design minimalista e uma divisão clara. Metade dela mostra a métrica de mercado atual, puxada dos dados que a pesquisa já levantou.
+
+A outra metade fica livre para as suas próprias métricas. É ali que entra o tipo de resultado que você está conseguindo de fato.
+
+Os números que preenchem esse lado foram listados um a um: com quantos leads você entrou em contato, quantos responderam, quantos viraram reunião marcada, quantos participaram da reunião e quantos fecharam a proposta.
+
+## O CRM dentro do próprio sistema
+
+A página de leads existe por uma decisão de início de projeto. Em vez de usar uma ferramenta separada, o CRM fica dentro do próprio sistema operacional do negócio.
+
+O motivo declarado é simples. Gerenciar tudo em um lugar só fica muito mais fácil nessa fase.
+
+## A página de apresentação do negócio
+
+A última página pedida se chama meu negócio e guarda a definição do negócio na versão mais resumida. Ela responde o que é o negócio, o que a empresa oferece e quais são os serviços principais.
+
+O formato escolhido é o de uma página de apresentação, com uma diferença. Ela é editável, em formato de cards.
+
+## As decisões de tecnologia e o limite de tempo
+
+A parte de infraestrutura e design entrou com poucas escolhas e muita liberdade. JavaScript na base, shadcn para o design system e Next como possibilidade para a aplicação.
+
+O banco de dados foi dispensado nessa fase. As informações podem ficar em Markdown ou direto no sistema, porque o uso é local.
+
+O limite de tempo entrou como restrição explícita. O agente precisa tomar decisões sozinho e não gastar mais do que vinte e cinco minutos para fazer tudo, e o que ele entregar precisa permitir iteração depois.
+
+## Agir como gerente: o agente que delega
+
+A ordem de execução foi escrita dentro do prompt. Primeiro o briefing do sistema, depois o PRD, depois a spec e por fim o workflow, com todos os agentes: qual agente trabalha em qual página, qual especialidade ele precisa ter e como precisa construir aquela página.
+
+Esses documentos ficam na pasta docs, porque são documentos de estruturação do sistema. Com eles prontos, o agente já tem autonomia para começar a construir.
+
+A frase que resume a função do agente principal é direta. Agir como gerente, não executar e sim delegar, colocando múltiplos agentes trabalhando em paralelo.
+
+A quantidade ficou em aberto, amarrada ao prazo. Quinze agentes, vinte agentes, quantos forem necessários, desde que tudo caiba em aproximadamente vinte e cinco minutos.
+
+## Quando o ditado erra o nome da ferramenta
+
+Ditar um prompt longo por voz tem um efeito colateral que apareceu na hora. O nome do design system não foi reconhecido na transcrição da fala, e o trecho precisou ser reescrito à mão antes do envio.
+
+O prompt final ficou grande, e o comentário sobre ele é honesto. Falar é fácil, e o tamanho do texto mostra o quanto foi dito. A tela foi printada ali mesmo para que todos conseguissem copiar o prompt inteiro.
+
+*Para ver o resultado desta demonstração, assista a partir de [09:35] no vídeo.*
+
+## O modelo escolhido para a primeira casca
+
+Enquanto o agente trabalha, e o trabalho deve levar por volta de vinte e cinco minutos, o tempo é usado para responder dúvidas. O modelo deixado rodando foi o Opus.
+
+A escolha tem um critério de tempo por trás. Uma configuração mais pesada faria o agente extrapolar o prazo combinado, e neste momento o que se precisa é apenas de uma primeira casca para continuar trabalhando em cima dela depois.
+
+## Qual assinatura de inteligência artificial escolher agora
+
+Uma pergunta do chat quis saber qual inteligência artificial vale a pena assinar. A recomendação foi o GPT, por dois motivos: você constrói muito mais com menos créditos e ele está muito poderoso no momento.
+
+O caminho prático é assinar e depois baixar o Codex para o computador. É ele que dá o modo agêntico, o mesmo que está sendo usado ali com o Claude.
+
+O Gemini aparece em terceiro lugar nessa ordem. Ele dá mais dor de cabeça, mas continua sendo uma opção real para quem não quer gastar dinheiro, e ainda dá para fazer muita coisa com ele.
+
+## Briefing e PRD: as histórias de usuário
+
+Com o agente trabalhando, o raciocínio do fluxo é destrinchado. O agente cria primeiro um briefing que resume tudo que o sistema precisa ter.
+
+Depois ele pega esse briefing e constrói o PRD. O PRD é o documento que traz as histórias de usuário, também chamadas de user stories.
+
+A imagem usada para explicar é a de pessoas dizendo tudo que gostariam que o sistema tivesse. Gostaria que o sistema tivesse uma página x, gostaria que tivesse uma funcionalidade y, e cada uma dessas frases vira uma user story salva dentro do PRD.
+
+O ganho é de precisão. Com todas as histórias reunidas no mesmo documento, a inteligência artificial sabe tudo que o sistema precisa ter e constrói da melhor maneira possível.
+
+## Spec: a tecnologia que cada requisito exige
+
+Terminado o PRD, o passo seguinte é especificar qual tecnologia é necessária para cumprir cada um dos requisitos do produto. Isso é escrito em outro documento, a spec.
+
+Os exemplos vieram do próprio prompt ditado. Shadcn, Next e JavaScript são tecnologias, ferramentas e recursos que o sistema precisa para funcionar, e é esse tipo de definição que a spec reúne.
+
+## Uma metodologia entre outras
+
+Vale o registro de que essa não é a única metodologia possível. Ela é uma metodologia própria, criada dentro da Vanguarda.
+
+Existem várias outras, e a citada pelo nome é o TDD, test driven development, que também dá para seguir. A escolhida aqui é uma versão enxuta que funciona muito bem para a equipe.
+
+## Workflow: o organograma dos agentes
+
+Depois da spec vem o workflow. Ele é um arquivo que cria um diagrama, e esse diagrama funciona como um organograma.
+
+No topo fica o agente líder. Abaixo dele fica o agente de cada página, com a especialidade que ele precisa ter e a forma como aquela página precisa ser construída.
+
+É esse desenho que permite a delegação. Com o workflow montado, a inteligência artificial sabe como distribuir as tarefas para cada tipo de agente.
+
+## Modo express e o caminho mais preciso
+
+O jeito usado nesta aula tem nome: modo express. A avaliação dele é honesta, ele funciona em torno de setenta por cento bem.
+
+O caminho mais preciso é outro. Você faz um documento de cada vez, especifica cada um com a inteligência artificial e depois pede para ela criar cada subagente e cada skill.
+
+O resultado desse segundo caminho é outra história, com precisão muito maior. A escolha pelo modo express aqui foi de tempo: são dois dias de trabalho, e fazer documento por documento consumiria o tempo inteiro.
+
+## O spec que o agente não pegou
+
+Alguém do chat avisou que a etapa de spec não tinha entrado. A conferência na tela confirmou o aviso: o agente já estava trabalhando em vários documentos, mas o spec não apareceu na sequência.
+
+A explicação provável é a mesma de antes. O ditado transcreveu a palavra errada e o agente não reconheceu aquela etapa, e o problema só foi notado porque veio o aviso do chat.
+
+Mesmo assim o trabalho segue sem recomeçar do zero. Como a tecnologia já tinha sido especificada dentro do próprio prompt, o agente trabalha em cima dela.
+
+## O workflow que o agente entregou
+
+O workflow é descrito como um dos documentos mais legais de ver, e a versão entregue veio mais básica do que o ideal. O agente não chegou a fazer o diagrama.
+
+A causa apontada é o prazo. Ele usou o espaço para distribuir quanto tempo cada agente teria, e colocar tempo no pedido às vezes quebra alguma outra parte do trabalho.
+
+O contraponto ficou dito. Quem quer o trabalho bem feito deixa o agente trabalhar sem essa amarra, e ele pode ficar duas ou quatro horas construindo, desde que haja crédito disponível.
+
+Mesmo assim o documento cumpriu a função. Ele lista o que cada agente vai construir, começando por um agente de curadoria de conteúdo, e distribui as páginas entre agentes que constroem simultaneamente.
+
+Duas partes desse workflow merecem atenção. As regras de contrato impedem que um agente mexa no que o outro está mexendo, e a etapa de integração junta o trabalho no final.
+
+## Abrir o sistema na sua máquina
+
+Com o trabalho terminando, a execução local acontece em dois comandos. Primeiro entrar na pasta certa com cd app, depois iniciar o servidor com npm run dev.
+
+O sistema abre funcionando. A primeira reação é sobre a aparência: o design está ruim e a tipografia ficou pequena demais, e isso será trabalhado depois.
+
+O que importa neste momento é outra coisa. Com o sistema no ar dá para visualizar a estrutura inteira e conferir o que foi construído, tela por tela.
+
+## A tela principal: metas, projeções e hipóteses
+
+A primeira tela mostra renda mensal projetada contra meta, e a projeção veio abaixo do número que o negócio precisa alcançar. A receita projetada apareceu em cinquenta e cinco mil.
+
+Os clientes projetados ficaram em cinco a seis no primeiro ano, e a avaliação foi de que o agente colocou pouco cliente ali. A palavra usada foi mole: a projeção saiu conservadora demais para o que o negócio pretende.
+
+Logo abaixo ficam as hipóteses. As seis hipóteses definidas de manhã estão todas no painel, com o estado de cada uma, e é isso que precisa ser completado para dizer se a hipótese foi validada ou não.
+
+A hipótese de que a entrega é economicamente viável apareceu enfraquecida, com os detalhes do porquê registrados ali. Esse ponto vai ter que ser revisado junto com a mudança de preços.
+
+Outras duas aparecem em estados diferentes. A de que o problema é relevante para um segmento está marcada para revisar, e a de que existe comprador com urgência ainda não foi testada.
+
+O painel também traz os objetivos por prazo, em trinta dias, noventa dias, seis meses e doze meses. Tudo isso ficou editável, para ser ajustado à medida que o trabalho avança.
+
+## O Canvas versionado dentro do sistema
+
+O Business Model Canvas já apareceu criado dentro do sistema, e com uma versão dois editando alguns conceitos da anterior. Essa é a lógica pretendida: criar novas versões à medida que o negócio é validado.
+
+A crítica ao resultado foi direta e recaiu sobre o design. A hierarquia e o contraste precisam melhorar, e a parte visual como um todo ainda está ruim.
+
+## A pesquisa de mercado catalogada e filtrável
+
+A tela de pesquisa trouxe todos os achados catalogados, organizados entre sinais e contrassinais. O placar apareceu empatado, oito a favor e oito contra, com cinco lacunas em aberto.
+
+O painel permite filtrar por sinais, contrassinais, números, lacunas e proibidos. Proibido, nessa classificação, é o que não pode ser utilizado em material externo.
+
+Cada achado também carrega duas classificações. Uma é a categoria de confiança, de a até d, e a outra é o assunto de mercado: demografia, adoção, concorrência, preços, demanda, lacuna e números proibidos.
+
+## Três prompts até aqui
+
+O lembrete feito na hora vale como medida do processo. Todo esse material saiu de um prompt, e olhando o caminho inteiro foram três prompts: o do modelo de negócio, o da pesquisa de mercado e este do sistema.
+
+A partir daqui o trabalho muda de natureza. O que existe vira base para melhorar até virar algo real, com a landing page no dia seguinte e os anúncios logo depois.
+
+O objetivo declarado do Atlas para Negócios é esse. Deixar tudo pronto para que cada pessoa valide o próprio negócio.
+
+## Validação econômica: os três cenários lado a lado
+
+A tela de validação econômica trouxe os três cenários pedidos, o conservador, o base e o agressivo. No cenário agressivo a meta mensal é alcançada.
+
+Existe ainda um comparativo entre os cenários. Ele mostra onde compensa e o que precisa mudar para o negócio fechar a conta.
+
+O aprofundamento desse painel foi deixado para o dia seguinte, com a cabeça mais fresca.
+
+## Plano de faturamento mês a mês
+
+O plano de faturamento apareceu distribuído ao longo dos meses, do mês um ao mês oito. A meta anual proposta pelo agente ficou em cento e oitenta mil, o equivalente a quinze mil por mês.
+
+Esse número está abaixo da meta que o negócio precisa, e essa é a leitura que interessa. O painel serve justamente para esse confronto entre o que foi projetado e o que é necessário.
+
+A tabela ao lado detalha a operação. Ela separa diagnóstico, projeto e assessoria, registra qual serviço foi vendido, a receita bruta e os custos, para analisar tudo junto.
+
+## Por que o seu resultado vai sair diferente
+
+Uma dúvida do chat trouxe um ponto importante: o sistema de quem estava acompanhando ficou bem diferente. A resposta é que isso é normal e esperado.
+
+O primeiro motivo são os dados. Cada pessoa tem os próprios dados e o próprio contexto de negócio, e o sistema é construído em cima disso.
+
+O segundo motivo é o modelo usado. O mesmo pedido pode gerar um sistema diferente conforme você use Sonnet ou Opus, e a partir daí é questão de ir ajustando.
+
+## O funil preenchido com os seus números
+
+O funil foi entregue como uma contagem entre quantos clientes é preciso contatar e quantos foram contatados de fato. O teste ao vivo foi digitar quinhentos, e o painel passou a considerar esse número.
+
+O design ainda incomoda e será trabalhado no dia seguinte. A parte funcional já está de pé.
+
+## O mini CRM e o bug do scroll
+
+A página de leads veio como um pipeline, um mini CRM dentro do sistema. Ela apareceu meio bugada, cortando conteúdo na parte de cima.
+
+O problema foi identificado na hora. Em vez de aplicar o scroll apenas no pipeline, o agente colocou a página inteira dentro do scroll, e isso precisa ser arrumado depois.
+
+A página já traz o kanban e também a tabela de leads. Os leads exibidos são mocados, apenas exemplos, e serão substituídos por leads reais no dia seguinte.
+
+## O que vem no dia seguinte
+
+Os próximos passos foram listados na sequência. A inteligência artificial vai ser colocada para buscar leads e o sistema vai ser formatado para ficar mais fácil de usar.
+
+O que está sendo criado aqui não serve só para este negócio. O mesmo caminho serve depois para construir outros sistemas, como CRMs e ERPs, e ainda haverá um sistema pronto entregue de presente no dia seguinte.
+
+## A página meu negócio como pré-cópia do site
+
+A última página do sistema mostra o que o negócio é hoje, em formato editável. Ela traz as duas frentes que se conectam, para quem o negócio serve, qual é o diferencial e o que a empresa não faz.
+
+A lista de serviços oferecidos também está ali. O nome dado a esse conteúdo é pré-cópia: um texto que pode ser ajustado e depois aproveitado direto na construção da página.
+
+## Fase um construída em trinta minutos
+
+O fechamento marca o ponto alcançado. A fase um do sistema ficou construída em cerca de trinta minutos, e é a partir dela que o design pode ser melhorado.
+
+O trabalho seguinte tem ordem definida. Primeiro melhorar o design com as técnicas que serão ensinadas, e existem vários caminhos diferentes para isso.
+
+Depois vem a validação dos dados, a entrada de leads verdadeiros e de métricas precisas. Por último, a construção da landing page e dos criativos.
+
+## Skills, prompt único e sistema para vender
+
+A última pergunta do chat foi sobre usar skills para melhorar o design já dentro do prompt. A resposta é que dá para usar skill também.
+
+O ponto de atenção é o prompt único. Nele você tem duas saídas: detalhar muito bem desde o começo, ou começar mais simples e ir melhorando depois.
+
+A distinção final é sobre a finalidade do sistema. Um sistema real, para publicar no mercado e vender, exige um planejamento de tecnologia muito mais preciso.
+
+O caso desta aula é outro. Como é uma ferramenta própria de gestão, criada para uso interno da equipe, gerenciar o resultado é muito mais tranquilo.
+
+## Materiais da aula
+
+- [Briefing, PRD, spec e workflows no SOS](https://sosatlasnegocios.vercel.app/#/dia-01/briefing-prd-spec-workflows): material enviado por Nanda, com o prompt organizado por etapas.
+- [Prompt do sistema de gestão ditado em aula](../materiais/organizados/Dia%2001/MD/Prompts/A11%20-%20Sistema%20de%20gestao%20-%20trecho%20ditado.md): recorte literal da transcrição.
+- [Banco de prompts do SOS](https://sosatlasnegocios.vercel.app/#/prompts): apoio geral.
+
+O código final e os documentos produzidos na demonstração não vieram anexados. O endereço do repositório prometido não foi localizado nos chats.
+
+## Coloque em prática
+
+Feche as janelas do projeto e abra um terminal novo antes de começar. Reiniciar o ambiente evita confusão.
+
+Escreva um prompt único descrevendo o sistema tela por tela. Diga o que cada tela mostra e o que ela precisa deixar você editar.
+
+Peça a sequência na ordem. Briefing, PRD, spec e workflow, salvos na pasta docs.
+
+Mande o agente agir como gerente. Ele delega para vários agentes em paralelo e define as regras de contrato entre eles.
+
+Coloque um limite de tempo e aceite o que vem com ele. O resultado sai mais bruto, e o refino acontece depois.
+
+Rode o sistema na sua máquina e confira cada tela. Compare as projeções do agente com a meta real do seu negócio.

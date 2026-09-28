@@ -1,5 +1,3 @@
-Cálculo interno: 9 blocos / 30 parágrafos totais / 891 palavras estimadas / 891 ÷ 200 = 4,5 minutos
-
 # Conectando o Supabase ao Claude Code
 
 **Tempo estimado de leitura:** 5 minutos

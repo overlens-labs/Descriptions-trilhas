@@ -1,5 +1,3 @@
-Cálculo interno: [6 blocos] / [16 parágrafos totais] / [775 palavras estimadas] / [775 ÷ 200 = 4 minutos]
-
 # Assinando sua primeira VPS
 
 **Tempo estimado de leitura:** 4 minutos

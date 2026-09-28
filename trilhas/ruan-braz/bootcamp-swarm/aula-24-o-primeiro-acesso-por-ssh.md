@@ -1,5 +1,3 @@
-Cálculo interno: [5 blocos] / [15 parágrafos totais] / [715 palavras estimadas] / [715 ÷ 200 = 4 minutos]
-
 # O primeiro acesso por SSH
 
 **Tempo estimado de leitura:** 4 minutos

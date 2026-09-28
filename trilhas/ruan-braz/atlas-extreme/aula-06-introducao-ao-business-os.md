@@ -1,5 +1,3 @@
-Cálculo interno: 9 blocos / 20 parágrafos totais / 766 palavras estimadas / 766 ÷ 200 = 3,8 minutos
-
 # Introdução ao Business OS
 
 **Tempo estimado de leitura:** 4 minutos

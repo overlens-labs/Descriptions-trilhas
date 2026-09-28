@@ -1,5 +1,3 @@
-Cálculo interno: [21 blocos] / [72 parágrafos totais] / [2095 palavras estimadas] / [2095 ÷ 200 = 11 minutos]
-
 # Publicando o anúncio e o balanço do fim de semana
 
 **Tempo estimado de leitura:** 11 minutos

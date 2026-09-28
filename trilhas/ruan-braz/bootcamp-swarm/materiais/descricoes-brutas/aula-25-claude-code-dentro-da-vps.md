@@ -1,0 +1,64 @@
+Cálculo interno: [6 blocos] / [20 parágrafos totais] / [1011 palavras estimadas] / [1011 ÷ 200 = 6 minutos]
+
+# Claude Code dentro da VPS
+
+**Tempo estimado de leitura:** 6 minutos
+
+## Objetivos de aprendizado
+
+Ao final desta aula, você será capaz de:
+
+- Estruturar o acesso do agente a uma VPS por chave SSH
+- Identificar dependências antes de instalar aplicações no servidor
+- Distinguir configuração demonstrada de migração apenas planejada
+- Reconhecer como rotinas, arquivos e interface podem ser distribuídos entre serviços
+
+## Autorizar o agente a trabalhar na VPS
+
+Ruan começa com uma sessão SSH aberta no próprio terminal e pergunta ao agente se ele consegue ajudar a configurar o servidor. O agente explica que não digita dentro da sessão do usuário. Para executar comandos por conta própria, precisa abrir sua própria conexão e ter uma chave SSH autorizada na VPS.
+
+Ele prepara a chave e fornece um comando para ser executado na sessão remota já autenticada. Ruan copia esse comando, recebe a confirmação e volta ao agente, que testa o acesso. O primeiro teste falha por mistura de sintaxe de PowerShell e shell Linux; o agente reconhece o erro e ajusta o diagnóstico.
+
+Esse fluxo dá ao agente um meio de administrar a máquina. Ruan recomenda pedir que ele explique cada mudança. A chave autorizada, o usuário remoto e os comandos concedidos determinam o alcance desse acesso; por isso, a revisão humana importa antes de executar instruções de configuração.
+
+## Usar o guia como sequência de trabalho
+
+O guia apresentado na aula reúne conceitos e etapas: primeiro acesso, chave SSH, arquivo de configuração, proteção do acesso, Docker, aplicações, Nginx, HTTPS, manutenção e resolução de problemas. Ruan mostra que a pessoa pode seguir os passos ou passar o material ao agente e pedir ajuda para executá-los.
+
+Ele resume o processo em quatro movimentos: entrar na VPS pelo próprio terminal, informar ao agente que a sessão está pronta, autorizar uma chave para o acesso dele e acompanhar as mudanças propostas. A primeira conexão manual ajuda a reconhecer o ambiente antes de delegar instalações.
+
+## Diagnosticar antes de instalar
+
+Ao inspecionar a VPS, o agente relata que executáveis de Git, UFW e Fail2ban estavam substituídos por pequenos arquivos de texto. Ele verifica os registros disponíveis, corrige os pacotes e sugere avisar o fornecedor sobre o problema. A gravação mostra esse diagnóstico específico da máquina usada, sem tratá-lo como defeito de todas as VPS.
+
+O agente também observa a ausência de firewall ativo, o uso de uma conta administrativa e a entrada por senha. Sugere configurar firewall, criar usuário com permissões limitadas e trocar o acesso por senha por autenticação com chave depois de testar a chave. Ruan apresenta essas medidas, mas prioriza na demonstração instalar o ambiente básico e fazer o agente rodar.
+
+## Escolher dependências e capacidade
+
+Ruan contrasta uma instalação manual com uma assistida. Na manual, seria preciso consultar a documentação de cada ferramenta, escolher comandos para Linux e resolver a ordem das dependências. Git, Node e Docker são os componentes que ele pede ao agente para preparar no exercício; o conjunto exato depende da aplicação a ser executada.
+
+O pedido enviado ao agente também menciona uma automação local que será migrada, mas delimita o trabalho imediato: preparar Git, Node e Docker antes de subir os arquivos. Ao analisar o projeto, o agente identifica um bot de Telegram com dependências em Node e chama atenção para a memória limitada da VPS de teste.
+
+Na demonstração, o agente cria uma área de swap e instala as ferramentas. Swap pode ajudar quando a RAM é pequena, mas não transforma o servidor em uma máquina mais potente. O aviso mostra por que um projeto com várias instalações ou builds pode exigir um plano maior.
+
+## Instalar o agente dentro do servidor
+
+Com a VPS preparada, Ruan abre a documentação do Claude Code, copia o comando de instalação para Linux e o executa na sessão remota. A instalação termina, mas o comando ainda não é encontrado. O agente identifica um problema de `PATH`, ajusta o caminho e pede para atualizar a sessão. Depois disso, o programa abre.
+
+Ruan faz login na conta e mostra que agora o Claude Code está rodando na VPS, embora seja visto pelo terminal do computador pessoal. Essa distinção é o centro da demonstração: o comando foi enviado pelo PC, mas o processo e os arquivos desse ambiente estão no servidor.
+
+Ele mostra também uma tentativa de instalar o Codex CLI. O acesso fica interrompido por uma etapa de login que Ruan decide não concluir naquele momento. Em seguida, inicia a instalação do Hermes e cita Paperclip e outros agentes que poderiam ser configurados de forma semelhante. A aula demonstra o caminho, não a configuração final de todos eles.
+
+## Levar a automação e manter uma fonte de arquivos
+
+Depois que o agente está disponível na VPS, Ruan descreve a migração da automação de pesquisa e copy construída localmente. O passo seria entregar a pasta do projeto ao agente e pedir que adapte caminhos, dependências, agendamentos e serviços ao servidor. Essa migração é explicada, mas não aparece concluída nesta aula.
+
+As rotinas precisam ser criadas ou configuradas no ambiente onde deverão executar. Se a rotina estiver apenas no computador pessoal, desligá-lo interrompe a execução. Ruan sugere usar o GitHub como fonte central dos arquivos: o projeto pode ser clonado tanto no PC quanto na VPS, mantendo versões de trabalho ligadas ao mesmo repositório.
+
+Na sessão remota do Claude Code, ele mostra o comando `/routines` para criar, listar, atualizar ou executar rotinas naquele ambiente. O agendamento da pesquisa precisa apontar para os arquivos e recursos presentes na VPS.
+
+Para mostrar o resultado em um site, ele menciona servir a interface com Nginx ou usar outra hospedagem, como Vercel, enquanto a rotina continua na VPS. Arquivos, processamento e interface podem morar em lugares diferentes, desde que o fluxo tenha conexões e acessos definidos.
+
+## Coloque em prática
+
+Revise as dependências de uma automação local e peça ao agente um plano de instalação para a VPS. Confira recursos disponíveis, acessos e mudanças propostas. Depois de preparar o servidor, migre uma rotina pequena e confirme que ela executa no ambiente remoto.

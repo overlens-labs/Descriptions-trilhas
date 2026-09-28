@@ -1,5 +1,3 @@
-Cálculo interno: [16 blocos] / [57 parágrafos totais] / [2074 palavras estimadas] / [2074 ÷ 200 = 11 minutos]
-
 # Perfil ideal de cliente e o gargalo da lista
 
 **Tempo estimado de leitura:** 8 minutos

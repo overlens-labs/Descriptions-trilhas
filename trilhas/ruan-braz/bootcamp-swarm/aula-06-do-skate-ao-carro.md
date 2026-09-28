@@ -1,5 +1,3 @@
-Cálculo interno: [6 blocos] / [21 parágrafos totais] / [938 palavras estimadas] / [938 ÷ 200 = 5 minutos]
-
 # Do skate ao carro
 
 **Tempo estimado de leitura:** 5 minutos

@@ -1,0 +1,177 @@
+Cálculo interno: [16 blocos] / [65 parágrafos totais] / [2148 palavras estimadas] / [2148 ÷ 200 = 11 minutos]
+
+# Loop de autoaprimoramento - o sistema se melhorando sozinho
+
+**Tempo estimado de leitura:** 11 minutos
+
+## Objetivos de aprendizado
+
+Ao final desta aula, você será capaz de:
+
+- Estruturar um prompt que coloca agentes em loop de autoaprimoramento com rodadas de QA
+- Aplicar o comando de barra "goal" para o agente não parar antes de cumprir o objetivo
+- Distinguir o tempo gasto em ajuste de detalhe do tempo gasto em validação do negócio
+- Reconhecer o custo em token de deixar um loop rodando sozinho
+
+## O que o primeiro ajuste melhorou e o que continuou ruim
+
+O sistema volta para a tela já com alguns ajustes feitos pelo agente. O contraste ficou maior, dá para entender um pouco melhor o que está ali, e a sensação é de que ainda dá para melhorar muito mais.
+
+A parte visual ficou mais agradável, mas a organização continuou ruim. É esse o próximo pedido: colocar as informações em uma estrutura que faça sentido.
+
+## Printar a tela e explicar o que você não quer
+
+A forma de pedir organização é simples. Você captura a tela, cola no agente e explica o que não quer daquele jeito, dizendo qual formato deveria estar no lugar. No caso, o formato pedido é o do Business Model Canvas.
+
+O exemplo vem de dentro do próprio projeto. O canvas construído no dia anterior está salvo na pasta de documentos, e basta printar esse arquivo e dizer ao agente que o resultado precisa ficar daquela forma.
+
+Junto com a imagem dá para arriscar pedidos mais específicos. No mesmo envio ele avisa que não quer determinado botão na parte de cima da tela, e o agente entende sem precisar de explicação técnica adicional.
+
+O layout ruim tinha explicação. Ele mesmo tinha pedido antes para deixar o sistema responsivo, e o agente reorganizou a tela para atender a esse pedido. A experiência piorou no caminho, e a correção é pedida na hora.
+
+*Para ver o resultado desta demonstração, assista a partir de [00:20] no vídeo.*
+
+## Os ajustes que ainda cabiam no sistema
+
+A tela de pesquisa de mercado ainda tem pontos abertos. O filtro dá para melhorar, o volume de texto está alto e a hierarquia pode ficar mais clara.
+
+A cor entra no mesmo tipo de pedido. Basta dizer que não quer aquelas cores e que quer apenas preto, amarelo e cinza, e o agente passa a trabalhar dentro dessa paleta.
+
+É assim que o sistema vai sendo ajustado junto com o agente, item por item.
+
+## O maior erro é gastar o tempo no detalhe em vez de validar
+
+Ter algo tão fácil e possível na frente cria um problema específico: passar horas arrumando um detalhezinho, um botão, deixando tudo perfeito do jeito que você quer. Dá para fazer, mas é tempo perdido neste momento.
+
+Vai chegar uma hora de aprimorar o sistema, e essa hora não é agora. O que precisa ser feito antes é validar as teses do negócio.
+
+Duas delas estão abertas: se a entrega é economicamente viável e se as pessoas estão dispostas a comprar. Deixar o sistema bonito fica para depois disso.
+
+Esse é o ponto que ele vem tentando ensinar desde o dia anterior. Se o negócio mostrar potencial e estiver dando certo, aí sim começa o aprimoramento contínuo do produto.
+
+## O prompt que monta o loop de autoaprimoramento
+
+Enquanto o agente seguia trabalhando no sistema, o pedido foi escrito em outra janela. A escolha foi o Claude, porque é onde há mais crédito disponível para uma tarefa longa, e o texto pode ser ditado por áudio em vez de digitado.
+
+O pedido começa pelo papel e pelo modo de execução. O agente deve agir como especialista em experiência e interface do usuário e rodar múltiplos agentes em paralelização junto com ele, seguindo os melhores frameworks e práticas do mundo para a construção de experiências de produtos e sistemas.
+
+Depois vem a lista do que precisa melhorar: hierarquias, cards quebrados, fluxos ruins e a quantidade de cliques necessária para concluir cada tarefa.
+
+A instrução central é rodar isso em loop de autoaprimoramento. Os agentes trabalham com QA e validam de tempo em tempo se as telas estão funcionando corretamente, se os fluxos estão bons, se as hierarquias estão boas, se existem cores erradas e se a acessibilidade está boa.
+
+O fim da tarefa é definido dentro do próprio prompt. Ele só pode considerar a tarefa concluída quando o sistema estiver totalmente funcional e seguindo as melhores práticas do mercado, rodando pelo menos três vezes os QAs, tirando prints das telas e corrigindo tudo o que aparecer.
+
+## O comando de barra "goal" e por que ele sustenta o loop
+
+Com o prompt escrito, ele sobe com o cursor até o início da linha para usar um comando específico do terminal. O comando é a barra "goal".
+
+O que ele faz é dar um objetivo para a IA, e ela não para de trabalhar enquanto não cumprir esse objetivo. É esse comando que transforma um pedido comum em algo que continua rodando sozinho.
+
+Existe um detalhe importante ligado a isso. Ela vai ficar trabalhando por muito tempo e isso gasta token, por isso a demonstração roda no Claude Max, onde há bastante token para usar.
+
+## O limite de caracteres da meta e o prompt condensado
+
+Ao enviar, o agente responde apontando o limite de caracteres da meta. O prompt escrito tinha 4999 caracteres e o "goal" aceita 4000.
+
+A saída foi pedir ajuda ao próprio agente: ler o prompt inteiro e resumir com precisão para ser usado no "goal", já que o texto ficou maior do que a tag permite.
+
+Ele leu o prompt inteiro e devolveu uma versão condensada de 2000 caracteres, que ficou até melhor que a original. Um dos trechos mantidos mandava tomar as decisões necessárias para entregar rápido, porque o objetivo é iterar depois em cima do que foi feito.
+
+Esse trecho final não foi aproveitado. Ele copiou apenas a parte que interessava, colou no comando de barra "goal" e o agente confirmou a meta estabelecida.
+
+## O plano que o agente monta depois de receber a meta
+
+Com a meta estabelecida, o agente anuncia como vai trabalhar. Ele vai agir como gerente, ler a documentação e produzir o briefing e o workflow.
+
+Só depois disso vem a distribuição do trabalho. A construção é delegada a múltiplos agentes em paralelo.
+
+## O histórico que entrou no lugar do prompt
+
+O movimento de subir com o cursor trouxe um problema. Em vez do prompt, o terminal recuperou o histórico, e a palavra histórico estava escrita ali na própria tela.
+
+A lição sai daí: é importante ler o que está na linha antes de enviar. O que parecia ser o texto certo era outra coisa.
+
+O prompt escrito acabou perdido nesse movimento. Em vez de reconstruir o texto inteiro, a decisão foi reescrever tudo de forma mais sucinta.
+
+## O segundo prompt e a nota como condição de parada
+
+O pedido reescrito mantém o mesmo alvo: trabalhar em cima do sistema para melhorar a experiência. A lista cita hierarquia de texto, cards quebrados, responsividade e acessibilidade.
+
+A quantidade de cliques volta com um critério explícito. Quanto menos cliques para executar uma tarefa, melhor, e isso vale para cada uma das tarefas do sistema.
+
+Em seguida vem a varredura. O agente deve vasculhar toda a experiência em cada uma das camadas e ver como melhorar tamanhos de imagem e a experiência visual, que precisa ficar mais marcante e ajudar a pessoa a usar o sistema com mais facilidade.
+
+A referência de qualidade é declarada. Ele deve usar heurísticas e boas práticas do mercado e colocar múltiplos agentes de QA acima desse processo, para que o sistema funcione como os melhores do mundo.
+
+A condição de parada é o que fecha o loop. A meta só será concluída quando ele rodar pelo menos três QAs e alcançar nota 9 de 10 na comparação com os melhores sistemas do mundo.
+
+O caminho para chegar lá também está escrito. Ele pode tirar print de cada tela e trabalhar nesse processo de autoaprimoramento até concluir a tarefa, e dependendo do que foi pedido isso pode levar o dia inteiro.
+
+## O sistema mudado sem ninguém olhar
+
+Enquanto a aula seguia, o agente continuou trabalhando sozinho. O sistema ficou mais bonito e bem mais funcional, mesmo com coisas para melhorar ainda.
+
+A tela de pesquisa de mercado foi dividida melhor, para não jogar todo o volume de informação ao mesmo tempo. Isso já é uma boa prática aplicada sem que ninguém tivesse pedido especificamente por ela.
+
+A calculadora de meta ganhou os cenários conservador, base e agressivo, para verificar o quanto o negócio está próximo do objetivo. O plano de faturamento apareceu com cores novas.
+
+A mudança de cor é o detalhe mais revelador. Ele não pediu troca de cor, pediu melhora de experiência, e o agente pegou o design simples que existia, feito a partir de um print, e criou aquela versão por conta própria.
+
+O funil também mudou, para deixar a parte do negócio mais intuitiva. A área de cards foi mexida e passou a permitir novas adições, com os mesmos cards que já existiam.
+
+Ainda apareceu um dark mode que ninguém pediu. E o espaço de conteúdo foi ampliado com a redução do espaço do sidebar.
+
+## Deixar os agentes trabalhando enquanto você faz outra coisa
+
+Esse modo de trabalho já é hábito fora da aula. Às vezes ele publica um story avisando que está saindo para visitar a família e que vai deixar os agentes trabalhando, e mostra apenas as janelas em funcionamento.
+
+O sistema fica ali em loop, se autoaprimorando sem ninguém acompanhar. Na aula isso acontece ao vivo, com a turma assistindo ao processo enquanto o conteúdo segue.
+
+O comentário que ele faz sobre isso é que a maioria das pessoas não faz ideia de que é possível construir dessa forma.
+
+## Qual foi a inteligência da jogada
+
+A pergunta sobre o que mais dá para melhorar no sistema é justamente o perigo. Ela puxa de volta para o ajuste manual, detalhe por detalhe, que consome o tempo que deveria ir para a validação.
+
+A inteligência foi outra. Em vez de ficar pegando detalhe por detalhe, ele criou um loop para que a própria IA se autoaprimore, seguindo as melhores práticas do mundo em experiência e interface de usuário.
+
+O prompt escrito na frente da turma é a peça que cria esse loop. E a meta dada a ela é direta: ficar nisso até atingir a nota 9 de 10.
+
+## As notas do QA e um agente cobrando o outro
+
+O próprio agente informou a nota que tinha alcançado: 8,6. Como ainda não era 9 de 10, ele seguiu trabalhando.
+
+Encontrar essa mensagem na tela ficou difícil porque o trabalho não parou. O volume de código editado é grande e as mensagens vão subindo enquanto novas rodadas acontecem.
+
+Outra mensagem apareceu e mostra o mecanismo por dentro. O QA visual retornou nota 7 de 10, com uma lista concreta de pontos de correção, e a resposta foi corrigir os problemas sistêmicos naquele momento.
+
+É isso que o loop faz. Um agente diz ao outro que o resultado ainda não está bom e que precisa ser revisado e melhorado, e a volta seguinte começa a partir dessa lista.
+
+## O custo em token e o plano necessário
+
+Rodar um loop desse jeito gasta muito token. Não é o tipo de tarefa que cabe em um plano de entrada.
+
+Com o Claude Pro isso não vai funcionar. É preciso pelo menos um Max 5x para sustentar o processo até o fim.
+
+Também não é preciso partir para esse plano logo de cara. O que muda agora é a consciência de que esse tipo de trabalho existe e é possível.
+
+Enquanto o agente continua no loop, o trabalho da aula segue para a landing page. O sistema se melhora sozinho de um lado, e a energia vai para a validação do outro.
+
+## Materiais da aula
+
+- [Prompt de autoaprimoramento](../materiais/organizados/Dia%2002/MD/Prompts/A15%20-%20Autoaprimoramento%20-%20copia%20do%20chat.md): reprodução compartilhada pela participante Suelen, que informou ter usado o ChatGPT para transcrever a fala. Não é uma mensagem original de Ruan.
+- [SOS Atlas](https://sosatlasnegocios.vercel.app) e [Banco de prompts do SOS](https://sosatlasnegocios.vercel.app/#/prompts): apoio geral.
+
+## Coloque em prática
+
+Pare de ajustar detalhe por detalhe. Defina o que precisa ser validado primeiro.
+
+Escreva o prompt com quatro partes: o papel do agente, o que melhorar, o loop de QA e a condição de parada.
+
+Defina uma nota mínima como critério de conclusão. Exija pelo menos três rodadas de QA.
+
+Peça prints das telas dentro do próprio prompt. É assim que o agente enxerga o que produziu.
+
+Use o comando de barra "goal" para o agente não parar antes de cumprir o objetivo.
+
+Confira o seu plano antes de começar. Um loop longo consome token o tempo todo.

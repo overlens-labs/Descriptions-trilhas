@@ -1,0 +1,50 @@
+Cálculo interno: [5 blocos] / [14 parágrafos totais] / [659 palavras estimadas] / [659 ÷ 200 = 4 minutos]
+
+# Montando e testando a automação
+
+**Tempo estimado de leitura:** 4 minutos
+
+## Objetivos de aprendizado
+
+Ao final desta aula, você será capaz de:
+
+- Aplicar os componentes de uma automação à geração de um relatório
+- Distinguir o relatório produzido dos dados que ficam na memória do sistema
+- Identificar a etapa em que um fluxo deixou de funcionar
+- Reconhecer o mesmo princípio de automação em um exemplo fora do trabalho
+
+## Relatório não é sinônimo de memória
+
+Ao responder a uma dúvida, Ruan explica que um relatório pode ser o produto de uma automação, mas não é automaticamente sua memória. Para servir às próximas execuções, ele precisa ser salvo no sistema ou no ambiente onde o fluxo trabalha e estar disponível como parte do contexto futuro.
+
+O relatório também precisa de um gatilho próprio. A aula escolhe um caso simples: tocar em um botão chamado gerar relatório. O toque envia um sinal ao sistema e inicia o processo. Outro evento poderia servir como gatilho, mas o exemplo acompanha esse caminho manual.
+
+## Construção do relatório por etapas
+
+Na entrada, o sistema recebe o sinal do botão. Para produzir um relatório do CRM, a IA precisa depois reunir contexto: dados do CRM, relações registradas em um banco vetorial, instruções sobre a estrutura do documento e o formato esperado de saída.
+
+O processamento define qual agente fará o relatório, qual workflow seguirá e quais recursos utilizará. Na decisão, o agente analisa os dados segundo as instruções. Na ação, escreve o relatório. A saída pode ser um arquivo baixado ou uma página dentro do sistema.
+
+Depois da entrega, o resultado é salvo, por exemplo, no banco de dados. A aula imagina um relatório datado que passa a integrar os registros do CRM e fica relacionado aos demais dados. Na próxima execução, o agente pode encontrá-lo e considerar que já existe um documento anterior. É essa permanência e reutilização que caracterizam a memória do fluxo.
+
+## Como localizar uma falha
+
+Conhecer as etapas ajuda quando algo quebra. Se o usuário recebeu uma mensagem dizendo que o relatório não foi gerado, já existe um indício de que o pedido foi detectado. A investigação pode então seguir por contexto, processamento, decisão, ação, saída e gravação, até encontrar o ponto exato.
+
+Ruan dá o exemplo de um relatório escrito que não chega a ser salvo. Nesse caso, a falha está depois da escrita, possivelmente na saída ou no banco de dados. Não é preciso refazer todas as etapas que já funcionaram. O método é reduzir o escopo da investigação até isolar o defeito.
+
+## A analogia do vazamento
+
+Para explicar o diagnóstico, Ruan compara a automação ao encanamento de uma casa. Uma conta de água alta indica que há um problema, mas não diz em qual cômodo. Ao fechar registros e observar o fluxo, a pessoa isola trechos até localizar o vazamento. Em uma automação, a mesma lógica evita tratar o sistema inteiro como uma única peça misteriosa.
+
+Essa visão sistêmica exige calma para investigar. Muitas etapas podem estar ocorrendo, mas cada uma responde a uma pergunta específica. Separar os componentes torna possível corrigir um ponto sem desmontar o restante.
+
+## Uma fazenda automática no Minecraft
+
+A aula encerra o raciocínio com uma fazenda de cana no Minecraft. Um sensor identifica quando a cana cresce. Esse evento aciona pistões, que a quebram. A cana cai na água, segue o fluxo e chega a um carrinho que transporta o recurso.
+
+O exemplo mostra que os princípios não dependem de IA nem de um aplicativo empresarial. Há gatilho, sequência de ações e transporte do resultado. Ao reconhecer esse padrão em um jogo, fica mais fácil enxergar o mesmo desenho em relatórios, atendimento ou operações do negócio.
+
+## Coloque em prática
+
+Desenhe o fluxo de um relatório que você usa. Marque onde ele começa, quais dados consulta, como é entregue e onde fica salvo. Escolha uma possível falha e indique como descobriria sua etapa de origem.

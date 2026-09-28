@@ -1,5 +1,3 @@
-Cálculo interno: [25 blocos] / [88 parágrafos totais] / [3181 palavras estimadas] / [3181 ÷ 200 = 16 minutos] / teto de 15 min aplicado no tempo exibido
-
 # Lendo a pesquisa e fazendo as contas do negócio
 
 **Tempo estimado de leitura:** 15 minutos

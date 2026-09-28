@@ -1,5 +1,3 @@
-Cálculo interno: [2 blocos] / [8 parágrafos totais] / [295 palavras estimadas] / [295 ÷ 200 = 2 minutos] / tempo exibido limitado a 60% da aula ou a 15 minutos
-
 # Boas-vindas ao Bootcamp Swarm
 
 **Tempo estimado de leitura:** 1 minuto

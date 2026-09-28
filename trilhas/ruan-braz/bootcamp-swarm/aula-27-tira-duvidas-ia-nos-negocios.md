@@ -1,5 +1,3 @@
-Cálculo interno: [8 blocos] / [28 parágrafos totais] / [1336 palavras estimadas] / [1336 ÷ 200 = 7 minutos]
-
 # Tira-dúvidas: IA nos negócios
 
 **Tempo estimado de leitura:** 7 minutos

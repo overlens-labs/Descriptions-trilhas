@@ -1,5 +1,3 @@
-Cálculo interno: 14 blocos / 47 parágrafos totais / 1.690 palavras estimadas / 1.690 ÷ 200 = 8,5 minutos
-
 # Construindo o seu Business OS
 
 **Tempo estimado de leitura:** 9 minutos

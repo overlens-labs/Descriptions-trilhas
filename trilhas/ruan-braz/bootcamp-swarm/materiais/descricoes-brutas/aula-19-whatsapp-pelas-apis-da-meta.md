@@ -1,0 +1,64 @@
+Cálculo interno: [6 blocos] / [19 parágrafos totais] / [835 palavras estimadas] / [835 ÷ 200 = 5 minutos]
+
+# WhatsApp pelas APIs da Meta
+
+**Tempo estimado de leitura:** 5 minutos
+
+## Objetivos de aprendizado
+
+Ao final desta aula, você será capaz de:
+
+- Identificar as decisões envolvidas em publicar ou enviar mensagens por API
+- Reconhecer as etapas de cadastro e aprovação apresentadas para a Meta
+- Distinguir uma integração oficial de serviços que usam outros meios de conexão
+- Estruturar uma escolha considerando tempo, custo e continuidade do atendimento
+
+## Da consulta à ação externa
+
+Após a consulta aos dados do Pix, Ruan muda de uma API que devolve informação para APIs usadas como ferramenta. Publicar um post no Instagram ou enviar uma mensagem pelo WhatsApp é uma ação da automação. Além do conteúdo pronto, o fluxo precisa de uma conta com permissão, uma conexão e uma forma de receber eventos ou respostas.
+
+Ele reforça que a documentação do serviço e as credenciais são partes diferentes da integração. A documentação descreve operações e parâmetros. As credenciais identificam a conta autorizada. A chave deve ser guardada fora do diálogo com o agente, como discutido na aula anterior.
+
+## O caminho oficial apresentado para a Meta
+
+Ruan abre um guia que preparou para a turma e percorre suas etapas. O roteiro inclui criar um portfólio empresarial, preparar a página do Facebook e a conta profissional do Instagram, verificar o negócio quando necessário, registrar-se no ambiente de desenvolvedores, criar um aplicativo e vinculá-lo ao portfólio.
+
+Para WhatsApp, o guia segue pela configuração do produto no aplicativo da Meta e pela WABA, conta empresarial que agrupa números, modelos de mensagem e limites de envio. Vêm depois o teste com número de desenvolvimento, o registro de um número de atendimento e o webhook que recebe eventos.
+
+Para Instagram, entram as permissões e o teste de mensagens.
+
+Ao final, o projeto precisa de um token apropriado à operação planejada. Ruan distingue o token temporário usado no desenvolvimento de uma credencial para operação contínua. Para certos usos públicos, o aplicativo ainda passa por análise e aprovação.
+
+Essas etapas são apresentadas como um mapa do processo, sem execução completa ao vivo. Requisitos, limites e telas da plataforma podem mudar; o guia e a documentação da conta utilizada precisam ser conferidos na hora de configurar. Ruan ressalta que boa parte da dificuldade é administrativa: reunir dados da empresa, comprovar titularidade, pedir permissões e aguardar análise.
+
+## Preparar contas e acessos
+
+Na leitura do guia, Ruan comenta os pré-requisitos que propôs: perfil com autenticação de dois fatores, dados empresariais coerentes, e-mail e site ligados ao negócio, número dedicado ao atendimento e endereço HTTPS para o webhook. Um número separado reduz o impacto de problemas na conta de uso pessoal.
+
+Ele orienta especial cuidado ao trabalhar para um cliente. Adicionar uma página de terceiro como propriedade do próprio portfólio pode deixar a relação de acesso difícil de desfazer. O caminho deve preservar a titularidade e conceder ao prestador apenas o acesso necessário.
+
+O roteiro também distingue credenciais usadas em testes das destinadas ao funcionamento contínuo. Guardar tokens, limitar permissões e manter o número, a página e o aplicativo organizados faz parte da operação depois que a conexão começa a funcionar.
+
+## Escolher entre integração própria e serviço intermediário
+
+Ruan apresenta empresas que oferecem ferramentas prontas para WhatsApp e Instagram como alternativa a configurar toda a conexão diretamente. Cita ManyChat como exemplo de serviço usado pela equipe. Um intermediário pode reduzir o trabalho inicial, mas acrescenta assinatura, dependência do fornecedor e regras próprias.
+
+Antes de adotá-lo, é preciso entender por qual meio ele se conecta e como lida com mensagens e dados.
+
+Ele também mostra conexões que usam uma sessão semelhante à do WhatsApp Web, iniciada por QR Code, em vez da API oficial. Na conversa, destaca o risco de bloqueio do número e a consequência prática: o cliente pode continuar enviando mensagens a um canal que já não responde.
+
+Essa possibilidade pesa mais quando o número é o principal meio de atendimento.
+
+Para um agente pessoal, Ruan sugere considerar o Telegram, cuja configuração ele descreve como mais simples no caso demonstrado. A escolha do canal depende do objetivo: conversar com o próprio agente é diferente de atender clientes em escala.
+
+## A entrega mostrada na aula
+
+A aula apresenta o guia, contas e caminhos de configuração. Não há uma publicação automática no Instagram nem um agente de WhatsApp concluído nesta gravação. O resultado prático é um mapa para escolher a integração e preparar seus requisitos antes de ligar uma ação real ao fluxo de conteúdo.
+
+## Materiais da aula
+
+- [Agente de IA no aplicativo WhatsApp Business](https://whatsappbusiness.com/pt-br/products/business-app-ai-agent/): alternativa compartilhada por uma participante no chat. É uma referência complementar ao caminho de integração por API apresentado por Ruan.
+
+## Coloque em prática
+
+Escolha uma única ação, como publicar um post aprovado ou responder a uma mensagem. Liste a conta titular, as permissões, o custo, o método de conexão, a forma de teste e o que acontecerá se o serviço ou número ficar indisponível. Use a documentação atual da plataforma escolhida para montar a implementação.

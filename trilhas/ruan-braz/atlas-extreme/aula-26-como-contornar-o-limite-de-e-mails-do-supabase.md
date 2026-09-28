@@ -1,5 +1,3 @@
-Cálculo interno: 6 blocos / 17 parágrafos totais / 452 palavras estimadas / 452 ÷ 200 = 2,3 minutos
-
 # Como contornar o limite de e-mails do Supabase
 
 **Tempo estimado de leitura:** 3 minutos

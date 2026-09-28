@@ -1,5 +1,3 @@
-Cálculo interno: [7 blocos] / [26 parágrafos totais] / [1354 palavras estimadas] / [1354 ÷ 200 = 7 minutos]
-
 # O princípio do menor esforço
 
 **Tempo estimado de leitura:** 7 minutos

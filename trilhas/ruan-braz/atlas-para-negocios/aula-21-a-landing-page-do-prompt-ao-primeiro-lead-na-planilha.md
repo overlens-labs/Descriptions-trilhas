@@ -1,5 +1,3 @@
-Cálculo interno: [24 blocos] / [80 parágrafos totais] / [2583 palavras estimadas] / [2583 ÷ 200 = 13 minutos]
-
 # A landing page - do prompt ao primeiro lead na planilha
 
 **Tempo estimado de leitura:** 13 minutos

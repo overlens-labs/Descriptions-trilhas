@@ -1,5 +1,3 @@
-Cálculo interno: [14 blocos] / [51 parágrafos totais] / [1754 palavras estimadas] / [1754 ÷ 200 = 9 minutos]
-
 # Fundamentos, anatomia do prompt e o peso do início
 
 **Tempo estimado de leitura:** 5 minutos

@@ -1,5 +1,3 @@
-Cálculo interno: 11 blocos / 31 parágrafos totais / 825 palavras estimadas / 825 ÷ 200 = 4,1 minutos
-
 # Entendendo as variáveis de ambiente
 
 **Tempo estimado de leitura:** 5 minutos

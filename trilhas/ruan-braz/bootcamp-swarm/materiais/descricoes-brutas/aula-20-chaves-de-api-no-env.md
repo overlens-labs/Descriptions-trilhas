@@ -1,0 +1,33 @@
+Cálculo interno: [2 blocos] / [9 parágrafos totais] / [395 palavras estimadas] / [395 ÷ 200 = 2 minutos]
+
+# Chaves de API no .env
+
+**Tempo estimado de leitura:** 2 minutos
+
+## Objetivos de aprendizado
+
+Ao final desta aula, você será capaz de:
+
+- Identificar onde dados e ferramentas externas podem melhorar um projeto
+- Estruturar um arquivo de exemplo sem expor credenciais
+- Reconhecer os cuidados necessários antes de compartilhar um projeto com APIs
+
+## Escolher a conexão que acrescenta valor
+
+Ruan encerra o terceiro encontro recapitulando a amplitude das APIs. Elas podem fornecer dados, disponibilizar ferramentas ou integrar serviços. Na aula, a conexão com a base do Pix permitiu criar uma interface de consulta; o guia da Meta mostrou o trabalho adicional para ligar ações de publicação e mensagens.
+
+O exercício proposto é olhar para o projeto em andamento e perguntar quais fontes ou funções externas ajudariam de fato. Uma API de dados pode alimentar o fluxo com uma consulta programada, sem uma pesquisa manual do agente a cada pedido. Outras APIs podem executar ações.
+
+A escolha deve partir da necessidade do projeto e das condições de acesso à fonte.
+
+## Mostrar a forma de um segredo sem mostrar o valor
+
+Para fechar, Ruan demonstra a convenção de um arquivo `.env`. Nele, cada linha usa um nome de variável, o sinal de igual e o valor secreto. Em um segundo arquivo, `.env.example`, ficam os mesmos nomes, com o valor vazio. O agente pode ler o exemplo para saber como o script deve buscar a chave em tempo de execução.
+
+Os nomes das variáveis precisam coincidir nos dois arquivos e no código. O nome pode ser escolhido pelo projeto, desde que seja consistente. O exemplo orienta a configuração de quem receber o projeto sem revelar a chave real.
+
+Esse cuidado depende também de impedir que o `.env` seja enviado ao modelo, incluído no repositório ou exposto em logs e arquivos compartilhados. Ruan cita o Infisical como exemplo de serviço para guardar segredos quando o projeto exigir uma infraestrutura mais robusta. A demonstração fica na organização local básica, suficiente para entender como uma primeira integração lê a credencial.
+
+## Coloque em prática
+
+Liste as APIs que seu projeto já usa ou pretende usar. Para cada uma, registre a operação necessária e o nome da variável de acesso em `.env.example`, sem preencher valores. Confira se o arquivo com as chaves reais está fora do material que será enviado ao agente ou compartilhado com outras pessoas.

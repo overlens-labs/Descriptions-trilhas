@@ -1,5 +1,3 @@
-Cálculo interno: 9 blocos / 24 parágrafos totais / 725 palavras estimadas / 725 ÷ 200 = 3,6 minutos
-
 # Deploy e domínio próprio com CLI
 
 **Tempo estimado de leitura:** 4 minutos

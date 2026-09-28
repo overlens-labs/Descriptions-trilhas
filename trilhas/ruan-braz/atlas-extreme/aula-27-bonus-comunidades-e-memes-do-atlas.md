@@ -1,5 +1,3 @@
-Cálculo interno: 11 blocos / 33 parágrafos totais / 903 palavras estimadas / 903 ÷ 200 = 4,5 minutos
-
 # Bônus: comunidades e memes do Atlas
 
 **Tempo estimado de leitura:** 5 minutos

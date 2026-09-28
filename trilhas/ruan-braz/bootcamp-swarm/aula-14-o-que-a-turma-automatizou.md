@@ -1,5 +1,3 @@
-Cálculo interno: [3 blocos] / [9 parágrafos totais] / [405 palavras estimadas] / [405 ÷ 200 = 3 minutos]
-
 # O que a turma automatizou
 
 **Tempo estimado de leitura:** 3 minutos

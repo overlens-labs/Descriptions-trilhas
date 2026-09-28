@@ -1,0 +1,37 @@
+Cálculo interno: [3 blocos] / [9 parágrafos totais] / [405 palavras estimadas] / [405 ÷ 200 = 3 minutos]
+
+# O que a turma automatizou
+
+**Tempo estimado de leitura:** 3 minutos
+
+## Objetivos de aprendizado
+
+Ao final desta aula, você será capaz de:
+
+- Identificar usos práticos dos módulos construídos no encontro anterior
+- Reconhecer os próximos passos entre gerar conteúdo e publicá-lo
+- Distinguir o tema de conexões por API da discussão posterior sobre VPS
+
+## O que a turma construiu
+
+Ruan abre o terceiro encontro perguntando quem aplicou as ideias dos dias anteriores. Um participante conta que criou uma pesquisa semanal sobre autismo: o fluxo reúne notícias, pontua os temas por interesse de diferentes públicos e gera pelo menos três textos com sua voz editorial. A geração de carrosséis ainda está em desenvolvimento.
+
+Outras pessoas relatam sites, pesquisa de mercado, curadoria de conteúdo, portais internos, organização de processos e sistemas para negócios específicos. Há exemplos de notícias sobre IA transformadas em carrosséis, uma automação de conteúdo ligada ao Canva e um aplicativo para a gestão de um consultório de psicologia.
+
+Os relatos mostram estágios distintos. Alguns projetos já geram entregas recorrentes; outros ainda estão na configuração ou passaram por revisão. Ruan recomenda documentar processos quando o gargalo é a equipe não conhecer o fluxo, lembrando que criar a documentação não garante que todos a leiam.
+
+## Da criação à distribuição
+
+Uma pessoa comenta que já gera posts, mas ainda precisa publicá-los. Ruan usa essa diferença para antecipar o tema da aula: conectar automações a serviços externos, inclusive Instagram e WhatsApp, por meio de APIs. A publicação é uma nova etapa, com acessos e regras próprias.
+
+Ele também retoma o carrossel pedido ao agente no encontro anterior, cujo resultado não havia mostrado à turma. A demonstração será revisitada antes de avançar para as conexões. Ruan indica o quadro do Figma como referência comum para acompanhar os desenhos dos fluxos.
+
+Uma dúvida sobre a contratação de uma VPS aparece na conversa. Ruan sinaliza que a infraestrutura remota ficará para o próximo encontro. Neste, o foco é entender como dados e ferramentas de terceiros podem entrar nas automações locais já iniciadas.
+
+## Materiais da aula
+
+- [Quadro do Bootcamp Swarm no Figma](https://www.figma.com/board/pWajXLautZ6pMWOUcQ7t3O/Bootcamp%2D%2D%2DSwarm?node-id=0-1&t=RxnIk759kJaYUfvT-1), compartilhado por Ruan no chat do terceiro encontro.
+
+## Coloque em prática
+
+Liste o que sua automação já entrega hoje. Depois, marque a primeira etapa que depende de um serviço externo, como coletar dados, publicar uma peça ou enviar uma mensagem. Essa etapa será o ponto de partida para estudar a API correspondente.

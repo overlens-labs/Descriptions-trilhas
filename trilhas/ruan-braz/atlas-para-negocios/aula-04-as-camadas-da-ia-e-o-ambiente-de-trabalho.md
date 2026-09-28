@@ -1,5 +1,3 @@
-Cálculo interno: [30 blocos] / [104 parágrafos totais] / [3410 palavras estimadas] / [3410 ÷ 200 = 18 minutos] / teto de 15 min aplicado no tempo exibido
-
 # As camadas da IA e o ambiente de trabalho
 
 **Tempo estimado de leitura:** 15 minutos

@@ -1,5 +1,3 @@
-Cálculo interno: [31 blocos] / [117 parágrafos totais] / [3835 palavras estimadas] / [3835 ÷ 200 = 20 minutos] / teto de 15 min aplicado no tempo exibido
-
 # Funil de validação e unit economics
 
 **Tempo estimado de leitura:** 15 minutos

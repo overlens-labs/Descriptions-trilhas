@@ -1,5 +1,3 @@
-Cálculo interno: [8 blocos] / [24 parágrafos totais] / [1109 palavras estimadas] / [1109 ÷ 200 = 6 minutos]
-
 # Tira-dúvidas: skills e dados sensíveis
 
 **Tempo estimado de leitura:** 6 minutos

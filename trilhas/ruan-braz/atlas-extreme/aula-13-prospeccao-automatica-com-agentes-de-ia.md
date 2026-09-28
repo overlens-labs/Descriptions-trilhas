@@ -1,5 +1,3 @@
-Cálculo interno: 14 blocos / 48 parágrafos totais / 1.641 palavras estimadas / 1.641 ÷ 200 = 8,2 minutos
-
 # Prospecção automática com agentes de IA
 
 **Tempo estimado de leitura:** 9 minutos

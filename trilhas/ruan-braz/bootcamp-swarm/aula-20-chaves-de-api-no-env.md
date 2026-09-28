@@ -1,5 +1,3 @@
-Cálculo interno: [2 blocos] / [9 parágrafos totais] / [395 palavras estimadas] / [395 ÷ 200 = 2 minutos]
-
 # Chaves de API no .env
 
 **Tempo estimado de leitura:** 2 minutos

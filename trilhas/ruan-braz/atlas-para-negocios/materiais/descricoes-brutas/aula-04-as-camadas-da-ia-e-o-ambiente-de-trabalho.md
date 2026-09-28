@@ -1,0 +1,284 @@
+Cálculo interno: [30 blocos] / [104 parágrafos totais] / [3410 palavras estimadas] / [3410 ÷ 200 = 18 minutos] / teto de 15 min aplicado no tempo exibido
+
+# As camadas da IA e o ambiente de trabalho
+
+**Tempo estimado de leitura:** 15 minutos
+
+## Objetivos de aprendizado
+
+Ao final desta aula, você será capaz de:
+
+- Distinguir as quatro camadas da IA: modelo, produto, copilot e agente
+- Identificar o que é um harness e o que ele acrescenta a um modelo
+- Estruturar um ambiente local com uma IDE apontada para a pasta do projeto
+- Executar a instalação da CLI do seu agente e abrir esse agente no terminal
+
+## As LLMs, o motor dos agentes
+
+A primeira camada é a das LLMs, os modelos de linguagem. Elas são chamadas aqui de motor dos agentes, e é onde ficam o ChatGPT, o Claude, o Grok e o Gemini.
+
+Cada LLM tem modelos diferentes dentro dela. No Claude existe a sequência Haiku, Sonnet, Opus e Fable, apresentada em ordem de potencial: os primeiros são os de menor capacidade e os últimos são os de maior. No lado do GPT existe outra sequência, organizada pela mesma lógica, com o Astra no topo.
+
+A comparação usada é a de motor de carro. Cada modelo é um motor diferente, do mesmo jeito que 1.0 e 1.6 são motores diferentes, e o que muda é a potência que você tem disponível.
+
+O que esse motor faz é raciocinar. Ele é a rede neural, a parte que pensa, e todas as outras camadas são construídas em volta dela.
+
+## O wrapper, o produto que envolve o modelo
+
+Acima da LLM vem o produto, chamado de wrapper. Wrapper é o invólucro, o produto como um todo: o ChatGPT é um produto, o Claude é um produto.
+
+Quando você usa esse produto, seja pelo navegador, seja baixando ele no seu computador, ele já vem conectado a outras ferramentas. A imagem usada é a do GPT ou do Claude com bracinhos: o motor foi ligado a uma roda e a um volante.
+
+Com esses bracinhos, o produto consegue acessar outras ferramentas e já começar a fazer algum trabalho para você. É a mesma LLM, com um alcance maior do que o da conversa.
+
+## Chat e copilot dentro do mesmo produto
+
+Dentro desses produtos existe uma divisão importante. De um lado ficam os chats, do outro ficam os copilots, também chamados de cowork.
+
+O chat serve para conversar, tirar uma dúvida ou gerar um texto, e é uma interface direta com a LLM. O copilot serve para executar tarefas de assistência, conecta em programas e é ele que tem os bracinhos.
+
+No ChatGPT você alterna entre o modo chat e o modo work dentro da mesma tela. No Claude funciona igual, com o chat de conversa e o modo work no mesmo lugar.
+
+## Agentes e a diferença de autonomia
+
+A terceira camada é a dos agentes. Além dos bracinhos, eles têm tool calling, que é a chamada de outras ferramentas.
+
+O copilot também tem tool calling, então não é isso que separa os dois. A diferença principal é que os agentes foram configurados para ter mais autonomia.
+
+Autonomia, nesse contexto, é o poder de agir de maneira independente ou semi-independente. Os copilots têm autonomia baixa e os agentes têm autonomia alta, e isso muda o que cada um consegue fazer sozinho.
+
+Os agentes mais conhecidos são o Codex e o Claude Code. Existem ainda outras infraestruturas que podem ser acopladas a qualquer um dos dois, e essas infraestruturas se chamam harness.
+
+## Harness, a infraestrutura em volta do modelo
+
+Harness é a infraestrutura em volta do modelo. Imagine a LLM no centro, seja o ChatGPT, seja o Claude, com uma série de serviços e ferramentas conectados nela, todos à disposição dela na hora de trabalhar.
+
+São os códigos, as diretrizes e as regras que permitem à LLM executar mais trabalho para você. As LLMs evoluíram bastante desde o lançamento do ChatGPT, em 2022, mas o que realmente destravou potencial foi essa camada.
+
+É ela que evoluiu de forma drástica em 2026. O modelo também avançou, principalmente na escrita de código e em pesquisa, o que permite encontrar falhas de segurança, escrever código e investigar temas com mais profundidade.
+
+Ainda assim, o ponto central é este: não é exatamente a LLM que está evoluindo, é o ambiente dela.
+
+## O que um harness acrescenta
+
+Existem vários ambientes desse tipo. Um deles foi um agente conectado ao Claude que acabou comprado pela OpenAI, e ele serve de exemplo do conceito: uma infraestrutura onde você pluga a sua IA favorita.
+
+O que essas infraestruturas trazem são sistemas de memória mais avançados e mecanismos de heartbeat, que fazem a verificação das tarefas que ainda precisam ser executadas. A busca por autonomia dentro delas também é mais sofisticada.
+
+Outros harness surgiram depois e continuam sendo usados por muita gente, incluindo um projeto mais recente criado por um dos fundadores do Twitter. Nenhum deles é uma nova LLM: são infraestruturas que você coloca em volta do modelo para deixá-lo mais poderoso.
+
+## Harness abertos e a absorção pelos donos das LLMs
+
+Além das opções fechadas existem infraestruturas mais abertas, como o Superpowers, que é instalado pelo GitHub. Não saber o que é o GitHub não impede o acompanhamento da aula.
+
+São infraestruturas que você baixa no computador e onde coloca o seu agente para ele ficar muito mais poderoso. O que está acontecendo com elas é natural: as empresas que detêm as LLMs, e que são os verdadeiros monopólios desse mercado, compram essas iniciativas, e além de comprar também modelam e copiam.
+
+O efeito prático é que o ChatGPT e o Claude ficam cada vez mais poderosos sem que você precise instalar nenhuma camada agêntica por fora. Hoje é bem mais simples do que sair instalando harness.
+
+Instalar continua útil para quem é hard user ou desenvolvedor, porque essa pessoa sabe o que está fazendo. Quem não entende do assunto não precisa: as ferramentas principais estão ficando mais poderosas e mais fáceis de usar sozinhas.
+
+Uma outra ferramenta, citada pelo próprio público como bem mais fácil de usar, é mostrada na prática mais adiante.
+
+## Por que o trabalho vai ser feito com agentes
+
+Todo esse mapa serve para situar onde o trabalho de estruturar o negócio vai acontecer. O chat está fora porque não tem potencial para esse tipo de trabalho.
+
+Os copilots também ficam de fora, pelo mesmo motivo da autonomia baixa. A escolha é trabalhar com agentes.
+
+Com um agente é possível dar autonomia para ele buscar informações e validar dados por você, e isso acontece com mais velocidade, mais precisão e mais profundidade do que nas camadas de baixo.
+
+## Construir a casa no lote dos outros
+
+Definido o tipo de ferramenta, falta decidir onde esse agente vai trabalhar. A escolha é que ele trabalhe dentro do seu ambiente, porque assim o controle é total.
+
+A imagem usada é a de construir a sua casa no lote dos outros. Ao fazer isso, você amarra e burocratiza a sua parte com outra pessoa, sem nenhuma necessidade.
+
+Trabalhar no servidor da Anthropic, dona do Claude, ou no servidor da OpenAI, dona do ChatGPT, tem exatamente esse custo: você perde o acesso fácil aos seus próprios arquivos.
+
+Foi por isso que a pasta do projeto foi criada no computador. O objetivo é que os agentes trabalhem dentro da sua máquina, na sua própria pasta.
+
+## Local, nuvem e os outros modos de conexão
+
+Dentro do Claude, ao escolher a opção local, aparecem também as opções de SSH e de WSL. Todas elas existem para conectar o agente em outros ambientes.
+
+Existe ainda a opção de nuvem, mas essa nuvem é o servidor da Anthropic. Você cria uma pasta lá e fica sem acesso aos seus próprios arquivos, o que obriga a ficar baixando material depois e aumenta o desafio.
+
+Quem entende do assunto pode conectar o agente a um servidor na nuvem ou usar uma VPS, e esse caminho não é detalhado aqui. Ele é ensinado dentro do Overpass e da Vanguarda, as plataformas de aprendizado da Overlens.
+
+No ChatGPT o procedimento equivale. Você clica para usar o Codex, que é o agente dele, e aponta a pasta do projeto em que quer trabalhar.
+
+## O limite de trabalhar direto no aplicativo
+
+Trabalhar direto no aplicativo tem um problema de visualização: você não enxerga com facilidade os arquivos da sua pasta. A saída é manter mais uma janela aberta, só com a pasta, para acompanhar o que foi criado.
+
+Para mostrar isso, o pedido feito ao agente foi criar dez arquivos na pasta, sem nenhuma outra instrução. Ele pensa, lista o conteúdo da pasta, vê que não existe nada ali e cria dez arquivos quaisquer, numerados de um a dez.
+
+O segundo pedido foi feito ao outro agente: criar três pastas dentro da pasta do projeto. O Codex criou as três pastas, e ao voltar para a pasta no computador tanto os arquivos quanto as pastas estavam lá.
+
+O incômodo aparece na sequência. Você até consegue pedir um site e deixar o agente trabalhar apenas pelo aplicativo, mas precisa ficar abrindo a pasta para ver os arquivos e, para ler o que está escrito dentro de um deles, precisa abrir outra janela de outro programa.
+
+Isso atrapalha a produtividade, porque o trabalho vira uma sequência de janelas abertas uma atrás da outra.
+
+## A IDE, o ambiente de desenvolvimento integrado
+
+A solução para esse acúmulo de janelas é usar uma IDE. A sigla vem de integrated development environment, traduzida como ambiente de desenvolvimento integrado.
+
+O nome assusta, mas a ideia é simples. Hoje você tem a janela do Claude aberta, a janela das pastas que precisa abrir para ver os arquivos e a janela do arquivo que precisa abrir para ler o conteúdo.
+
+A IDE pega todas essas janelas e centraliza em um lugar só, dividindo a tela para você. Os arquivos ficam na lateral, o conteúdo do arquivo aberto fica na área principal e o Claude fica embaixo.
+
+O ganho é enxergar tudo dentro de uma mesma janela. É só isso que uma IDE faz.
+
+## Qual IDE usar e como baixar o Cursor
+
+Existem várias IDEs, e a recomendação da aula é o Cursor. Muita gente usa o VS Code e muita gente usa o Antigravity, e quem já usa uma delas pode continuar com a sua.
+
+Para baixar, abra o navegador, pesquise por cursor no Google, clique no link do site e faça o download para o seu computador. A página identifica o sistema automaticamente, então quem está no Mac baixa a versão de Mac e quem está no Windows baixa a de Windows.
+
+## A armadilha do download do Antigravity
+
+Quem prefere o Antigravity precisa de um aviso. A página mudou há alguns meses e isso tem confundido bastante gente na hora de baixar.
+
+Se você clicar no botão de download para Windows que aparece primeiro, o que vem não é a IDE. É o aplicativo do Google que compete com o Claude Code e com o Codex.
+
+O caminho certo é descer a página. A primeira opção listada não é a que você quer: é preciso continuar descendo até a versão de IDE, identificada como standalone, e baixar essa.
+
+*Para ver o resultado desta demonstração, assista a partir de [14:27] no vídeo.*
+
+## Tanto faz qual IDE, e a conta gratuita basta
+
+A pergunta sobre o Cursor ser melhor que o Antigravity aparece aqui, e a resposta é que, neste momento, tanto faz. VS Code, Cursor e Antigravity servem, e quem já tem um deles instalado deve usar o que tem.
+
+Existe quem defenda diferenças entre elas, e a aula concorda que essas diferenças existem. Didaticamente, porém, não vale descer a esse nível de detalhe agora.
+
+Outro ponto que costuma travar as pessoas: não é preciso conta paga. A conta gratuita resolve e não é necessário assinar nada.
+
+## O caminho de File para Open IDE
+
+Depois do login o Cursor abre normalmente, e aqui vem uma parte importante. Você clica em File, desce até a opção Open IDE e clica nela.
+
+No caso do Cursor, esse clique abre outra janela. A janela anterior pode ser fechada e o trabalho segue na nova.
+
+## Todas as IDEs em uso ao mesmo tempo
+
+Quando a pergunta é qual delas o professor prefere, a resposta é que usa todas. O Windsurf entra nessa lista, junto com as que já foram citadas.
+
+Na prática, o critério é abrir no computador a que estiver mais à mão naquele momento, porque todas funcionam de forma muito parecida e a escolha não muda o resultado do trabalho. Para facilitar o acompanhamento, a sugestão continua sendo o Cursor.
+
+## Skills, sub-agents, MCP e hooks fazem parte do harness
+
+Uma dúvida do público foi se harness é a mesma coisa que skills. Não é a mesma coisa, mas as skills fazem parte do harness.
+
+Skills, sub-agents, MCP, que são os conectores, e hooks: tudo isso faz parte de um harness, e ao mesmo tempo são partes separadas entre si.
+
+A comparação usada foi a da camisa. O botão de uma camisa não é a camisa, mas o botão faz parte da camisa.
+
+## Abrir o projeto e apontar a pasta
+
+Com a janela da IDE aberta, o passo seguinte é abrir o projeto. Você clica em Open project, vai até a área de trabalho e seleciona a pasta criada antes, chamada Maravilha.
+
+Outra dúvida do público foi se é preciso linkar com o GitHub. Por enquanto não: a orientação é fazer a instalação crua e acompanhar a tela.
+
+## O que muda dentro da IDE
+
+Com o projeto aberto, o ambiente passa a integrar tudo. Na coluna da esquerda aparece uma janela com todas as pastas e arquivos da pasta de trabalho, exatamente os mesmos que estão em Maravilha no computador.
+
+A diferença é o acesso rápido. Para abrir um arquivo basta clicar nele, e o conteúdo aparece dentro da mesma janela, com possibilidade de aumentar a área de leitura.
+
+Também dá para escrever no arquivo ali mesmo. O texto digitado na demonstração foi mudança de planos, e depois de digitar aparece uma bolinha no topo. O atalho Ctrl+S, ou Command+S no Mac, salva o arquivo com o texto alterado.
+
+O resultado é um aumento grande de produtividade em relação a ficar alternando entre janelas separadas.
+
+*Para ver o resultado desta demonstração, assista a partir de [18:47] no vídeo.*
+
+## A coluna de chat da IDE fica de fora
+
+A IDE traz uma coluna lateral própria para conversar com uma IA. Essa área não vai ser usada aqui e pode ser fechada.
+
+O motivo é a escolha de ferramenta. O trabalho será feito com o agente rodando via CLI, e não pelo chat embutido da IDE.
+
+## CLI, a interface de linha de comando
+
+CLI é a sigla de command line interface, ou interface de linha de comando. É uma das siglas mais importantes na hora de trabalhar com agentes.
+
+Ela descreve aquela tela do terminal do computador, onde a única coisa possível é escrever. Você envia comandos para a máquina através de linhas de texto.
+
+Essa conexão é o que permite usar o agente dentro da IDE. Sem a CLI não existe forma de conectar ali dentro o aplicativo do Claude ou do Codex.
+
+## Pedir ao próprio agente para instalar a CLI
+
+O jeito mais simples de instalar é pedir ao próprio agente. No Claude, a frase é direta: quero que você instale o Claude CLI para mim.
+
+Quem usa o Codex do ChatGPT escreve o mesmo pedido trocando o nome, pedindo a instalação da CLI do Codex. Quem usa o Gemini pede a instalação do Gemini CLI.
+
+Depois é só dar enter. O agente executa todo o processo de instalação sozinho.
+
+## O caminho manual fica para depois
+
+Existe o caminho manual, e ele está documentado fora da trilha. No YouTube, pesquisando por Ruan Braz, você chega ao canal e encontra a aula que ensina a instalar o Claude Code passo a passo, apresentada como guia completo para iniciantes.
+
+A orientação é clara quanto ao momento: isso é para depois. Quem parar agora para assistir perde o fio da meada e fica para trás na aula.
+
+## Acordar o agente no terminal da IDE
+
+Com a CLI instalada, o agente é aberto dentro do Cursor de duas formas. Uma é clicar no ícone de toggle panel, que abre o painel de baixo, e a outra é ir em Terminal e escolher Novo terminal.
+
+O terminal de comando aparece na parte inferior da tela. Ali você digita o nome do agente, claude por exemplo, dá enter, e ele abre dentro da IDE.
+
+Se aparecer uma mensagem de erro em vez do agente, o motivo é um só: a CLI ainda não foi instalada naquela máquina.
+
+## O plano B, dividir a tela em duas janelas
+
+Para quem não conseguiu fazer a instalação funcionar existe uma alternativa. Minimize tudo, abra a sua pasta no computador, puxe a janela para o canto e diminua o tamanho dela.
+
+Depois faça o mesmo com a janela do Claude, colocando as duas lado a lado. A tela dividida simula uma IDE, com os arquivos de um lado e o agente do outro.
+
+Esse caminho não impede o trabalho. Você consegue usar o Claude conversando com ele, do mesmo jeito que o site foi construído antes, porque a IDE resolve uma questão de produtividade e não de capacidade.
+
+## O caminho completo, do download ao login
+
+Antes de avançar, o processo é repetido inteiro, com a recomendação de assistir tudo primeiro e só depois executar, para a memória fixar o caminho.
+
+Baixe a IDE, no caso o Cursor, e abra. Se ela não abrir já na IDE, clique em File e depois em Open IDE. Em seguida clique em Open project e selecione a pasta de trabalho.
+
+A pasta abre dentro da janela, e o formato pode variar de máquina para máquina. Vá em Terminal, escolha Novo terminal e digite o nome do agente instalado: claude, codex ou gemini, conforme a CLI que você usa.
+
+Se ainda não instalou, abra o aplicativo do seu agente e peça a instalação da CLI dele. Ele instala tudo sozinho e depois pede o login.
+
+Terminada a instalação, abra o terminal e digite o nome do agente. A tela que aparece é a de atualização ou a de login. Você dá enter, faz o login, e a partir daí já está trabalhando via CLI conectada dentro da IDE.
+
+Quem achou complicado demais não precisa insistir. Dá para seguir a trilha usando o próprio aplicativo.
+
+## Apagar os arquivos de teste
+
+Os dez arquivos e as três pastas criados no começo eram só um teste e precisam ser apagados. Quem não vai usar a IDE faz isso abrindo a pasta direto no computador.
+
+O detalhe que aparece nesse momento é a sincronia. Ao deletar os arquivos na pasta do computador, eles somem também da janela da IDE, porque os dois estão olhando para o mesmo lugar.
+
+## O próximo passo, descrever o negócio
+
+Com o ambiente configurado, o trabalho começa. Quem está no aplicativo usa o campo de prompt dele, quem está na IDE usa o prompt do agente aberto no terminal, e a diferença daqui para a frente é só de conforto.
+
+A ferramenta escolhida também não trava ninguém. Em todas as edições anteriores do Atlas o trabalho foi feito com o Claude, e nesta o Codex é quem vai ser usado, mas quem tem o Claude Code pode seguir com ele sem problema.
+
+O primeiro passo é descrever o negócio para a IA. É a partir dessa descrição que toda a infraestrutura vai ser construída, e junto com ela vem a definição de qual é o mercado em que o negócio vai atuar.
+
+## Materiais da aula
+
+- [Quadro branco do Atlas no Figma](https://www.figma.com/board/PbpEXh5DAKTWuT0njBQnqb/Atlas-para-Negocios?node-id=12-4&t=uyMxKRiZiB2EoOXN-1): compartilhado por Ruan no segundo dia, com conteúdo dos dois dias.
+- [SOS Atlas - Dia 01](https://sosatlasnegocios.vercel.app/#/dia-01): apoio geral. Nanda indicou os tutoriais de instalação no SOS.
+- [Artificial Analysis](https://artificialanalysis.ai/models): complemento sobre modelos enviado pelo participante Paulo Borges.
+
+## Coloque em prática
+
+Crie a pasta do projeto no seu computador. Não trabalhe na nuvem do fornecedor.
+
+Baixe uma IDE. Cursor, VS Code ou Antigravity, tanto faz.
+
+Abra a IDE e aponte para a pasta do projeto.
+
+Peça ao seu agente para instalar a CLI dele. Depois faça o login.
+
+Abra o terminal dentro da IDE e digite o nome do agente.
+
+Se nada disso funcionar, divida a tela entre a pasta e o aplicativo.

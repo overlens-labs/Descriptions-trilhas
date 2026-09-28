@@ -1,5 +1,3 @@
-Cálculo interno: 10 blocos / 31 parágrafos totais / 872 palavras estimadas / 872 ÷ 200 = 4,4 minutos
-
 # Transforme conhecimento em resultado
 
 **Tempo estimado de leitura:** 5 minutos

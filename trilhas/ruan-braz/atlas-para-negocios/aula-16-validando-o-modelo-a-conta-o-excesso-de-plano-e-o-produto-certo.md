@@ -1,5 +1,3 @@
-Cálculo interno: [22 blocos] / [72 parágrafos totais] / [2692 palavras estimadas] / [2692 ÷ 200 = 14 minutos]
-
 # Validando o modelo - a conta, o excesso de plano e o produto certo
 
 **Tempo estimado de leitura:** 14 minutos

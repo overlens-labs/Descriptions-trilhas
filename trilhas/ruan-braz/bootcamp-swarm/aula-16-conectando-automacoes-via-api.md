@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [16 parágrafos totais] / [680 palavras estimadas] / [680 ÷ 200 = 4 minutos]
-
 # Conectando automações via API
 
 **Tempo estimado de leitura:** 4 minutos

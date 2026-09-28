@@ -1,5 +1,3 @@
-Cálculo interno: [16 blocos] / [65 parágrafos totais] / [2148 palavras estimadas] / [2148 ÷ 200 = 11 minutos]
-
 # Loop de autoaprimoramento - o sistema se melhorando sozinho
 
 **Tempo estimado de leitura:** 11 minutos

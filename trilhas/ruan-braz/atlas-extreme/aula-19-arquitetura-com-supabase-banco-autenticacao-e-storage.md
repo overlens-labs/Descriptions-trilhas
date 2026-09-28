@@ -1,5 +1,3 @@
-Cálculo interno: 11 blocos / 34 parágrafos totais / 917 palavras estimadas / 917 ÷ 200 = 4,6 minutos
-
 # Arquitetura com Supabase: banco, autenticação e storage
 
 **Tempo estimado de leitura:** 5 minutos

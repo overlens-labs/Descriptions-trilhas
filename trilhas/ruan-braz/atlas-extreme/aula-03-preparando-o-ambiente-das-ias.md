@@ -1,5 +1,3 @@
-Cálculo interno: 9 blocos / 22 parágrafos totais / 790 palavras estimadas / 790 ÷ 200 = 4 minutos
-
 # Preparando o ambiente das IAs
 
 **Tempo estimado de leitura:** 4 minutos

@@ -1,5 +1,3 @@
-Cálculo interno: [5 blocos] / [20 parágrafos totais] / [929 palavras estimadas] / [929 ÷ 200 = 5 minutos]
-
 # Tira-dúvidas: APIs e segurança
 
 **Tempo estimado de leitura:** 5 minutos

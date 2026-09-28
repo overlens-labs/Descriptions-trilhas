@@ -1,5 +1,3 @@
-Cálculo interno: [18 blocos] / [64 parágrafos totais] / [2122 palavras estimadas] / [2122 ÷ 200 = 11 minutos]
-
 # Rodando o sistema e melhorando a interface
 
 **Tempo estimado de leitura:** 7 minutos

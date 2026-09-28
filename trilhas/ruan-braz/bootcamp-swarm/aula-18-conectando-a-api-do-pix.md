@@ -1,5 +1,3 @@
-Cálculo interno: [5 blocos] / [17 parágrafos totais] / [772 palavras estimadas] / [772 ÷ 200 = 4 minutos]
-
 # Conectando a API do Pix
 
 **Tempo estimado de leitura:** 4 minutos

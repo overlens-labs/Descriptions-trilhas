@@ -1,5 +1,3 @@
-Cálculo interno: [20 blocos] / [67 parágrafos totais] / [2122 palavras estimadas] / [2122 ÷ 200 = 11 minutos]
-
 # Seiscentos leads e a lista limpa
 
 **Tempo estimado de leitura:** 6 minutos

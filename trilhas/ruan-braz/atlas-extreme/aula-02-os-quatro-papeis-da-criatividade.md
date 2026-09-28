@@ -1,5 +1,3 @@
-Cálculo interno: 9 blocos / 24 parágrafos totais / 770 palavras estimadas / 770 ÷ 200 = 3,9 minutos
-
 # Os quatro papéis da criatividade
 
 **Tempo estimado de leitura:** 4 minutos

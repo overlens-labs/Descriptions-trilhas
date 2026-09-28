@@ -1,5 +1,3 @@
-Cálculo interno: [3 blocos] / [9 parágrafos totais] / [399 palavras estimadas] / [399 ÷ 200 = 2 minutos]
-
 # Priorizando tarefas com Pareto
 
 **Tempo estimado de leitura:** 2 minutos

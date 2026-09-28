@@ -1,5 +1,3 @@
-Cálculo interno: [24 blocos] / [82 parágrafos totais] / [2779 palavras estimadas] / [2779 ÷ 200 = 14 minutos]
-
 # Business Model Canvas - do Markdown ao painel interativo
 
 **Tempo estimado de leitura:** 14 minutos

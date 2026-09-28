@@ -1,5 +1,3 @@
-Cálculo interno: [26 blocos] / [89 parágrafos totais] / [3018 palavras estimadas] / [3018 ÷ 200 = 16 minutos] / teto de 15 min aplicado no tempo exibido
-
 # Infraestrutura - arquivos, banco de dados e publicação
 
 **Tempo estimado de leitura:** 15 minutos

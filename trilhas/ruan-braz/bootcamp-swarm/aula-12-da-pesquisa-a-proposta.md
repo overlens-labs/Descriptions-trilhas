@@ -1,5 +1,3 @@
-Cálculo interno: [6 blocos] / [19 parágrafos totais] / [842 palavras estimadas] / [842 ÷ 200 = 5 minutos]
-
 # Da pesquisa à proposta
 
 **Tempo estimado de leitura:** 5 minutos

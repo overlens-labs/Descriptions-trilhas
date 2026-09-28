@@ -1,5 +1,3 @@
-Cálculo interno: [9 blocos] / [36 parágrafos totais] / [1342 palavras estimadas] / [1342 ÷ 200 = 7 minutos]
-
 # Abertura e enquadramento de aprendizagem
 
 **Tempo estimado de leitura:** 7 minutos

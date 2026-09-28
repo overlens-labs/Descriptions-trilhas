@@ -1,5 +1,3 @@
-Cálculo interno: [6 blocos] / [19 parágrafos totais] / [863 palavras estimadas] / [863 ÷ 200 = 5 minutos]
-
 # Oportunidades e pontos cegos
 
 **Tempo estimado de leitura:** 5 minutos

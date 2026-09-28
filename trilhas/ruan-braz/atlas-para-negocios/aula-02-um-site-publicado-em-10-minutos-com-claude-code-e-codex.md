@@ -1,5 +1,3 @@
-Cálculo interno: [20 blocos] / [69 parágrafos totais] / [2430 palavras estimadas] / [2430 ÷ 200 = 13 minutos]
-
 # Um site publicado em 10 minutos com Claude Code e Codex
 
 **Tempo estimado de leitura:** 13 minutos

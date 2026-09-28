@@ -1,5 +1,3 @@
-Cálculo interno: [7 blocos] / [22 parágrafos totais] / [1015 palavras estimadas] / [1015 ÷ 200 = 6 minutos]
-
 # Dados públicos viram produtos
 
 **Tempo estimado de leitura:** 6 minutos

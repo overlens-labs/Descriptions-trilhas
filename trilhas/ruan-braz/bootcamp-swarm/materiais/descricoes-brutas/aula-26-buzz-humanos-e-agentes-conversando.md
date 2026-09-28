@@ -1,0 +1,60 @@
+Cálculo interno: [6 blocos] / [17 parágrafos totais] / [818 palavras estimadas] / [818 ÷ 200 = 5 minutos]
+
+# Buzz: humanos e agentes conversando
+
+**Tempo estimado de leitura:** 5 minutos
+
+## Objetivos de aprendizado
+
+Ao final desta aula, você será capaz de:
+
+- Identificar a proposta do Buzz para conversas entre pessoas e agentes
+- Distinguir provedor de modelo e ambiente de execução do agente
+- Reconhecer como permissões afetam a participação dos agentes
+- Escolher entre uso local e remoto conforme a disponibilidade necessária
+
+## Um espaço de conversa para o enxame
+
+Depois de mostrar a VPS, Ruan apresenta o Buzz como uma forma de reunir agentes e pessoas em canais de conversa. A interface lembra um aplicativo de comunicação de equipes: há comunidade, salas, mensagens, respostas e participantes. Cada agente pode entrar na conversa como membro do time.
+
+Essa proposta atende a um problema diferente do servidor em si. Uma VPS oferece um ambiente de execução permanente e configurável. O Buzz organiza a interação entre humanos e agentes. Na aula, Ruan começa com a instalação no próprio computador, suficiente para experimentar a interface e o comportamento do time.
+
+## Instalação, identidade e comunidade
+
+Ruan abre `buzz.xyz`, baixa o aplicativo e percorre o assistente de instalação. Na configuração inicial, a ferramenta gera uma chave de identidade e apresenta opções de backup e recuperação. A pessoa precisa cuidar dessa identidade para continuar usando a mesma conta e comunidade.
+
+O aplicativo detecta provedores e agentes disponíveis no computador, entre eles Claude Code e Codex. Ruan escolhe Claude Code e cria uma comunidade. A demonstração passa pela verificação do e-mail e pelo primeiro acesso ao espaço de trabalho.
+
+Ele separa duas escolhas da configuração. O provedor fornece o modelo usado para responder. O *harness* é o ambiente que executa o agente e determina as ferramentas e permissões disponíveis. Na instalação, Ruan escolhe o harness do Claude Code, decisão que terá efeito na demonstração seguinte.
+
+## Os três agentes iniciais
+
+A comunidade abre com Fizz, Honey e Bumble. Ruan compara a experiência a um Slack com agentes: a pessoa pode mencioná-los, dar tarefas e deixar a equipe humana acompanhar as respostas na mesma conversa. Também pode criar canais para assuntos distintos e adicionar agentes com funções próprias.
+
+Ele testa uma saudação e pede que os agentes se apresentem. As respostas demoram mais do que nas experiências anteriores dele. Um dos agentes responde em inglês, embora o pedido tenha sido feito em português. O teste mostra que a interface foi criada, mas a interação ainda precisa de ajustes para corresponder ao comportamento esperado.
+
+Mencionar o agente é relevante: sem indicar quem deve responder, uma mensagem numa sala com muitos agentes poderia acionar todos. Ruan cria outro canal e testa uma conversa entre os três para mostrar a sensação de colaboração num espaço compartilhado.
+
+## O bloqueio de permissões
+
+Durante a demonstração, os agentes indicam que ferramentas de shell estão bloqueadas pelo modo de permissão escolhido. Por isso, uma resposta aparece apenas no ambiente do agente e não chega ao canal como Ruan esperava. Ele consulta a configuração, pede ajuda ao Claude Code e altera o acesso necessário para o teste.
+
+Depois da mudança, os agentes respondem na comunidade e adotam o português pedido. Ruan observa que teria sido mais simples escolher o harness do próprio Buzz na configuração inicial para esse experimento. O episódio separa a capacidade de gerar uma resposta da permissão para executar ações e publicar no canal.
+
+Ao criar novos agentes, é possível fornecer instruções e escolher o harness. Ruan menciona Claude Code, Codex, Hermes e Goose como opções encontradas no contexto da demonstração. Os participantes podem ter papéis diferentes, mas a conversa continua dependente dos recursos e limites de cada ferramenta conectada.
+
+## Local, VPS e maturidade da ferramenta
+
+Para um teste, Buzz pode ficar no computador pessoal. Se a equipe precisa acessar a comunidade e os agentes a qualquer hora, Ruan sugere considerar a instalação em um ambiente sempre disponível. A localização de cada processo deve acompanhar a necessidade: conversa eventual, rotina contínua e acesso da equipe não exigem a mesma configuração.
+
+Ruan conta que começou a testar o Buzz recentemente. Em algumas tentativas, os agentes responderam rápido; em outras, houve demora e problemas de permissão. Uma pessoa da turma também relata erro ao criar a comunidade. A aula apresenta a proposta e a primeira configuração, sem prometer que todos os ambientes terão o mesmo resultado.
+
+Ele recomenda atenção quando o sistema operacional exibe alertas de instalação de um agente com acesso ao computador. O nível de permissão concedido e os arquivos disponíveis ao programa precisam combinar com o uso planejado.
+
+## Materiais da aula
+
+- [Site do Buzz](https://buzz.xyz/), endereço citado na demonstração e compartilhado no chat do quarto encontro.
+
+## Coloque em prática
+
+Defina uma tarefa que sua equipe e um agente precisem acompanhar juntos. Crie um canal de teste, escolha o agente responsável e confira suas permissões. Observe se a resposta aparece onde a equipe espera e quais ações ele realmente consegue executar.

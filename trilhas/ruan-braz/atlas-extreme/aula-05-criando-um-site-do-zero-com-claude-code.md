@@ -1,5 +1,3 @@
-Cálculo interno: 9 blocos / 23 parágrafos totais / 747 palavras estimadas / 747 ÷ 200 = 3,7 minutos
-
 # Criando um site do zero com Claude Code
 
 **Tempo estimado de leitura:** 4 minutos

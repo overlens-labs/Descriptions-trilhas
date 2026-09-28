@@ -1,5 +1,3 @@
-Cálculo interno: 8 blocos / 21 parágrafos totais / 615 palavras estimadas / 615 ÷ 200 = 3,1 minutos
-
 # Servidor e domínio na prática
 
 **Tempo estimado de leitura:** 4 minutos

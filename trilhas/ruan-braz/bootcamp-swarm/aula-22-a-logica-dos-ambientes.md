@@ -1,5 +1,3 @@
-Cálculo interno: [7 blocos] / [19 parágrafos totais] / [946 palavras estimadas] / [946 ÷ 200 = 5 minutos]
-
 # A lógica dos ambientes
 
 **Tempo estimado de leitura:** 5 minutos

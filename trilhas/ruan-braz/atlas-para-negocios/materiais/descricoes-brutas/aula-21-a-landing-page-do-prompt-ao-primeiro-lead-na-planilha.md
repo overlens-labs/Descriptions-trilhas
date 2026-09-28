@@ -1,0 +1,225 @@
+Cálculo interno: [24 blocos] / [80 parágrafos totais] / [2583 palavras estimadas] / [2583 ÷ 200 = 13 minutos]
+
+# A landing page - do prompt ao primeiro lead na planilha
+
+**Tempo estimado de leitura:** 13 minutos
+
+## Objetivos de aprendizado
+
+Ao final desta aula, você será capaz de:
+
+- Estruturar um pedido de landing page com identidade visual, formulário e critérios de qualidade
+- Identificar como coerência visual e desempenho participam da conversão
+- Executar a integração demonstrada entre formulário, Apps Script e planilha
+- Aplicar a conferência de publicação, configuração e registro real de um lead
+
+## Definir a identidade visual antes da construção
+
+O pedido começa pela identidade que já existe no sistema. O amarelo é mantido porque Ruan considera que chama atenção tanto nas redes sociais quanto no site. A landing page deve explorar essa continuidade.
+
+O nome do negócio ainda aparece apenas como texto, sem um logo desenvolvido. A proposta é melhorar a tipografia para dar uma aparência mais moderna, usando Acumin Condensed em itálico, com títulos em maiúsculas, curtos e pequenos.
+
+Ruan não confirma que essa fonte esteja no Google Fonts. O pedido permite escolher outra parecida se ela não estiver disponível. A referência tipográfica orienta o resultado sem bloquear a construção por depender de uma fonte específica.
+
+## Especificar os campos e o destino do formulário
+
+O agente deve consultar a documentação do plano para montar o formulário. Os campos pedidos são nome, e-mail, telefone, cargo da pessoa, área de atuação do negócio, nome da empresa e quantidade de funcionários.
+
+A solicitação inclui o destino dos dados: uma planilha do Google cujo link será enviado na conversa. Isso define a entrega funcional da página. O visitante não deve apenas conseguir preencher campos; suas informações precisam chegar ao lugar onde serão acompanhadas.
+
+## A planilha como caminho inicial de coleta
+
+Ruan escolhe a planilha para simplificar a demonstração. Ele distingue essa escolha de uma construção posterior com banco de dados, que não será aprofundada naquele momento.
+
+A planilha de leads é criada e o link é enviado ao agente. Durante a demonstração, ele permite edição por qualquer pessoa com o link. Esse é o ajuste utilizado em tela, e não uma garantia de que a coleta já esteja funcionando.
+
+O pedido seguinte reforça que todos os leads do formulário devem ser salvos nesse destino. A conexão ainda exigirá código, configuração e um teste de envio.
+
+## QA, versão mobile e performance no próprio prompt
+
+O prompt pede um agente de QA para avaliar a construção da landing page, a definição das seções e principalmente o funcionamento em dispositivos móveis. QA é a verificação da qualidade do que foi produzido.
+
+Também são pedidos agentes de performance para melhorar o connect rate. A página precisa carregar com facilidade para que quem clicou no anúncio realmente consiga vê-la.
+
+Ruan dispensa animações nesse primeiro momento. A prioridade é uma página bem construída, extremamente leve e com a versão mobile funcional. O critério de qualidade está ligado à finalidade do teste, não à quantidade de efeitos.
+
+## Escolher referências que combinem com a direção
+
+No Dribbble, a busca usada é yellow landing page. Como a identidade já está próxima do amarelo, a pesquisa procura exemplos nessa direção, em vez de escolher referências sem relação com o que foi definido.
+
+Ruan evita algo muito disruptivo porque o objetivo é conversão. Uma das imagens é escolhida por mostrar várias seções; outra oferece uma referência mais específica da parte tipográfica.
+
+Os prints são colados na conversa para orientar a construção. A imagem mostra ao agente uma organização visual que seria mais difícil de transmitir apenas com adjetivos.
+
+*Para ver o resultado desta demonstração, assista a partir de [02:58] no vídeo.*
+
+## Reservar as imagens para uma etapa posterior
+
+Nas áreas destinadas a imagens, o pedido inicial considera um pattern, mas Ruan corrige a instrução ainda durante o ditado. A decisão final é usar fundo cinza, sem imagem, para marcar onde o conteúdo visual entrará depois.
+
+Essa marcação permite construir a página antes de produzir as imagens definitivas. O espaço fica reconhecível e pode ser preenchido na continuação do trabalho.
+
+## Pedir a publicação junto com a entrega
+
+O agente recebe a instrução de fazer o deploy ao terminar, usando a conta da Vercel que Ruan informa estar conectada. O endereço do projeto é incluído no pedido e deve ser adaptado por quem reproduzir o exercício.
+
+Deploy é a publicação que torna a página acessível no endereço público. Pedir a construção e a publicação no mesmo fluxo evita tratar o arquivo pronto na máquina como se ele já pudesse receber visitantes.
+
+A produção visual será feita com o Codex. Na divisão de trabalho apresentada, Ruan usa o Claude para a página e recorre ao gerador de imagens disponível no outro agente para os criativos.
+
+## Anúncio e página precisam parecer a mesma conversa
+
+Ao comparar o site com os anúncios, Ruan considera que o design inicial serve para testar, mas não conversa bem com os criativos. A diferença de linguagem pode fazer a pessoa sentir que mudou de contexto depois do clique.
+
+A proposta é usar uma identidade única no anúncio e na página. Essa continuidade ajuda o visitante a reconhecer a promessa e o ambiente que despertaram seu interesse.
+
+Na versão reformulada, ele percebe maior proximidade com o anúncio e prefere o resultado do Codex. A avaliação é uma opinião sobre as versões mostradas, não um resultado medido de conversão.
+
+*Para ver o resultado desta demonstração, assista a partir de [05:45] no vídeo.*
+
+## Conferir se o endereço é local ou público
+
+A página reformulada está rodando localmente. Mesmo aprovada visualmente, ela ainda precisa ser publicada na Vercel para receber o público.
+
+O endereço aberto é a evidência dessa diferença. Ver a página funcionando no próprio computador não confirma que a mesma versão esteja disponível na internet.
+
+O texto mostrado trabalha a ideia de que faturamento não é margem. A oferta convida a observar os gargalos, o custo do retrabalho e o próximo passo da operação, conduzindo o visitante ao raio X do negócio.
+
+## Testar o formulário e observar a falha
+
+Ruan preenche o formulário para verificar se ele funciona. O resultado é uma mensagem de erro: não foi possível registrar os dados, mas eles continuam nos campos.
+
+O feedback é considerado um ponto positivo da interface, porque informa que houve falha e preserva o preenchimento. Ainda assim, a finalidade principal não foi atendida: o lead não foi registrado.
+
+A captura de tela serve para relatar o problema ao agente. Como o trabalho ainda está em andamento, Ruan também verifica se a integração já foi concluída antes de tratar o erro como resultado final.
+
+## Organizar as frentes e acompanhar o limite do plano
+
+As conversas de ICP, leads e planejamento já terminaram e podem ser fechadas. Permanecem as frentes de trabalho no site e no sistema.
+
+Ruan comenta que está usando o plano Plus do ChatGPT e, naquele momento da gravação, considera essa assinatura mais vantajosa para quem só pode escolher uma. Ele ressalta que sua preferência muda conforme a relação entre capacidade e uso disponível.
+
+## O que falta depois das correções visuais
+
+O relatório informa uma imagem principal de aproximadamente 98 KB e uma página sem framework pesado. O bloqueio restante para confirmar o envio real é publicar o recebedor na conta Google e conectar sua URL ao site.
+
+O código necessário já está pronto, mas existe uma etapa manual. Essa distinção é importante: o agente pode produzir os arquivos sem ter concluído as autorizações e a configuração em um serviço externo.
+
+Ruan considera salvar os dados em um arquivo no GitHub, mas descarta esse caminho para o projeto compartilhado. Como outras pessoas poderão baixar o repositório, essa opção exporia informações que não deveriam acompanhar o código.
+
+## Avaliar o visual sem confundir com validação
+
+A reformulação usa tipografia forte, preto, amarelo e fotografia editorial. Ruan considera o resultado melhor que a versão anterior, mas ainda vê excesso de informação e espaço para explorar melhor as imagens.
+
+Na avaliação dele, simplificar a página poderia favorecer a conversão. Mesmo assim, ela já parece suficiente para iniciar o teste. A construção mais demorada produziu uma página melhor que a primeira versão feita em cinco minutos.
+
+O critério de avanço é ter algo utilizável para validar. A opinião sobre a aparência orienta ajustes, enquanto o comportamento de visitantes e leads deverá mostrar o desempenho real.
+
+## Transferir o deploy sem alterar o trabalho aprovado
+
+Aparece um aviso de menos de 25% do limite restante. A sequência mostra que avaliar a escolha do plano exige acompanhar o consumo durante a execução, mesmo quando o trabalho parece estar avançando bem.
+
+Com o limite do Codex próximo do fim, Ruan pede ao Claude que publique a versão reformulada. O pedido é específico: fazer o deploy sem alterar o que o outro agente construiu.
+
+Essa passagem usa o trabalho já salvo no projeto. A troca de agente não significa reiniciar a página; significa distribuir a etapa seguinte conforme os créditos disponíveis.
+
+O Codex continua sendo consultado para conectar o formulário. Ruan pede que ele explique o que ainda precisa ser feito para concluir a integração.
+
+## Abrir o Apps Script a partir da planilha
+
+A orientação recebida começa na planilha, pelo menu Extensões e depois Apps Script. Esse será o ambiente em que o código de recebimento dos leads será publicado.
+
+O agente criou um arquivo com o código pronto dentro da estrutura da landing page. Ruan inicialmente procura a implantação, mas precisa primeiro copiar o conteúdo desse arquivo para o editor.
+
+A etapa manual é necessária porque produzir o arquivo no projeto não o instala automaticamente dentro da conta Google. O código precisa estar no local em que será executado.
+
+## Copiar o código e salvar o projeto
+
+O passo a passo manda abrir o arquivo de código em um editor, selecionar todo o conteúdo e copiá-lo. No Apps Script, o conteúdo inicial com a função de exemplo é substituído pelo código recebido.
+
+Depois, Ruan salva com Ctrl+S e renomeia o projeto. Ele usa prints e perguntas curtas para pedir a próxima instrução conforme avança.
+
+A demonstração mostra uma forma de executar uma integração desconhecida: seguir uma etapa, conferir o estado da tela e pedir o próximo passo. Isso permite localizar em que ponto a configuração deixou de corresponder ao esperado.
+
+## Configurar o token nas propriedades do script
+
+Nas configurações do projeto, o passo seguinte é adicionar uma propriedade de script para o token. A orientação exige um valor aleatório com pelo menos 24 caracteres.
+
+O mesmo valor será usado na Vercel. Essa correspondência faz parte da configuração de comunicação entre o site e o recebedor da planilha.
+
+O agente pede que a senha seja guardada e não enviada pela conversa. Ruan expõe valores durante a demonstração por conveniência didática, mas avisa que esse procedimento é ruim para segurança e não deve ser reproduzido.
+
+## Implantar o recebedor como aplicativo da web
+
+Com o código e a propriedade salvos, a sequência passa por Implantar, Nova implantação e seleção do tipo aplicativo da web. A descrição usada identifica o recebimento de leads.
+
+Na configuração demonstrada, a execução fica associada à conta de Ruan e o acesso é definido para qualquer pessoa. Depois vêm a autorização da conta e a conclusão da implantação.
+
+É preciso copiar a URL do aplicativo, terminada em /exec, e não confundi-la com o código de implantação. O endereço é enviado ao agente para conectar o recebedor ao site.
+
+## Diagnosticar o token rejeitado
+
+O endereço responde, mas o retorno informa que o token ainda não foi configurado. Ruan volta às propriedades do script e confere o nome da propriedade.
+
+A análise identifica que o valor usado tem menos de 24 caracteres. A falha não estava apenas em existir ou não uma propriedade: o código também exigia um tamanho mínimo para aceitar o valor.
+
+Nesse ponto, o limite do modelo é atingido e Ruan passa para Luna, conforme o nome usado na fala. A configuração continua com o modelo de menor capacidade.
+
+Ruan substitui a senha e salva novamente. Ele repete que gerar ou expor a senha daquela maneira foi um atalho da demonstração, não o procedimento que recomenda ao aluno.
+
+## Repetir a configuração na Vercel
+
+No projeto da Vercel, o caminho indicado passa por Settings e pelas variáveis de ambiente. Ruan chega primeiro à área de ambientes, percebe a diferença e procura a seção correta de variáveis.
+
+A configuração do endereço de recebimento já aparece no projeto. Falta cadastrar o token com o mesmo valor usado no Apps Script e marcar o ambiente Production.
+
+A correspondência precisa ser exata. O site publicado usará essa configuração ao enviar dados para o recebedor, por isso trocar um dos valores sem atualizar o outro impede a integração.
+
+## Fazer um novo deploy depois das variáveis
+
+Depois de salvar a variável, a orientação é executar um redeploy. O passo a passo aponta para a área de Deployments, o deploy mais recente e a opção de publicá-lo novamente.
+
+Essa etapa coloca a configuração nova em uso na versão publicada. Cadastrar a variável e abrir uma página antiga não é a mesma coisa que verificar a versão já atualizada.
+
+Enquanto isso, Ruan comenta que construir um projeto desse tamanho pode ser distribuído ao longo dos dias conforme a assinatura disponível. A estimativa de cerca de R$ 100 é apresentada como possibilidade de uso gradual, em resposta à hipótese de gastar R$ 2 mil.
+
+## Fazer o teste no site publicado
+
+A primeira tentativa de conferência ainda estava no endereço local. Depois de ser avisado, Ruan abre o endereço público do projeto e preenche novamente o formulário.
+
+O preenchimento usa informações de exemplo do negócio, como cargo de sócio e área de educação. A verificação precisa acontecer no destino que o visitante do anúncio realmente abrirá.
+
+O envio ainda falha. Ruan manda um print e uma mensagem direta ao agente, que passa a examinar o log. A análise informa que não se trata simplesmente de ausência de variável e continua investigando a configuração.
+
+## Confirmar o registro na planilha
+
+Enquanto um agente examina o problema, o Codex também altera arquivos do projeto. Depois dos ajustes, Ruan testa novamente e confere a planilha.
+
+A tabela apresenta o teste de integração feito pelo agente e o teste preenchido por ele. Esse é o resultado que confirma a passagem completa: formulário, envio e registro no destino.
+
+A planilha também recebeu amarelo na formatação, acompanhando a identidade visual do site. O ponto funcional, porém, é que os dados chegaram e podem ser acompanhados ali.
+
+## Materiais da aula
+
+- [Landing page Marabilia](https://marabilia-overlens.vercel.app/): endereço público compartilhado por Ruan.
+- [Prompt da landing page ditado em aula](../materiais/organizados/Dia%2002/MD/Prompts/A21%20-%20Landing%20page%20-%20trecho%20ditado.md): recorte literal da transcrição.
+- [Dribbble](https://dribbble.com/): ferramenta citada em aula, com endereço compartilhado pelo participante Daniel Silva.
+- [SOS Atlas](https://sosatlasnegocios.vercel.app) e [banco de prompts](https://sosatlasnegocios.vercel.app/#/prompts): apoio geral. Nanda confirmou o prompt da landing page no SOS.
+
+A planilha e o código de Apps Script usados na demonstração não vieram anexados. O link da planilha foi enviado à IA em tela, mas não foi localizado nos chats.
+
+## Coloque em prática
+
+Defina a identidade visual e os campos de qualificação antes de pedir a página.
+
+Inclua versão mobile, QA e performance no pedido.
+
+Use referências que mantenham a continuidade entre anúncio e landing page.
+
+Escolha onde os dados serão recebidos e conclua a configuração desse destino.
+
+Guarde o token fora da conversa e use o mesmo valor nas duas configurações.
+
+Publique novamente depois de cadastrar as variáveis de ambiente.
+
+Teste pelo endereço público e confirme o registro na planilha.

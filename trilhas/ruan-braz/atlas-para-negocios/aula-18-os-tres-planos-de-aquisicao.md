@@ -1,5 +1,3 @@
-Cálculo interno: [23 blocos] / [79 parágrafos totais] / [2591 palavras estimadas] / [2591 ÷ 200 = 13 minutos]
-
 # Os três planos de aquisição
 
 **Tempo estimado de leitura:** 13 minutos

@@ -1,5 +1,3 @@
-Cálculo interno: 8 blocos / 21 parágrafos totais / 658 palavras estimadas / 658 ÷ 200 = 3,3 minutos
-
 # Instalando Git e Node com IA
 
 **Tempo estimado de leitura:** 4 minutos

@@ -1,0 +1,35 @@
+Cálculo interno: [3 blocos] / [9 parágrafos totais] / [399 palavras estimadas] / [399 ÷ 200 = 2 minutos]
+
+# Priorizando tarefas com Pareto
+
+**Tempo estimado de leitura:** 2 minutos
+
+## Objetivos de aprendizado
+
+Ao final desta aula, você será capaz de:
+
+- Aplicar o princípio de Pareto à lista de tarefas do dia a dia
+- Distinguir tarefas a eliminar, automatizar, delegar com revisão ou manter consigo
+- Estruturar uma primeira ordem de prioridade para construir automações
+
+## Do levantamento à priorização
+
+Depois de preencher a pesquisa e listar suas tarefas, cada participante precisa decidir onde investir atenção. Ruan apresenta o princípio de Pareto como uma forma de enxergar essa distribuição. Na observação que deu origem à ideia, aproximadamente 20% da população detinha 80% das terras estudadas. Ele mostra que o mesmo recorte pode ser repetido dentro do grupo menor.
+
+Ao aplicar o recorte sucessivamente, surgem quatro faixas usadas nesta aula: 80%, 20%, 4% e 0,8%. Esses números funcionam como um exercício de priorização, não como uma medição exata do tempo de cada pessoa. A pergunta é quais tarefas concentram o maior efeito e quais ocupam o dia sem exigir a sua participação.
+
+## As quatro faixas de tarefas
+
+Na faixa de 80% ficam, em geral, tarefas que consomem muito tempo e que talvez nem devessem continuar sendo feitas. O primeiro movimento pode ser dizer não ou interrompê-las. Automatizar algo desnecessário só preservaria um trabalho sem valor.
+
+As tarefas dos 20% podem ser delegadas a outra pessoa mediante processo e treinamento, ou entregues a uma automação que funcione sem validação constante. Há uma sequência de trabalho reproduzível e ela não precisa ocupar continuamente o responsável pelo negócio.
+
+Nos 4% aparecem tarefas que pedem julgamento, mas permitem delegar a execução a um humano ou a uma IA. A pessoa responsável faz a revisão final. Já os 0,8% representam as tarefas que precisam permanecer com ela, pois dependem diretamente de suas escolhas e de seu julgamento.
+
+## Uma primeira versão que pode mudar
+
+Ruan propõe dividir a lista do formulário nessas faixas para identificar também que tipo de automação construir. O exercício inicial não é uma sentença definitiva sobre o trabalho de ninguém. É uma classificação para começar, que pode ser refeita com mais calma à medida que a pessoa conhece melhor as próprias tarefas.
+
+## Coloque em prática
+
+Reabra sua lista de tarefas. Marque o que deve parar, o que pode ser automatizado, o que pode ser delegado com revisão e o que precisa continuar sob sua responsabilidade.

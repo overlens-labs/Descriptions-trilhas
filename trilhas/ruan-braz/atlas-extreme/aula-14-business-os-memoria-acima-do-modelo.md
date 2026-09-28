@@ -1,5 +1,3 @@
-Cálculo interno: 6 blocos / 15 parágrafos totais / 460 palavras estimadas / 460 ÷ 200 = 2,3 minutos
-
 # Business OS: memória acima do modelo
 
 **Tempo estimado de leitura:** 3 minutos

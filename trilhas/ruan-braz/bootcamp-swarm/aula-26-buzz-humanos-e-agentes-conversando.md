@@ -1,5 +1,3 @@
-Cálculo interno: [6 blocos] / [17 parágrafos totais] / [818 palavras estimadas] / [818 ÷ 200 = 5 minutos]
-
 # Buzz: humanos e agentes conversando
 
 **Tempo estimado de leitura:** 5 minutos

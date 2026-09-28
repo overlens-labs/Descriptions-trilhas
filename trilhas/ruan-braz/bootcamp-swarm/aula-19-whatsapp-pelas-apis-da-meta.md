@@ -1,5 +1,3 @@
-Cálculo interno: [6 blocos] / [19 parágrafos totais] / [835 palavras estimadas] / [835 ÷ 200 = 5 minutos]
-
 # WhatsApp pelas APIs da Meta
 
 **Tempo estimado de leitura:** 5 minutos

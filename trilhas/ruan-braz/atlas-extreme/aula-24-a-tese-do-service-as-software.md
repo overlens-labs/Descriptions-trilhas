@@ -1,5 +1,3 @@
-Cálculo interno: 9 blocos / 28 parágrafos totais / 730 palavras estimadas / 730 ÷ 200 = 3,7 minutos
-
 # A tese do Service as Software
 
 **Tempo estimado de leitura:** 4 minutos

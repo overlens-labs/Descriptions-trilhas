@@ -1,5 +1,3 @@
-Cálculo interno: [27 blocos] / [120 parágrafos totais] / [4070 palavras estimadas] / [4070 ÷ 200 = 21 minutos] / teto de 15 min aplicado no tempo exibido
-
 # O mercado é um jogo, e pensamento sistêmico
 
 **Tempo estimado de leitura:** 15 minutos

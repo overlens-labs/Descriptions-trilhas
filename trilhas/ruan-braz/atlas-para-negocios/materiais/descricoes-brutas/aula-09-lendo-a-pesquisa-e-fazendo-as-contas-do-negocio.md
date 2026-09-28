@@ -1,0 +1,242 @@
+Cálculo interno: [25 blocos] / [88 parágrafos totais] / [3181 palavras estimadas] / [3181 ÷ 200 = 16 minutos] / teto de 15 min aplicado no tempo exibido
+
+# Lendo a pesquisa e fazendo as contas do negócio
+
+**Tempo estimado de leitura:** 15 minutos
+
+## Objetivos de aprendizado
+
+Ao final desta aula, você será capaz de:
+
+- Identificar os sinais de preço e as taxas de conversão que uma pesquisa de mercado entrega
+- Distinguir lead, oportunidade e venda dentro do funil
+- Executar a conta de trás para frente, da meta de vendas até o número de leads necessário
+- Aplicar o modelo de capacidade para verificar se o negócio cabe na renda desejada
+
+## O valor hora de consultor e a fonte por trás dele
+
+A leitura da pesquisa começa pela tabela de preços. O valor hora de consultor aparece com mínimo de setenta reais, mediana recomendada entre cento e setenta e trezentos e vinte, e âncora institucional com máximo de oitocentos.
+
+A fonte vem declarada ao lado do número. É o edital de credenciamento do Sebrae São Paulo, que paga de cento e setenta a trezentos e vinte por hora, por conta PJ, para consultores de empresas em 2026.
+
+Esse tipo de dado é um sinal intermediário, e não uma prova da tese do negócio. Ele traz um valor de referência e abre a tabela de preços que vem logo em seguida.
+
+## As faixas de preço por tipo de serviço
+
+O diagnóstico de entrada para gestão de pequenas empresas tem mínimo de quinhentos reais, mediana de dois mil e quinhentos a cinco mil e máximo em torno de quinze mil. Um segundo tipo de diagnóstico aparece a partir de três mil reais, com mediana de dez mil e máximo de quarenta mil encontrado no mercado.
+
+Cada faixa vem com a melhor fonte indicada ao lado, e essas fontes precisam ser pesquisadas uma a uma para conferir se são validadas e se funcionam mesmo. O número sozinho não sustenta a decisão.
+
+O projeto de consultoria, com dado de 2026, tem mínimo de dois mil, mediana de oito mil a vinte e cinco mil e máximo de cento e cinquenta mil. A mensalidade de assessoria começa em oitocentos, tem mediana entre dois mil e cinco mil e máximo de cinquenta mil.
+
+A pesquisa registra ainda que 56% dos contratos do setor ficam abaixo de cinco mil. A distribuição por faixa detalha isso: 34% cobram até dois mil, 22% ficam entre dois e cinco mil, 17% entre cinco e dez mil, e existe uma faixa de dez a quinze mil. Esses valores de assessoria são mensais.
+
+## Usar o próprio track record quando ele existe
+
+A mensalidade de assessoria é validada na hora com um caso real. As duas assessorias em andamento têm parcela de seis mil, e a mensalidade equivalente chega a dez mil, porque o valor foi dividido em oito vezes para uma entrega que dura seis meses.
+
+O que isso prova é direto: existem pessoas pagando dez mil de mensalidade, e isso já está validado na prática. Quem tem track record pode usar o próprio histórico como referência de preço.
+
+Quem ainda não tem track record usa o dado de mercado no lugar. As duas rotas servem ao mesmo objetivo, que é sair do achismo na hora de definir a faixa de preço do serviço.
+
+## Implementação de automação, recorrência e custo de pessoa
+
+A implementação de automação e IA tem mínimo de mil e quinhentos, faixa central entre oito mil e vinte e cinco mil, e chega até cento e vinte mil nos projetos maiores.
+
+A linha seguinte é de contrato recorrente, e ela vem com uma ressalva registrada na hora: é preciso pesquisar o que exatamente esse recorrente inclui. Os valores ficam entre quinhentos e dois mil e quinhentos, com máximo de vinte mil por mês, e esse teto pertence a empresas bem maiores.
+
+A tabela fecha com o custo de pessoa, comparando o salário com o custo real ao empregador no regime CLT, a partir do CAGED de agosto de 2025 a julho de 2026.
+
+O ganho dessa primeira parte é objetivo. A pesquisa entrega a média do que o mercado tem cobrado pelo mesmo serviço que o negócio pretende vender, e isso já trabalha a favor de quem está montando a oferta.
+
+## A conversão no CRM do segmento de consultoria
+
+A segunda tabela traz taxas de funil, com métrica, valor e nível de confiabilidade em cada linha. A primeira métrica é a conversão no CRM.
+
+No segmento de consultoria e treinamento a média é de 6%, contra 33% no varejo. Traduzindo para a operação: a cada cem pessoas, seis compram, o que dá aproximadamente uma venda a cada dezessete pessoas.
+
+O dado vem da RD Station, apurado sobre 97 milhões de negociações em 2025, com confiabilidade nota A. É uma média de mercado e serve para balizar que tipo de conversão esperar dos próprios leads.
+
+## Quanto tempo leva para fechar uma venda
+
+O ciclo de venda gira em torno de um mês, o que significa que dá para esperar até trinta dias até o fechamento.
+
+A distribuição é mais útil do que a média: 51% fecham em menos de quinze dias, outros 21% fecham entre quinze e trinta dias, e 14% levam de dois a três meses. A fonte de novo é a RD Station, com confiabilidade nota A.
+
+## Lead e oportunidade não são a mesma coisa
+
+A tabela mede quantos leads viram oportunidade, e as duas palavras precisam de definição antes do número. Lead é o prospect, a pessoa que tem potencial para ser cliente. Oportunidade é quando essa pessoa já está em um momento de venda.
+
+A taxa é de 23% no inbound e 17% no outbound. De cada cem leads, esse é o pedaço que avança para a fase de oportunidade.
+
+Depois da oportunidade vem a call com o closer, que é a ligação de venda, e é dela que sai a conversão. Até esse ponto, o que a tabela descreve é o funil até a fase de oportunidade.
+
+## O custo de cada reunião
+
+O custo por reunião fica em torno de trezentos e quinze reais considerando apenas o salário fixo. Com encargos, o número sobe para seiscentos e trinta.
+
+A leitura prática que fica é de cerca de trezentos reais gastos a cada reunião. Cada reunião marcada tem custo antes de qualquer venda acontecer.
+
+## Quantos clientes novos uma operação enxuta faz por ano
+
+A tabela mostra que 44% das operações enxutas têm até cinco clientes novos por ano, 14% não conquistam nenhum cliente novo no ano e 23% passam de dez clientes novos ao ano.
+
+Outra linha mostra que 28% têm indicação como canal principal de aquisição. Essas linhas já são análises, e não dados brutos, e a própria tabela sinaliza o nível de confiabilidade de cada uma.
+
+## Cold mail: taxa de resposta não é taxa de conversão
+
+Cold mail é o primeiro e-mail enviado para uma empresa que não conhece você. A taxa média de resposta é de 3%, e pode ir de 3% a 12% quando a execução é bem feita.
+
+A distinção está explícita na leitura do dado: esse número é taxa de resposta, não taxa de conversão. Responder um e-mail não é comprar. A confiabilidade dessa linha é C.
+
+## No-show, topo e fundo de funil
+
+No-show é quando a reunião é marcada e a pessoa não aparece. O alerta fica em mais de 20%, e o ideal é menos de 10%.
+
+Os dois números pertencem a camadas diferentes do funil. Topo de funil é a camada mais mainstream, que ainda não está consciente da solução. Fundo de funil é a camada mais consciente, que já está buscando a oportunidade.
+
+Na prática, menos de 10% no fundo significa que a cada dez reuniões marcadas uma ou menos são desmarcadas. Mais de 20% no topo significa que a cada dez reuniões, duas ou mais acabam desmarcadas.
+
+## O que fazer quando a métrica não está clara
+
+Uma das linhas da tabela fala de utilização faturável, e o próprio termo gera dúvida sobre a que ele se refere dentro do funil.
+
+A saída é direta: dá para perguntar para a IA que fez a pesquisa. Seguir com uma leitura suposta é pior do que pedir o esclarecimento do termo.
+
+## Microempresas batem menos metas que grandes empresas
+
+Entre as microempresas com menos de três funcionários, 12% batem as metas de vendas. Entre as grandes empresas, o número é de 52%.
+
+O dado tem confiabilidade nota A e funciona como alerta de expectativa para quem está começando sozinho ou com equipe mínima.
+
+O conjunto da tabela entrega muito insight direcionado ao negócio, e a recomendação é fazer essa mesma pesquisa para o próprio negócio. Sem ela, as contas seguintes não têm base.
+
+## A conta de trás para frente, de uma venda até os leads
+
+O funil vira desenho para a análise de mercado, com lead de um lado e oportunidade do outro, e a distância entre os dois medida pela taxa que a pesquisa trouxe.
+
+A taxa de lead para oportunidade é de 23%, a maior da tabela, e ela equivale a uma pessoa a cada quatro. É a média do mercado de consultoria, com confiabilidade razoável, e serve como ponto de partida.
+
+A conversão de 6% dá o outro lado da conta: são dezesseis pessoas com quem é preciso conversar para uma comprar. Multiplicando por quatro, porque só uma em cada quatro chega à fase de oportunidade, o número vira sessenta e quatro pessoas.
+
+Falta o no-show. Como duas ou três das dezesseis provavelmente não aparecem, entram mais cinco pessoas de margem, e a meta passa de dezesseis para vinte e uma reuniões marcadas.
+
+A cadeia fica assim: vinte e uma marcam, dezesseis aparecem, uma compra. E vinte e uma reuniões marcadas exigem oitenta e quatro leads, porque a proporção de um para quatro continua valendo.
+
+## O que conta como lead
+
+Oitenta e quatro é o número de pessoas que precisam demonstrar interesse real no produto, clicar na página, deixar cadastro para marcar uma call ou chamar no WhatsApp.
+
+Lead é a pessoa que deixou os dados de contato, o telefone e o e-mail. Não é quem passou pela página, quem viu a página, quem foi alcançado por ela ou quem curtiu o anúncio.
+
+Entre o tráfego que chega na página e o lead existe outra taxa, a de conversão da própria página, e ela precisa ser medida à parte. O que a conta do funil exige são oitenta e quatro cadastros no formulário para que o contato comece.
+
+## Multiplicando a meta para cinco vendas
+
+A conta muda de escala quando a meta muda. Se o objetivo é cinco vendas, tudo é multiplicado por cinco.
+
+Oitenta e quatro leads vezes cinco dá quatrocentos e vinte leads necessários. Vinte e uma reuniões vezes cinco dá cento e cinco agendamentos de reunião.
+
+Desses cento e cinco agendamentos, aproximadamente vinte a trinta pessoas não vão aparecer, e esse número já entra no planejamento em vez de virar surpresa.
+
+Os resultados podem ser melhores do que a média, mas a conta parte da base do mercado, com dados relevantes e fontes confiáveis sobre a média de conversão de outras empresas no Brasil.
+
+## Estar na média do mercado não é fracasso
+
+Falar com dez pessoas e não vender, falar com vinte e não vender, ou falar com cem em um mês e fechar duas vendas: essas situações costumam ser lidas como fracasso pessoal.
+
+A conta mostra outra coisa. Na maior parte das vezes o resultado está dentro da média do mercado, e quem não fez a conta não tem como enxergar isso.
+
+É o momento de ser estratégico e tático. A visão sistêmica serve exatamente para isso, e a maioria das pessoas não para para fazer essa conta.
+
+O motivo da trilha aparece aqui de forma explícita: a IA foi o atrativo que reuniu todo mundo, e é ela que ajuda a fazer todas essas contas.
+
+## O prompt que pede o diagrama do funil
+
+O passo seguinte é levar a conta feita à mão para outro agente e pedir a correção, porque algumas das estimativas feitas ao vivo não ficaram boas.
+
+O contexto entra por imagem: um print do desenho do funil e um print da tabela da pesquisa, para o agente saber de onde os números saíram. Vale o detalhe operacional de que colar imagem no terminal não funciona com Ctrl+V, o atalho é outro.
+
+O pedido tem duas partes. A primeira é gerar um diagrama do funil mostrando as etapas de conversão e quais metas precisam ser batidas em cada fase para uma venda mediana de um dos serviços. A segunda é escolher qual serviço é a melhor opção para validar a hipótese e explicar por que escolheu.
+
+Pedir a explicação da escolha é o que transforma a resposta em análise. O agente refaz o mesmo funil de um jeito mais inteligente, indicando com quantas pessoas é preciso falar em cada etapa, usando as taxas de mercado que ele mesmo levantou.
+
+*Para ver o resultado desta demonstração, assista a partir de [14:01] no vídeo.*
+
+## Modelo de capacidade: o gargalo entra na conta
+
+Enquanto o diagrama é gerado, a leitura segue em outra parte da pesquisa, o modelo de capacidade. O assunto deixa de ser venda, funil e alavanca, e passa a ser gargalo.
+
+A pergunta que o modelo responde é quanto dinheiro por mês o negócio consegue fazer em função da quantidade de pessoas na equipe. Isso é pensar em mercado e em competição, em vez de entrar com a inocência de achar que uma pessoa sozinha dá conta de tudo.
+
+O spoiler é que ela não dá. Um negócio pode ser desenhado para operar com uma pessoa só, mas nesse caso o faturamento não vai ser necessariamente alto. Faturar dois milhões no ano sozinho é possível, e é extremamente atípico.
+
+A exceção não serve de modelo. Usar a média do mercado para decidir é o que se chama de pensamento bayesiano, ou pensamento estatístico: as probabilidades mudam de acordo com as informações que você recebe.
+
+## Os três cenários para uma pessoa sozinha
+
+Com uma única pessoa na operação, a pesquisa desenha três cenários: conservador, base e otimista.
+
+Diagnósticos vendidos: seis no conservador, nove no base e dez no otimista. Projetos fechados: dois, quatro e seis. Contratos de assessoria: um, dois e três.
+
+A receita anual no cenário conservador fica em sessenta mil, o que dá algo em torno de cinco mil reais por mês no primeiro ano.
+
+Esse valor já é maior do que 80% da população brasileira ganha, porque a maior parte recebe menos de três mil por mês. No cenário conservador o modelo já é melhor do que às vezes ter um emprego, o que não quer dizer que seja fácil, e quem prefere a sensação de garantia pesa essa escolha de outro jeito.
+
+## Horas faturáveis, teto e valor hora realizado
+
+O modelo mostra também as horas faturáveis usadas contra o teto de horas de cada cenário. No conservador são 366 horas usadas de um teto de 830.
+
+O teto sobe junto com o volume de serviço. No cenário base são 753 horas de um teto de mil, e no otimista são 1.156 horas de um teto de 1.200, com faturamento de duzentos e oitenta mil.
+
+A utilização das horas faturáveis fica em 44%, 75% e 96% nos três cenários. O valor hora realizado aparece em 164, 193 e 142.
+
+Trabalhar praticamente no teto de horas é o que torna o cenário otimista possível, e é também o que reprova esse desenho. Um negócio montado assim esbarra no gargalo de tempo, e esse é o motivo declarado para não criar um negócio desse jeito.
+
+## Faturamento não é lucro e o MRR sai no fim do ano
+
+Uma observação do público entra aqui e vale o registro: faturamento não é lucro, e existe muita coisa entre um número e outro. O funil do negócio nessa camada é a DRE.
+
+O MRR, receita mensal recorrente, aparece em três mil por mês em um cenário e em treze mil por mês no outro, já com custo descontado.
+
+O MRR não se calcula apenas em cima da receita recorrente. O cálculo correto é pegar todo o faturamento do ano, dividir por doze e subtrair os custos.
+
+## Preço não se calcula a partir do valor hora
+
+Uma pergunta do público aponta que o uso de IA está derrubando o valor hora no mercado inteiro. A resposta desmonta a premissa: considerar o valor hora pelo mercado leva ao erro, porque o serviço não é vendido com base em valor hora.
+
+O valor hora é calculado no fim, e não no começo. Ele serve para saber qual é o custo de realizar aquele serviço, e não para definir o preço que será cobrado por ele.
+
+Os dois erros comuns aparecem nomeados. O primeiro é dizer que a hora custa trezentos e cobrar trezentos. O segundo é calcular o custo hora em duzentos, somar cem de lucro e cobrar quatrocentos. Os dois caminhos perdem margem e perdem oportunidade.
+
+A precificação sai de outro lugar: oferta e procura, o problema que o serviço resolve, o tamanho da empresa atendida, o impacto disso e, principalmente, a responsabilidade envolvida.
+
+## O modelo precisa caber na renda que você quer
+
+O teste final do modelo é simples. Quem quer um negócio que pague quinze mil reais líquidos por mês já no primeiro ano precisa olhar para esses cenários e reconhecer que o modelo, do jeito que está desenhado, não é o melhor para esse objetivo.
+
+É aí que a maioria erra. A expectativa é criada sem base na realidade, sem plano e sem planejamento, e a frustração chega quando o resultado não aparece.
+
+Um modelo que permite três mil por mês vai entregar três mil por mês. Quem não fez a conta ganha esses três mil se sentindo fracassado, quando na verdade está apenas na média do mercado.
+
+A correção não é esforço, é mudança de modelo. Encontrar uma oportunidade melhor, procurar brechas no mercado e focar em um tipo de serviço são os caminhos apontados, e o passo seguinte é colocar outra IA para rodar esse mesmo cálculo.
+
+## Materiais da aula
+
+- [Quadro branco do Atlas no Figma](https://www.figma.com/board/PbpEXh5DAKTWuT0njBQnqb/Atlas-para-Negocios?node-id=12-4&t=uyMxKRiZiB2EoOXN-1): apoio visual compartilhado por Ruan.
+- [Juntar documentos no SOS](https://sosatlasnegocios.vercel.app/#/dia-01/juntar-docs): link enviado por Nanda. A associação exata com esta aula é provável pela sequência do chat, sem confirmação textual na transcrição editada.
+- [Banco de prompts do SOS](https://sosatlasnegocios.vercel.app/#/prompts): apoio geral.
+
+O relatório e os arquivos de cálculo apresentados na demonstração não vieram anexados.
+
+## Coloque em prática
+
+Levante a tabela de preços do seu serviço com a fonte declarada em cada faixa. Confira se as fontes são confiáveis.
+
+Se você já vendeu, use o seu próprio track record como referência de preço. Se não vendeu, use o dado de mercado.
+
+Faça a conta de trás para frente. Comece pela meta de vendas e chegue ao número de leads.
+
+Some o no-show à meta de reuniões. Coloque a margem antes de precisar dela.
+
+Calcule quantas horas o seu modelo exige de você. Se o teto for o seu tempo, mude o modelo.

@@ -1,5 +1,3 @@
-Cálculo interno: 11 blocos / 38 parágrafos totais / 941 palavras estimadas / 941 ÷ 200 = 4,7 minutos
-
 # Business OS: conectando várias IAs em um só agente
 
 **Tempo estimado de leitura:** 5 minutos

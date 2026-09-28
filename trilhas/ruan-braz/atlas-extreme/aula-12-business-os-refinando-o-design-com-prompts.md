@@ -1,5 +1,3 @@
-Cálculo interno: 18 blocos / 68 parágrafos totais / 2.384 palavras estimadas / 2.384 ÷ 200 = 11,9 minutos
-
 # Business OS: refinando o design com prompts
 
 **Tempo estimado de leitura:** 12 minutos

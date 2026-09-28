@@ -1,5 +1,3 @@
-Cálculo interno: 10 blocos / 26 parágrafos totais / 731 palavras estimadas / 731 ÷ 200 = 3,7 minutos
-
 # Testando a autenticação com Supabase
 
 **Tempo estimado de leitura:** 4 minutos

@@ -1,0 +1,195 @@
+Cálculo interno: [20 blocos] / [69 parágrafos totais] / [2430 palavras estimadas] / [2430 ÷ 200 = 13 minutos]
+
+# Um site publicado em 10 minutos com Claude Code e Codex
+
+**Tempo estimado de leitura:** 13 minutos
+
+## Objetivos de aprendizado
+
+Ao final desta aula, você será capaz de:
+
+- Executar a preparação do ambiente com Claude Code e Codex a partir do zero
+- Estruturar um prompt de landing page de validação com referência visual e formulário de leads
+- Aplicar o ciclo de ajuste por captura de tela até o resultado ficar correto
+- Distinguir o que virou commodity do que continua sendo diferencial em um negócio
+
+## Preparando o ambiente com Claude Code e Codex
+
+A demonstração usa duas ferramentas abertas ao mesmo tempo, o Claude Code de um lado e o Codex do outro. A escolha é livre: quem usa Gemini pode abrir o Antigravity no lugar, sem problema.
+
+Quem não tem nenhum dos dois instalado resolve pelo caminho mais simples. Basta pesquisar no Google por download do Claude, download do ChatGPT ou download do Antigravity, baixar o programa, abrir e fazer login na conta.
+
+A interface do Claude muda com frequência, e isso confunde na hora de achar o lugar certo. No balãozinho fica o Claude de conversa, e no ícone de code fica o assistente que escreve e executa. É esse segundo que a demonstração usa.
+
+Para o modo de código funcionar, a máquina precisa ter o git e o node instalados. Existem aulas na plataforma ensinando esse passo, mas quem não conseguiu tem uma saída direta: na conversa, trocar para o modo cowork e pedir "instale o Claude Code para mim".
+
+Ele instala as dependências, incluindo node e git, e depois é só fechar e abrir de novo.
+
+No ChatGPT o ajuste é equivalente. É preciso trocar o seletor de ChatGPT para Codex, senão você continua na interface de conversa.
+
+## O que são esses agentes
+
+Os dois são agentes capazes de construir dentro do seu computador. Eles têm acesso a várias ferramentas e acionam cada uma delas conforme a necessidade da tarefa.
+
+Este primeiro momento é um experimento para dar a ideia geral, não uma aula de fundamentos. Quem achar difícil acompanhar executando junto pode apenas assistir, porque o processo é mais simples do que parece à primeira vista.
+
+## Uma pasta para cada agente
+
+O primeiro ajuste é sair do modo nuvem e trocar para local, para que o agente trabalhe em arquivos da sua máquina. Em seguida vem a organização das pastas.
+
+Na área de trabalho é criada uma pasta chamada "atlas para negócios" e, dentro dela, duas subpastas: uma para o Claude e outra para o Codex. O motivo é dar a cada agente acesso apenas à sua própria pasta, mantendo os dois trabalhos isolados.
+
+No Claude, isso é feito escolhendo novo projeto e apontando a pasta correspondente. Feito isso, os dois agentes estão conectados e cada um opera dentro do seu ambiente.
+
+## Conferir o login na Vercel antes de pedir
+
+Antes de disparar o prompt existe uma verificação que evita perder tempo depois. O agente só consegue publicar o site se a conta da Vercel já estiver logada na máquina.
+
+Essa conferência parece detalhe, mas é ela que separa uma execução limpa de uma execução travada no meio. A aula mostra na prática o custo de pular esse passo.
+
+## O prompt que gerou a landing page
+
+O pedido feito aos dois agentes foi construir um site em menos de cinco minutos sobre como criar uma empresa future proof em 2026, considerando a evolução acelerada das IAs e a decisão de onde colocar a energia.
+
+O contexto do negócio foi descrito no próprio prompt: uma empresa de consultoria e assessoria empresarial cuja solução é ajudar empresas a modelar negócios preparados para a nova era e conectados com IA. A empresa recebeu um nome fictício, Maravilha, criado para o evento.
+
+A direção visual veio por referência, não por adjetivo solto. O prompt manda analisar todo o site da Apple e criar o nosso com base na identidade dele, pedindo site minimalista, responsivo, com big numbers, big words e headlines persuasivas.
+
+A função da página também foi declarada. Ela é uma landing page de validação de negócio e precisa de um formulário de qualificação de leads. No final, o prompt pede a publicação na Vercel em um link específico, informado ali mesmo.
+
+O mesmo prompt foi copiado para o Codex, trocando apenas o nome do link de publicação. Assim os dois trabalham sobre o mesmo pedido, em ambientes separados, para efeito de comparação.
+
+## A prova de que os sites ainda não existiam
+
+Logo depois de dar enter, os dois links foram abertos no navegador e retornaram página não encontrada. A demonstração começa provando que nada estava pronto de antemão.
+
+Durante a execução, o Claude parou para perguntar qual e-mail deveria receber os leads do formulário. A informação foi entregue na hora e ele seguiu. Esse tipo de pergunta é parte normal do processo, não um erro.
+
+## O que muda na validação de ofertas
+
+Enquanto os agentes trabalhavam, o raciocínio central da aula foi apresentado: dois computadores construindo um site inteiro em menos de cinco minutos mudam o processo de validação de um negócio.
+
+Com uma página pronta nesse tempo, dá para testar ofertas de produto muito mais rápido. A campanha de anúncios também sai rápido, e você coloca pessoas acessando a página para ver se alguém demonstra interesse real naquilo.
+
+Isso abre espaço para rodar dezenas, e por que não centenas, de ofertas por dia ou por semana, e validar apenas as que atraem mais interesse. A velocidade de validação de mercado muda de patamar em relação ao que era possível antes.
+
+## O impacto na equipe e a camada que continua humana
+
+O segundo impacto recai sobre quem já tinha equipe construindo sites. Um time que antes pedia três, quatro ou cinco dias para entregar uma página passa a entregar em menos de dez minutos.
+
+O ponto importante é que isso não significa jogar tudo na mão da IA. Existe uma camada de consideração, raciocínio, pensamento e tomada de decisão na hora de montar essas ofertas, e ela não é terceirizada para o agente.
+
+O ganho real está na velocidade com que o time consegue produzir o material necessário para validar. A decisão sobre o que validar continua sendo trabalho humano.
+
+## Construir site rápido deixou de ser diferencial
+
+O terceiro ponto é o mais desconfortável. Se você aprende a fazer isso em menos de cinco minutos, qualquer outra pessoa também aprende, e em pouco tempo todo mundo terá essa capacidade.
+
+Por isso construir site com IA não é mais diferencial. Muita gente está colocando expectativa supervalorizada nessa habilidade, achando que o segredo é montar um negócio em cima dela, e essa base é frágil.
+
+Qualquer pessoa vai poder pedir "monta um site para mim" e ter uma página pronta e publicada, rodando em seguida. Reconhecer isso agora evita construir um negócio sobre algo que vai virar commodity.
+
+## Site com cara de IA na fase de validação
+
+Os sites gerados ficam decentes, e é comum notar que eles têm cara de IA. Na fase de validação isso não é um problema.
+
+O objetivo dessa fase é descobrir se existem pessoas interessadas no que você quer vender, não impressionar pelo acabamento. O teste responde a uma pergunta de mercado, não a uma pergunta de design.
+
+Vale inclusive usar um nome fictício nessa etapa. Colocar o nome da sua empresa em uma página de teste é um risco de reputação desnecessário.
+
+## O que atrasou a publicação
+
+O Claude terminou o site dentro dos cinco minutos, mas travou na etapa seguinte. A publicação exigia autenticação na Vercel, e a permissão ainda não tinha sido concedida.
+
+A qualificação acontece em duas etapas, e a primeira autenticação esbarrou justamente nessa permissão. Assim que ela foi liberada, o agente retomou de onde parou e seguiu sem perder o trabalho feito.
+
+O total ficou em torno de seis minutos, e o atraso não veio do agente. Veio de uma autorização que deveria ter sido dada antes, o que reforça a verificação de login mostrada no início.
+
+## Os dois resultados lado a lado
+
+O site do Claude, rodando em Opus, abriu como Maravilha, consultoria e assessoria empresarial. A headline principal dizia que empresas future proof não preveem o futuro, elas cabem nele, e essa frase foi criticada na hora por quem pediu.
+
+O ajuste sugerido para ela foi trocar "cabem nele" por "criam ele", o que deixaria a frase muito mais forte. Também ficou marcado que os travessões precisavam sair do texto.
+
+A página trazia noventa dias de diagnóstico, quatro frentes e a afirmação de que a maioria está instalando IA em cima de um modelo que a IA torna obsoleta. Havia ainda cards com modelo, decisão e operação sob a ideia de energia no lugar certo, e o formulário de qualificação funcionando.
+
+O site do Codex, rodando em Astra, saiu mais interessante já de primeira. Ele abria com a ideia de que o futuro muda, a empresa evolui e o próximo capítulo do negócio começa com direção, e o botão levava direto ao formulário.
+
+O texto do Codex seguia por outro caminho: future ready, preparado para o futuro em 2026, as regras mudaram, e a pergunta deixou de ser qual IA usar para virar que empresa queremos construir. Ele não usou travessão em lugar nenhum, e fechava com menos edição, menos ruído, mais direção, clareza para decidir, foco para transformar e ritmo para evoluir.
+
+Os dois resultados ainda podiam melhorar em texto e em design, mas ambos já eram páginas publicadas e funcionais. A conclusão prática é que já dava para jogar tráfego ali e verificar se aparecem leads.
+
+*Para ver o resultado desta demonstração, assista a partir de [13:48] no vídeo.*
+
+## Como editar: print da tela e pedido direto
+
+A forma de ajustar o que não agradou é mais simples do que descrever em palavras o que está errado. Você captura a tela, cola a imagem no agente e diz o que não gostou.
+
+Foi exatamente isso que aconteceu com o cabeçalho da página. O print foi colado no Claude junto com o pedido de ajustar o texto daquele header, sem nenhuma explicação técnica adicional.
+
+Esse é o ciclo que se repete pelo resto da trilha. Print, pedido em linguagem comum, execução do agente e nova conferência.
+
+## O site de outra pessoa no mesmo link
+
+Durante o ajuste apareceu um site diferente no link esperado. Alguém do público tinha copiado o prompt mostrado ao vivo, executado por conta própria e registrado aquele endereço na Vercel primeiro.
+
+O detalhe interessante é que o design daquela versão ficou visivelmente pior. A explicação provável é o modelo usado: Sonnet tem capacidade menor que Opus, e isso apareceu no resultado.
+
+Fica a lição embutida sobre escolha de modelo. O mesmo prompt entrega qualidades diferentes dependendo de quem executa.
+
+## Quando o agente entrega metade do pedido
+
+O segundo ajuste foi um print acompanhado do pedido para centralizar corretamente os botões e deixar o header em dark mode. O agente centralizou os botões, mas o fundo escuro não apareceu como esperado.
+
+A correção foi apenas responder que ainda não estava em dark mode e pedir para conferir e corrigir. O agente reconheceu o ponto e refez.
+
+O motivo do desencontro estava no próprio pedido. O agente aplicou dark mode somente no header, porque foi isso que o texto dizia, e entendeu a intenção real quando recebeu o print da página inteira.
+
+Vale saber também o que você está olhando durante esse ciclo. Antes do deploy, o que aparece é a versão local na sua máquina, e só depois da publicação a alteração fica visível no endereço da Vercel.
+
+## Se é fácil para você, vai ser fácil para todo mundo
+
+O fechamento do raciocínio volta ao ponto do diferencial. A mesma facilidade que você acabou de ver está disponível para qualquer pessoa, e vai ficar ainda mais simples com o tempo.
+
+A previsão é chegar ao ponto de pegar o telefone, mandar um áudio e ter o site pronto e publicado. Parte disso já é possível hoje usando apenas o celular.
+
+## A comparação justa entre modelos
+
+A comparação entre as duas ferramentas só faz sentido quando os modelos são equivalentes. Na demonstração, o Claude rodava em Opus e o Codex rodava em Astra, e esses dois não estão no mesmo degrau.
+
+Astra é o modelo da OpenAI que compete com o Fable, da Anthropic. Uma comparação correta pareia Astra com Fable, e segue o mesmo critério nos níveis abaixo, cada modelo contra o seu equivalente.
+
+Sem esse cuidado, a conclusão sobre qual ferramenta é melhor fica contaminada pela escolha de modelo. O que parece diferença de ferramenta costuma ser diferença de capacidade contratada.
+
+## Por que a trilha não começa pela parte técnica
+
+A discussão sobre onde hospedar, Vercel, Netlify ou Cloudflare, aparece ao longo da trilha, mas sempre aplicada ao negócio de quem está assistindo.
+
+A ordem é proposital. O ponto de partida é o negócio, e a partir dele são construídos os materiais necessários para validar aquilo. Começar pela infraestrutura inverteria a prioridade.
+
+## O que vem pela frente
+
+O ciclo mostrado se estende para qualquer alteração. Você tira print e pede a mudança, manda uma imagem e pede para colocá-la no fundo, pede um efeito de vídeo, e o agente executa.
+
+E isso não se limita a site. O mesmo modo de trabalho vale para produção de conteúdo e para pesquisa, temas que aparecem adiante na trilha.
+
+O objetivo declarado do fim de semana é construir o site inteiro a partir das definições de um modelo de negócio, produzir os anúncios, publicar e deixar rodando. Na segunda-feira, a validação começa com busca de novos clientes.
+
+## Materiais da aula
+
+- [Site criado com Codex](https://codex-atlas-overlens.vercel.app/): endereço enviado por Ruan.
+- [Site criado com Claude Code](https://claude-atlas-overlens-eight.vercel.app/): endereço final enviado por Ruan.
+- [Prompt de criação do site](../materiais/organizados/Dia%2001/MD/Prompts/A02%20-%20Prompt%20do%20site%20-%20copia%20de%20participante.md): cópia compartilhada pela participante Vera Medina. O endereço do Claude na cópia difere do link final acima.
+- [SOS Atlas - Dia 01](https://sosatlasnegocios.vercel.app/#/dia-01) e [Banco de prompts do SOS](https://sosatlasnegocios.vercel.app/#/prompts): apoio geral.
+
+## Coloque em prática
+
+Instale o Claude Code ou o Codex e faça login. Se faltar git ou node, peça a instalação ao próprio agente.
+
+Crie uma pasta por agente antes de começar. Isso evita que um sobrescreva o trabalho do outro.
+
+Confirme o login na Vercel antes de pedir a publicação.
+
+Escreva um prompt com quatro elementos: o negócio, a referência visual, o objetivo da página e o link de publicação.
+
+Ajuste por captura de tela. Print, pedido curto, conferência.

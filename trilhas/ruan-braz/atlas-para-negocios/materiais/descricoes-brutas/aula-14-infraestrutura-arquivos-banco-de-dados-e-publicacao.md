@@ -1,0 +1,246 @@
+Cálculo interno: [26 blocos] / [89 parágrafos totais] / [3018 palavras estimadas] / [3018 ÷ 200 = 16 minutos] / teto de 15 min aplicado no tempo exibido
+
+# Infraestrutura - arquivos, banco de dados e publicação
+
+**Tempo estimado de leitura:** 15 minutos
+
+## Objetivos de aprendizado
+
+Ao final desta aula, você será capaz de:
+
+- Identificar o que fica local, o que sobe para o repositório e o que nunca sobe
+- Distinguir repositório, banco de dados, storage e servidor pela função de cada um
+- Aplicar as regras de segurança das variáveis de ambiente e das chaves de API
+- Executar o fluxo de commit, push e publicação automática usando ramificações
+
+## O sistema que vive só na sua máquina
+
+Quando você cria o sistema todo no seu computador, ele fica local. Todos os arquivos ficam salvos na sua própria pasta, que é exatamente a maneira como o sistema construído até aqui foi criado.
+
+Isso é ótimo em duas situações: quando você está criando ferramentas pessoais e quando ainda está em fase de estágio inicial. Nesses casos, configurar infraestrutura antes da hora é gastar tempo com coisas que podem ser desnecessárias.
+
+Trabalhar localmente também é bom pela gestão dos arquivos. Você organiza as pastas do jeito que achar melhor.
+
+## Por que salvar tudo em Markdown
+
+A recomendação para os arquivos salvos localmente é usar Markdown. É uma linguagem que a inteligência artificial entende muito bem e que nós também conseguimos ler sem dificuldade.
+
+Foi o que aconteceu no sistema da aula. Ao voltar para o editor de código, o Cursor, os documentos da pasta aparecem em HTML ou em Markdown, um atrás do outro com a extensão .md.
+
+O motivo é técnico. O Markdown tem uma estrutura de peso que ele dá para cada informação, e isso faz a inteligência artificial ler mais rápido e gastar menos tokens.
+
+## Quando o local deixa de servir
+
+Duas necessidades tiram o sistema da sua máquina. A primeira é trazer mais usuários para utilizar o sistema. A segunda é precisar acessar o sistema de vários dispositivos diferentes, como sair do escritório e continuar no estúdio ou em outro lugar.
+
+A partir daí o sistema precisa estar na nuvem, e existem dois caminhos. O primeiro é o caminho de desenvolvimento, que é salvar tudo em um repositório.
+
+Repositório é o lugar onde a gente salva todos os arquivos do sistema, e os arquivos em Markdown também podem ser salvos ali. Esse caminho é mais simples do que criar um banco de dados.
+
+## Subir o projeto para o GitHub
+
+Um dos repositórios mais utilizados é o GitHub. Você pega o seu projeto inteiro e pede para a inteligência artificial subir esse projeto para lá.
+
+O passo a passo é curto. Você cria uma conta no GitHub, deixa a conta logada no navegador e chega para o seu agente, que pode estar tanto no aplicativo quanto no terminal.
+
+O pedido é literal: cria um repositório para mim e sobe o meu sistema inteiro para esse repositório. A inteligência artificial sobe para você, e isso é gratuito.
+
+## O gitignore e as dependências do projeto
+
+Para otimizar a gestão de arquivos, o repositório não salva tudo. Alguns arquivos são baixados via pacotes e não precisam subir toda vez, então entram no que a gente chama de gitignore.
+
+Esses arquivos que não sobem são as dependências do projeto. O exemplo mostrado na tela está dentro da pasta app, a pasta node_modules, que não sobe junto com as outras.
+
+São dois motivos. Ela é pesada e são sempre os mesmos arquivos, baixados por pacote, o que torna inútil carregar isso para dentro do repositório.
+
+A consequência aparece na outra máquina. Se você jogou o projeto do seu computador para o GitHub e depois quer baixar no notebook, o projeto vem inteiro, mas algumas pastas e dependências vão estar faltando.
+
+## O git clone e o versionamento
+
+Esse processo de baixar o projeto tem nome: git clone. Você clona o repositório no seu computador em vez de simplesmente copiar os arquivos.
+
+Ser um clone importa por um motivo específico. É isso que permite trabalhar em dois locais diferentes e manter o versionamento do seu projeto, e é para isso que a gente utiliza o git.
+
+## Instalar as dependências depois de clonar
+
+O clone não traz as dependências, e a correção é imediata. Você abre o Claude e pede para instalar todas as dependências do projeto.
+
+Ele baixa a pasta node_modules e outras dependências que possam existir. A partir disso você consegue utilizar o projeto naquela máquina.
+
+## As variáveis de ambiente que o GitHub não sobe
+
+Existe uma segunda categoria de coisa que não vai para o repositório: as variáveis de ambiente. Elas são senhas de acesso, chaves de API e informações sensíveis, e o GitHub não salva nada disso para você.
+
+O primeiro motivo é segurança. O segundo é organização, porque o ideal é que cada membro que está trabalhando no projeto tenha as suas próprias variáveis de ambiente.
+
+Isso também é governança. Com cada pessoa usando as suas chaves, você consegue gerenciar permissões e definir o que aquela pessoa pode fazer com o acesso que tem.
+
+## Os arquivos que guardam as chaves
+
+Por causa disso, o GitHub coloca no gitignore alguns arquivos específicos. Os citados são o .env e o .env.example, sendo que o .env.example até sobe, e o que não sobe é o .env.local.
+
+Esses arquivos salvam as suas chaves e as suas senhas e guardam tudo localmente, sem ir para o GitHub. Por isso, quando você for baixar o projeto em outra máquina, precisa ter em mãos essas variáveis de ambiente.
+
+## Nunca entregar variáveis de ambiente para a inteligência artificial
+
+A prática correta é que um ser humano tenha contato com essas variáveis, e não as inteligências artificiais. A regra é sem exceção: a gente nunca manda variáveis de ambiente para a inteligência artificial, porque isso vai para um servidor e pode vazar.
+
+O exemplo dado mostra o tamanho do estrago. Imagine que você tem uma chave de API que conecta com o seu ChatGPT, com cartão de crédito cadastrado e recarga automática ligada para quando os tokens acabarem.
+
+Se essa chave vaza, qualquer pessoa pode conectar ela em outro sistema e ficar gastando os seus tokens, os seus dólares e o seu dinheiro. Depois chega a fatura com mil dólares de tokens consumidos.
+
+E você vai ter que pagar, porque a falha foi sua. Essa gestão de segurança não é pouca coisa e tem que ser feita do jeito certo.
+
+## Como transportar as chaves sem vazar
+
+O caminho comum é salvar esses arquivos localmente e enviar de alguma forma, por exemplo por e-mail. O risco é direto: se o seu e-mail vazar, vazam junto as suas chaves e as suas variáveis.
+
+Existe até a saída manual de escrever as variáveis num papel e apagar depois. Funciona, mas é trabalhoso.
+
+O jeito mais eficiente hoje é usar softwares de gestão de variáveis de ambiente. O que a equipe usa muito é o Infisical: você cria uma conta, coloca todas as suas variáveis na tabela dele e conecta o Infisical direto no seu sistema.
+
+Depois disso, basta rodar um comando e ele preenche as variáveis de ambiente sem expor nenhuma delas. Existe um processo técnico para montar essa ligação.
+
+## Arquivos ficam no repositório, dados ficam no banco
+
+O GitHub serve para salvar os arquivos do seu projeto. Para salvar os dados, você vai precisar de um banco de dados, que é outra coisa.
+
+O banco de dados tradicional é uma tabela. Nela você consegue salvar as informações e relacionar essas informações entre as células.
+
+O exemplo é um CRM em que você salva os leads. Dá para fazer isso numa planilha do Google Sheets, mas não é o ideal, e é por isso que se cria um banco de dados de verdade. Existem várias empresas que prestam esse serviço de construção e gestão de banco de dados.
+
+## Supabase, Neon e os três serviços
+
+Os bancos mais simples recomendados são o Supabase e o Neon, e para quem está começando a indicação é o Supabase. Existem outros bancos de dados mais robustos que também dá para construir.
+
+A vantagem do Supabase é reunir uma série de serviços no mesmo sistema. Ele oferece o database, que é o banco de dados, a autenticação e o storage.
+
+O storage é diferente do banco e existe para guardar arquivos: imagens, contratos e tudo que os seus clientes sobem no seu sistema. A distinção é direta, você não salva arquivo em banco de dados, no banco você só salva dados.
+
+## Noventa por cento da configuração a inteligência artificial faz
+
+O caminho começa fora do agente. Você cria uma conta no Supabase, cria um projeto dentro dele e deixa a conta logada no navegador.
+
+Depois disso, noventa por cento do processo a inteligência artificial faz para você. Você fala para o Claude, para o GPT ou para o agente de código que escolheu o Supabase e que já criou a sua conta.
+
+O pedido nomeia os três serviços. Preciso conectar meu banco de dados no Supabase, quero que você conecte também a autenticação e quero que você conecte o storage. Ele conecta a maior parte dos serviços para você.
+
+## Quando o plano gratuito deixa de bastar
+
+Em sistemas básicos tudo isso é de graça. O GitHub é gratuito e o Supabase tem plano gratuito, além de planos pagos com mais recursos que ninguém precisa no início.
+
+A cobrança aparece quando o volume cresce. Depois de mais de três sistemas criados, ele começa a cobrar para você criar novos bancos de dados.
+
+O outro gatilho é espaço e uso. Mais espaço para os dados, mais storage, mais autenticação e muitos usuários utilizando a sua plataforma levam à assinatura de planos pagos.
+
+## Para que serve o git e por que o GitHub
+
+O GitHub é seguro e é hoje o maior do mundo para gestão de repositórios. Essa é a razão da indicação.
+
+O git, por sua vez, serve para gerenciar e versionar projetos. Ele existe para equipes de desenvolvimento trabalharem em cima do mesmo projeto.
+
+Existe ainda um uso secundário. Dá para salvar repositórios com arquivos e usar o GitHub como nuvem em alguns casos mais específicos.
+
+## As chaves do Supabase você copia com a própria mão
+
+O Supabase faz a maior parte do trabalho, menos uma parte, e ela é justamente uma questão de segurança: as variáveis de ambiente do próprio Supabase.
+
+O sistema precisa dessas chaves para conectar com o seu banco de dados e para fazer a autenticação. Você é quem entra no Supabase, copia essas chaves e salva no seu sistema.
+
+Pedir para a inteligência artificial fazer isso por você é uma falha de segurança. O que dá para pedir é a explicação, no formato "me explica passo a passo como fazer".
+
+## O que é autenticação
+
+Com os três serviços na mesa, vale fixar a função de cada um. O banco de dados é onde guarda os dados, o storage é onde você guarda os arquivos e a autenticação é outra coisa.
+
+A analogia é a entrada da sua casa. Você chega e autentica que é você, com leitura de íris ou digital, e o sistema responde reconhecendo quem você é.
+
+É o mesmo que acontece quando você vai logar em um sistema. Você coloca e-mail e senha, e o e-mail identifica o usuário.
+
+## Autorização e os tipos de usuário
+
+A partir da autenticação, o sistema consegue fazer o que a gente chama de autorização. Uma coisa é saber quem é a pessoa, outra é decidir o que ela pode fazer.
+
+Os tipos citados são três. O usuário admin tem acesso e permissão total, o usuário staff é do seu time e tem mais permissões mas ainda limitadas, e o usuário basic é o padrão, sem os acessos que o staff e o admin têm.
+
+Nada impede criar outros, como um moderador. Você cria os tipos de usuário e dá autorizações e permissões para cada um.
+
+O mecanismo fecha o ciclo. Pelo e-mail o sistema sabe se aquele é um admin, um staff ou um basic, e a partir disso libera recursos específicos para cada tipo de usuário.
+
+## Link público, link privado e o servidor
+
+A arquitetura do sistema ainda precisa de um endereço. Se o seu sistema for público, você precisa gerar um link público, e se for um sistema para a sua equipe utilizar, dá para gerar um link privado.
+
+Para o sistema ficar disponível com tela de login, o seu site precisa estar em um servidor que gere esse link de acesso. Existem vários servidores diferentes.
+
+A indicação gratuita é a Vercel, a mesma citada na manhã anterior. Você cria uma conta lá e publica o seu sistema, e ela publica tudo, inclusive o login, com tudo vinculado.
+
+## A Vercel ligada ao GitHub e o fluxo de commit e push
+
+Dá para vincular a Vercel com o seu GitHub. Feita essa ligação, sempre que você faz um ajuste no GitHub ele publica automaticamente na Vercel, desde que você crie o action que automatiza isso.
+
+O fluxo mais simples funciona assim. Você melhorou o seu sistema e adicionou uma página nova, mas por enquanto ela está só local e só você vê, e você quer que o seu time veja também.
+
+A primeira coisa é o commit, que registra as mudanças e deixa tudo versionado certinho. Depois vem o push, que é empurrar todos os arquivos novos para o seu GitHub.
+
+No momento do push você pode pedir para a inteligência artificial criar um action, que é uma automação do GitHub disparada sempre que você sobe algo para a linha principal.
+
+## O objetivo é enxergar a arquitetura, não decorar os termos
+
+É um monte de termo novo de uma vez, e a sensação de estar ouvindo um idioma novo é esperada. Ninguém precisa sair da aula com tudo isso decorado.
+
+O que está sendo entregue aqui é o caminho inicial. Existem mais de quatro horas de conteúdo só sobre GitHub dentro da Vanguarda, e gastar esse tempo no Atlas faria a trilha perder muita informação.
+
+A referência usada é a própria comunidade da Vanguarda, que tem cento e sessenta pessoas e por volta de dez desenvolvedores. A maioria não é desenvolvedora e mesmo assim aprendeu isso e consegue conversar sobre o assunto.
+
+O ganho é prático. Entender essa camada coloca o empreendedor em outro patamar, porque ele passa a criar soluções novas e também a conversar com a área de tecnologia para implementar coisas no próprio negócio, e três ou quatro semanas de estudo já bastam para acompanhar esse vocabulário.
+
+## Branches, as ramificações da linha principal
+
+O repositório funciona como uma linha do tempo principal, onde você salva todos os seus arquivos. Dentro do GitHub dá para criar o que a gente chama de branches, que são ramificações do seu projeto, com versões diferentes dele.
+
+O exemplo dado é concreto. Com o sistema principal rodando na main, você cria uma branch chamada teste A e outra chamada teste B e começa a fazer alterações em paralelo, sem mexer na principal.
+
+Depois de testar e validar, entra o merge, que é mesclar e juntar. Você junta aquela branch com a principal e o que foi feito ali passa a fazer parte do seu sistema principal.
+
+## Por que a branch protege o negócio, não só o código
+
+Trabalhar em ramificação é ótimo para testar, desenvolver recursos novos e validar o sistema. O motivo fica claro quando alguma coisa quebra.
+
+Se você está trabalhando direto na principal e faz algo que quebra o sistema todo, muitas vezes dá para reverter, mas nem sempre, e quando dá costuma dar um trabalhão. Se a mesma coisa acontece dentro de uma branch, só aquela ramificação quebra e a principal continua funcionando.
+
+O primeiro exemplo é um CRM. O seu time trabalha nele, usa as tabelas e entra em contato pelo CRM, e se você quebra o sistema e leva quatro horas corrigindo, são quatro horas de CRM inativo para o time inteiro.
+
+O segundo exemplo é uma área de membros com mil usuários. Se a ramificação principal quebra com duzentas pessoas assistindo aulas, elas ficam sem acesso, o sistema fica fora do ar e a conta pode incluir reembolso.
+
+Esse tipo de cuidado aparece em um estágio mais avançado. É quando você deixa de trabalhar só localmente e passa a operar o sistema como um todo.
+
+## Do push ao deploy automático
+
+Quando você faz o push, todos os arquivos vão para o GitHub. A partir daí é possível criar uma action com uma regra simples: se eu subir alguma coisa para a linha principal, publique automaticamente.
+
+Essa publicação tem nome, deploy. Com a regra criada, qualquer coisa que sobe na ramificação principal já é publicada na Vercel sem você fazer mais nada.
+
+A configuração inteira fica com a inteligência artificial. Ela gera os actions e configura tudo, e o que cabe a você é estar logado no GitHub e logado na Vercel e pedir para ele explicar como vincular as duas contas, o que são dois botões.
+
+O objetivo de toda essa explicação é a arquitetura. A Vercel é o servidor onde o seu sistema fica disponível para outros usuários utilizarem.
+
+## Materiais da aula
+
+- [Quadro branco do Atlas no Figma](https://www.figma.com/board/PbpEXh5DAKTWuT0njBQnqb/Atlas-para-Negocios?node-id=12-4&t=uyMxKRiZiB2EoOXN-1): quadro compartilhado por Ruan para acompanhar a explicação da infraestrutura.
+- [SOS Atlas](https://sosatlasnegocios.vercel.app): apoio geral. Nanda anunciou a inclusão da explicação de Infisical, sem enviar um endereço específico.
+- [Glossário do Ruan Braz](https://glossario-do-ruan-braz.vercel.app/): complemento de termos compartilhado pelo participante Daniel Silva.
+
+## Coloque em prática
+
+Salve os arquivos do seu sistema em Markdown. A inteligência artificial lê mais rápido e gasta menos tokens.
+
+Crie uma conta no GitHub. Peça ao agente para subir o seu projeto inteiro para um repositório.
+
+Confira o que ficou fora do repositório. Dependências e variáveis de ambiente não sobem.
+
+Nunca mande chave de API ou senha para a inteligência artificial. Copie as chaves do Supabase com a sua própria mão.
+
+Crie uma branch antes de mexer no sistema que o seu time usa. Só faça o merge depois de testar.
+
+Vincule o GitHub à Vercel. Peça o action que publica automaticamente.

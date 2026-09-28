@@ -1,5 +1,3 @@
-Cálculo interno: 9 blocos / 22 parágrafos totais / 724 palavras estimadas / 724 ÷ 200 = 3,6 minutos
-
 # Stacker: sistema de pesquisas criado em 3 dias
 
 **Tempo estimado de leitura:** 4 minutos

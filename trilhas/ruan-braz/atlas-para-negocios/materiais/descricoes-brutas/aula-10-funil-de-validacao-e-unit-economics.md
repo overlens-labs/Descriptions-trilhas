@@ -1,0 +1,311 @@
+Cálculo interno: [31 blocos] / [117 parágrafos totais] / [3835 palavras estimadas] / [3835 ÷ 200 = 20 minutos] / teto de 15 min aplicado no tempo exibido
+
+# Funil de validação e unit economics
+
+**Tempo estimado de leitura:** 15 minutos
+
+## Objetivos de aprendizado
+
+Ao final desta aula, você será capaz de:
+
+- Identificar as etapas do funil de validação no canal frio e na rede quente
+- Distinguir arquitetura de produto de nicho de mercado
+- Aplicar as métricas de unit economics na leitura de um modelo de negócio
+- Reconhecer onde está o gargalo do negócio antes de dimensionar equipe
+
+## A meta de renda entregue ao agente
+
+A aula começa com uma correção enviada ao agente. O planejamento que ele tinha montado não contemplava o objetivo pessoal de quem está construindo o negócio, e esse objetivo precisava entrar no modelo.
+
+O pedido foi direto: alcançar quinze mil reais por mês na conta pessoa física, já depois de impostos e custos. A partir dessa meta, o agente deveria encontrar a melhor oportunidade dentro daquele mercado e daquela ideia.
+
+O detalhe importante é a ordem. A meta de renda vira dado de entrada do modelo, e não consequência dele. Todas as contas seguintes passam a ser calculadas para chegar nesse número.
+
+## Arquitetura de produto não é nicho
+
+Uma pergunta do público separou dois conceitos que costumam ser confundidos: focar em um tipo de serviço é a mesma coisa que nichar?
+
+No exemplo em tela existem três serviços, consultoria, assessoria e implementação, e ainda haveria um quarto. Se você descobre que ganha mais dinheiro com implementação, torna esse serviço o seu carro-chefe e ainda pode manter os outros no site.
+
+Isso tem nome, e foi o próprio público que lembrou o termo durante a aula: portfólio ou arquitetura de produto. São os dois nomes usados para o pacote de serviços e produtos do negócio.
+
+Nicho é outra coisa. Nicho é sair de um posicionamento amplo de mercado: empresas é amplo demais, pequenas e médias empresas já reduz, e barbearia é um nicho. Nicho trata de posicionamento, de como você se coloca como especialista.
+
+## O teste que o agente montou
+
+O funil apareceu como um teste com diagnóstico de entrada de três mil e quinhentos reais, escopo fechado e vinte e cinco horas de entrega. Entre os serviços disponíveis, o agente escolheu o diagnóstico.
+
+A meta de noventa dias veio com duas partes: três diagnósticos pagos e uma conversão para projeto. O próprio artefato registra que, sem a segunda metade, o teste não conclui nada.
+
+Três diagnósticos pagos somam cerca de dez mil reais, e esse valor é bruto. A observação feita na hora foi de que esse patamar ainda precisa subir.
+
+## Por que o diagnóstico é a oferta de validação
+
+O pedido feito ao agente foi um funil de validação, e ele escolheu o serviço mais simples do portfólio. A avaliação em tela foi de concordância, porque validar não é a mesma coisa que faturar.
+
+O diagnóstico é mais barato e mais fácil de validar. Esse movimento tem nome na aula: tática do cavalo de Troia. Você entra dentro do negócio do cliente com algo que funciona quase como um presente, porque é barato e fácil de aceitar.
+
+De dentro do cliente, com o diagnóstico rodando, ficam mais claras as estratégias para vender novos serviços para ele. A porta de entrada barata é o que dá acesso ao resto.
+
+A única correção feita no cenário base foi o prazo. Em vez de noventa dias, a recomendação é meta de trinta dias, porque a diferença aqui é intensidade e a validação precisa ser rápida.
+
+## O critério que define qual oferta testar
+
+A pergunta seguinte foi por que essa oferta e não as outras três. A resposta está na hipótese que precisa ser validada, e ela não é a de que a Maravilha consegue entregar.
+
+As hipóteses em jogo são a dois e a três do briefing: existe um comprador com urgência e existe orçamento. O único instrumento confiável para medir isso é dinheiro trocando de mãos.
+
+Elogio e pedido de ajuda gratuita não contam como validação. O critério de escolha também muda: não é qual oferta gera mais receita, é qual oferta produz o maior número de observações de compra no menor tempo e com o menor custo de erro.
+
+## Do artefato ao arquivo HTML na pasta
+
+Enquanto o agente terminava o funil, veio um pedido paralelo: transformar aquilo em um HTML e salvar na pasta do projeto.
+
+O artefato criado dentro da conversa serve para ver na hora. O material só vira documento de trabalho quando é gravado como arquivo dentro do projeto.
+
+## Os dois funis e os números do canal frio
+
+O agente dividiu o resultado em dois funis para efeito de comparação: um de canal frio e um de rede quente. Os dois miram de cinco a seis clientes de entrada, com ticket de três mil e quinhentos reais.
+
+A receita apresentada gerou dúvida na leitura ao vivo, entre mensal e anual, e a conclusão provável foi de que o agente estava considerando o ano.
+
+O funil frio parte de prospecção ativa com lista construída. São quinhentos e trinta e cinco contatos trabalhados, dezenove respostas, dez reuniões agendadas, oito reuniões realizadas, quatro propostas e uma compra.
+
+Esses percentuais não foram inventados pelo agente. Ele encadeou dados de mercado, e é isso que sustenta a queda de uma etapa para a outra.
+
+## A rede quente e o funil de indicação
+
+Rede quente é o conhecido de segundo grau. Na prática é falar com todos os empresários e empresárias que você já conhece e perguntar se eles conhecem alguém que possam indicar para aquele serviço.
+
+Os números mudam de escala. Em vez de quinhentos e trinta e cinco contatos, você fala com dezoito. Desses dezoito saem seis conversas, com uma reunião marcada a cada três.
+
+O fim do funil quente fica em três propostas enviadas e um fechamento. O mesmo resultado do canal frio sai de um volume muito menor de contatos.
+
+## Os três cenários e a razão entre frio e quente
+
+O gráfico usa escala logarítmica compartilhada pelos dois canais, e o artefato explica o motivo: em escala linear o canal quente ficaria invisível ao lado do frio. Os números grandes são metas arredondadas para cima, com o valor exato do modelo ao lado.
+
+O modelo tem três cenários: conservador, base e otimista. No otimista você precisa falar com menos gente, e existe um cenário em que a conta chega a mil contatos.
+
+Falar com mil pessoas não significa mil conversas individuais. Pode ser disparo em massa por mensagem ou por e-mail, e existem estratégias para fazer isso.
+
+A razão entre os dois canais ficou em trinta e uma vezes, ou seja, quantos contatos frios equivalem a um contato da sua rede no cenário selecionado. Nos três cenários essa razão fica entre vinte e nove e trinta e uma vezes.
+
+O relatório registra que isso não é artefato de calibragem. É o que as taxas publicadas dizem quando são encadeadas uma na outra.
+
+## Para que serve o outbound frio no ano um
+
+A sétima conclusão operacional do relatório é a mais dura, e foi lida sem suavizar: no cenário conservador, quatrocentos e cinco contatos frios trabalhados durante um ano inteiro produzem zero vírgula três cliente.
+
+A leitura prática é que outbound frio não constrói a carteira do ano um. O que ele faz é outra coisa: serve para aprender a linguagem do comprador e para testar mensagem.
+
+Por isso o relatório traz logo abaixo um teste de um dia, repetido até as vendas aparecerem. O material completo fica na documentação da trilha para consulta depois.
+
+## O susto dos números e o que cem reais alcançam
+
+Os números assustaram o público na hora, com comentários de que quinhentos e trinta e cinco contatos para uma venda seria mais difícil que vestibular de medicina. A resposta foi que falta dimensão de como fazer isso.
+
+Com inteligência artificial e internet a favor, alcançar quinhentos contatos é fácil e custa pouco. Cem reais já alcançam muito mais gente do que parece, desde que você faça teste de promessa e teste de criativo e acompanhe quais tiveram mais clique e mais conversão.
+
+O exemplo usado foi a própria Overlens, que fala com milhões de pessoas todos os meses. O funil vai diminuindo até chegar nos resultados reais: cento e sessenta pessoas na Vanguarda e oito mil membros cadastrados na plataforma.
+
+É matemática, e não é matemática difícil. O desconforto vem de não estar acostumado a trabalhar com dados, não da conta em si.
+
+## Camada de estratégia e camada tática
+
+Um comentário do público sobre a dificuldade de falar com as pessoas uma a uma abriu uma separação importante entre duas camadas de trabalho.
+
+A camada de estratégia é a que estava sendo feita ali: olhar para a realidade do jeito que ela é e entender os números. A camada tática é a execução, e nela existem muitas estratégias possíveis.
+
+Na tática entram disparo de e-mail em massa e disparo de WhatsApp em massa, sempre bem feitos. Entram também as iscas digitais: produzir um relatório e entregar de graça para coletar leads.
+
+É assim que a base cresce para mil, três mil ou cinco mil leads. É um processo, e ele pertence à tática, não à estratégia.
+
+## Os números ruins são um mapa
+
+Olhar para uma conta desfavorável parece ruim, mas o efeito é o contrário. Quem enxerga o número passa a ter um mapa, e é justamente isso que a maioria evita ver.
+
+Com o mapa na frente, a conclusão vira operacional: se eu preciso falar com esse tanto de gente para bater a meta, basta encontrar um jeito de falar com essas pessoas.
+
+Um negócio matemático é melhor do que um negócio imprevisível. O número fixa o esforço necessário e tira a decisão do campo do achismo.
+
+## O cenário com equipe: receita, utilização e custos
+
+O agente calculou um cenário com equipe, considerando duas a três pessoas. A receita anual ficou em cento e vinte mil no conservador, trezentos mil no base e seiscentos e cinquenta mil no otimista com três pessoas.
+
+A utilização acompanha esses cenários em trinta e oito, setenta e seis e noventa e sete por cento. Utilização aqui é do tempo, ou seja, quanto da capacidade disponível está ocupada.
+
+Os custos totais ficaram em cento e cinquenta e três mil, e o resultado aparece antes do pró-labore. Pró-labore é o equivalente ao salário do dono e dos C-levels do negócio.
+
+Esse resultado antes do pró-labore é onde ficam a distribuição de lucro e a margem, ainda calculados de forma superficial nesta etapa. O teto de capacidade do modelo ficou em mil e duzentas horas, com trezentas e vinte horas por pessoa como referência de topo do Sebrae.
+
+## Os dois achados que mudam o mercado obtível
+
+O relatório destacou dois achados que mudam o SOM. SOM é o mercado obtível, ou seja, a parte do mercado que está de fato disponível para você capturar.
+
+O primeiro achado é sobre o gargalo. O gargalo do modelo é a aquisição, não a entrega, e no cenário conservador a entrega usa apenas quatorze vírgula quatro por cento da capacidade. Não adianta dimensionar estrutura de entrega nesse ponto.
+
+A leitura confirma o que a visão sistêmica já tinha apontado: o maior gargalo está em conseguir clientes, e é para lá que a atenção do restante da trilha vai.
+
+O aviso que acompanha é sobre generalizar. Esse é o gargalo deste modelo de negócio específico, e outros modelos terão outros gargalos. O que se leva daqui é o processo, não o resultado.
+
+## CAC: o custo de aquisição do primeiro ano
+
+CAC é o custo de aquisição de cliente, e a aula abre o termo para quem está entrando agora nesse mercado, porque a quantidade de sigla nova é grande.
+
+No primeiro ano o CAC do modelo é o tempo do fundador: oitenta e duas horas por cliente, o equivalente a dezesseis mil reais. Isso representa praticamente cem por cento da receita do primeiro ano por cliente.
+
+Na prática, tudo o que se trabalha no primeiro ano serve para comprar cliente. O crescimento aparece depois dessa fase.
+
+## A unidade econômica só fecha com recorrência
+
+Com esse CAC, a conclusão do relatório é que a unidade econômica só fecha via recorrência. O número que sustenta isso é a assessoria, que gera vinte e nove por cento da receita usando vinte e dois por cento das horas.
+
+O que o agente fez ali foi equilibrar o preço de mercado com o preço de entrega. Quando os dois se encontram, aparece o ponto em que o modelo dá ou não dá lucro.
+
+A consequência é direta: se você quer lucro e margem, precisa de um segundo produto. Focar apenas no primeiro produto, ou não construir recorrência com o cliente, significa não ter lucro com ele.
+
+## Contratar cedo destrói a operação
+
+Outro achado do relatório é que contratar cedo destrói a operação. No cenário conservador, uma estrutura de duas a três pessoas é deficitária.
+
+O critério proposto é de utilização sustentada: só escalar acima de oitenta e cinco por cento. Quando o negócio ocupar oitenta e cinco por cento da sua hora disponível, é hora de contratar. Antes disso não vale a pena.
+
+A discordância levantada na hora foi sobre vendedor. O argumento é que vale a pena contratar vendedor quando o negócio começa a rodar, porque senão grande parte do tempo do fundador vai embora vendendo.
+
+A conclusão acabou voltando para o lado do relatório. Vender ocupa exatamente essa fatia de tempo e é a melhor estratégia para o início, então na fase de validação não faz sentido contratar vendedor.
+
+## Lacuna um: não existe preço confiável de consultoria para PME
+
+O relatório fechou apontando as próprias fragilidades, e a primeira delas é o preço. Não existe fonte A ou B sobre preço de projeto de consultoria para pequena e média empresa no Brasil.
+
+Toda a faixa de oito a vinte e cinco mil reais vem de tabelas publicadas por quem vende o serviço. Isso cria viés de alta, ou seja, preços acima do que o mercado pratica de verdade.
+
+O relatório registra que o ticket corresponde à metade do mercado obtível, e aponta esse ponto como o maior risco do modelo inteiro.
+
+A recomendação para resolver isso é experimental: validar com dez a quinze propostas reais em noventa dias. O que se mede é quantas pessoas trouxeram objeção de preço e quantas fecharam no final.
+
+Se nenhuma fechar, o indício é de que existe um problema exatamente ali. Essa é a abordagem científica aplicada à construção do negócio: testar a hipótese em vez de defendê-la.
+
+## Lacuna dois: churn e vida média do contrato
+
+A segunda lacuna é a ausência de dado brasileiro de churn. Churn é a relação entre as pessoas que entram e as que abandonam uma recorrência.
+
+O exemplo dado é simples: um cliente que paga todo mês e vai embora no terceiro mês influencia diretamente a taxa de churn do negócio.
+
+Sem esse dado, a vida média do contrato entra como premissa pura, com três hipóteses de sete, dez e quatorze meses. É essa premissa que determina a maior parte do valor do mercado obtível dos anos dois e três.
+
+O único ancoramento real disponível é qualitativo: o motivo número um de término de contrato no setor é o cliente não perceber valor no serviço.
+
+As lacunas secundárias também ficaram registradas, como os percentuais por canal e os dados que só existem em relatório pago ou em amostra da edição atual de um relatório do MIT.
+
+## Os arquivos gerados e o relatório por trás do resumo
+
+A pesquisa não produziu só o resumo que estava sendo lido. Ela gerou um conjunto de arquivos no projeto, cobrindo preços, economia da entrega e o mercado de consultoria.
+
+O que tinha sido lido até ali era a camada de cima. Abrindo o preview do relatório completo aparecem todos os dados coletados e de onde cada um deles veio.
+
+O ponto demonstrado é que uma pesquisa desse nível está ao alcance de qualquer pessoa que peça. Foi só pedir, e o material voltou com dados e fontes.
+
+As primeiras seções tratam do universo de empresas alvo e da adoção de inteligência artificial em pequenas e médias empresas.
+
+*Para ver o resultado desta demonstração, assista a partir de [14:56] no vídeo.*
+
+## Ler o relatório inteiro faz parte do processo
+
+O uso real desse material não é passar os olhos. Quando ele constrói um negócio, incluindo a própria Overlens, ele gera esses relatórios e lê tudo.
+
+A leitura é ativa: concordar, discordar, anotar e mapear. É o tipo de trabalho que ocupa uma semana, e não as poucas horas de uma demonstração ao vivo.
+
+## O mapa competitivo e o piso de preço
+
+A seção de concorrência e substitutos foi a mais direta do relatório. O golpe mais duro vem do Sebraetec, que vende exatamente a oferta central do modelo, e o Sebrae aparece na análise como definidor do piso de preço do mercado.
+
+Outro registro dessa seção é que automação, sozinha, não é diferencial nesse mercado.
+
+O mapa competitivo listou nomes concretos, entre eles o Empretec, consultorias boutique voltadas a pequenas e médias empresas, hubs, o G4, mentores individuais e operações de BPO. Uma das operações listadas aparece como já encerrada.
+
+A análise seguinte é feita por perguntas e traz os concorrentes com os preços que cada um cobra. A recomendação foi ler essa parte com atenção, por causa do custo de aquisição.
+
+## As outras seções do relatório
+
+Depois da concorrência vêm os sinais de demanda e os gatilhos de compra, que indicam quando uma empresa procura esse tipo de serviço.
+
+Outra seção traz TAM, SAM e SOM, as três medidas de tamanho de mercado: mercado total, mercado endereçável e mercado obtível.
+
+O relatório ainda tem uma seção de verificação dos fatos e outra de meta de renda e desenho de oferta, além dos registros de correção feitos ao longo da pesquisa.
+
+## A variável número um do modelo
+
+Retomando a meta de quinze mil reais por mês, o agente devolveu uma pergunta antes de detalhar o plano: em qual desses recortes você tem rede real, com decisores que responderiam uma mensagem sua ainda essa semana.
+
+Ele mesmo classificou essa como a variável número um do modelo. Toda a diferença entre o funil frio e o funil quente depende dessa resposta.
+
+Os recortes na tela incluíam tecnologia, contabilidade, escritórios, agências de marketing, engenharia e arquitetura. A escolha feita na hora foi de três deles.
+
+## O desenho híbrido de oferta
+
+A pergunta seguinte do agente foi qual desenho detalhar, com opções de plano de execução, proposta, preço, contrato, roteiro e indicadores, além de uma alternativa híbrida com contratos fracionados.
+
+A escolha foi pelo híbrido. Híbrido aqui é arquitetura de produto: quais produtos o negócio vai oferecer, se sempre um só ou uma combinação deles.
+
+A vantagem do híbrido é permitir uma oferta mais personalizada e o uso de táticas de mercado na hora de montar a proposta para cada cliente.
+
+## O que o Atlas constrói em dois dias
+
+O passo seguinte anunciado é estruturar e automatizar todo o processo comercial, da prospecção ao fechamento, usando agentes e já incluindo a operação de SDR.
+
+A ideia central é construir a direção e a validação do negócio em dois dias, e entregar junto a tecnologia que permite construir as ferramentas para validar e depois escalar.
+
+Isso inclui o que já tinha sido citado antes: CRM, agente de WhatsApp e a construção dos seus próprios sistemas.
+
+A recusa declarada é a de uma imersão só de ferramentas. O objetivo é ensinar a tomar decisões melhores para construir ou melhorar negócios, com a inteligência artificial a favor.
+
+## O roteiro do restante do dia e do dia seguinte
+
+A sequência imediata é gerar leads usando inteligência artificial, puxando toda a base de leads e criando um CRM em cima dela, junto com a especificação do negócio e a meta definida.
+
+O resultado esperado para o fim do dia é um sistema operacional conectado ao CRM, com os leads a contatar, com a possibilidade de colocar IA para fazer esse contato, e com a direção do negócio e a hipótese a validar já definidas.
+
+No dia seguinte entra o funil completo: publicar a landing page, criar os anúncios com IA e rodar tráfego em cima da página para validar a tese na prática.
+
+## Validar muitas possibilidades antes de investir energia
+
+Fazer tudo isso em poucas horas muda o que é possível testar. Em vez de apostar em uma ideia só, você valida muitas possibilidades de negócio e descobre onde vale a pena colocar energia.
+
+Esse é o objetivo declarado da imersão: ajudar a tomar decisões melhores e colocar energia no lugar certo. Isso vale mais do que qualquer edição dedicada apenas a ferramentas.
+
+O motivo vem de uma observação prática. Depois de aprender ferramenta, muita gente se tranca no quarto criando produtos que talvez nunca cheguem ao mercado e que não devolvem o esforço investido.
+
+O erro de origem é o mesmo em todos os casos. Esses produtos foram construídos em cima de um sonho ou de um desejo, e não de uma estratégia de mercado.
+
+## Nexialismo: como aprender tudo isso
+
+A pergunta que sempre aparece nesse ponto é como alguém aprende tudo isso, já que a quantidade de termo novo é grande.
+
+A resposta passa pelo perfil que a Overlens chama de profissional nexialista: pessoas que conseguem conectar muitas áreas. Na própria aula estavam conectadas tecnologia, marketing, vendas, gestão de negócios, pensamento sistêmico, criação de produto e design.
+
+A explicação não é tempo de estudo. Ninguém é um ancião imortal com duzentos anos disponíveis para estudar tudo, e nem ele consegue estudar sobre tudo.
+
+Nexialismo é uma abordagem diferente de ser generalista e diferente de ser especialista. O nexialista estabelece juízo de valor sobre o que vale a pena aprender e o que não vale, e aprende a conectar as coisas para atingir os próprios objetivos.
+
+Na prática, o que se estuda é tomada de decisão, conexão, gargalos e oportunidades. É a visão sistêmica aplicada à decisão, e é assim que as habilidades se desenvolvem.
+
+## Materiais da aula
+
+- [Quadro branco do Atlas no Figma](https://www.figma.com/board/PbpEXh5DAKTWuT0njBQnqb/Atlas-para-Negocios?node-id=12-4&t=uyMxKRiZiB2EoOXN-1): apoio visual compartilhado por Ruan para os conceitos de funil e viabilidade.
+- [SOS Atlas - Dia 01](https://sosatlasnegocios.vercel.app/#/dia-01) e [Banco de prompts do SOS](https://sosatlasnegocios.vercel.app/#/prompts): apoio geral.
+
+Não foi localizado um anexo ou link exclusivo para o HTML do funil ou para uma planilha de unit economics.
+
+## Coloque em prática
+
+Escreva a sua meta de renda líquida mensal. Entregue esse número ao agente antes de pedir qualquer plano.
+
+Monte os dois funis do seu negócio. Um para canal frio e um para rede quente.
+
+Peça ao agente para salvar o artefato como HTML na pasta do projeto.
+
+Liste as lacunas de dados do seu modelo antes de confiar nos números.
+
+Valide o preço com dez a quinze propostas reais. Conte quantas trouxeram objeção e quantas fecharam.

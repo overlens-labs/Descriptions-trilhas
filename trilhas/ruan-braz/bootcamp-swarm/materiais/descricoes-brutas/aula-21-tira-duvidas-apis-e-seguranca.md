@@ -1,0 +1,62 @@
+Cálculo interno: [5 blocos] / [20 parágrafos totais] / [929 palavras estimadas] / [929 ÷ 200 = 5 minutos]
+
+# Tira-dúvidas: APIs e segurança
+
+**Tempo estimado de leitura:** 5 minutos
+
+## Objetivos de aprendizado
+
+Ao final desta aula, você será capaz de:
+
+- Identificar as peças de uma integração real com WhatsApp
+- Distinguir canais de atendimento ao cliente e de uso pessoal
+- Reconhecer diferentes camadas de segurança em projetos com agentes
+- Estruturar uma entrega conforme a sensibilidade dos dados envolvidos
+
+## As conexões usadas pela Overlens
+
+Na sessão de perguntas, um participante pede para ver o que existe por trás de um agente ligado ao WhatsApp. Ruan abre a configuração de um projeto da Overlens. O sistema é formado por arquivos e serviços conectados; a conversa no aplicativo é apenas a interface pela qual a pessoa aciona esse conjunto.
+
+As credenciais ficam organizadas no Infisical. Na parte da Meta, ele mostra nomes de variáveis para o segredo do aplicativo, a identificação do número, o token de usuário do sistema, o token de verificação e a identificação da conta empresarial de WhatsApp. Outros grupos de variáveis se referem a banco de dados, endereço público do aplicativo e provedor do modelo.
+
+No painel de desenvolvedores da Meta, o aplicativo tem casos de uso e permissões. Ruan compara um projeto voltado ao WhatsApp a outro ligado ao Instagram. Em cada caso, são selecionados os recursos necessários e gerados identificadores e tokens.
+
+A quantidade de passos explica a burocracia que ele havia descrito; os nomes das chaves, sem seus valores, ajudam a visualizar a estrutura.
+
+Para começar a experimentar enquanto solicita a aprovação da conexão oficial, Ruan relata o uso de um número separado em uma integração alternativa. Ele aponta que uma conexão não oficial pode perder o número e prejudicar a continuidade do atendimento. A escolha precisa levar em conta esse risco para a marca e para o cliente.
+
+## Telegram para o próprio agente, WhatsApp para clientes
+
+Outra pergunta compara Telegram e WhatsApp. Para atendimento ou qualificação de leads, Ruan recomenda estar no canal que os clientes já usam. Pedir a um cliente que instale outro aplicativo cria uma etapa extra antes da conversa. No caso discutido, esse canal é o WhatsApp.
+
+Para um assistente pessoal, o critério muda. A pessoa pode aceitar usar Telegram para pedir tarefas ao agente enquanto está longe do computador. Ruan imagina um áudio solicitando que o agente redija um e-mail, mostre o texto para aprovação e só então o envie. Outro pedido poderia acionar uma produção de conteúdo já conectada aos serviços necessários.
+
+Essa disponibilidade exige um computador ligado ou um servidor que permaneça em funcionamento. Além do canal de conversa, o agente precisa de acesso à automação e às ferramentas que vão executar cada ação. Telegram, sozinho, não fornece calendário, e-mail ou publicação.
+
+## API, MCP e CLI
+
+Ruan distingue três maneiras de conectar o agente a ferramentas: API, MCP e CLI. A API permite que o sistema faça uma chamada definida ao serviço, como enviar uma mensagem ou consultar dados. No MCP, o agente recebe ferramentas para operar um serviço. Na CLI, usa comandos no terminal.
+
+Na comparação da aula, ações repetíveis por script e API tendem a evitar chamadas adicionais ao modelo, enquanto o uso direto de ferramentas pelo agente consome tokens conforme o trabalho. A melhor conexão depende das operações disponíveis e da arquitetura escolhida. O ponto constante é que a autorização precisa estar limitada ao que a tarefa exige.
+
+## Separar tipos de risco
+
+Uma participante pergunta como oferecer agentes a negócios com dados sensíveis. Ruan responde que segurança não é uma condição absoluta: diferentes dados, sistemas e acessos criam riscos diferentes. Seu exemplo compara uma pesquisa de mercado vazada a senhas, CPF e cartões de clientes expostos. A gravidade muda e também muda o esforço necessário para proteger cada categoria.
+
+Ele propõe classificar as informações e as ações previstas antes de escolher a arquitetura. Um sistema com login e documentos privados exige controles maiores que uma pesquisa local baseada em fontes públicas. Essa avaliação influencia o custo, o prazo e o tipo de serviço oferecido.
+
+No exemplo de um sistema com banco de dados, Ruan cita configuração correta das permissões, RLS para limitar acesso por linha e cuidado com chaves e variáveis de ambiente. Recomenda gerenciar segredos em serviço apropriado, como o Infisical, em vez de tratá-los como texto comum no projeto.
+
+Também menciona cofre de senhas, autenticação e atenção a telas de login, que são pontos de entrada do sistema.
+
+Para revisão, ele sugere usar Fable para procurar falhas e formular um plano, seguido de implementação e nova verificação com outro modelo, como Opus. A análise automática pode ajudar a encontrar problemas, mas a conclusão depende de conferir as alterações e testar os controles no ambiente real.
+
+## Reduzir a exposição pelo formato da entrega
+
+Ruan acrescenta uma decisão de produto à discussão de segurança. Uma prestadora de serviço pode operar uma ferramenta no próprio ambiente e entregar ao cliente o relatório ou resultado final. Nesse desenho, o cliente não precisa acessar um novo aplicativo com login e banco de dados exposto para cada tarefa.
+
+Ele compara camadas de proteção ao valor do que se guarda. A escolha não é deixar dados sem cuidado, mas evitar uma infraestrutura maior do que a entrega exige. Para projetos com dados restritos, a separação entre o que é processado localmente e o que passa por um provedor remoto continua necessária.
+
+## Coloque em prática
+
+Desenhe uma integração que você pretende oferecer. Liste canais, serviços, permissões e dados acessados. Marque quais informações são públicas, internas ou sensíveis e indique onde ocorre aprovação humana antes de uma ação externa.

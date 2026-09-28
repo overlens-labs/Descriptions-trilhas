@@ -1,5 +1,3 @@
-Cálculo interno: 15 blocos / 53 parágrafos totais / 1.521 palavras estimadas / 1.521 ÷ 200 = 7,6 minutos
-
 # Entendendo a conexão via API
 
 **Tempo estimado de leitura:** 8 minutos

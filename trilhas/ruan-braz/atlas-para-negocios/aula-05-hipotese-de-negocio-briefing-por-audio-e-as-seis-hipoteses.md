@@ -1,5 +1,3 @@
-Cálculo interno: [33 blocos] / [125 parágrafos totais] / [4207 palavras estimadas] / [4207 ÷ 200 = 22 minutos] / teto de 15 min aplicado no tempo exibido
-
 # Hipótese de negócio - briefing por áudio e as seis hipóteses
 
 **Tempo estimado de leitura:** 15 minutos

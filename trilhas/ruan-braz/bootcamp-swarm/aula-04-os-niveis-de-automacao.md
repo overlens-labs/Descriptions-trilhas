@@ -1,5 +1,3 @@
-Cálculo interno: [11 blocos] / [29 parágrafos totais] / [1365 palavras estimadas] / [1365 ÷ 200 = 7 minutos]
-
 # Os níveis de automação
 
 **Tempo estimado de leitura:** 7 minutos
