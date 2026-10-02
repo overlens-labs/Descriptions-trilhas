@@ -1,10 +1,19 @@
 # Bootcamp Swarm: descrições das aulas 1 a 27
 
+
+## Status em 02/10/2026: atualização do material VPS e SSH concluída
+
+- O link do material no Google Drive foi incluído em **Materiais da aula** nas aulas **22, 23, 24 e 25**, nas descrições Markdown e nas versões TXT.
+- As alterações e os registros de materiais foram publicados em `main` no repositório `overlens-labs/Descriptions-trilhas`, no [commit c4709d2](https://github.com/overlens-labs/Descriptions-trilhas/commit/c4709d2ac945e3512a5dac5ce3d6f303eaccf65f).
+- O usuário confirmou o encerramento desta atualização. Não há ação pendente para esta solicitação.
+- O guia da Meta e o ZIP do projeto de pesquisa e copy continuam como pendências separadas, fora desta atualização.
+
+
 As vinte e sete primeiras descrições foram produzidas a partir das transcrições em `Transcrições`, na ordem em que os temas aparecem nas aulas. A versão em Markdown está em `Descrições`; a versão para leitura em texto simples está em `Descrições TXT`.
 
-Para retomar este projeto em outra sessão, leia a [memória de trabalho](<MEMORIA_DO_TRABALHO.md>).
+Para retomar este projeto em outra sessão, leia a [memória de trabalho](materiais/memoria-do-trabalho.md).
 
-O [mapa de materiais em TXT](<MAPA_DE_MATERIAIS_A01_A27.txt>) mostra quais aulas já têm materiais e quais aguardam arquivos.
+O [mapa de materiais em TXT](materiais/mapa-de-materiais-a01-a27.txt) mostra quais aulas já têm materiais e quais aguardam arquivos.
 
 A [descrição curta da trilha](<DESCRICAO_DA_TRILHA.md>) está pronta para uso na plataforma.
 
