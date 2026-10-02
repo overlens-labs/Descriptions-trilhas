@@ -1,13 +1,13 @@
 BOOTCAMP SWARM - MAPA DE MATERIAIS DAS AULAS A01 A A27
-Atualizado em 18/09/2026 com base nos chats dos quatro encontros.
+Atualizado em 02/10/2026 com base nos chats e no link do guia de VPS e SSH fornecido pelo usuário.
 
 MINI GRÁFICO
 
-Com algum material disponível  [##############.............] 14 de 27
-Sem material disponível        [#############..............] 13 de 27
+Com algum material disponível  [#################..........] 17 de 27
+Sem material disponível        [##########.................] 10 de 27
 
-Das 14 com material, A19 e A22 ainda aguardam um guia adicional.
-Das 13 sem material, A20, A21 e A23 a A25 aguardam esses guias.
+Das 17 com material, A19 ainda aguarda o guia da Meta.
+Das 10 sem material, A20 e A21 aguardam o guia da Meta.
 Nas outras 8 aulas sem material, nenhum link ou arquivo próprio foi encontrado nos chats.
 
 SITUAÇÃO AULA A AULA
@@ -33,17 +33,22 @@ A18 | COM MATERIAL | Base de estatísticas de meios de pagamento do Banco Centra
 A19 | PARCIAL | Página do agente de IA no WhatsApp Business disponível; guia da Meta (provável index.html) pendente.
 A20 | AGUARDA GUIA | Guia da Meta (provável index.html) citado na recapitulação; arquivo pendente.
 A21 | AGUARDA GUIA | Configurações da Meta retomadas; guia (provável index.html) pendente.
-A22 | PARCIAL | Quadro do Figma disponível; guia de VPS e SSH (vps-ssh.html) pendente.
-A23 | AGUARDA GUIA | Guia de VPS e SSH pendente; conferir se cobre escolha e preparação da VPS.
-A24 | AGUARDA GUIA | Guia de VPS e SSH pendente para o primeiro acesso remoto.
-A25 | AGUARDA GUIA | Guia de VPS e SSH pendente para a configuração assistida.
+A22 | COM MATERIAL | Quadro do Figma e guia de VPS e SSH no Google Drive.
+A23 | COM MATERIAL | Guia de VPS e SSH no Google Drive.
+A24 | COM MATERIAL | Guia de VPS e SSH no Google Drive.
+A25 | COM MATERIAL | Guia de VPS e SSH no Google Drive.
 A26 | COM MATERIAL | Site do Buzz.
 A27 | COM MATERIAL | Quadro do Figma.
+
+MATERIAL DISPONIBILIZADO EM 02/10/2026
+
+Guia de VPS e SSH: link incluído nas descrições Markdown e TXT das A22 a A25.
+https://drive.google.com/drive/folders/1_I8w6kC4TJqBggzaPRVr91XnLpyDPSh8?usp=sharing
+O conteúdo da pasta e suas permissões não foram verificados.
 
 ARQUIVOS PENDENTES E DESTINO PLANEJADO
 
 1. index.html: provavelmente o guia da Meta mostrado na A19. Destino previsto: A19, A20 e A21. Confirmar o conteúdo quando o arquivo chegar.
-2. vps-ssh.html: guia de VPS e SSH. Destino previsto: A22, A23, A24 e A25. A inclusão na A23 depende de o guia cobrir essa etapa.
-3. Cópia/ZIP do projeto de pesquisa e copy: na A12, Ruan explica a possibilidade de compartilhar por ZIP; na A13, aos 00:01:08, afirma que acabou de enviar o arquivo no chat ao vivo e que também o enviaria no grupo. O ZIP não consta no export TXT do chat do dia 02 nem na pasta Materiais recebida. Não foi identificado como um dos dois guias pedidos à Nanda.
+2. Cópia/ZIP do projeto de pesquisa e copy: na A12, Ruan explica a possibilidade de compartilhar por ZIP; na A13, aos 00:01:08, afirma que acabou de enviar o arquivo no chat ao vivo e que também o enviaria no grupo. O ZIP não consta no export TXT do chat do dia 02 nem na pasta Materiais recebida. Não foi identificado como um dos dois guias pedidos à Nanda.
 
-As descrições das 27 aulas estão prontas. Este mapa registra apenas a disponibilidade dos materiais encontrados nos chats. Os endereços e a origem de cada item disponível aparecem na seção "Materiais da aula" das descrições em Markdown e TXT. O acesso atual aos sites externos não foi testado.
+As descrições das 27 aulas estão prontas. Este mapa registra apenas a disponibilidade dos materiais encontrados nos chats e fornecidos pelo usuário. Os endereços e a origem de cada item disponível aparecem na seção "Materiais da aula" das descrições em Markdown e TXT. O acesso atual aos sites externos não foi testado.

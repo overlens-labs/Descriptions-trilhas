@@ -59,6 +59,7 @@ Ele usa a imagem de carregar as regras do ambiente junto com o projeto. A ideia 
 
 Materiais da aula
 
+- Guia de VPS e SSH - material de apoio no Google Drive (https://drive.google.com/drive/folders/1_I8w6kC4TJqBggzaPRVr91XnLpyDPSh8?usp=sharing).
 - Quadro do Bootcamp Swarm no Figma (https://www.figma.com/board/pWajXLautZ6pMWOUcQ7t3O/Bootcamp%2D%2D%2DSwarm?node-id=613-121&p=f), compartilhado no chat do quarto encontro.
 
 Coloque em prática

@@ -1,5 +1,16 @@
 # Memória de trabalho: Bootcamp Swarm
 
+## Atualização em 02/10/2026
+
+- O usuário forneceu o [link do guia de VPS e SSH no Google Drive](https://drive.google.com/drive/folders/1_I8w6kC4TJqBggzaPRVr91XnLpyDPSh8?usp=sharing). Incluído nas descrições publicadas em `../descricoes/` e nas versões em `txt/` das A22 a A25.
+- Evidências: A22, 12:34 (envio do VPSSH); A24, 06:59 a 08:29 (guia e fase zero, incluindo sistema e tipo de instalação); A25, 09:33 a 09:44 (reenvio do VPS SSH). A23 recebe o guia como apoio às escolhas de sistema e instalação. Não foi encontrada referência específica ao arquivo nas A01 a A21, A26 ou A27.
+- São 17 aulas com materiais e 10 sem material. README e mapa atualizados. Guia da Meta e ZIP do projeto continuam pendentes.
+- A ferramenta de navegação não conseguiu abrir a pasta do Drive; conteúdo e permissões não foram verificados. Foi utilizado o endereço indicado pelo usuário.
+- Os registros abaixo são históricos: a pendência do guia de VPS e SSH foi resolvida com o link acima; os caminhos antigos refletem a estrutura anterior à padronização.
+
+## Registro anterior
+
+
 Atualizado em 18/09/2026. Leia este arquivo e o [índice das aulas](<00 - LEIA-ME.md>) antes de continuar o trabalho nesta trilha.
 
 ## Objetivo do usuário

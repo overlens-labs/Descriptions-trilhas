@@ -58,16 +58,15 @@ A [descrição curta da trilha](<DESCRICAO_DA_TRILHA.md>) está pronta para uso 
 | 03 | A17 | Quadro no Figma, artigo *The Market for Lemons* enviado por Ruan e lista complementar de APIs enviada por participante. |
 | 03 | A18 | Base de dados do Banco Central e documentação do Google Maps, compartilhadas por participantes durante a demonstração. |
 | 03 | A19 | Página do agente de IA no WhatsApp Business, compartilhada por participante como alternativa. O guia da Meta usado por Ruan está pendente. |
-| 04 | A22 | Quadro no Figma compartilhado no chat. O guia de VPS e SSH está pendente. |
+| 04 | A22 a A25 | [Guia de VPS e SSH](https://drive.google.com/drive/folders/1_I8w6kC4TJqBggzaPRVr91XnLpyDPSh8?usp=sharing), disponibilizado pelo usuário em 02/10/2026. A A22 também tem o quadro no Figma. |
 | 04 | A26 | Site do Buzz, citado por Ruan e compartilhado no chat. |
 | 04 | A27 | Quadro no Figma compartilhado no chat. |
 
-As aulas A01, A03 a A06, A09, A10, A16, A20, A21 e A23 a A25 não receberam um link próprio disponível nos quatro arquivos de chat. As A20 e A21 retomam a integração da Meta, e as A23 a A25 usam o guia de VPS e SSH; os arquivos correspondentes estão pendentes.
+As aulas A01, A03 a A06, A09, A10, A16, A20, A21 e A23 a A25 não receberam um link próprio disponível nos quatro arquivos de chat. As A20 e A21 retomam a integração da Meta, cujo guia continua pendente. O guia de VPS e SSH já está vinculado às A22 a A25 pelo link fornecido pelo usuário.
 
 ## Arquivos aguardados
 
 - **Guia da Meta, provavelmente `index.html`:** na A19, Ruan mostra um guia de cadastro e configuração. No chat do terceiro encontro aparece um anexo chamado `index.html` e o caminho `file:///D:/CLAUDE%20CODE/BOOTCAMP/AULA%20APIs/index.html`. O usuário identifica esse arquivo como o provável guia solicitado à Nanda. O export de texto não contém o anexo nem um endereço público. Conferir o conteúdo quando chegar e, se corresponder ao guia, associá-lo às A19 a A21.
-- **Guia de VPS e SSH:** mostrado nas A22 a A25. O chat do quarto encontro cita `vps-ssh.html` e um caminho `file:///D:/CLAUDE%20CODE/BOOTCAMP/vps-ssh.html`, que só vale na máquina de quem o publicou. Associar às A22 a A25 quando o arquivo solicitado a Nanda chegar.
 
 Não foram criados links para esses caminhos locais. Na A13, Ruan afirma que enviou o ZIP do projeto no chat ao vivo e que também o enviaria no grupo. O ZIP não aparece no export TXT nem na pasta `Materiais/` recebida; é preciso obter o arquivo ou um endereço de acesso para ligá-lo às aulas.
 

@@ -49,6 +49,10 @@ Ruan mostra a opção de trocar o sistema ou a aplicação de uma VPS e solicita
 
 Após o pedido, o painel marca o servidor como em preparação. A demonstração só segue quando o status volta a indicar que a máquina está online. Participantes que já haviam escolhido Ubuntu simples são orientados a manter a configuração; a reconstrução não é uma etapa obrigatória para todos.
 
+## Materiais da aula
+
+- [Guia de VPS e SSH - material de apoio no Google Drive](https://drive.google.com/drive/folders/1_I8w6kC4TJqBggzaPRVr91XnLpyDPSh8?usp=sharing).
+
 ## Coloque em prática
 
 Anote o que pretende executar na VPS e compare CPU, RAM e armazenamento necessários. Registre sistema operacional, região e tipo de instalação escolhidos. Se já houver dados no servidor, identifique o backup antes de considerar qualquer reconstrução.

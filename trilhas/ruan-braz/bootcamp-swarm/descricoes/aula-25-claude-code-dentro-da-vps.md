@@ -57,6 +57,10 @@ Na sessão remota do Claude Code, ele mostra o comando `/routines` para criar, l
 
 Para mostrar o resultado em um site, ele menciona servir a interface com Nginx ou usar outra hospedagem, como Vercel, enquanto a rotina continua na VPS. Arquivos, processamento e interface podem morar em lugares diferentes, desde que o fluxo tenha conexões e acessos definidos.
 
+## Materiais da aula
+
+- [Guia de VPS e SSH - material de apoio no Google Drive](https://drive.google.com/drive/folders/1_I8w6kC4TJqBggzaPRVr91XnLpyDPSh8?usp=sharing).
+
 ## Coloque em prática
 
 Revise as dependências de uma automação local e peça ao agente um plano de instalação para a VPS. Confira recursos disponíveis, acessos e mudanças propostas. Depois de preparar o servidor, migre uma rotina pequena e confirme que ela executa no ambiente remoto.

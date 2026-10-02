@@ -47,6 +47,10 @@ Para mostrar um caminho alternativo, Ruan cola dados de acesso e uma senha tempo
 
 Ruan então volta ao terminal, percebe tentativas com senha incorreta e altera a credencial no painel. A sequência ilustra por que a senha de administração merece cuidado: quem a obtém pode acessar o servidor e modificar seu conteúdo. O resultado da demonstração foi a conexão manual, seguida da troca da senha que havia sido exposta.
 
+Materiais da aula
+
+- Guia de VPS e SSH - material de apoio no Google Drive (https://drive.google.com/drive/folders/1_I8w6kC4TJqBggzaPRVr91XnLpyDPSh8?usp=sharing).
+
 Coloque em prática
 
 Localize no painel o usuário, IP e porta da sua VPS. Monte o comando SSH com esses dados e entre pelo terminal. Confirme pela mensagem do sistema que está na máquina remota; depois use exit para voltar ao computador local.
