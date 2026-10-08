@@ -1,3 +1,5 @@
+> **Este repositório foi substituído pelo [overlens-aulas](https://github.com/overlens-labs/overlens-aulas)** (08/10/2026), que junta o Overpass e a Vanguarda. Não atualize mais aqui.
+
 # Descriptions-trilhas
 
 Descrições e transcrições das aulas das trilhas da Overlens (Overpass). O Overchat da plataforma nova usa este repositório para recomendar conteúdo.
